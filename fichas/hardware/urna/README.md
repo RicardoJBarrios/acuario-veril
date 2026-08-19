@@ -18,7 +18,7 @@ Urna artesanal AIO de tipo península, con display visible y compartimento técn
 
 ## Partes
 
-- [Fabricación](fabricacion.md): piezas, medidas de corte, separador, perforaciones, apoyo y fotos
+- [Fabricación](fabricacion.md): piezas, medidas de corte, separador, perforaciones y apoyo
 - [Técnica](tecnica.md): AIO, cámaras, circulación, equipo, niveles y criterios de aceptación
 - [ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md): reposición automática confirmada para la cámara de retorno
 - [Depósito del ATO](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md): barril GRAF agroalimentario de 15 l
@@ -40,9 +40,7 @@ Urna artesanal AIO de tipo península, con display visible y compartimento técn
 
 ## Estado de validación
 
-La geometría general, los espesores del vidrio y la configuración AIO están documentados. La zona técnica tiene tres cámaras: la primera separación comunica las cámaras 1 y 2 mediante una entrada inferior y la segunda comunica las cámaras 2 y 3 mediante un rebosadero superior. También siguen pendientes las cotas reales de las perforaciones, la orientación y protección del Lacobel, la aceptación de la EVA y las pruebas de llenado, circulación y corte eléctrico.
-
-Las fotos del proceso de fabricación están incorporadas en la parte de [Fabricación](fabricacion.md), sin convertir las lecturas visuales en cotas confirmadas.
+La geometría general, las medidas, los espesores del vidrio y la configuración AIO están documentados. La zona técnica tiene tres cámaras: la primera separación comunica las cámaras 1 y 2 mediante una entrada inferior y la segunda comunica las cámaras 2 y 3 mediante un rebosadero superior. Siguen pendientes la orientación y protección del Lacobel, la aceptación de la EVA y las pruebas de llenado, circulación y corte eléctrico.
 
 ## Referencias
 
