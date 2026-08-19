@@ -1,6 +1,6 @@
 # Urna de Veril
 
-Urna artesanal AIO de tipo península, con display visible y compartimento técnico lateral integrado. La documentación identifica a **Elite Reef Kanarias S.L.** como responsable comercial o de la urna y muestra el logotipo de **Cristalería Drago** en las etiquetas del vidrio.
+Urna artesanal AIO de tipo península, con display visible y compartimento técnico lateral integrado. La documentación identifica a **Elite Reef Kanarias S.L.** como responsable comercial o de la urna.
 
 ## Especificación resumida
 

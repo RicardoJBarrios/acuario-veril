@@ -3,7 +3,6 @@
 ## Fabricantes y configuración
 
 - Fabricante o responsable comercial de la urna: **Elite Reef Kanarias S.L.**
-- Cristalería o proveedor del vidrio: **Cristalería Drago**, según el logotipo visible en las etiquetas de la fotografía
 - Tipo: urna marina AIO artesanal con compartimento técnico lateral derecho
 - Disposición: tipo península adaptada a una instalación junto a pared
 - Medida exterior nominal: **750 × 320 × 400 mm**
@@ -53,7 +52,6 @@ La ampliación de la misma fotografía permite recuperar información adicional 
 
 | Lectura visible | Interpretación | Confianza |
 | --- | --- | --- |
-| **CRISTALERÍA DRAGO** | Logotipo o referencia visible de la cristalería en las etiquetas | Media-alta; la lectura procede del logotipo de la fotografía |
 | **ELITE REEF KANARIAS S.L.** | Nombre que también aparece en las etiquetas, probablemente como cliente, pedido o responsable comercial | Alta |
 | **TRANSPARENTE 6 mm** | Vidrio transparente de 6 mm | Alta en la etiqueta superior derecha |
 | **CANTO PULIDO BRILLO** | Acabado de canto pulido brillante | Alta en la etiqueta superior derecha |
@@ -64,7 +62,7 @@ La ampliación de la misma fotografía permite recuperar información adicional 
 
 La etiqueta de **750 × 400 mm** refuerza la identificación de una pieza de frontal o trasera en vidrio transparente de 6 mm. La etiqueta de **736 × 306 mm** refuerza la identificación de la base en 10 mm por su correspondencia con la geometría interior y con la pieza observada, aunque el espesor no se lee con la misma claridad en esa etiqueta. La pieza de **306 × 400 mm** es compatible con un lateral corto, pero su función concreta debe confirmarse por posición y medidas físicas.
 
-La fotografía permite asociar el vidrio etiquetado con **Cristalería Drago**, pero no muestra por sí sola el alcance exacto de su trabajo ni permite determinar si fabricó, cortó, pulió o suministró todas las piezas. **Elite Reef Kanarias S.L.** aparece también en las etiquetas y queda identificada como responsable comercial o de la urna. Estas lecturas proceden de una fotografía, no de un plano de fabricación. La medida, el espesor y la función de cada pieza deben prevalecer cuando exista documentación original.
+Las etiquetas muestran **Elite Reef Kanarias S.L.**, que queda identificada como responsable comercial o de la urna. Estas lecturas proceden de una fotografía, no de un plano de fabricación. La medida, el espesor y la función de cada pieza deben prevalecer cuando exista documentación original.
 
 ## Separador Lacobel
 
