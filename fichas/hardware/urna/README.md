@@ -1,46 +1,48 @@
 # Urna de Veril
 
-Urna artesanal AIO de tipo península, con display visible y compartimento técnico lateral integrado. La documentación identifica a **Elite Reef Kanarias S.L.** como responsable comercial o de la urna.
+Urna marina artesanal de tipo AIO y disposición longitudinal tipo península, fabricada por **Elite Reef Kanarias S.L.** El compartimento técnico ocupa el lateral derecho y el display el resto de la urna.
 
-## Especificación resumida
+## Especificación
 
-- Medida total: **75 × 32 × 40 cm**
-- Display útil: **60 × 32 × 40 cm**
+- Medida exterior: **75 × 32 × 40 cm**
+- Display: **60 × 32 × 40 cm**
 - Compartimento técnico lateral derecho: **15 × 32 × 40 cm**
-- Laterales, frontal y trasera: vidrio ultraclaro de **6 mm**
-- Base: vidrio de **10 mm**
-- Silicona: **negra**
-- Separador técnico: **Lacobel negro**, pendiente de validar frente al agua salada
-- Apoyo: EVA BIBODU continua de **5 mm**, pendiente de aceptación del fabricante
-- Volumen geométrico bruto: **≈96 L**
-- Filtración mecánica: **no habrá**
-- Medio biológico adicional: **sin producto decidido**
+- Laterales, frontal y trasera: Vidrio ultraclaro de **6 mm**
+- Base: Vidrio de **10 mm**
+- Silicona: **Negra**
+- Acabado: Vinilado negro con textura en el AIO, la base y la parte trasera
+- Separador técnico: **Lacobel negro** con dos perforaciones circulares
+- Apoyo: EVA BIBODU continua de **5 mm**
+- Volumen geométrico bruto: **≈96 l**
+- Filtración mecánica: No prevista
 
-## Partes
+## Documentos
 
-- [Fabricación](fabricacion.md): piezas, medidas de corte, separador, perforaciones y apoyo
-- [Técnica](tecnica.md): AIO, cámaras, circulación, equipo, niveles y criterios de aceptación
-- [ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md): reposición automática confirmada para la cámara de retorno
-- [Depósito del ATO](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md): barril GRAF agroalimentario de 15 l
-- [Display](display.md): zona visible, aquascaping, circulación y mantenimiento
-- [Espuma de apoyo](espuma.md): ficha de la EVA BIBODU
+- [Fabricación](fabricacion.md): Piezas, medidas, separador, perforaciones, apoyo y vinilado
+- [Técnica](tecnica.md): Cámaras, recorrido hidráulico, equipo y niveles
+- [Display](display.md): Espacio visible, aquascape, circulación y mantenimiento
+- [Espuma de apoyo](espuma.md): EVA BIBODU bajo la base
+- [ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md): Reposición automática de la cámara de retorno
+- [Depósito del ATO](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md): Barril GRAF agroalimentario de 15 l
 
 ## Distribución
 
 ```text
 ┌────────────────────────────────────────────────────────────┬───────────────┐
 │                                                            │               │
-│                                                            │               │
 │                         DISPLAY                            │ COMPARTIMENTO │
 │                      60 × 32 × 40 cm                       │    TÉCNICO    │
 │                                                            │  15 × 32 × 40 cm│
-│                                                            │               │
 └────────────────────────────────────────────────────────────┴───────────────┘
 ```
 
-## Estado de validación
+La zona técnica se divide en tres cámaras. La primera comunica con la segunda mediante una entrada inferior y la segunda con la tercera mediante un rebosadero superior. La cámara de retorno aloja la bomba, el ATO y los sensores.
 
-La geometría general, las medidas, los espesores del vidrio y la configuración AIO están documentados. La zona técnica tiene tres cámaras: la primera separación comunica las cámaras 1 y 2 mediante una entrada inferior y la segunda comunica las cámaras 2 y 3 mediante un rebosadero superior. Siguen pendientes la orientación y protección del Lacobel, la aceptación de la EVA y las pruebas de llenado, circulación y corte eléctrico.
+## Pendientes
+
+- Confirmar la orientación y protección del Lacobel
+- Confirmar la aceptación de la EVA como apoyo
+- Ajustar los niveles de trabajo y comprobar el comportamiento durante el llenado, la circulación y un corte eléctrico
 
 ## Referencias
 

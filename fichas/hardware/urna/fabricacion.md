@@ -1,79 +1,47 @@
 # Fabricación de la urna
 
-## Fabricantes y configuración
+## Configuración
 
-- Fabricante o responsable comercial de la urna: **Elite Reef Kanarias S.L.**
-- Tipo: urna marina AIO artesanal con compartimento técnico lateral derecho
-- Disposición: tipo península adaptada a una instalación junto a pared
-- Medida exterior nominal: **750 × 320 × 400 mm**
-- Silicona: **negra**
+- Fabricante o responsable comercial: **Elite Reef Kanarias S.L.**
+- Tipo: Urna marina AIO artesanal con compartimento técnico lateral derecho
+- Disposición: Longitudinal tipo península, junto a pared
+- Medida exterior: **750 × 320 × 400 mm**
+- Silicona: **Negra**
 
+## Piezas
 
-## Piezas documentadas
+| Pieza | Medida / material |
+| --- | --- |
+| Base | **736 × 306 mm**, vidrio transparente de **10 mm** |
+| Frontal | **750 × 400 mm**, vidrio transparente de **6 mm** |
+| Trasera | **750 × 400 mm**, vidrio transparente de **6 mm** |
+| Laterales cortos | **306 × 400 mm**, vidrio de **6 mm** |
+| Separador técnico | Lacobel negro con dos perforaciones circulares |
 
-| Pieza | Medida / material | Seguridad |
-| --- | --- | --- |
-| Base | **736 × 306 mm**, vidrio transparente de **10 mm** | Alta |
-| Frontal | **750 × 400 mm**, vidrio transparente de **6 mm** | Alta |
-| Trasera | **750 × 400 mm**, vidrio transparente de **6 mm** | Alta |
-| Laterales cortos | Calculados como **306 × 400 mm**, vidrio de **6 mm** | Alta |
-| Separador técnico | Lacobel negro con dos perforaciones circulares | Alta para la identificación; función pendiente |
-
-Con frontal y trasera exteriores, laterales cortos entre ambas piezas y base encajada dentro del perímetro vertical, las medidas documentadas son coherentes con:
+La base queda encajada dentro del perímetro formado por frontal, trasera y laterales. Las medidas interiores se obtienen considerando una junta de **1 mm** por unión:
 
 ```text
-Largo interior de base: 750 - 6 - 6 - 1 - 1 = 736 mm
-Fondo interior de base: 320 - 6 - 6 - 1 - 1 = 306 mm
-Laterales cortos: 306 × 400 mm en 6 mm
-Base: 736 × 306 mm en 10 mm
-Frontal y trasera: 750 × 400 mm en 6 mm
+Largo interior: 750 - 6 - 6 - 1 - 1 = 736 mm
+Fondo interior: 320 - 6 - 6 - 1 - 1 = 306 mm
 ```
 
-La junta de **1 mm** por unión se adopta como criterio de corte y montaje.
+## Separador y perforaciones
 
-## Separador Lacobel
-
-El panel negro identificado es **Lacobel**. Su uso aporta ocultación visual de la zona técnica, pero la cara lacada y los cantos deben ser compatibles con inmersión permanente en agua salada. Elite Reef Kanarias debe confirmar:
-
-- Orientación de la cara lacada
-- Protección de los cantos
-- Compatibilidad de Lacobel y silicona con agua salada
-- Seguridad para la fauna
-- Si el panel es estructural o añadido
-
-## Perforaciones y entrada de agua
-
-El panel tiene dos perforaciones circulares.
-
-| Perforación | Disposición | Función |
-| --- | --- | --- |
-| Grande | Zona superior o media-alta del panel | Entrada del circuito |
-| Pequeña | Zona inferior del panel | Retorno del circuito |
+El separador Lacobel negro oculta la zona técnica. Incluye dos perforaciones circulares: una superior para la entrada del circuito y otra inferior para el retorno. La orientación de la cara lacada, la protección de los cantos y la compatibilidad del conjunto con agua salada forman parte de la revisión de montaje.
 
 ## Apoyo
 
-La base se apoyará sobre una pieza continua de EVA BIBODU de **75 × 32 cm** y **5 mm**, recortada de un rollo de **150 × 32 cm** y densidad declarada de **80 kg/m³**. La ficha completa está en [Espuma de apoyo](espuma.md).
+La base se apoya sobre una pieza continua de EVA BIBODU de **75 × 32 cm** y **5 mm**, recortada de un rollo de **150 × 32 cm** y densidad declarada de **80 kg/m³**. La ficha del material está en [Espuma de apoyo](espuma.md).
 
-La EVA debe colocarse sin pliegues, cortes, solapes ni bordes levantados, sobre un tablero limpio, rígido, plano y nivelado. No corrige un tablero combado ni una estructura insuficiente. El fabricante de la urna debe aceptar expresamente el material y el espesor.
+## Vinilado
 
-## Acabado pintado mencionado en audio
+El AIO, la base y la parte trasera llevan un vinilado negro con textura.
 
-El último audio de fabricación indica que se pintará la urna. El audio no permite confirmar por sí solo:
+## Pendientes de montaje
 
-- Si se pintará únicamente el compartimento técnico o alguna otra superficie
-- Si el acabado será negro
-- Qué producto se utilizará
-- Qué caras quedarán en contacto permanente con agua salada
-
-La interpretación de que se trata del compartimento técnico y de que el acabado será negro se mantiene como hipótesis de trabajo, no como especificación confirmada. Elite Reef Kanarias debe confirmar la superficie, el color, el producto, el método de aplicación, el sellado y la compatibilidad con agua salada y fauna.
-
-## Pendiente de verificación
-
-- Plano final de corte y montaje
 - Altura de entrada y retorno
-- Pulido de los cantos de los agujeros
+- Pulido de los cantos de las perforaciones
 - Orientación y protección del Lacobel
-- Superficie, color y producto del acabado pintado mencionado en el audio
-- Compatibilidad del acabado pintado con agua salada y fauna
+- Compatibilidad del vinilado con las superficies de aplicación
 - Aceptación de la EVA de 5 mm como apoyo
-- Nivelación final del tablero antes del llenado
+- Nivelación final del tablero
