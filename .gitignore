@@ -1,0 +1,37 @@
+# Archivos del sistema
+.DS_Store
+._*
+
+# Temporales de editores
+*.swp
+*.swo
+*~
+
+# Entornos y secretos locales
+.env
+.env.*
+!.env.example
+
+# Registros y temporales de herramientas
+*.log
+tmp/
+temp/
+
+# Configuración local de editores
+.idea/
+
+# Documentos comerciales, económicos o con datos personales
+**/factura*
+**/facturas/**
+**/invoice*
+**/presupuesto*
+**/pedido*
+**/*datos-personales*
+**/*personal*
+**/*confidencial*
+
+# Vídeos y otros medios audiovisuales no destinados al repositorio
+**/*.mp4
+**/*.mov
+**/*.m4v
+**/*.avi
