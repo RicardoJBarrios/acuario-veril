@@ -5,12 +5,17 @@ Estas reglas adaptan al repositorio `veril-docs` las normas editoriales comparti
 ## Organización y fuentes
 
 - Mantener separadas las fuentes, las decisiones de proyecto, los planes operativos y las fichas reutilizables
-- Mantener las decisiones específicas de Veril en `ciclado/` o en la documentación específica del hardware
+- Mantener las decisiones específicas de Veril sobre ciclado en `ciclado/`, las del hardware en su documentación propia y los criterios transversales de configuración en `fichas/dimensiones/`
 - Mantener la información general y reutilizable en `fichas/`
 - Usar enlaces internos relativos; no enlazar rutas absolutas de otro repositorio
 - Conservar la incertidumbre y los pendientes como tales; no convertir hipótesis, publicidad o experiencia aislada en hechos
+- Documentar las opiniones generalizadas, los debates y las críticas extendidas cuando sean relevantes, etiquetándolos como opiniones, percepción del hobby o práctica común y separándolos de los hechos verificados
 - No duplicar una explicación completa cuando exista una fuente local equivalente; enlazarla
 - Aplicar la regla editorial de que el producto adquirido y su documentación vigente prevalecen sobre una ficha antigua o una fuente secundaria
+
+## Fuentes y referencias externas de interés
+
+- [ReefCalcs](https://reefcalcs.com/): Calculadoras y referencias sobre volumen, sustrato, dosificación, salinidad, iluminación, parámetros y otros aspectos del mantenimiento de acuarios. Puede servir como herramienta de contraste y apoyo práctico; comprobar sus constantes, supuestos y resultados frente a la documentación del fabricante, fuentes primarias y mediciones del sistema antes de convertirlos en decisiones de Veril
 
 ## Redacción
 
@@ -31,6 +36,21 @@ Estas reglas adaptan al repositorio `veril-docs` las normas editoriales comparti
 - Los elementos no terminarán en punto, coma ni punto y coma
 - La regla se aplica a listas con viñetas y listas numeradas
 - Las listas conservarán la puntuación propia de los bloques de código, citas literales, enlaces y denominaciones oficiales cuando sea significativa
+
+## Markdown de GitHub
+
+Se pueden utilizar las extensiones de GitHub Flavored Markdown cuando mejoren la comprensión o la trazabilidad del documento:
+
+- Usar Tablas para comparar métodos, componentes, variantes, parámetros o evidencias
+- Usar Notas al pie para definir términos, añadir precisiones breves o conservar límites de una fuente sin interrumpir la explicación principal
+- Usar Listas de tareas con `- [ ]` y `- [x]` para pendientes y comprobaciones operativas reales
+- Usar Alertas de GitHub (`> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, `> [!WARNING]` y `> [!CAUTION]`) solo cuando la información sea especialmente relevante al leer en diagonal
+- Usar Emojis con moderación y únicamente cuando aporten una señal semántica clara, como el estado de una tarea o el tipo de advertencia
+- Usar Bloques de código con lenguaje declarado, fórmulas, diagramas o expresiones matemáticas cuando faciliten la reproducción o la verificación
+- Usar Mermaid, en la variante adecuada, para representar flujos, secuencias, dependencias, cronologías, estados, arquitecturas o relaciones que resulten más claras de forma gráfica
+- Usar `<details>` para ocultar material secundario extenso sin ocultar decisiones, riesgos, fuentes o pendientes importantes
+- Mantener el documento legible también como texto Markdown sin renderizar y no sustituir una explicación necesaria por un recurso visual
+- No encadenar alertas ni convertir cada pendiente, definición o párrafo en un elemento decorativo
 
 ## Fichas
 
