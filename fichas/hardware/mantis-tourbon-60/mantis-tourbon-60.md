@@ -163,4 +163,4 @@ Por tanto, la aceptación de la unidad de Veril se basará en una prueba propia:
 - [Coral Center: Mantis Tourbon Pump](https://coralcenter.es/producto/equipamiento/bombas/bombas-de-movimiento/mantis-tourbon-pump/)
 - [AQ-Arium: Tourbon Wave Pump Mantis, nueva versión](https://www.aq-arium.com/aqmarine/acuario-marino/tourbon-wave-pump-mantis-nueva-version/)
 - [AquariumWorldEsp: unboxing y prueba de una Tourbon 200](https://www.youtube.com/watch?v=IjscbS5rOH8) — variante distinta, no transferible a la Tourbon 60
-- [Hidrodinámica de Veril](../../../aquascape/hidrodinamica.md)
+- [Hidráulica de Veril](../../../veril/hidraulica.md)

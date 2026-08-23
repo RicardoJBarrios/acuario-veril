@@ -1,4 +1,4 @@
-# Aquascape de Veril: sustrato
+# Veril: sustrato
 
 > La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define la función del sustrato, el espacio negativo y la relación entre playa, canal y estructura. Esta ficha registra la selección y distribución previstas para Veril.
 
@@ -26,7 +26,7 @@ El sustrato deberá:
 - No invadir las zonas técnicas
 - Mantenerse compatible con los organismos que finalmente se decidan
 
-La relación entre granulometría, movimiento del agua y desplazamiento se comprueba en [hidrodinámica](hidrodinamica.md). La explicación general de la función espacial del sustrato pertenece a la [dimensión espacial](../fichas/dimensiones/dimension-espacial.md).
+La relación entre granulometría, movimiento del agua y desplazamiento se comprueba en [hidráulica](hidraulica.md). La explicación general de la función espacial del sustrato pertenece a la [dimensión espacial](../fichas/dimensiones/dimension-espacial.md).
 
 ## Playa y canal
 

@@ -1,6 +1,6 @@
-# Aquascape de Veril: iluminación
+# Veril: iluminación
 
-> La [dimensión de iluminación](../fichas/dimensiones/dimension-iluminacion.md) define el régimen de espectro, intensidad y tiempo. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define la relación entre relieve, superficies, gradientes y sombras. La [dimensión de comunidad](../fichas/dimensiones/dimension-comunidad.md) establece que la iluminación debe ser compatible con los organismos previstos. Esta ficha registra la implementación concreta de Veril.
+> La [dimensión de iluminación](../fichas/dimensiones/dimension-iluminacion.md) define el régimen de espectro, intensidad y tiempo. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define la relación entre relieve, superficies, gradientes y sombras. La [dimensión biológica](../fichas/dimensiones/dimension-biologica.md) establece que la iluminación debe ser compatible con las comunidades y organismos previstos. Esta ficha registra la implementación concreta de Veril.
 
 ## Luminaria y soporte
 
@@ -70,7 +70,7 @@ La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporaci
 
 - La [roca](roca.md) define la altura, la orientación y las superficies que deben recibir luz
 - El [sustrato](sustrato.md) define las superficies inferiores y la playa que forman parte de la composición
-- La [hidrodinámica](hidrodinamica.md) define el movimiento del agua que modifica la distribución efectiva de luz
+- La [hidráulica](hidraulica.md) define el movimiento del agua que modifica la distribución efectiva de luz
 - La [biología](biologia.md) documenta los organismos que ocuparán las zonas iluminadas
 
 ## Fuente de diseño

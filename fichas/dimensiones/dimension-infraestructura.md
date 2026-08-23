@@ -1,23 +1,29 @@
-# Dimensión física
+# Dimensión de infraestructura
 
 ## Qué es
 
-Esta dimensión física se centra en un acuario AIO (*All-in-One*), que es una urna en la que el espacio visible de exhibición y el compartimento técnico forman una única unidad física. El agua sale del display hacia una o varias cámaras integradas, atraviesa los equipos o medios previstos y retorna al display sin depender de un sump inferior externo.
+Esta dimensión de infraestructura se centra en un acuario AIO (*All-in-One*), que es una urna en la que el espacio visible de exhibición y el compartimento técnico forman una única unidad física. El agua sale del display hacia una o varias cámaras integradas, atraviesa los equipos o medios previstos y retorna al display sin depender de un sump inferior externo.
 
-Esta dimensión física se concreta en un acuario AIO de pequeño volumen con el compartimento técnico integrado en uno de los laterales de la urna. El concepto AIO se utiliza como marco general, pero el objeto principal de esta ficha es la organización física, las ventajas y las limitaciones de la disposición lateral.
+Esta dimensión de infraestructura se concreta en un acuario AIO de pequeño volumen con el compartimento técnico integrado en uno de los laterales de la urna. El concepto AIO se utiliza como marco general, pero el objeto principal de esta ficha es la organización física, las ventajas y las limitaciones de la disposición lateral.
 
-La dimensión física define cómo se relacionan el espacio visible, la zona técnica, los límites de agua, los accesos y las superficies de soporte. No define por sí sola el método de procesamiento, la configuración de comunidad, el aquascape, el flujo exacto ni los equipos que deben instalarse.
+La dimensión de infraestructura define cómo se relacionan el espacio visible, la zona técnica, los límites de agua, los accesos y las superficies de soporte. No define por sí sola el procesamiento, la configuración biológica, la organización espacial del aquascape, el régimen de iluminación, el campo hidráulico ni los equipos concretos que deben instalarse.
+
+Los criterios generales de movimiento, renovación y transporte del agua pertenecen a la [dimensión hidráulica](dimension-hidraulica.md). Esta dimensión de infraestructura conserva únicamente sus consecuencias sobre niveles, retorno, parada, seguridad y acceso.
 
 La tesis de esta dimensión es:
 
 > En un AIO de pequeño volumen, el compartimento técnico forma parte del diseño de la urna y debe evaluarse como espacio funcional, de mantenimiento y de seguridad, no como un volumen separado del acuario.
 
+Para Veril se adopta como referencia un AIO lateral de pequeño volumen porque las condiciones físicas del sistema integran display y zona técnica en una única urna y hacen especialmente relevante la proporción entre volumen visible, espacio técnico, acceso y reserva de seguridad. Esta línea se aplicará mediante las comprobaciones de volumen funcional, niveles, paradas, accesibilidad e integridad física descritas en esta ficha y en la documentación concreta de la urna.
+
+Dentro del modelo integrado, esta dimensión establece la envolvente, el volumen funcional, los niveles, el acceso y la zona técnica sobre los que trabajan las demás dimensiones. No decide qué organismos mantener ni cómo se comportan la luz, el agua, la química o el procesamiento.
+
 ## Principio de funcionamiento
 
 La dimensión divide físicamente el sistema en dos zonas relacionadas:
 
-1. El display, destinado a los animales, el sustrato, las superficies visibles y la estructura principal
-2. El compartimento técnico, destinado a la entrada, el procesamiento, la retirada, el mantenimiento, el retorno y los sensores
+1. El display, destinado al espacio visible y a los elementos que se alojen en él
+2. El compartimento técnico, destinado a equipos, sensores, conexiones y operaciones de mantenimiento
 
 El separador entre ambas zonas debe permitir conducir el agua y mantener aisladas las áreas de trabajo sin convertir la cámara técnica en un espacio inaccesible o imposible de limpiar.
 
@@ -43,14 +49,14 @@ El diagrama representa la relación espacial de las zonas, no un diseño hidráu
 
 ### Display
 
-El display es la zona visible destinada a alojar la comunidad, el sustrato y la estructura del acuario. Su volumen útil no debe confundirse con el volumen exterior de toda la urna: el compartimento técnico, el sustrato, la roca y el margen libre reducen el espacio disponible para los animales y el agua.
+El display es la zona visible destinada a alojar los elementos previstos por las dimensiones biológica y espacial. Su volumen útil no debe confundirse con el volumen exterior de toda la urna: el compartimento técnico, el sustrato, la estructura y el margen libre reducen el espacio disponible para los organismos y el agua.
 
 El display debe proporcionar:
 
-- Espacio funcional para los animales previstos
-- Superficie suficiente para disponer el aquascape sin bloquear el acceso
-- Altura y profundidad compatibles con la iluminación y el mantenimiento
-- Una superficie libre que permita observar el comportamiento y la acumulación de residuos
+- Volumen funcional para el uso previsto
+- Superficie suficiente para aplicar la organización espacial definida en su dimensión correspondiente
+- Altura y profundidad compatibles con las dimensiones de iluminación, biología, espacial y acceso
+- Superficie libre suficiente para observar e intervenir en el sistema
 - Margen superior para el movimiento del agua y la prevención de salpicaduras
 
 ### Compartimento técnico lateral
@@ -64,24 +70,26 @@ Puede incluir, según el diseño:
 - Bomba de retorno
 - Calentador
 - Sensores
-- Medios mecánicos, químicos o biológicos
+- Espacio para los medios definidos en la [dimensión de procesamiento](dimension-procesamiento.md)
 - Dispositivos de reposición
 - Cables de alimentación y conducciones con rutas de salida protegidas
 
-La cámara técnica no debe considerarse espacio sobrante. Cada equipo o medio que se introduzca reduce el volumen libre, modifica el acceso y puede alterar el nivel de agua o la facilidad de limpieza.
+La cámara técnica no debe considerarse espacio sobrante. Cada equipo o medio que se introduzca reduce el volumen libre, modifica el acceso y puede alterar los niveles o la facilidad de limpieza. La función de procesamiento de esos elementos se documenta en la [dimensión de procesamiento](dimension-procesamiento.md).
 
 ### Separador integrado
 
 El separador define la frontera física entre el display y la zona técnica. Debe permanecer estable y estanco donde corresponda, conservar su geometría y permitir únicamente los pasos de agua previstos. También debe evitar que los animales, el sustrato o los fragmentos del aquascape ocupen las cámaras de forma no controlada.
 
-Sus perforaciones, rejillas, ranuras o pasos deben evaluarse por:
+Sus perforaciones, rejillas, ranuras o pasos deben evaluarse físicamente por:
 
 - Área efectiva de entrada y salida
 - Facilidad de limpieza
 - Riesgo de obstrucción
 - Riesgo de atrapamiento de animales
 - Accesibilidad para inspección
-- Comportamiento durante una parada o una variación del nivel
+- Integridad y seguridad durante una parada o una variación del nivel
+
+El efecto de esos pasos sobre el campo de flujo y la renovación del agua se documenta en la [dimensión hidráulica](dimension-hidraulica.md).
 
 ### Cámaras técnicas
 
@@ -93,11 +101,11 @@ Cada tabique debe justificar si separa funciones, fija un nivel, dirige el recor
 
 ### Retorno integrado
 
-El retorno devuelve el agua desde la zona técnica al display mediante una bomba o un mecanismo equivalente. Su salida debe poder mantenerse, limpiarse y protegerse frente a obstrucciones o aspiración de aire.
+El retorno devuelve el agua desde la zona técnica al display mediante una bomba o un mecanismo equivalente. Su salida debe poder mantenerse, limpiarse y protegerse frente a obstrucciones o aspiración de aire. El rendimiento hidráulico del retorno pertenece a la [dimensión hidráulica](dimension-hidraulica.md).
 
 La dimensión debe prever el volumen que puede retornar por gravedad o retrosifonado cuando la bomba se detiene y garantizar que ese volumen pueda ser recibido sin desbordamiento.
 
-En muchas configuraciones AIO, especialmente cuando el retorno ocupa la última cámara del recorrido hidráulico, las cámaras aguas arriba mantienen un nivel aproximadamente constante mientras la evaporación se manifiesta principalmente como descenso del nivel en la cámara de retorno. Esto condiciona el volumen operativo, el sistema de reposición automática (*Automatic Top-Off*, ATO), la aspiración de aire por la bomba y la estabilidad de los equipos dependientes del nivel.
+En muchas configuraciones AIO, especialmente cuando el retorno ocupa la última cámara del recorrido, la arquitectura debe prever qué nivel puede variar y qué equipos dependen de él. La relación entre evaporación, retorno y renovación se documenta en la [dimensión hidráulica](dimension-hidraulica.md); aquí se conservan las consecuencias sobre volumen operativo, acceso y seguridad.
 
 ### Base, soporte y margen de seguridad
 
@@ -136,19 +144,19 @@ La arquitectura AIO admite distintos elementos, pero su presencia no define una 
 
 ### Medios de filtración
 
-Puede incorporar medios mecánicos, químicos o biológicos si existe espacio, acceso y una función documentada. Un medio no debe colocarse únicamente para ocupar la cámara técnica ni impedir la inspección de otros componentes.
+Puede reservar espacio para medios mecánicos, químicos o biológicos si existe acceso y una función documentada. La función y la evaluación de esos medios pertenecen a la [dimensión de procesamiento](dimension-procesamiento.md); aquí solo se comprueban su volumen, acceso y compatibilidad física con la cámara.
 
 ### Reposición automática
 
-Puede utilizarse para compensar la evaporación en una cámara de retorno. Su depósito, sensor y sistema de seguridad deben situarse de forma que un fallo no pueda añadir un volumen peligroso de agua, provocar un desbordamiento o reducir excesivamente la salinidad.
+Puede utilizarse para compensar la evaporación en una cámara de retorno. Su depósito, sensor y sistema de seguridad deben situarse de forma que un fallo no pueda añadir un volumen peligroso de agua ni provocar un desbordamiento. La respuesta de la salinidad se documenta en la [dimensión química](dimension-quimica.md).
 
 ### Sensores y control
 
-Los sensores pueden medir temperatura, nivel, calidad del agua u otras variables. Deben colocarse en zonas representativas y mantenerse accesibles, sin confundir la capacidad de medir con la capacidad de corregir una desviación.
+Los sensores pueden medir temperatura, nivel, calidad del agua u otras variables. Deben colocarse en zonas representativas y mantenerse accesibles, sin confundir la capacidad de medir con la capacidad de corregir una desviación. Las variables y su interpretación pertenecen a las dimensiones correspondientes.
 
 ### Iluminación externa o suspendida
 
-Puede colocarse sobre el display sin formar parte del compartimento técnico. La estructura debe soportar su instalación, evitar sombras innecesarias y permitir retirarla para acceder a la urna.
+Puede colocarse sobre el display sin formar parte del compartimento técnico. La infraestructura debe soportar su instalación y permitir retirarla para acceder a la urna; su régimen y sus sombras se documentan en las [dimensiones de iluminación](dimension-iluminacion.md) y [espacial](dimension-espacial.md).
 
 ### Equipos externos
 
@@ -179,7 +187,7 @@ Conserva el compartimento técnico integrado, pero añade equipos o depósitos f
 - Puede simplificar la instalación en espacios pequeños
 - Oculta parte del equipamiento desde la vista principal
 - Permite concentrar entradas, retornos y sensores en una zona accesible
-- Reduce el número de pasos hidráulicos entre recipientes independientes y elimina la bajada y subida entre display y sump externo
+- Reduce el número de recipientes y conexiones estructurales independientes
 
 ### Debilidades conocidas
 
@@ -213,7 +221,7 @@ Estas críticas dependen de la geometría, la fabricación, el acceso y la insta
 | «El AIO es más sencillo» | La reducción de conducciones y depósitos externos | Puede simplificar la instalación, pero no elimina los problemas de acceso, nivel, limpieza o seguridad |
 | «Un AIO pequeño admite cualquier equipo compacto» | La confianza en reducir dimensiones sin revisar funciones | El equipo debe caber, poder retirarse, trabajar con el nivel disponible y no bloquear otros elementos |
 
-## Perspectivas propias de la dimensión física AIO
+## Perspectivas propias de la dimensión de infraestructura AIO
 
 Los siguientes puntos son una lectura funcional de esta dimensión elaborada para esta documentación, no una síntesis directa de fuentes externas ni una lista de resultados experimentales.
 
@@ -240,17 +248,17 @@ La capacidad de un AIO no debe estimarse solo con las dimensiones exteriores. De
 - Volumen desplazado
 - Reserva hidráulica para parada
 
-## Ventajas y compromisos frente a otras dimensiones físicas
+## Ventajas y compromisos frente a otras dimensiones
 
-La comparación se limita a la organización física del sistema y no evalúa métodos de procesamiento o configuraciones de comunidad.
+La comparación se limita a la organización de la infraestructura del sistema y no evalúa métodos de procesamiento o configuraciones de comunidad.
 
-| Dimensión física de referencia | Ventaja relativa del AIO lateral | Compromiso del AIO lateral |
+| Dimensión de infraestructura de referencia | Ventaja relativa del AIO lateral | Compromiso del AIO lateral |
 | --- | --- | --- |
 | Urna con sump inferior externo | Instalación más contenida y menor dependencia de un mueble técnico separado | Menos espacio técnico y menor capacidad de ampliación |
 | AIO posterior | Puede ofrecer acceso lateral y conservar una mayor profundidad frontal | Reduce la longitud visible y concentra la zona técnica en un extremo |
 | Urna sin compartimento técnico integrado | Permite ocultar y organizar parte del equipamiento sin recurrir necesariamente a un recipiente externo | Consume parte del volumen interno y de la longitud útil del display |
 
-La elección depende del espacio disponible, el acceso, el volumen funcional y la necesidad de ampliación. Ninguna arquitectura física es superior en todos los casos.
+La elección depende del espacio disponible, el acceso, el volumen funcional y la necesidad de ampliación. Ninguna disposición física es superior en todos los casos.
 
 ## Aplicación en un sistema de aproximadamente 75 litros
 
@@ -262,7 +270,7 @@ Los 75 litros se utilizan aquí como referencia de escala, no como un umbral uni
 - Reservar una cámara técnica capaz de alojar y retirar los equipos necesarios
 - Evitar que la instalación bloquee entradas, retornos o sensores
 - Mantener un margen seguro para el agua que se desplace durante una parada
-- Mantener una autonomía hidráulica de la cámara de retorno entre el nivel operativo máximo y el nivel mínimo seguro de la bomba
+- Mantener un margen de nivel operativo que permita la función segura de los equipos, conforme a la [dimensión hidráulica](dimension-hidraulica.md)
 - Separar los equipos que generan calor, ruido o vibración cuando sea posible
 - Dejar acceso para limpiar las cámaras sin desmontar el aquascape
 - Considerar el volumen de agua real y no solo el volumen exterior
@@ -271,21 +279,20 @@ Los 75 litros se utilizan aquí como referencia de escala, no como un umbral uni
 
 En esta escala, una cámara técnica sobredimensionada reduce rápidamente el display, mientras que una cámara demasiado pequeña puede impedir el mantenimiento o la ampliación. La proporción no debe fijarse por una cifra universal: depende del equipo, del nivel operativo, del acceso y del uso previsto.
 
-El bajo volumen también reduce el margen ante evaporación, retorno detenido, obstrucciones, calentamiento y errores de mantenimiento. Por eso, la seguridad y la accesibilidad deben formar parte de la arquitectura inicial.
+El bajo volumen también reduce el margen ante evaporación, parada, obstrucciones, calentamiento y errores de mantenimiento. La [dimensión hidráulica](dimension-hidraulica.md) documenta el comportamiento del agua; esta dimensión conserva sus consecuencias sobre la seguridad física, el acceso y la capacidad de intervención.
 
 ### Evaluación operativa
 
 Antes de aceptar el montaje deben comprobarse:
 
-- Recorrido del agua sin desbordamientos
-- Nivel estable en las cámaras de trabajo
-- Autonomía hidráulica de la cámara de retorno durante la evaporación prevista
-- Volumen suficiente para recibir el agua que vuelve durante una parada
+- Recorrido físico compatible con los niveles previstos y sin desbordamientos
+- Acceso a las cámaras de trabajo y a los elementos que fijan sus niveles
+- Volumen suficiente para recibir el agua que vuelva durante una parada
 - Prueba de arranque desde parada: comprobar que, después de una parada y del asentamiento de niveles, la bomba puede reiniciarse sin quedarse seca, generar una bolsa de aire persistente o alterar los niveles de las demás cámaras
 - Extracción de cada equipo sin desmontar la urna
 - Acceso a entradas, salidas, sensores y cables
 - Ausencia de zonas permanentes de acumulación inaccesible
-- Funcionamiento sin microburbujas, vibraciones o ruido excesivos
+- Funcionamiento sin vibraciones o ruido excesivos atribuibles a la instalación física
 
 ## Qué no es esta dimensión
 
@@ -315,18 +322,17 @@ Un AIO:
 
 ## Función durante el montaje, el ciclado y las transiciones
 
-La dimensión física debe estar resuelta antes de llenar y poblar el sistema. El montaje debe permitir comprobar niveles, recorridos, paradas y mantenimiento sin depender de que los animales ya estén presentes.
+La dimensión de infraestructura debe estar resuelta antes de llenar y poblar el sistema. El montaje debe permitir comprobar niveles, recorridos, paradas y mantenimiento sin depender de que los animales ya estén presentes.
 
 Durante el ciclado y la maduración deben comprobarse:
 
 - Evolución de los niveles en cada cámara
-- Funcionamiento de entradas y retornos
+- Integridad y accesibilidad de entradas y retornos
 - Acceso a los equipos y superficies
-- Acumulación de detritos en zonas técnicas
 - Respuesta ante una parada eléctrica
 - Efecto de la evaporación sobre la cámara de retorno
 
-Una transición de equipos o medios puede cambiar el espacio libre, el nivel operativo, el calor, el ruido o la ruta del agua. Debe evaluarse como una modificación de la arquitectura física y no como una simple sustitución de hardware.
+Una transición de equipos o medios puede cambiar el espacio libre, el nivel operativo, el calor, el ruido o la ruta del agua. Debe evaluarse como una modificación de la organización física y no como una simple sustitución de hardware.
 
 ## Cómo evaluar la dimensión en funcionamiento
 
@@ -345,7 +351,7 @@ Una transición de equipos o medios puede cambiar el espacio libre, el nivel ope
 - Equipos extraíbles sin desmontar la urna
 - Cables y conducciones ordenados y protegidos
 
-### Seguridad hidráulica
+### Seguridad de niveles y paradas
 
 - Entrada y retorno sin obstrucciones
 - Capacidad para recibir el volumen de retrosifonado durante una parada
@@ -361,7 +367,7 @@ Una transición de equipos o medios puede cambiar el espacio libre, el nivel ope
 
 ## Indicadores que pueden inducir a error
 
-No demuestran por sí solos que la dimensión física AIO esté bien resuelta:
+No demuestran por sí solos que la dimensión de infraestructura AIO esté bien resuelta:
 
 - Que todos los equipos quepan físicamente
 - Que el agua circule durante unos minutos
@@ -378,9 +384,10 @@ La aceptación debe basarse en pruebas de funcionamiento, mantenimiento, parada 
 
 | Aspecto | Función o criterio |
 | --- | --- |
-| Tipo de dimensión | AIO de pequeño volumen con compartimento técnico lateral integrado |
+| Tipo de dimensión | Arquitectura física e infraestructura del sistema |
+| Variante adoptada | AIO lateral de pequeño volumen |
 | Unidad física | Display y zona técnica como una sola urna |
-| Display | Espacio visible para comunidad, sustrato y estructura |
+| Display | Espacio visible para los elementos previstos por las dimensiones biológica y espacial |
 | Zona técnica | Entrada, cámaras, equipos, sensores y retorno |
 | Frontera crítica | Separador, pasos de agua y retorno |
 | Criterio principal | Volumen funcional, acceso y seguridad demostrados |
@@ -407,11 +414,7 @@ Las variantes posterior y en esquina sirven como referencias de comparación, pe
 
 ## Fuentes y límites de la evidencia
 
-- [Wade Lehmann, «Coral Reef Aquarium Husbandry and Health»](https://doi.org/10.1002/9781119569831.ch6): Referencia sobre mantenimiento de sistemas cerrados de arrecife, estabilidad, flujo, alimentación y filtración. No define la arquitectura AIO ni sus proporciones
-- [«Fish Welfare in Public Aquariums and Zoological Collections»](https://doi.org/10.3390/ani13162548): Revisión sobre espacio, refugios, acceso, dieta y evaluación del bienestar en instalaciones acuáticas. Su contexto no permite deducir dimensiones universales para una urna AIO doméstica
-- [«The Iconic Philippine Coral Reef at Steinhart Aquarium»](https://doi.org/10.3390/jzbg4040052): Documentación técnica de un sistema multiespecífico que destaca compatibilidad, registro de parámetros, comportamiento y evaluación del conjunto. La escala pública es distinta de la arquitectura doméstica aquí descrita
 - [Red Sea, «MAX S Aquarium Flow Dynamics Overview»](https://g1.redseafish.com/wp-content/uploads/2015/11/2761-MAX-S-written-Manual_EN_DE_FR_v2019a-for-web.pdf): Manual de fabricante que documenta la relación entre display, cámara trasera, rebosadero, retorno, evaporación, reposición automática y nivel de la cámara de bomba. Describe un modelo concreto y no establece una regla universal para todos los AIO
-- [Red Sea, «MAX C-Series Manual»](https://g1.redseafish.com/wp-content/uploads/2014/07/4191-MAX-C-Series-Manual_ENG.JP_.CH-v14A.pdf): Manual de fabricante que relaciona el rendimiento de la filtración con el nivel del sump trasero, la evaporación y la inmersión de las bombas. Sus cotas y equipos pertenecen a esa gama concreta
 - [Fluval, «Fluval Sea Evo 52 L Manual»](https://fluvalaquatics.com/manuals/fluval-10531-evo-aquarium13.5g-manual-eng-na.pdf): Manual de fabricante que muestra la función del compartimento de filtración trasero y advierte de no bloquear la entrada hacia él. No define criterios generales de dimensionado AIO
 - [Waterbox Aquariums, «AIO Manuals»](https://help.waterboxaquariums.com/en-US/aio-manuals-311986): Índice de manuales de instalación y funcionamiento de modelos AIO. Sirve como referencia de documentación específica de fabricante, no como norma común para la arquitectura
 

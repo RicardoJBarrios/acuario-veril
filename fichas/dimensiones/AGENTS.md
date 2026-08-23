@@ -1,6 +1,6 @@
 # Criterios de edición de dimensiones arquitectónicas y configuración
 
-Este directorio documenta las dimensiones arquitectónicas de referencia adoptadas para Veril. No se limita al procesamiento: también recoge la comunidad, la organización física y la organización espacial que el sistema debe integrar.
+Este directorio documenta las dimensiones arquitectónicas de referencia adoptadas para Veril. El marco común está definido en [modelo.md](modelo.md), que explica qué es una dimensión, cómo se relacionan y cómo se evalúan. No se limita al procesamiento: también recoge la comunidad, la organización física y la organización espacial que el sistema debe integrar.
 
 ## Alcance
 
@@ -8,7 +8,16 @@ Este directorio documenta las dimensiones arquitectónicas de referencia adoptad
 - Documentar decisiones estructurales de Veril que afectan a varias áreas del sistema
 - Explicar solo las consecuencias prácticas que la dimensión tratada tenga sobre animales, luz, flujo, alimentación, nutrientes, química o mantenimiento
 - Mantener separadas las decisiones de Veril de las descripciones generales reutilizables
-- Enlazar las fichas de hardware, parámetros, biología, aquascape y los planes de ciclado cuando sean la fuente propietaria del detalle
+- Enlazar las fichas de hardware, parámetros, biología, implementación de Veril y los planes de ciclado cuando sean la fuente propietaria del detalle
+
+## Marco del modelo
+
+- Tratar las siete dimensiones como perspectivas funcionales de una única configuración, no como métodos alternativos ni como sistemas independientes
+- Mantener explícita la variante de referencia adoptada para Veril en cada dimensión; estas fichas no son completamente genéricas
+- Documentar en cada dimensión qué debe tenerse en cuenta, por qué importa, cómo se aplicará y cómo se comprobará
+- Considerar la operación como una capa transversal de medición, mantenimiento, pruebas y respuesta, no como una octava dimensión
+- Resolver las relaciones entre dimensiones mediante enlaces y consecuencias limitadas al objeto de la ficha responsable
+- Utilizar [compendio-temporal.md](compendio-temporal.md) solo como documento auxiliar de revisión; los siete documentos individuales siguen siendo la fuente estructural
 
 ## Alcance por documento
 
@@ -21,13 +30,11 @@ Cada documento de una dimensión debe ceñirse a la dimensión que trata, a su o
 - Enlazar el documento propietario cuando un tema general sea necesario para completar la lectura
 - Tratar las opiniones generalizadas únicamente como recepción, debate o percepción de esa dimensión
 
-## Estructura documental de referencia
+### Bloques de contenido recomendados
 
-La ficha de [Dimensión de procesamiento](dimension-procesamiento.md) establece la estructura de referencia para las demás dimensiones. Dentro de ella, la dimensión se basa en el método Berlín. Debe reutilizarse como orden conceptual, no como una plantilla que obligue a inventar contenido cuando una sección no sea aplicable.
+La estructura no es un índice rígido. Cada ficha debe incluir únicamente los bloques pertinentes y puede agruparlos o renombrarlos cuando el objeto lo requiera, manteniendo la responsabilidad de la dimensión y la evaluación como hilo conductor:
 
-### Secuencia recomendada
-
-1. **Qué es**: Definición breve de la arquitectura, núcleo funcional, contexto de uso y tesis que la distingue de una lista de componentes
+1. **Qué es**: Definición breve de la dimensión, núcleo funcional, variante adoptada y tesis que la distingue de una lista de componentes
 2. **Principio de funcionamiento**: Flujos de materia, energía o información que la arquitectura organiza, con un diagrama Mermaid cuando mejore la comprensión
 3. **Componentes fundamentales**: Elementos que forman el núcleo, descritos por la función que cumplen y por sus condiciones de funcionamiento
 4. **Exportación y mantenimiento**: Procesos mediante los que la arquitectura retira, transforma o controla aquello que procesa, incluyendo los puntos de acumulación y las tareas necesarias
@@ -44,7 +51,7 @@ La ficha de [Dimensión de procesamiento](dimension-procesamiento.md) establece 
 15. **Cómo evaluar la dimensión en funcionamiento**: Criterios observables para comprobar procesamiento, circulación, exportación, estabilidad y capacidad
 16. **Indicadores que pueden inducir a error**: Señales insuficientes o ambiguas que no deben utilizarse como demostración aislada
 17. **Resumen funcional**: Tabla breve con principio, soporte, procesos, exportación, complementos, límites y unidad de evaluación
-18. **Apéndice histórico**: Origen, nombres, documentos, evolución y estado actual, colocado al final para no interrumpir la lectura operativa
+18. **Contexto histórico, cuando sea necesario**: Referencia breve al origen o evolución de la dimensión, enlazando la ficha correspondiente de `fichas/historia/` en lugar de incorporar un apéndice histórico completo
 19. **Fuentes y límites de la evidencia**: Fuentes clasificadas por peso y función, incertidumbres historiográficas y afirmaciones que no pueden darse por demostradas
 
 ### Reglas de aplicación de la estructura
@@ -56,8 +63,9 @@ La ficha de [Dimensión de procesamiento](dimension-procesamiento.md) establece 
 - Reducir las opiniones extendidas a las formulaciones más representativas y no duplicar críticas ya desarrolladas
 - Marcar las síntesis propias y distinguirlas de hechos documentados, testimonios históricos y opiniones generalizadas
 - Comparar únicamente funciones equivalentes; no mezclar una dimensión con un objetivo de población o con una categoría de uso
-- Trasladar la aplicación concreta de Veril a sus documentos propietarios, salvo que una consecuencia de la arquitectura deba quedar definida aquí
+- Trasladar el detalle de la aplicación concreta de Veril a sus documentos propietarios, salvo que una consecuencia de la dimensión deba quedar definida aquí
 - Omitir una sección cuando no sea pertinente, pero no omitir límites, evaluación o fuentes por razones de brevedad
+- Evitar que la plantilla produzca repeticiones: si una explicación pertenece a otra dimensión, enlazarla y conservar solo la consecuencia necesaria
 
 ## Configuración vigente
 
@@ -67,7 +75,7 @@ Al documentar esta configuración, explicar sus consecuencias observables y oper
 
 - Compatibilidad entre los animales previstos y el espacio disponible
 - Iluminación suficiente y distribuida para los corales compatibles con el sistema
-- Circulación que mantenga oxigenación y movimiento sin desplazar la arena ni dañar tejidos
+- Circulación que mantenga oxigenación y movimiento sin desplazar el sustrato ni dañar tejidos
 - Alimentación y carga orgánica compatibles con peces, corales y capacidad de exportación
 - Control conjunto de nutrientes, alcalinidad, calcio, magnesio, salinidad y temperatura
 - Introducción gradual de animales y observación de la respuesta del sistema
@@ -88,15 +96,18 @@ No convertir «mixto» en una lista de especies, una promesa de compatibilidad u
 ## Documentos propietarios
 
 - Los métodos generales pertenecen a sus fichas correspondientes
-- La configuración mixta y sus implicaciones generales pertenecen a `dimension-comunidad.md`
+- La dimensión biológica, la configuración mixta y sus implicaciones generales pertenecen a `dimension-biologica.md`
 - La elección concreta de animales pertenece a las fichas de biología y a la documentación específica de Veril
-- La roca, el sustrato, el flujo y la iluminación pertenecen a `aquascape/`
+- La roca, el sustrato, el flujo y la iluminación concretos pertenecen a `veril/`
 - El ciclado, la maduración y sus procedimientos pertenecen a `ciclado/`
 - Las especificaciones y comprobaciones de equipos pertenecen a `fichas/hardware/`
+- El origen y la evolución histórica de métodos y conceptos pertenecen a `fichas/historia/`
 
 ## Comprobación antes de terminar
 
 - Confirmar que el documento distingue dimensión de referencia y aplicación a Veril
+- Confirmar que la ficha respeta la responsabilidad definida en [modelo.md](modelo.md) y no se comporta como una octava dimensión
 - Revisar que las consecuencias del diseño mixto no contradigan las fichas propietarias
+- Comprobar que la aplicación concreta queda enlazada en `veril/` y que el compendio temporal no se trata como fuente estructural
 - Comprobar los enlaces internos y mantenerlos relativos
 - Ejecutar `git diff --check`

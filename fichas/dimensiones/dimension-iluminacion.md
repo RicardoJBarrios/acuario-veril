@@ -2,7 +2,7 @@
 
 ## Qué es
 
-La dimensión de iluminación describe cómo la luz organiza las condiciones visuales, fisiológicas y temporales de un acuario marino de arrecife. Incluye la composición espectral, la intensidad, la distribución espacial, el fotoperiodo, las transiciones, los cambios programados y la posible influencia de la luz lunar.
+La dimensión de iluminación describe el régimen lumínico de un acuario marino de arrecife: su composición espectral, la exposición fotónica, la distribución espacial, el fotoperiodo, las transiciones, los cambios programados y la posible influencia de la luz lunar.
 
 Esta ficha parte de una luminaria LED de amplio espectro capaz de combinar diferentes componentes espectrales y regular su intensidad. No define una marca, una potencia, una programación concreta ni una medición específica de un sistema.
 
@@ -10,7 +10,11 @@ La iluminación no debe evaluarse como una cifra única. Una misma intensidad pu
 
 La tesis de esta dimensión es:
 
-> La iluminación debe evaluarse como un régimen de espectro, intensidad y tiempo, ajustado a organismos concretos y aplicado mediante cambios compatibles con su aclimatación.
+> La iluminación debe evaluarse como un régimen de espectro, exposición y tiempo, aplicado mediante cambios compatibles con la aclimatación de los organismos previstos.
+
+Para Veril se adopta como referencia una luminaria LED de amplio espectro, con zonificación mediante PPFD y un régimen temporal documentado. Esta línea permite relacionar las zonas reales del display con las necesidades lumínicas de los organismos sin reducir la iluminación a los porcentajes de los canales o a una cifra aislada; su aplicación concreta se registra en [iluminación](../../veril/iluminacion.md).
+
+Dentro del modelo integrado, esta dimensión describe la exposición lumínica de las zonas a lo largo del tiempo. El espacio, la biología, la infraestructura y la química aportan los límites y las respuestas que deben considerarse.
 
 ## Principio de funcionamiento
 
@@ -21,7 +25,7 @@ La luz disponible para los organismos depende de varios elementos que actúan co
 3. La duración y distribución diaria de la exposición
 4. La velocidad con la que cambian las condiciones
 5. La posición, orientación y superficie que recibe la luz
-6. La capacidad del organismo para aclimatarse y responder
+6. La aclimatación y la respuesta de los organismos documentados en la dimensión biológica
 
 ```mermaid
 flowchart
@@ -79,7 +83,7 @@ Una fuente LED permite controlar de forma relativamente independiente distintos 
 - La emisión direccional y la óptica de los módulos pueden crear puntos calientes de PPFD y sombras marcadas entre piezas o colonias
 - El *shimmer* y la variación superficial pueden modificar la exposición instantánea y la percepción visual sin cambiar necesariamente el PPFD medio registrado
 - Un único punto estático puede no representar adecuadamente una superficie tridimensional expuesta a luz dinámica
-- La disipación térmica se concentra en la luminaria y sus componentes, aunque una fuente LED no elimina por completo la transferencia de calor al sistema
+- La posición, el soporte, la ventilación y la transferencia de calor de la fuente pertenecen a la [dimensión de infraestructura](dimension-infraestructura.md)
 - Un canal violeta o azul no demuestra por sí solo que exista una emisión ultravioleta relevante; la banda efectiva debe conocerse o medirse según la fuente
 - La intensidad y el espectro pueden cambiar con la altura, las lentes, la difusión, la suciedad, el envejecimiento y el estado de la luminaria
 
@@ -103,7 +107,7 @@ El PPFD es útil para comparar zonas y registrar exposición, pero no describe p
 - La variación sobre una superficie tridimensional
 - El historial de aclimatación del organismo
 
-Una cifra de PPFD debe interpretarse junto con el organismo, la posición, el espectro, el fotoperiodo y la estabilidad de la medición. La comparabilidad depende también de la respuesta espectral y la calibración del sensor utilizado.
+Una cifra de PPFD debe interpretarse junto con la zona, el espectro, el fotoperiodo y la estabilidad de la medición. La compatibilidad con un organismo concreto pertenece a la [dimensión biológica](dimension-biologica.md) y a su ficha específica. La comparabilidad depende también de la respuesta espectral y la calibración del sensor utilizado.
 
 ### Categorías operativas para zonificar la exposición lumínica
 
@@ -111,21 +115,21 @@ Los siguientes grupos son categorías operativas para organizar zonas del displa
 
 | Grupo operativo | PPFD orientativo durante el periodo principal | Organismos o situaciones que puede incluir | Criterio de uso |
 | --- | --- | --- | --- |
-| Sin iluminación fotosintética intencionada o PPFD residual | 0–20 µmol fotones m⁻² s⁻¹ | Organismos no fotosintéticos y zonas de refugio; algunos organismos pueden tolerar más luz ambiental | La ausencia de PPFD intencionado no elimina otras necesidades de flujo, alimentación o observación |
-| Bajo | Aproximadamente 20–80 µmol fotones m⁻² s⁻¹ | Organismos fotosintéticos de sombra, superficies inferiores o especies con baja demanda lumínica documentada | Debe comprobarse que la exposición no limite la fotosíntesis a medio plazo |
-| Intermedio | Aproximadamente 80–150 µmol fotones m⁻² s⁻¹ | Muchos corales y organismos fotosintéticos de demanda intermedia, según especie y aclimatación | Requiere observar crecimiento, pigmentación y respuesta del tejido |
-| Alto | Aproximadamente 150–300 µmol fotones m⁻² s⁻¹ | Corales y organismos fotosintéticos de demanda alta cuando su ficha lo respalda | Debe introducirse de forma progresiva si el organismo procede de menor exposición |
-| Muy alto | Más de 300 µmol fotones m⁻² s⁻¹ | Solo organismos explícitamente compatibles con exposiciones elevadas y correctamente aclimatados | No debe utilizarse como objetivo general ni como prueba de mayor calidad del sistema |
+| Sin iluminación fotosintética intencionada o PPFD residual | 0–20 µmol fotones m⁻² s⁻¹ | Zonas de refugio y organismos cuya ficha no requiera exposición fotosintética | La ausencia de PPFD intencionado no define por sí sola la idoneidad de una zona |
+| Bajo | Aproximadamente 20–80 µmol fotones m⁻² s⁻¹ | Zonas de sombra o superficies inferiores | Debe relacionarse con las necesidades documentadas del organismo |
+| Intermedio | Aproximadamente 80–150 µmol fotones m⁻² s⁻¹ | Zonas de exposición intermedia | Debe comprobarse la respuesta del organismo a lo largo del tiempo |
+| Alto | Aproximadamente 150–300 µmol fotones m⁻² s⁻¹ | Zonas de exposición elevada | Debe introducirse de forma progresiva cuando exista una diferencia con la exposición previa |
+| Muy alto | Más de 300 µmol fotones m⁻² s⁻¹ | Zonas reservadas a organismos documentados como compatibles | No debe utilizarse como objetivo general ni como prueba de mayor calidad del sistema |
 
 Los límites entre grupos son deliberadamente aproximados. Son categorías prácticas de zonificación, no umbrales fisiológicos universales ni rangos taxonómicos. La misma cifra puede ser adecuada para un organismo y excesiva o insuficiente para otro. Las gorgonias, anémonas, corales blandos, LPS, SPS y otros grupos no deben clasificarse únicamente por su nombre común: la necesidad depende de la especie, la colonia, los simbiontes, el origen y la historia lumínica.
 
-Los organismos no fotosintéticos no se asignan automáticamente a un grupo de PPFD bajo. Su criterio principal puede ser la alimentación, el flujo, la calidad del agua y la ausencia de exposición innecesaria, aunque puedan tolerar o recibir luz residual.
+Los organismos no fotosintéticos no se asignan automáticamente a un grupo de PPFD bajo. La [dimensión biológica](dimension-biologica.md) y las fichas correspondientes determinan sus necesidades; esta dimensión solo registra la exposición lumínica de la zona que ocupen.
 
 ### Distribución espacial
 
 La luz no se distribuye uniformemente por todo el display. La altura, la distancia a la fuente, la orientación de las superficies, la rugosidad, las sombras y la transparencia del agua crean zonas diferenciadas.
 
-La relación entre luz, roca, sustrato, sombras y espacios abiertos pertenece también a la [dimensión espacial](dimension-espacial.md). Esta dimensión define cómo interpretar la iluminación de esas zonas, no cómo construir el aquascape concreto.
+La relación entre luz, roca, sustrato, sombras y espacios abiertos pertenece también a la [dimensión espacial](dimension-espacial.md). La [dimensión hidráulica](dimension-hidraulica.md) añade la relación entre flujo, intercambio y exposición de las superficies. Esta dimensión define cómo interpretar la iluminación de esas zonas, no cómo construir el aquascape concreto.
 
 ### Fotoperiodo
 
@@ -136,9 +140,10 @@ Su función no consiste simplemente en maximizar las horas de luz. Debe coordina
 - Demanda fotosintética
 - Ritmos diarios de los organismos
 - Conducta de peces e invertebrados
-- Observación y mantenimiento
-- Acumulación de calor y consumo energético
+- Observación del régimen y ejecución del mantenimiento previsto
 - Tiempo suficiente de oscuridad
+
+La relación con los ritmos y las necesidades de los habitantes se documenta en la [dimensión biológica](dimension-biologica.md). Los límites físicos y energéticos de la fuente pertenecen a la [dimensión de infraestructura](dimension-infraestructura.md).
 
 Una exposición más prolongada no compensa automáticamente una intensidad insuficiente ni mejora necesariamente la respuesta de todos los organismos.
 
@@ -190,13 +195,13 @@ Los corales fotosintéticos y otros organismos con simbiontes utilizan la luz co
 
 La respuesta no es lineal: después de alcanzar la saturación fotosintética, aumentar el PPFD no incrementa proporcionalmente la fotosíntesis y puede aparecer fotoinhibición.
 
-La necesidad de luz no debe expresarse como una cifra universal válida para todos los corales. Las necesidades se documentarán para cada organismo y se relacionarán con las zonas medidas del sistema concreto.
+La necesidad de luz no debe expresarse como una cifra universal válida para todos los corales. Las necesidades y respuestas de cada organismo se documentarán en la [dimensión biológica](dimension-biologica.md) y en sus fichas específicas; esta dimensión relaciona esas necesidades con las zonas lumínicas medidas.
 
 ### Exceso de luz y fotoinhibición
 
 Una intensidad excesiva para el estado de aclimatación o para la capacidad fisiológica del organismo puede producir fotoinhibición, estrés, pérdida de pigmentación o blanqueamiento en determinadas condiciones.
 
-La presencia de coloración intensa, fluorescencia o extensión de pólipos no demuestra por sí sola que la exposición sea óptima. La evaluación debe combinar respuesta fisiológica, comportamiento, crecimiento y estabilidad a lo largo del tiempo.
+La presencia de coloración intensa, fluorescencia o extensión de pólipos no demuestra por sí sola que la exposición sea óptima. La interpretación de la respuesta fisiológica y del crecimiento corresponde a la [dimensión biológica](dimension-biologica.md); aquí se registra su relación temporal con los cambios de exposición.
 
 ### Fotoaclimatación
 
@@ -208,7 +213,7 @@ La luz adecuada para un organismo ya aclimatado no debe utilizarse automáticame
 
 Los distintos componentes espectrales pueden ser absorbidos de forma diferente por los pigmentos del coral y sus simbiontes. El espectro también puede modificar la expresión o la percepción de pigmentos fluorescentes y fotoprotectores.
 
-La fluorescencia visible es un resultado visual, no una medida directa de fotosíntesis, salud o crecimiento. La selección espectral debe atender a la respuesta del organismo y a la calidad de observación sin confundir ambas funciones.
+La fluorescencia visible es un resultado visual, no una medida directa de fotosíntesis, salud o crecimiento. La selección espectral debe atender a la respuesta documentada en la [dimensión biológica](dimension-biologica.md) y a la calidad de observación sin confundir ambas funciones.
 
 ## Efectos sobre peces e invertebrados no fotosintéticos
 
@@ -221,9 +226,9 @@ La iluminación también afecta a organismos que no dependen directamente de la 
 - Exposición al cuidador y a otros animales
 - Ritmos diarios y respuesta a la oscuridad
 
-La respuesta depende de la especie, la profundidad natural, la conducta, la presencia de refugios y la intensidad relativa de las zonas disponibles. Una iluminación adecuada para un coral no es automáticamente adecuada para todos los peces o invertebrados del mismo display.
+La respuesta específica depende de la especie y de la comunidad documentadas en la [dimensión biológica](dimension-biologica.md), así como de las zonas y refugios definidos en la [dimensión espacial](dimension-espacial.md). Una iluminación adecuada para un coral no es automáticamente adecuada para todos los habitantes del mismo display.
 
-La [dimensión de comunidad](dimension-comunidad.md) establece la compatibilidad de la iluminación con la comunidad prevista. Las fichas de organismos concretos deben definir sus necesidades particulares.
+La [dimensión biológica](dimension-biologica.md) establece la compatibilidad de la iluminación con las comunidades y organismos previstos. Las fichas de organismos concretos deben definir sus necesidades particulares.
 
 ## Luz lunar y ciclos nocturnos
 
@@ -317,9 +322,9 @@ Introduce cambios de intensidad, altura, espectro o fotoperiodo de forma gradual
 
 Los siguientes puntos son una lectura funcional de esta dimensión elaborada para esta documentación, no una síntesis directa de fuentes externas ni una lista de resultados experimentales.
 
-### El mapa de luz como capacidad de diseño
+### El mapa de luz como registro de exposición
 
-Conocer las zonas de exposición permite asignar organismos, conservar refugios y anticipar cambios. La medición no convierte una zona en adecuada para cualquier especie, pero permite comparar la condición real con la necesidad documentada.
+Conocer las zonas de exposición permite comparar la condición real con las necesidades documentadas en la [dimensión biológica](dimension-biologica.md). La medición no convierte una zona en adecuada para cualquier especie ni sustituye al diseño espacial.
 
 ### La oscuridad como parte de la iluminación
 
@@ -343,24 +348,24 @@ La comparación se limita a la organización de la luz y no determina qué régi
 
 ## Aplicación en un sistema pequeño
 
-En un sistema pequeño, la distancia entre la fuente y las superficies puede variar mucho dentro de pocos centímetros. La geometría de la roca y la posición de los organismos tienen por ello un efecto proporcionalmente importante sobre la exposición.
+En un sistema pequeño, la distancia entre la fuente y las superficies puede variar mucho dentro de pocos centímetros. La geometría de la roca y la posición de las superficies tienen por ello un efecto proporcionalmente importante sobre la exposición. Su diseño se documenta en la [dimensión espacial](dimension-espacial.md).
 
 ### Prioridades específicas
 
 - Medir la distribución real antes de asignar zonas a corales fotosintéticos
 - Medir varias alturas y orientaciones, no solo el fondo o la superficie horizontal
 - Registrar la altura de la luminaria y cualquier difusor o lente utilizado junto con el mapa de PPFD
-- Relacionar cada organismo con una zona compatible y no con una cifra aislada
+- Registrar las zonas medidas para relacionarlas con la compatibilidad documentada en la dimensión biológica
 - Conservar sombras y zonas de menor exposición cuando la comunidad las necesite
 - Evitar cambios simultáneos que impidan interpretar la respuesta
-- Mantener accesible la fuente para ajustar altura, posición o mantenimiento
+- Mantener documentada la posición de la fuente y remitir sus límites físicos y de mantenimiento a la [dimensión de infraestructura](dimension-infraestructura.md)
 - Reservar un periodo oscuro funcional
 
 ### Compromisos de escala
 
 Una sola fuente puede producir diferencias marcadas entre superficies altas, laterales, inferiores y protegidas. Intentar corregir toda diferencia mediante más intensidad puede aumentar la exposición de las zonas ya iluminadas sin resolver las sombras estructurales.
 
-El crecimiento puede acercar organismos a la fuente, crear sombra sobre otros o cambiar la orientación de las superficies. La planificación debe considerar esa trayectoria y no solo el mapa inicial.
+El crecimiento puede acercar organismos a la fuente, crear sombra sobre otros o cambiar la orientación de las superficies. La [dimensión espacial](dimension-espacial.md) documenta esa trayectoria geométrica; esta dimensión debe actualizar el mapa de exposición cuando cambie.
 
 ## Qué no es esta dimensión
 
@@ -387,7 +392,7 @@ La iluminación:
 
 ## Función durante el ciclado, la maduración y las transiciones
 
-La iluminación no debe utilizarse para acelerar el ciclado. Durante la maduración, la intensidad y el fotoperiodo deben introducirse de acuerdo con el estado del sistema y con el plan operativo correspondiente.
+La iluminación no debe utilizarse para acelerar el ciclado. Durante la maduración, la intensidad y el fotoperiodo deben introducirse de acuerdo con el plan operativo de [maduración](../../ciclado/planes/plan-maduracion.md), que documenta la aplicación concreta.
 
 Durante las transiciones deben registrarse los cambios de:
 
@@ -417,8 +422,8 @@ Una modificación de la iluminación debe considerarse junto con el estado de ac
 
 - La respuesta se observa durante un periodo suficiente
 - No se interpreta una única señal aislada como demostración de éxito
-- El crecimiento, la pigmentación, la extensión y el estado del tejido se relacionan con el historial de cambios
-- La distribución de los organismos coincide con las zonas de exposición previstas
+- El historial de exposición queda disponible para interpretar la respuesta biológica documentada en la ficha correspondiente
+- Las zonas ocupadas se comparan con el mapa de exposición previsto
 
 ### Respuesta de peces e invertebrados
 
@@ -452,14 +457,14 @@ La aceptación debe basarse en mediciones repetibles, régimen temporal conocido
 | Aspecto | Función o criterio |
 | --- | --- |
 | Tipo de dimensión | Régimen de iluminación de amplio espectro para un acuario marino de arrecife |
-| Fuente de referencia | Luminaria LED de amplio espectro con canales regulables |
+| Variante adoptada | Luminaria LED de amplio espectro con zonificación por PPFD |
 | Variables principales | Espectro, PPFD, DLI, distribución, fotoperiodo y transiciones |
-| Unidad de evaluación | Organismo y zona de exposición dentro del régimen completo |
-| Criterio principal | Exposición compatible, aclimatación y respuesta observable |
+| Unidad de evaluación | Zona medida y régimen completo de exposición |
+| Criterio principal | Régimen medido, reproducible y compatible con las necesidades documentadas |
 | Restricción principal | Diferencias entre especies, zonas y estados fisiológicos |
 | Complementos | Regulación de canales, rampas, sombreado y luz lunar opcional |
 | Riesgo principal | Confundir una cifra, un color o una programación con adecuación fisiológica |
-| Unidad de aceptación | Régimen reproducible y respuesta documentada del conjunto |
+| Unidad de aceptación | Régimen reproducible y mapa de exposición validado |
 
 ## Apéndice: términos de iluminación
 
@@ -502,8 +507,6 @@ La luz lunar es la exposición nocturna débil y variable asociada al ciclo luna
 - [Photo-acclimation dynamics of the coral *Stylophora pistillata* to low and extremely low light](https://www.sciencedirect.com/science/article/pii/S0022098101003094): Estudio sobre respuestas de fotoaclimatación a distintos niveles de luz. Respalda que la historia lumínica importa, pero no permite deducir una curva universal de aclimatación
 - [Fluorescent pigments in corals are photoprotective](https://www.nature.com/articles/35048564): Trabajo experimental sobre pigmentos fluorescentes y fotoprotección. No permite utilizar la fluorescencia visible como indicador aislado de salud o fotosíntesis
 - [Effects of Light Dynamics on Coral Spawning Synchrony](https://doi.org/10.1086/BBLv220n3p161): Estudio experimental que separa componentes de la dinámica lumínica y su relación con la sincronización del desove de *Acropora humilis*. Su contexto reproductivo no equivale al mantenimiento ordinario de un acuario doméstico
-- [Lunar Phase Modulates Circadian Gene Expression Cycles in the Broadcast Spawning Coral *Acropora millepora*](https://doi.org/10.1086/BBLv230n2p130): Estudio experimental sobre fase lunar, luz nocturna y expresión génica circadiana. Se refiere a una especie y a procesos concretos, no a una necesidad universal de luz lunar
 - [Moonrise timing is key for synchronized spawning in coral *Dipsastraea speciosa*](https://doi.org/10.1073/pnas.2101985118): Estudio experimental sobre el momento del ascenso lunar y el desove sincronizado. No demuestra que la iluminación lunar artificial mejore la salud general de los corales
-- [Inducing broadcast coral spawning ex situ: Closed system mesocosm design and husbandry protocol](https://doi.org/10.1002/ece3.3538): Protocolo experimental de reproducción ex situ que trata fotoperiodo, luz lunar y contaminación lumínica en contextos de desove. No debe trasladarse directamente a la rutina de un arrecife doméstico
 
 La evidencia disponible respalda que el espectro, la intensidad, el tiempo y los cambios lumínicos pueden producir respuestas diferenciadas en organismos fotosintéticos y otros habitantes. No permite definir una programación universal, un valor de PPFD válido para todos los corales ni una necesidad general de luz lunar. La aplicación concreta debe basarse en las necesidades documentadas de cada organismo, mediciones del sistema y observación prolongada.

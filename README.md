@@ -16,7 +16,7 @@ Agradezco a Elite Reef Kanarias el asesoramiento y el apoyo prestados durante la
 
 ## Índice
 
-- [Aquascape](aquascape/README.md): diseño del display
+- [Implementación de Veril](veril/README.md): decisiones concretas de espacio, sustrato, flujo, iluminación y biología
 - [Ciclado y maduración](ciclado/README.md): arranque y evolución inicial
 - [Fichas](fichas/README.md): hardware, productos, parámetros, biología y métodos
 

@@ -8,4 +8,5 @@ Este directorio reúne la información reutilizable del proyecto: hardware, prod
 - [Productos](productos/README.md): productos documentados
 - [Parámetros](parametros/README.md): parámetros del agua marina
 - [Biología](biologia/README.md): bacterias, algas coralinas y microfauna
-- [Dimensiones arquitectónicas](dimensiones/README.md): procesamiento, comunidad, organización física y espacio del sistema
+- [Historia](historia/README.md): origen y evolución de métodos y conceptos relevantes
+- [Dimensiones arquitectónicas](dimensiones/README.md): procesamiento, biología, infraestructura, espacio, hidráulica, iluminación y química del sistema

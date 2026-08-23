@@ -1,6 +1,6 @@
-# Aquascape de Veril: biología
+# Veril: biología
 
-> La [dimensión de comunidad](../fichas/dimensiones/dimension-comunidad.md) define la configuración mixta, la compatibilidad y la capacidad compartida. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define cómo el aquascape distribuye superficies, refugios, territorios y espacio de crecimiento. Esta ficha registra la aplicación biológica prevista para Veril.
+> La [dimensión biológica](../fichas/dimensiones/dimension-biologica.md) define las comunidades vivas, la configuración mixta, la compatibilidad y la capacidad compartida. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define cómo el aquascape distribuye superficies, refugios, territorios y espacio de crecimiento. Esta ficha registra la aplicación biológica prevista para Veril.
 
 ## Alcance de esta ficha
 
@@ -10,7 +10,7 @@ La elección concreta de especies, cantidades, fechas y parámetros pertenece a 
 
 ## Relación entre comunidad y aquascape
 
-El aquascape disponible condiciona la biología que puede plantearse: volumen, geometría de la roca, superficie de sustrato, flujo, luz, refugios y acceso. La selección biológica partirá de esas condiciones reales, de acuerdo con la [dimensión de comunidad](../fichas/dimensiones/dimension-comunidad.md).
+El aquascape disponible condiciona la biología que puede plantearse: volumen, geometría de la roca, superficie de sustrato, flujo, luz, refugios y acceso. La selección biológica partirá de esas condiciones reales, de acuerdo con la [dimensión biológica](../fichas/dimensiones/dimension-biologica.md).
 
 La biología modificará el aquascape con el tiempo. La colonización y el crecimiento ocuparán superficies, cambiarán la rugosidad y las sombras, alterarán las rutas de flujo y aumentarán la carga biológica y las necesidades de mantenimiento.
 
@@ -18,7 +18,7 @@ Si una población deja de conservar las funciones físicas del diseño, el aspec
 
 - La [roca](roca.md) para la geometría, los refugios y los pasos
 - El [sustrato](sustrato.md) para la playa, el canal y el sustrato libre
-- La [hidrodinámica](hidrodinamica.md) para las rutas de renovación
+- La [hidráulica](hidraulica.md) para las rutas de renovación
 - La [iluminación](iluminacion.md) para la cobertura y las sombras
 
 ## Capacidad biológica y medios complementarios
@@ -48,7 +48,7 @@ La elección de cada organismo se realizará relacionando sus necesidades con la
 
 - [Roca](roca.md)
 - [Sustrato](sustrato.md)
-- [Hidrodinámica](hidrodinamica.md)
+- [Hidráulica](hidraulica.md)
 - [Iluminación](iluminacion.md)
 
 Se considerarán como mínimo:
@@ -115,7 +115,7 @@ Las zonas destinadas a corales y coraliformes deberán permitir:
 
 Los organismos que dependan en mayor medida de la alimentación directa, si finalmente se incorporan, requerirán además una evaluación específica de llegada, captura y distribución del alimento.
 
-La [hidrodinámica](hidrodinamica.md) documenta las rutas y gradientes de flujo. La alimentación concreta, la frecuencia y la carga resultante deberán definirse en la ficha del organismo y en el plan de mantenimiento correspondiente.
+La [hidráulica](hidraulica.md) documenta las rutas y gradientes de flujo. La alimentación concreta, la frecuencia y la carga resultante deberán definirse en la ficha del organismo y en el plan de mantenimiento correspondiente.
 
 ## Evolución y criterios de aceptación
 

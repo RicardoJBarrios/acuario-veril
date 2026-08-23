@@ -4,6 +4,8 @@
 
 Esta dimensión de procesamiento se basa en el método Berlín y organiza el procesamiento biológico, la circulación y la exportación en acuarios marinos de arrecife. Su núcleo funcional se sostiene en tres elementos interdependientes:
 
+La [dimensión hidráulica](dimension-hidraulica.md) desarrolla específicamente cómo se distribuye y se evalúa el movimiento del agua. Esta ficha solo define la función que la circulación cumple dentro del procesamiento y la exportación del Berlín.
+
 1. Una comunidad biológica establecida sobre la roca y las demás superficies sumergidas
 2. Una circulación y una oxigenación suficientes para sostener los procesos biológicos y transportar materia
 3. Un skimmer de proteínas como mecanismo continuo y característico de exportación de materia orgánica
@@ -16,6 +18,10 @@ El método no fija una cantidad universal de roca por litro, una cifra universal
 
 El método Berlín no debe identificarse únicamente por la presencia de determinados componentes, sino por la arquitectura funcional que estos forman en conjunto y por las funciones que efectivamente cumplen.
 
+Para Veril se adopta el método Berlín como arquitectura de procesamiento de referencia porque organiza el sistema alrededor de superficies colonizadas, circulación, intercambio gaseoso y exportación orgánica mediante skimmer y mantenimiento. La aplicación no se comprobará por la etiqueta ni por el número de componentes, sino por la transformación, retención, retirada y exportación de materia que el sistema demuestre.
+
+Dentro del modelo integrado, esta dimensión describe cómo se transforma, retiene y retira la materia. La biología aporta las entradas; la hidráulica las transporta; la química permite interpretar el resultado; y la infraestructura y el espacio delimitan dónde ocurre.
+
 En términos funcionales, un sistema Berlín puede entenderse como una arquitectura destinada a mantener equilibrados los flujos de entrada, transformación y exportación de materia.
 
 ## Principio de funcionamiento
@@ -27,9 +33,9 @@ El sistema debe resolver funciones diferentes:
 1. Transformar compuestos potencialmente tóxicos, especialmente el nitrógeno amoniacal
 2. Transportar oxígeno, nutrientes, calor y residuos entre las distintas partes del acuario
 3. Retirar materia antes o después de su transformación para evitar una acumulación indefinida
-4. Mantener las condiciones fisicoquímicas dentro de márgenes compatibles con los organismos
+4. Coordinar la transformación y la exportación con las condiciones fisicoquímicas documentadas en la [dimensión química](dimension-quimica.md)
 
-El Berlín distribuye estas funciones entre la comunidad biológica, la circulación, el intercambio gaseoso, el skimmer y las intervenciones de mantenimiento.
+El Berlín distribuye estas funciones entre las superficies colonizadas, la circulación, el intercambio gaseoso, el skimmer y las intervenciones de mantenimiento. Las condiciones de la comunidad, del agua y de la infraestructura se documentan en sus dimensiones respectivas.
 
 La distinción fundamental es que procesar materia no significa exportarla del sistema. Las bacterias pueden transformar amonio en nitrito y posteriormente en nitrato, pero el nitrógeno continúa dentro del acuario. Del mismo modo, la descomposición de una partícula orgánica no supone su eliminación: sus componentes pasan a otras formas químicas o biológicas.
 
@@ -70,7 +76,7 @@ El diagrama representa funciones relacionadas, no una secuencia única ni una pr
 
 El procesamiento biológico del Berlín no reside en un aparato concreto. Se distribuye entre las superficies sumergidas del sistema y las comunidades que las colonizan, aunque no todos los organismos ni todos los procesos que ocurren sobre ellas forman parte de la nitrificación. Las superficies relevantes incluyen roca, arena, paredes, tuberías y, cuando existen, medios biológicos adicionales.
 
-La roca tiene una importancia especial porque combina varias funciones:
+La roca tiene una importancia especial porque combina varias funciones, documentadas también en las dimensiones [biológica](dimension-biologica.md) y [espacial](dimension-espacial.md):
 
 - Proporciona una superficie colonizable
 - Estructura el aquascape
@@ -78,7 +84,7 @@ La roca tiene una importancia especial porque combina varias funciones:
 - Modifica localmente el flujo
 - Sirve de soporte para corales, algas y otros organismos
 
-Sobre estas superficies se desarrollan biofilms formados por comunidades de microorganismos cuya composición cambia con el tiempo, el flujo, la disponibilidad de oxígeno, los nutrientes y las características físicas del sustrato.
+Sobre estas superficies se desarrollan biofilms y otras comunidades colonizadoras. La composición y evolución de esas comunidades pertenecen a la [dimensión biológica](dimension-biologica.md); aquí interesa su función como soporte de transformación.
 
 Uno de sus procesos más importantes es la nitrificación:
 
@@ -86,13 +92,13 @@ Uno de sus procesos más importantes es la nitrificación:
 amonio → nitrito → nitrato
 ```
 
-Este proceso protege a los habitantes frente a la acumulación de nitrógeno amoniacal, pero no constituye por sí mismo una exportación de nitrógeno. En determinadas zonas y bajo condiciones adecuadas pueden producirse procesos de reducción de nitrato, incluida la desnitrificación, y otras transformaciones metabólicas. Su magnitud no debe suponerse únicamente porque una roca sea porosa o exista abundante biomedia.
+Este proceso protege a los habitantes frente a la acumulación de nitrógeno amoniacal, pero no constituye por sí mismo una exportación de nitrógeno. En determinadas zonas y bajo condiciones adecuadas pueden producirse procesos adicionales de transformación. Su magnitud no debe suponerse únicamente porque una roca sea porosa o exista abundante biomedia; la capacidad demostrada se evalúa mediante el ciclado, la maduración y el seguimiento del sistema.
 
 La capacidad biológica real depende de la comunidad que se haya establecido y de las condiciones en las que trabaja. Por ello, superficie disponible, superficie colonizada y capacidad biológica efectiva no son conceptos equivalentes.
 
 Una superficie inaccesible, cubierta de detrito, sin flujo o todavía no colonizada no equivale a un biofiltro funcional. Una gran cantidad de material tampoco demuestra automáticamente una mayor capacidad de procesamiento.
 
-### Circulación e intercambio gaseoso
+### Circulación como conexión funcional
 
 La circulación conecta físicamente las distintas funciones del sistema. El retorno y las bombas de movimiento transportan:
 
@@ -105,26 +111,13 @@ La circulación conecta físicamente las distintas funciones del sistema. El ret
 
 También permiten que el agua alcance las superficies colonizadas y ayudan a impedir que determinadas zonas se conviertan en depósitos permanentes de sedimento.
 
-La circulación adecuada no puede definirse únicamente mediante una cifra de litros por hora. El aquascape, las paredes, la arena, el crecimiento de los corales, la posición del retorno y la orientación de las bombas transforman profundamente el flujo real dentro del display.
-
-El dimensionamiento inicial puede apoyarse en las especificaciones de las bombas, pero la circulación real debe evaluarse mediante observación de:
-
-- Movimiento de partículas
-- Depósitos de detrito
-- Comportamiento de la arena
-- Agitación superficial
-- Respuesta de los corales
-- Existencia de zonas protegidas o excesivamente expuestas
-
-El objetivo no es maximizar el movimiento, sino conseguir una circulación suficiente y bien distribuida. Un flujo muy intenso que levanta la arena o daña tejidos tampoco es un flujo correctamente diseñado.
-
-La superficie del agua forma parte del sistema hidráulico. Una agitación adecuada facilita el intercambio gaseoso con la atmósfera, contribuye a mantener el oxígeno disponible y ayuda a evacuar dióxido de carbono.
+La circulación adecuada no puede definirse únicamente mediante una cifra de litros por hora. La [dimensión hidráulica](dimension-hidraulica.md) documenta el campo de flujo, la renovación, el transporte y el intercambio superficial; esta dimensión solo evalúa si esas funciones conectan las superficies activas y los mecanismos de exportación.
 
 ### Skimmer de proteínas
 
 El skimmer de proteínas es el elemento de exportación continua más característico del método Berlín. Mediante fraccionamiento de espuma genera una gran interfaz entre aire y agua. Determinados compuestos con afinidad por esa interfaz se concentran sobre las burbujas, ascienden con la espuma y terminan acumulándose en la copa.
 
-Cuando se retira el skimmate, una fracción de esa materia abandona físicamente el sistema. Esta característica permite intervenir antes de que toda la materia orgánica sea completamente mineralizada. El skimmer también favorece el intercambio gaseoso.
+Cuando se retira el skimmate, una fracción de esa materia abandona físicamente el sistema. Esta característica permite intervenir antes de que toda la materia orgánica sea completamente mineralizada. El posible efecto del skimmer sobre el intercambio gaseoso se interpreta en la [dimensión hidráulica](dimension-hidraulica.md).
 
 No debe interpretarse como un dispositivo universal de limpieza. Un skimmer:
 
@@ -148,7 +141,7 @@ Su rendimiento depende, entre otros factores, de:
 
 El tamaño nominal del skimmer es una característica del equipo y no una garantía de rendimiento en cualquier instalación. La cantidad o el color del skimmate tampoco constituyen por sí solos una medida de la calidad del agua.
 
-Durante el ciclado, determinados fabricantes de inoculantes recomiendan mantener temporalmente apagado el skimmer durante o después de la inoculación. Esta decisión debe seguir el protocolo específico del producto utilizado. Si la oxigenación lo exige, la prioridad pasa a ser el intercambio gaseoso. El funcionamiento sin copa debe considerarse una medida temporal de aireación y no una exportación normal, salvo que el fabricante documente expresamente otro modo.
+Durante el ciclado, el uso del skimmer y de otros mecanismos de exportación debe seguir el plan operativo y las instrucciones del producto utilizado. Esta dimensión solo distingue qué función de procesamiento queda activa o temporalmente limitada; la secuencia concreta pertenece al [plan de ciclado y maduración](../../ciclado/README.md).
 
 ## Exportación y mantenimiento
 
@@ -362,7 +355,7 @@ La elección razonable depende de qué función se quiera priorizar. El Berlín 
 
 ## Comportamiento del Berlín en sistemas pequeños
 
-En un Berlín de bajo volumen los principios son los mismos, pero el margen operativo es menor. Una misma entrada absoluta de alimento, evaporación, detrito o aditivo representa una fracción mayor del sistema, y una variación de nivel puede alterar simultáneamente la salinidad, la estabilidad del skimmer y el intercambio gaseoso.
+En un Berlín de bajo volumen los principios son los mismos, pero el margen operativo es menor. Una misma entrada absoluta de materia o una misma acumulación de sólidos representa una fracción mayor del sistema. La [dimensión de infraestructura](dimension-infraestructura.md) y la [química](dimension-quimica.md) documentan las consecuencias sobre volumen, niveles y composición; aquí interesa cómo afectan a la capacidad de procesamiento y exportación.
 
 El tamaño reducido tampoco obliga a multiplicar los sistemas de filtración. Suele favorecer una arquitectura sencilla, con funciones visibles y accesibles, porque cada componente adicional ocupa una parte relevante del espacio técnico y añade otra tarea de ajuste o mantenimiento.
 
@@ -370,17 +363,17 @@ El tamaño reducido tampoco obliga a multiplicar los sistemas de filtración. Su
 
 En un Berlín compacto conviene priorizar, en este orden funcional:
 
-- Dimensionar la población a la capacidad real del sistema
-- Mantener una circulación efectiva sin crear zonas inaccesibles de sedimentación
-- Garantizar el intercambio gaseoso y una superficie de agua correctamente agitada
-- Estabilizar el nivel de trabajo del skimmer y compensar la evaporación
+- Dimensionar la carga de materia y la alimentación a la capacidad real de procesamiento
+- Mantener conectadas las superficies activas y los mecanismos de exportación mediante la circulación documentada en la [dimensión hidráulica](dimension-hidraulica.md)
+- Mantener una exportación orgánica evaluable y una estrategia para los sólidos
+- Trabajar con el nivel de operación que requiere el skimmer, conforme a la infraestructura y la hidráulica del sistema
 - Localizar y retirar detritos antes de que la biología los transforme en materia disuelta
 - Conservar acceso físico a bombas, cámaras técnicas y superficies donde se acumulen sólidos
 - Introducir la carga biológica gradualmente y observar la respuesta del sistema
 
 ### Compromisos de diseño
 
-En un volumen pequeño, aumentar la cantidad de roca o de biomedia no resuelve automáticamente una capacidad insuficiente. Puede reducir el espacio libre, dificultar el flujo, ocultar detritos y hacer más difícil limpiar o inspeccionar el sistema. La superficie útil debe ser accesible, estar colonizada y recibir un transporte adecuado.
+En un volumen pequeño, aumentar la cantidad de roca o de biomedia no resuelve automáticamente una capacidad insuficiente. Puede reducir el espacio libre, dificultar el transporte, ocultar detritos y hacer más difícil limpiar o inspeccionar el sistema. La superficie útil debe estar colonizada, conectada hidráulicamente y ser accesible según las dimensiones correspondientes.
 
 El skimmer debe valorarse por su comportamiento real y por su compatibilidad con el nivel disponible, no solo por su capacidad nominal. En equipos sobredimensionados o con poca carga puede ser difícil mantener una extracción estable; en equipos insuficientes, la limitación se manifestará en la exportación orgánica y no se corregirá llenando el sistema de biomedia.
 
@@ -416,26 +409,11 @@ Sobre todo, el Berlín describe cómo se organiza el sistema; no demuestra por s
 
 ## Función del Berlín durante el ciclado y la maduración
 
-El método Berlín y el ciclado responden a preguntas diferentes. El Berlín determina dónde y en qué condiciones funcionará la comunidad biológica. El ciclado debe demostrar que esa comunidad posee capacidad suficiente para transformar una carga nitrogenada determinada.
+El método Berlín y el ciclado responden a preguntas diferentes. El Berlín define las funciones de procesamiento y exportación; el [plan de ciclado y maduración](../../ciclado/README.md) comprueba cómo se desarrolla y responde la capacidad biológica del sistema.
 
-Durante el ciclado, las superficies que permanecerán en el sistema —roca, arena y medios biológicos cuando existan— constituyen el sustrato sobre el que se desarrolla el biofiltro. El retorno y la circulación distribuyen oxígeno y compuestos nitrogenados hasta esas superficies.
+Durante esas fases deben quedar identificadas las superficies que actuarán como soporte de transformación, los mecanismos de exportación activos y los cambios que puedan alterar su función. La evolución de biofilms, comunidades y microfauna pertenece a la [dimensión biológica](dimension-biologica.md), mientras que la composición resultante se interpreta en la [dimensión química](dimension-quimica.md).
 
-El uso del skimmer, la iluminación, la filtración mecánica, el UV u otros equipos dependerá del protocolo de ciclado y de los productos empleados. No existe una regla universal derivada únicamente de utilizar el método Berlín.
-
-Completar el ciclado tampoco significa disponer inmediatamente de un arrecife maduro. La maduración comprende un proceso más amplio de colonización, sucesión y estabilización ecológica, durante el que evolucionan:
-
-- Biofilms
-- Comunidades bacterianas y arqueanas
-- Microalgas
-- Microfauna
-- Organismos bentónicos
-- Relaciones entre consumidores y recursos
-- Distribución espacial de los detritos
-- Respuesta del sistema a la alimentación y la exportación
-
-Esta diferencia resulta especialmente importante cuando se utiliza roca seca o artificial. La roca puede convertirse relativamente pronto en un soporte nitrificante eficaz y continuar siendo biológicamente mucho más simple que una roca viva madura.
-
-La aparición de nitrato, diatomeas o coralina y el simple transcurso de un determinado número de semanas son indicadores parciales de procesos diferentes; ni por separado ni en conjunto constituyen una demostración suficiente de madurez.
+La roca seca o artificial puede convertirse en un soporte nitrificante antes de alcanzar la complejidad biológica de una roca viva madura. Por ello, la capacidad de transformación y la madurez ecológica deben evaluarse por separado y no deducirse del tiempo transcurrido ni de un indicador aislado.
 
 ## Cómo evaluar un Berlín en funcionamiento
 
@@ -450,15 +428,15 @@ Debe comprobarse que:
 - Las incorporaciones de carga se realizan gradualmente
 - La respuesta ante cambios de alimentación es conocida
 
-### Hidrodinámica e intercambio gaseoso
+La interpretación de los parámetros y de la respuesta de los organismos se documenta en las dimensiones [química](dimension-quimica.md) y [biológica](dimension-biologica.md).
 
-Debe observarse:
+### Hidráulica e intercambio gaseoso
 
-- Movimiento suficiente alrededor del aquascape
-- Intercambio gaseoso adecuado
-- Ausencia de zonas importantes de sedimentación inaccesible
-- Comportamiento correcto de la arena
-- Flujo compatible con los organismos mantenidos
+Debe comprobarse, en coordinación con la [dimensión hidráulica](dimension-hidraulica.md):
+
+- Llegada del agua a las superficies activas y a los mecanismos de exportación
+- Transporte de sólidos hacia zonas de retirada accesibles
+- Intercambio suficiente para sostener las funciones de procesamiento previstas
 
 ### Exportación
 
@@ -472,16 +450,7 @@ Debe conocerse:
 
 ### Estabilidad
 
-Deben mantenerse tendencias conocidas de:
-
-- Temperatura
-- Salinidad
-- pH
-- Alcalinidad
-- Nitrato
-- Fosfato
-
-Cuando la población lo requiera, también deben seguirse calcio, magnesio y otros parámetros relevantes. En sistemas pequeños debe prestarse especial atención a la evaporación y al ATO, porque pequeñas pérdidas absolutas de agua pueden representar cambios proporcionalmente importantes de volumen.
+La [dimensión química](dimension-quimica.md) define las tendencias y mediciones de composición que permiten interpretar el procesamiento. La [dimensión de infraestructura](dimension-infraestructura.md) define los límites de volumen, nivel y acceso que condicionan la continuidad de los mecanismos.
 
 ## Indicadores que pueden inducir a error
 
@@ -504,11 +473,12 @@ La evaluación debe basarse en tendencias y en la respuesta del sistema, no en i
 | Aspecto | Función o criterio |
 | --- | --- |
 | Principio | Procesamiento biológico distribuido, transporte y exportación sostenida |
+| Variante adoptada | Método Berlín como arquitectura de referencia |
 | Soporte biológico | Roca y demás superficies colonizadas |
 | Proceso nitrogenado principal | Nitrificación del nitrógeno amoniacal |
 | Exportación característica | Skimmer de proteínas |
 | Exportación complementaria | Cambios de agua y retirada de detritos |
-| Circulación | Transporte, oxigenación y control de depósitos |
+| Conexión hidráulica | Superficies activas y mecanismos de exportación conectados por las condiciones definidas en la [dimensión hidráulica](dimension-hidraulica.md) |
 | Filtración mecánica | Compatible, pero no obligatoria |
 | Arena | Compatible, pero no equivalente a un DSB o sistema Jaubert |
 | Biomedia adicional | Opcional y dependiente de una necesidad concreta |
@@ -517,86 +487,15 @@ La evaluación debe basarse en tendencias y en la respuesta del sistema, no en i
 | Unidad de evaluación | Funciones cumplidas, no equipamiento instalado |
 | Error conceptual principal | Confundir transformación biológica con exportación |
 | Riesgo operativo principal | Permitir acumulación de materia porque la biología la procesará |
-| Criterio de funcionamiento | Procesamiento, circulación, estabilidad y exportación demostrados |
+| Criterio de funcionamiento | Transformación, retención y exportación demostradas bajo las condiciones requeridas por las dimensiones relacionadas |
 
-## Apéndice histórico: definición y evolución
+## Contexto histórico
 
-### Origen del término y del enfoque
-
-El método Berlín no aparece como la invención documentada de una sola persona ni como un protocolo aprobado por una institución. La evidencia histórica disponible lo presenta como una arquitectura desarrollada por un grupo de acuaristas marinos de Berlín Occidental durante la década de 1970, en un momento en que mantener corales y otros invertebrados tropicales a largo plazo seguía siendo considerablemente más difícil que mantener peces marinos.
-
-El nombre alude a ese entorno de acuaristas y no al Aquarium Berlin ni a una organización comercial concreta. La formulación histórica más prudente es, por tanto, «sistema desarrollado y difundido por acuaristas berlineses», con Peter Wilkens como figura central de publicación y divulgación.
-
-### Peter Wilkens y las primeras referencias
-
-Peter Wilkens es la figura más estrechamente asociada a la difusión internacional del enfoque. Su obra *Niedere Tiere im tropischen Seewasseraquarium* apareció inicialmente a comienzos de la década de 1970. Las referencias bibliográficas consultadas documentan una segunda edición ampliada de 1973 y un segundo volumen de 1980.
-
-La obra trataba la biología, la química y la técnica necesarias para mantener invertebrados marinos tropicales, incluidos los corales. La bibliografía posterior atribuye también a Wilkens la descripción y difusión del uso de *kalkwasser*[^kalkwasser] para aportar calcio y alcalinidad en sistemas con organismos calcificadores.
-
-La cautela bibliográfica es importante: las referencias localizadas no demuestran que el libro de 1973 utilizara ya «método Berlín» como nombre formal de una receta cerrada. Wilkens documentó prácticas y principios que después quedaron asociados a esa denominación; la etiqueta parece haberse consolidado retrospectivamente a partir de la práctica de los acuaristas berlineses y de su difusión posterior.
-
-Junto a Wilkens aparecen en la historia de la acuariofilia berlinesa otros nombres como Dietrich Stüber, relacionado con la propagación y el intercambio de corales, y Dieter Brockmann, importante divulgador y autor posterior sobre química y mantenimiento de acuarios de arrecife. No deben presentarse como inventores individuales del método sin una fuente específica que establezca esa atribución.
-
-### Qué problema resolvía en su contexto
-
-El enfoque Berlín se desarrolló frente a los acuarios marinos que utilizaban principalmente esqueletos de coral muertos como decoración, filtros biológicos externos y cambios de agua como recursos limitados. La combinación de roca viva, skimmer, circulación, iluminación intensa y control de la química del agua permitía mantener una comunidad de invertebrados mucho más amplia, incluidos corales pétreos.
-
-La innovación histórica no consistió en inventar desde cero cada componente. Los skimmers, la filtración, el ozono, la luz artificial y otras técnicas ya tenían antecedentes. La aportación del entorno Berlín fue integrarlos alrededor de la roca viva como soporte biológico principal y del skimmer como exportación temprana de materia orgánica, en una arquitectura orientada al acuario de arrecife y no solo al acuario de peces.
-
-### Consolidación y difusión
-
-Durante los años setenta y ochenta, el enfoque se difundió mediante libros, clubes, intercambio de animales y experiencia práctica. La roca viva aportaba una comunidad biológica que no podía obtenerse simplemente con una superficie inerte, mientras que la circulación y el skimmer reducían la dependencia de los filtros biológicos externos orientados principalmente a una nitrificación muy eficiente, sin proporcionar necesariamente una vía equivalente para la exportación posterior del nitrógeno.
-
-En la misma época y durante las décadas siguientes se desarrollaron o difundieron arquitecturas alternativas. El sistema Jaubert, asociado a Jean Jaubert y al uso de un plenum bajo una cama profunda, situaba una parte mayor de la desnitrificación en el sustrato. Por otra parte, Walter Adey desarrolló sistemas de depuración basados en comunidades algales, especialmente el *Algal Turf Scrubber*, como otra estrategia de procesamiento y exportación de nutrientes. Más tarde se popularizaron los sistemas de zeolita, los filtros de lodo, los reactores y diversas combinaciones híbridas.
-
-Estas alternativas no invalidaron el Berlín. Contribuyeron a que el término dejara de designar una receta única y pasara a funcionar como una referencia arquitectónica frente a otras formas de organizar el procesamiento y la exportación.
-
-### Evolución hacia la acuariofilia moderna
-
-La práctica moderna conserva el núcleo histórico, pero ya no depende necesariamente de todos sus componentes originales. La roca viva puede combinarse o sustituirse parcialmente por roca artificial, roca seca o roca cultivada en instalaciones de acuicultura. El sump, la filtración mecánica, el carbón activo, los adsorbentes, los reactores, la dosificación automatizada, la reposición automática y la monitorización digital pueden añadirse cuando resuelven funciones concretas.
-
-Por ello, en la acuariofilia marina actual «Berlín» suele describir una familia de sistemas cuyo centro sigue siendo la biología distribuida en superficies colonizadas, la circulación y el intercambio gaseoso, y la exportación orgánica mediante skimmer y mantenimiento. No designa una lista universal de equipos ni permite deducir por sí solo el uso de arena, roca viva, kalkwasser, reactor de calcio, filtración mecánica o refugio.
-
-La mayoría de los sistemas actuales son funcionalmente híbridos en algún grado. Pueden conservar una base Berlín y añadir mecanismos de exportación, control químico o procesamiento biológico procedentes de otras tradiciones. La clasificación útil no depende de la pureza histórica del montaje, sino de identificar qué funciones cumple cada componente y qué parte de la estabilidad se atribuye realmente al núcleo Berlín.
-
-### Cronología resumida
-
-| Periodo | Desarrollo relevante |
-| --- | --- |
-| Antes de los años setenta | Existían técnicas independientes de filtración, aireación, iluminación y tratamiento del agua, pero la acuariofilia de arrecife seguía teniendo limitaciones importantes |
-| Comienzos de los años setenta | Peter Wilkens publica y difunde conocimientos sobre el mantenimiento de invertebrados marinos tropicales |
-| 1973 | La segunda edición ampliada de *Niedere Tiere im tropischen Seewasseraquarium* se convierte en una referencia histórica asociada a la consolidación del enfoque |
-| Años setenta y ochenta | Los acuaristas berlineses extienden la combinación de roca viva, skimmer, circulación, iluminación y control de calcio y alcalinidad |
-| Años ochenta y noventa | Se difunden la propagación de corales y arquitecturas alternativas como Jaubert, refugios de macroalgas y camas profundas |
-| Desde los años noventa | El Berlín se incorpora a la literatura internacional y se combina con filtración mecánica, química, reactores y otros complementos |
-| Actualidad | El término se utiliza principalmente como referencia funcional para sistemas basados en superficies colonizadas, circulación y skimming, con variantes modernas e híbridas |
-
-### Estado actual del concepto
-
-El Berlín sigue siendo una referencia útil para describir la arquitectura de numerosos acuarios de arrecife, pero no es una norma técnica universal ni una certificación de madurez, capacidad o estabilidad. Su valor actual está en recordar la relación entre biología distribuida, transporte y exportación.
-
-La evolución tecnológica ha ampliado las herramientas disponibles, pero no ha eliminado las preguntas originales: dónde se transforma la materia, cómo llega a las superficies activas, qué se exporta realmente, dónde se acumulan los sólidos y cómo se comprueba la capacidad del sistema.
-
-La interpretación moderna más sólida conserva el nombre por su valor histórico, pero evalúa el sistema por sus funciones observables. Desde esta perspectiva, el Berlín moderno puede entenderse menos como una receta técnica y más como un marco conceptual para organizar los procesos biológicos y la exportación en un arrecife cerrado.
-
-[^kalkwasser]: Solución saturada de hidróxido de calcio, Ca(OH)₂, en agua purificada. Añadida lentamente puede aportar calcio y alcalinidad y elevar el pH; una dosificación excesiva puede provocar una subida peligrosa del pH y precipitación de carbonato cálcico.
+El origen y la evolución del método Berlín se documentan en la [historia del método Berlín](../historia/metodo-berlin.md). Esta dimensión se centra en las funciones actuales de procesamiento y exportación que definen la variante adoptada para Veril.
 
 ## Fuentes y límites de la evidencia
 
-- [Samantha Muka, *Oceans under Glass: Tank Craft and the Sciences of the Sea*](https://press.uchicago.edu/ucp/books/book/chicago/O/bo186193215.html): Historia académica de las prácticas, técnicas y comunidades que desarrollaron sistemas de acuarios marinos, utilizada aquí como contexto histórico general
-- [Peter Wilkens, *Niedere Tiere im tropischen Seewasseraquarium*](https://aquarienfreunde-dachau.de/bibliothek/): Referencia bibliográfica de los volúmenes de 1973 y 1980 asociados a la divulgación temprana del mantenimiento de invertebrados marinos tropicales
-- [Revisión bibliográfica de la obra de Peter Wilkens en *Spixiana*](https://www.zobodat.at/pdf/Spixiana_003_0306-0320.pdf): Reseña contemporánea de la edición ampliada de 1973 y de su contenido técnico y biológico
-- [Sistema Berlín, en Korallenriff.de](https://www.korallenriff.de/en/article/379_17__Part_4_Filter_systems__Berlin_system.html): Fuente histórica secundaria sobre los acuaristas berlineses, los componentes tradicionalmente asociados y la delimitación frente a otros sistemas
-- [Terry Siegel, «Editorial: September 2002»](https://reefs.com/magazine/editorial-september-2002/): Testimonio sobre la difusión del Berlín y la posterior combinación de aportaciones de Wilkens, Jaubert y Adey
-- [Dieter Brockmann y Max Janse, «Calcium and carbonate in closed marine aquarium systems»](https://www.researchgate.net/publication/228361538_Calcium_and_carbonate_in_closed_marine_aquarium_systems): Revisión técnica de 2008 que documenta el uso histórico de kalkwasser y la evolución de las técnicas de reposición en acuarios de arrecife
-- [Central Marine Fisheries Research Institute, «Modern approaches for the rearing of marine ornamental fishes: Reef tank»](https://eprints.cmfri.org.in/5330/1/7.pdf): Manual técnico institucional que resume la combinación de roca viva o cultivada, skimmer, refugios, camas profundas y filtración complementaria en acuarios de arrecife
-- [Terry Siegel, «Nutrient Export: Old Problem, New Solutions»](https://reefs.com/magazine/nutrient-export-old-problem-new-solutions/): Comparación divulgativa de vías de exportación y de los límites del Berlín para retirar nutrientes que ya permanecen disueltos
-- [Bob Goemans, «Jaubert's Method, the Monaco System, Defined and Refined»](https://www.saltcorner.com/Articles/Showarticle.php?articleID=15&i=25): Referencia comparativa sobre el plenum, la desnitrificación y la posibilidad de combinar un refugio Jaubert con una base Berlín
-- [Quality Marine, «Revisited: Protein Skimming»](https://www.qualitymarine.com/news/revisited-protein-skimming-foam-fractionation/): Explicación técnica y divulgativa de la fraccionación de espuma y de su papel histórico en los acuarios Berlín
+- [Quality Marine, «Revisited: Protein Skimming»](https://www.qualitymarine.com/news/revisited-protein-skimming-foam-fractionation/): Explicación técnica y divulgativa de la fraccionación de espuma y de sus límites como mecanismo de retirada
 - [An experimental comparison of sediment-based biological filtration designs for recirculating aquarium systems](https://www.sciencedirect.com/science/article/pii/S004484860500325X): Estudio experimental que describe y compara configuraciones de filtración biológica, incluida una configuración Berlín
-- [Ex situ cultivation of *Aplysina aerophoba* close to in situ conditions](https://doi.org/10.1111/j.1439-0485.2008.00225.x): Trabajo experimental que identifica explícitamente como sistema Berlín la instalación utilizada y remite a referencias metodológicas anteriores
-- [Manual oficial del método TRITON](https://www.triton.de/fileadmin/user_upload/triton/documents/triton_method/TRITON%20-%20Products%20-%20Document%20-%20TRITON%20Method%20-%20Full%20Manual.pdf): Referencia comparativa utilizada para delimitar qué elementos pertenecen específicamente a TRITON
 
-La bibliografía localizada permite documentar el uso y los componentes asociados al término «sistema Berlín», pero no constituye una publicación fundacional única y completa del método. Las afirmaciones históricas sobre su origen y evolución deben conservar esta cautela.
-
-En consecuencia, esta documentación interpreta el método Berlín como una arquitectura funcional basada en superficies colonizadas, circulación y exportación orgánica, evaluada por sus resultados observables y no por la simple presencia de componentes concretos.
+Estas fuentes respaldan aspectos concretos del procesamiento y la fraccionación de espuma, pero no establecen una receta universal ni sustituyen la evaluación de la variante adoptada en Veril.

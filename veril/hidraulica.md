@@ -1,6 +1,6 @@
-# Aquascape de Veril: hidrodinámica
+# Veril: hidráulica
 
-> La [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md) explica la función de la circulación en el transporte, la oxigenación y el procesamiento. La [dimensión física](../fichas/dimensiones/dimension-fisica.md) establece los límites del retorno, los niveles y la seguridad. Esta ficha registra la implementación hidrodinámica de Veril.
+> La [dimensión hidráulica](../fichas/dimensiones/dimension-hidraulica.md) define el régimen de movimiento, renovación y transporte del agua. La [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md) explica la función de la circulación en el transporte, la oxigenación y el procesamiento. La [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md) establece los límites del retorno, los niveles y la seguridad. Esta ficha registra la implementación hidráulica de Veril.
 
 ## Objetivo de diseño
 
@@ -14,7 +14,7 @@ El display tendrá un margen libre suficiente para admitir el movimiento del agu
 
 Cuando la bomba de retorno se detenga, el agua ocupará parcialmente el compartimento técnico. La instalación deberá conservar un margen seguro para el volumen de retrosifonado y permitir el reinicio de la bomba sin aspiración de aire persistente.
 
-La aceptación de estos niveles y del volumen de parada pertenece a la [dimensión física](../fichas/dimensiones/dimension-fisica.md).
+La aceptación de estos niveles y del volumen de parada pertenece a la [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md).
 
 ## Corredor trasero
 
@@ -76,7 +76,7 @@ Durante el montaje y las pruebas se comprobará:
 - Ausencia de acumulaciones permanentes en pasos, refugios y espacios inferiores
 - Funcionamiento coordinado de la bomba principal y el retorno
 - Reinicio seguro después de una parada
-- Niveles compatibles con la [dimensión física](../fichas/dimensiones/dimension-fisica.md)
+- Niveles compatibles con la [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md)
 
 ## Fuentes de diseño
 

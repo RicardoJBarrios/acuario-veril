@@ -61,7 +61,7 @@ Se mantiene el sistema sin nuevas incorporaciones hasta observar una tendencia e
 - Retorno, circulación, skimmer, ATO y oxigenación
 - Biofilm, turbidez, sedimentos, película, algas y olor
 
-La luz permanece apagada o en iluminación ambiental hasta que exista una finalidad biológica concreta. La configuración y la introducción de la luz se rigen por [iluminación](../../aquascape/iluminacion.md).
+La luz permanece apagada o en iluminación ambiental hasta que exista una finalidad biológica concreta. La configuración y la introducción de la luz se rigen por [iluminación](../../veril/iluminacion.md).
 
 ### Fase B — luz y sucesión observable
 
@@ -144,5 +144,5 @@ Para cada fase o incorporación se anotarán:
 - [Método de Aquaforest](../fuentes/metodo-aquaforest.md)
 - [Método de Fritz Aquatics](../fuentes/metodo-fritz.md)
 - [Ficha de Aquaforest Reef Salt](../../fichas/productos/aquaforest-reef-salt.md)
-- [Aquascape: iluminación](../../aquascape/iluminacion.md)
-- [Aquascape: biología](../../aquascape/biologia.md)
+- [Veril: iluminación](../../veril/iluminacion.md)
+- [Veril: biología](../../veril/biologia.md)

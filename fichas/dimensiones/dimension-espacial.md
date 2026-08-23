@@ -12,18 +12,22 @@ La tesis de esta dimensión es:
 
 > El aquascape no es una decoración añadida al acuario, sino la estructura espacial que distribuye superficies, organismos, flujo, luz, refugios y acceso dentro del display.
 
+Para Veril se adopta una organización espacial funcional basada en estructura estable, espacio negativo, gradientes, refugios utilizables, crecimiento previsible y acceso suficiente. Esta línea se elige para que el aquascape pueda sostener la configuración biológica y servir de soporte a las demás dimensiones; su aplicación concreta se comprueba mediante las fichas de [roca](../../veril/roca.md), [sustrato](../../veril/sustrato.md) y las evaluaciones del sistema.
+
+Dentro del modelo integrado, esta dimensión organiza el interior del display. La infraestructura fija sus límites; la hidráulica, la iluminación y la biología determinan cómo se utilizan y evalúan sus zonas.
+
 ## Principio de funcionamiento
 
 Un aquascape funcional transforma un volumen abierto en un conjunto de zonas relacionadas. La estructura debe ofrecer suficiente complejidad para sostener superficies y refugios, pero conservar espacios abiertos que permitan el movimiento del agua, el comportamiento de los animales y la intervención del cuidador.
 
-La dimensión espacial coordina varias funciones:
+La dimensión espacial coordina varias funciones, sin sustituir a las dimensiones que describen sus efectos:
 
 1. Proporcionar superficies estables y colonizables
-2. Separar o conectar zonas de luz, flujo y exposición
+2. Separar o conectar zonas de exposición y protección
 3. Crear refugios, territorios y rutas de escape
 4. Mantener espacios de nado y superficies de sustrato
-5. Condicionar las rutas de flujo y la renovación alrededor de la estructura
-6. Conservar acceso visual y físico para observar y mantener el sistema
+5. Habilitar rutas potenciales para el agua y la intervención
+6. Conservar acceso visual y físico para observar y modificar el sistema
 
 ```mermaid
 flowchart
@@ -46,20 +50,18 @@ El diagrama representa dependencias espaciales. No prescribe una composición es
 
 ## Elementos estructurales
 
-### Envolvente del display
+### Envolvente espacial del display
 
-La envolvente del display establece los límites dentro de los que debe resolverse la composición. Incluye sus dimensiones, la altura de agua, las paredes visibles, el margen superior, los accesos y las zonas que no forman parte del espacio útil.
+La [dimensión de infraestructura](dimension-infraestructura.md) establece las dimensiones, niveles, paredes, zona técnica y accesos de la urna. Desde la dimensión espacial interesa qué parte del display queda realmente disponible para organizar la composición y qué límites físicos condicionan su lectura, estabilidad y mantenimiento.
 
 La composición debe considerar:
 
-- Longitud, anchura y altura disponibles
 - Superficies de visión y puntos de observación
-- Distancia a los cristales y a la zona técnica
-- Margen superior para el movimiento del agua y el mantenimiento
-- Acceso de manos, herramientas, imanes y equipos de limpieza
+- Espacio interior que queda después de descontar la zona técnica y los márgenes de acceso
+- Distancia funcional a cristales, accesos y elementos técnicos
 - Espacio que ocuparán el sustrato, la roca y el crecimiento futuro
 
-El volumen geométrico de la urna no equivale al espacio funcional del aquascape. La estructura, el sustrato, los equipos y los márgenes de acceso reducen el volumen realmente disponible.
+El volumen geométrico de la urna no equivale al espacio funcional del aquascape. La infraestructura define el volumen disponible; esta dimensión determina cómo se distribuye espacialmente.
 
 ### Estructura rocosa
 
@@ -68,7 +70,7 @@ La roca o el material estructural principal aporta relieve, apoyos y superficies
 Debe evaluarse por:
 
 - Estabilidad de los apoyos
-- Superficie colonizable con renovación de agua suficiente y acceso de mantenimiento donde resulte necesario
+- Superficie disponible para colonización, refugio o asentamiento; la renovación y la retirada se comprueban en las dimensiones hidráulica y de procesamiento
 - Distribución del relieve
 - Resistencia al desplazamiento y al colapso
 - Compatibilidad con el sustrato y el vidrio
@@ -85,8 +87,8 @@ Su arquitectura comprende:
 - Distribución general y zonas libres
 - Profundidad y transición entre áreas
 - Relación con los apoyos de la roca
-- Resistencia al desplazamiento por el flujo
-- Accesibilidad para retirar detritos
+- Compatibilidad con el comportamiento previsto del sustrato; su desplazamiento se comprueba en la [dimensión hidráulica](dimension-hidraulica.md)
+- Accesibilidad para observar y mantener la superficie; la retirada de materia pertenece a la [dimensión de procesamiento](dimension-procesamiento.md)
 - Compatibilidad con los organismos que lo ocuparán
 
 Una zona de sustrato puede ser visualmente abierta y funcional sin tener la misma profundidad en todo el display.
@@ -101,7 +103,7 @@ No es un residuo del diseño. Su función no depende de permanecer visualmente v
 - Mantener una ruta de flujo
 - Separar masas o territorios
 - Facilitar la observación
-- Reducir la acumulación de materia
+- Facilitar el transporte, la localización o la retirada de materia
 - Conservar una zona de intervención
 
 Un aquascape saturado puede aumentar la superficie aparente y reducir al mismo tiempo su funcionalidad espacial.
@@ -113,7 +115,7 @@ Los huecos, grietas, voladizos y pasos modifican la relación entre los animales
 Cada refugio debe evaluarse por:
 
 - Tamaño y accesibilidad para el organismo previsto
-- Posibilidad de observación
+- Grado de observación o inspección necesario para su función y mantenimiento
 - Renovación del agua
 - Riesgo de atrapamiento
 - Posibilidad de renovación o retirada de residuos
@@ -125,21 +127,20 @@ Más refugios no implica automáticamente mayor calidad espacial. Su valor depen
 
 Las superficies pueden ser horizontales, inclinadas, verticales, expuestas, protegidas, próximas al sustrato o situadas en zonas altas. La diversidad de orientaciones permite distribuir organismos con necesidades distintas, pero también crea diferentes niveles de acumulación y mantenimiento.
 
-La superficie debe evaluarse junto con:
+La superficie debe evaluarse espacialmente junto con:
 
-- Intensidad y orientación de la luz
-- Movimiento y renovación del agua
+- Posición respecto a las zonas de luz y flujo, cuyas magnitudes pertenecen a las dimensiones de [iluminación](dimension-iluminacion.md) e [hidráulica](dimension-hidraulica.md)
 - Distancia respecto a otras colonias
 - Acceso para inspección y limpieza
 - Trayectoria previsible de crecimiento
 
 Una superficie disponible no es necesariamente una superficie adecuada para cualquier organismo.
 
-## Relación con luz, flujo y comunidad
+## Relación con otras dimensiones
 
-La dimensión espacial no fija la iluminación ni la circulación, pero crea las condiciones en las que ambas deben funcionar. La misma bomba o luminaria puede producir resultados distintos según la altura, la rugosidad, la orientación, la posición relativa y la densidad de la estructura.
+La dimensión espacial no fija la iluminación ni la circulación. Define las posiciones, obstáculos, superficies y espacios abiertos sobre los que actúan la [dimensión de iluminación](dimension-iluminacion.md) y la [dimensión hidráulica](dimension-hidraulica.md). La respuesta real de cada zona debe evaluarse en esas dimensiones y en relación con la [dimensión biológica](dimension-biologica.md).
 
-La composición debe permitir que existan gradientes en lugar de exigir condiciones uniformes en todo el display:
+La composición debe permitir que puedan existir gradientes, sin exigir condiciones uniformes en todo el display:
 
 - Zonas expuestas y zonas protegidas
 - Flujo directo y flujo difuso
@@ -147,16 +148,16 @@ La composición debe permitir que existan gradientes en lugar de exigir condicio
 - Áreas iluminadas y sombreadas
 - Espacios abiertos y refugios
 
-La distribución espacial debe considerar la comunidad prevista antes de ocupar el volumen disponible. Sus necesidades de nado, asentamiento, crecimiento, separación y refugio participan en la distribución inicial.
+La distribución espacial debe considerar la comunidad prevista antes de ocupar el volumen disponible. Sus necesidades de nado, asentamiento, crecimiento, separación y refugio participan en la distribución inicial, pero la selección y compatibilidad de los organismos pertenecen a la [dimensión biológica](dimension-biologica.md).
 
-## Mantenimiento, detritos y acceso
+## Accesibilidad, acumulación y mantenimiento
 
-El aquascape influye en dónde se depositan las partículas, dónde se puede intervenir y qué zonas quedan ocultas. Una estructura que produce zonas inaccesibles puede dificultar la retirada de detritos aunque la circulación general parezca suficiente.
+El aquascape influye en dónde pueden quedar ocultas las acumulaciones y en qué zonas puede intervenir el cuidador. La hidráulica determina el transporte y la deposición; el procesamiento determina las rutas de retirada. Esta dimensión define si la geometría deja esas zonas localizables y accesibles.
 
 El diseño debe permitir:
 
 - Observar las superficies y los espacios inferiores
-- Retirar residuos de playas, canales y huecos
+- Localizar playas, canales y huecos donde puedan acumularse residuos
 - Limpiar los cristales alrededor de la estructura
 - Acceder a las zonas próximas a entradas y retornos
 - Retirar piezas o equipos cuando sea necesario
@@ -198,7 +199,7 @@ Distribuye varias masas separadas por espacios abiertos. Puede facilitar territo
 
 ### Composición con corredor
 
-Conserva una ruta longitudinal o transversal alrededor de la estructura. Puede favorecer la renovación del agua y el movimiento de los animales, aunque el corredor pierde valor si queda bloqueado por el crecimiento.
+Conserva una ruta longitudinal o transversal alrededor de la estructura. Puede conservar una ruta potencial para el movimiento de los animales y la renovación del agua, aunque su función hidráulica depende del campo de flujo real y puede perderse si queda bloqueado por el crecimiento.
 
 ### Composición vertical
 
@@ -209,7 +210,7 @@ Utiliza la altura para crear niveles y superficies diferenciadas. Debe mantener 
 ### Fortalezas conocidas
 
 - Permite distribuir espacialmente superficies, refugios, territorios y zonas abiertas
-- Puede crear gradientes de luz y flujo dentro del mismo display
+- Puede condicionar o habilitar gradientes de luz y flujo dentro del mismo display
 - Facilita adaptar la comunidad a distintas orientaciones y niveles
 - Puede mejorar la observación, el mantenimiento y la capacidad de modificación cuando conserva espacio negativo funcional
 - Permite anticipar el crecimiento y la transformación futura de la comunidad
@@ -308,7 +309,7 @@ Un aquascape:
 
 - No es una lista de rocas, productos o formas estéticas
 - No define por sí solo el método de procesamiento del sistema
-- No sustituye a la dimensión física de la urna
+- No sustituye a la dimensión de infraestructura de la urna
 - No determina por sí solo la compatibilidad de la comunidad
 - No garantiza una circulación adecuada por el mero hecho de tener huecos
 - No convierte toda superficie en superficie biológica funcional
@@ -336,12 +337,12 @@ Durante el montaje y el ciclado deben comprobarse:
 
 - Estabilidad de la estructura en seco y con agua
 - Relación entre roca, sustrato y superficies de apoyo
-- Recorridos de flujo alrededor y debajo de las masas
-- Zonas de acumulación de partículas
-- Acceso a cristales, entradas, retornos y equipos
+- Espacios abiertos y accesos previstos alrededor y debajo de las masas
+- Posibles zonas ocultas de acumulación, cuya dinámica se comprobará en la [dimensión hidráulica](dimension-hidraulica.md) y en la [de procesamiento](dimension-procesamiento.md)
+- Acceso a cristales, entradas, retornos y equipos, según los límites de la [dimensión de infraestructura](dimension-infraestructura.md)
 - Capacidad de modificar la composición sin perder estabilidad
 
-Durante las transiciones, una incorporación, un crecimiento o la retirada de una pieza puede cambiar la distribución de luz, flujo, refugios, territorios y espacio de nado. Debe evaluarse como una modificación de la arquitectura espacial.
+Durante las transiciones, una incorporación, un crecimiento o la retirada de una pieza puede cambiar la distribución de luz, flujo, refugios, territorios y espacio de nado. Debe evaluarse como una modificación de la dimensión espacial.
 
 ## Cómo evaluar la dimensión en funcionamiento
 
@@ -359,16 +360,16 @@ Durante las transiciones, una incorporación, un crecimiento o la retirada de un
 - La estructura no bloquea permanentemente el acceso o la visión
 - El crecimiento previsto no elimina de inmediato las zonas esenciales
 
-### Relación con el agua y la luz
+### Relación con hidráulica e iluminación
 
-- El agua alcanza las superficies y los espacios que deben renovarse
-- Las zonas protegidas no funcionan como depósitos permanentes de materia
-- La estructura contribuye a crear gradientes utilizables sin generar sistemáticamente sombras profundas o chorros localizados incompatibles con el uso previsto
-- La altura y la orientación no producen zonas incompatibles con el uso previsto
+- La geometría deja rutas potenciales para la renovación y el acceso a las superficies
+- La estructura permite distribuir zonas de exposición y protección sin imponer una uniformidad espacial
+- La altura y la orientación ofrecen posiciones que pueden evaluarse mediante las dimensiones de hidráulica e iluminación
+- Las condiciones observadas son compatibles con los organismos previstos, según la dimensión biológica
 
 ### Mantenimiento y evolución
 
-- Pueden retirarse residuos sin desmontar el aquascape completo
+- Pueden localizarse las acumulaciones y acceder a ellas sin desmontar el aquascape completo
 - La limpieza de cristales sigue siendo posible
 - Las modificaciones pueden realizarse sin perder la estabilidad
 - La composición conserva funciones reconocibles después de cambios y crecimiento
@@ -386,13 +387,14 @@ No demuestran por sí solos que la dimensión espacial esté bien resuelta:
 - Que la composición se haya inspirado en un arrecife natural
 - Que los organismos ocupen rápidamente todos los huecos
 
-La aceptación debe basarse en estabilidad, acceso, espacios funcionales, renovación, mantenimiento y capacidad de evolución.
+La aceptación debe basarse en estabilidad, acceso, espacios funcionales, capacidad de evolución y compatibilidad con las condiciones hidráulicas, lumínicas, biológicas y de procesamiento que se comprobarán en sus dimensiones correspondientes.
 
 ## Resumen funcional
 
 | Aspecto | Función o criterio |
 | --- | --- |
 | Tipo de dimensión | Organización espacial del display mediante un aquascape funcional |
+| Variante adoptada | Estructura estable, espacio negativo, gradientes, refugios y acceso funcional |
 | Elementos principales | Roca, sustrato, superficies, espacios negativos, refugios y territorios |
 | Función espacial | Distribuir espacio de nado, colonización, luz, flujo, refugio y acceso |
 | Principio de diseño | Complejidad funcional sin saturar el display |
@@ -412,14 +414,11 @@ El término no constituye una norma técnica, una forma única de composición n
 
 ### Uso en esta documentación
 
-Esta documentación utiliza «arquitectura espacial» para destacar que el aquascape se evalúa como una organización funcional del espacio interior, no solo como una composición visual.
+Esta documentación utiliza «dimensión espacial» para destacar que el aquascape se evalúa como una organización funcional del espacio interior, no solo como una composición visual.
 
 ## Fuentes y límites de la evidencia
 
-- [Wade Lehmann, «Coral Reef Aquarium Husbandry and Health»](https://doi.org/10.1002/9781119569831.ch6): Referencia general sobre mantenimiento de acuarios de arrecife, estabilidad, flujo, alimentación y filtración. Respalda el contexto funcional del display, pero no establece una geometría universal de aquascape
 - [Eric H. Borneman, *Aquarium Corals: Selection, Husbandry, and Natural History*](https://books.google.com/books?id=1QtJAAAAYAAJ): Referencia de identificación y mantenimiento de corales que relaciona formas de crecimiento, superficies, luz y movimiento del agua. No define una composición única para acuarios domésticos
-- [«The Structure of a Reef»](https://doi.org/10.1201/9781003358145-1): Referencia sobre la estructura física y la heterogeneidad de los arrecifes naturales. Sirve como contexto ecológico, pero un aquascape doméstico no reproduce automáticamente un arrecife natural
-- [«Organizing a public aquarium: objectives, design, operation and missions. A review»](https://cosmos.gnest.org/publication/702): Revisión sobre diseño, operación y objetivos de acuarios públicos. Respalda la relación entre diseño espacial, funcionamiento y mantenimiento en instalaciones acuáticas, pero su escala no permite deducir reglas para una urna doméstica
 - [Saltcorner, «Living Marine Aquarium Manual»](https://www.saltcorner.com/LMAM/TOC.php): Recurso técnico divulgativo que trata roca, sustrato, aquascaping, estabilidad y mantenimiento. Se utiliza como referencia de prácticas extendidas del hobby, no como evidencia experimental de una composición óptima
 
-Estas fuentes respaldan relaciones generales entre estructura, hábitat, luz, flujo y mantenimiento, pero no existe una proporción universal entre roca y espacio negativo, una cantidad óptima de refugios ni una forma de aquascape válida para todas las comunidades. La composición concreta debe evaluarse en relación con la urna, los organismos, la circulación, la iluminación, la estabilidad y la capacidad real de mantenimiento.
+Estas fuentes se utilizan para el contexto de formas de crecimiento, roca, sustrato y prácticas de aquascape. La organización basada en espacio negativo, accesibilidad, crecimiento futuro y reversibilidad es una síntesis funcional de esta documentación, no una conclusión experimental de esas fuentes. No existe una composición universal válida para todas las comunidades.

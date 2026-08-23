@@ -1,4 +1,4 @@
-# Aquascape de Veril: roca
+# Veril: roca
 
 > La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) define los criterios generales de estructura, espacio negativo, refugios y accesibilidad. Esta ficha registra su aplicación concreta en Veril.
 
@@ -83,12 +83,12 @@ Antes de llenar el sistema se comprobará:
 - Conservación de entradas, retornos, sensores y accesos
 - Ausencia de apoyos puntuales o contacto peligroso con el vidrio
 
-La [dimensión física](../fichas/dimensiones/dimension-fisica.md) establece los límites de la urna y del compartimento técnico. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) establece los criterios generales de estabilidad, acceso y evolución.
+La [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md) establece los límites de la urna y del compartimento técnico. La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) establece los criterios generales de estabilidad, acceso y evolución.
 
 ## Relaciones con otras decisiones de Veril
 
 - El [sustrato](sustrato.md) define la superficie alrededor de la estructura, la playa y el canal
-- La [hidrodinámica](hidrodinamica.md) comprueba las rutas de flujo alrededor y debajo de las masas
+- La [hidráulica](hidraulica.md) comprueba las rutas de flujo alrededor y debajo de las masas
 - La [iluminación](iluminacion.md) comprueba la cobertura y los gradientes sobre las superficies
 - La [biología](biologia.md) documenta la colonización posterior y el crecimiento
 
