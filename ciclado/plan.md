@@ -136,6 +136,7 @@ Después se pasa al [plan de maduración](../maduracion/plan.md), no a la introd
 - [Selección del inoculante y evaluación de la receta](decisiones/seleccion-inoculante-y-receta.md)
 - [Ficha de AF Bio Sand](../fichas/productos/af-bio-sand.md)
 - [Ficha de Aquaforest Reef Salt](../fichas/productos/aquaforest-reef-salt.md)
+- [Procedimiento operativo de cambios de agua](../operacion/cambios-agua.md)
 
 ## Condiciones definidas en otras fichas de Veril
 

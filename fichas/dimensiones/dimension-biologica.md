@@ -63,19 +63,19 @@ Esta dimensión considera varias escalas de vida que se solapan dentro del siste
 
 Las bacterias, arqueas y otros microorganismos colonizan superficies, partículas y capas de biofilm. Forman una base biológica para transformaciones, competencia por recursos y relaciones tróficas posteriores. Su presencia no demuestra por sí sola una capacidad de procesamiento concreta ni una comunidad madura.
 
-La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y microorganismos](../biologia/README.md#bacterias-y-microorganismos); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](dimension-procesamiento.md), y su establecimiento temporal a los documentos de [ciclado](../../ciclado/plan.md) y [maduración](../../maduracion/plan.md).
+La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y arqueas](../biologia/microorganismos/bacterias/README.md); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](dimension-procesamiento.md), y su establecimiento temporal a los documentos de [ciclado](../../ciclado/plan.md) y [maduración](../../maduracion/plan.md).
 
 ### Microfauna y organismos crípticos
 
 La microfauna y otros organismos de pequeño tamaño ocupan biofilms, roca, sustrato, huecos y zonas protegidas. Conectan las capas microbianas y particuladas con los organismos de mayor tamaño mediante consumo, transformación y transferencia de materia, además de aportar biodiversidad y actividad en zonas que no utilizan los animales móviles.
 
-En esta dimensión solo se evalúan su función general, el espacio que ocupan y su compatibilidad con la comunidad. Los grupos concretos se documentan en las fichas de [microfauna marina](../biologia/README.md#microfauna-marina), sin asumir que su presencia, abundancia o permanencia sean uniformes.
+En esta dimensión solo se evalúan su función general, el espacio que ocupan y su compatibilidad con la comunidad. Los grupos concretos se documentan en las fichas de [microfauna marina](../biologia/microorganismos/microfauna/README.md), sin asumir que su presencia, abundancia o permanencia sean uniformes.
 
 ### Algas, organismos incrustantes y simbiontes
 
 Las algas, los organismos incrustantes y los simbiontes forman asociaciones con las superficies y con otros organismos. Pueden contribuir a la producción primaria, al consumo de recursos, a la competencia por espacio o a la nutrición de sus hospedadores, según el grupo y las condiciones.
 
-Su función debe considerarse al distribuir superficies y al evaluar la evolución de la comunidad, pero no se repiten aquí sus requisitos de luz, flujo o química. Las fichas de [algas coralinas](../biologia/algas-coralinas.md) y de los organismos hospedadores desarrollan esos detalles.
+Su función debe considerarse al distribuir superficies y al evaluar la evolución de la comunidad, pero no se repiten aquí sus requisitos de luz, flujo o química. Las fichas de [algas coralinas](../biologia/algas/algas-coralinas.md) y de los organismos hospedadores desarrollan esos detalles.
 
 ### Organismos macroscópicos
 

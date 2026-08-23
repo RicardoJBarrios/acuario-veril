@@ -71,7 +71,7 @@ No se cambian simultáneamente luz, nutrientes y población sin registrar la rel
 
 ### Fase C — incorporaciones graduales
 
-Las entradas biológicas posteriores son módulos independientes, no etapas obligatorias ni una secuencia fija. Pueden incluir colonización de superficies, microfauna, organismos consumidores, organismos sésiles o fauna móvil, siempre que exista una decisión específica de compatibilidad.
+Las entradas biológicas posteriores son módulos independientes, no etapas obligatorias ni una secuencia fija. Pueden incluir colonización de superficies, microfauna, organismos consumidores, organismos sésiles o fauna móvil, siempre que exista una decisión específica de compatibilidad. La incorporación de microfauna se desarrolla en el [plan específico de microfauna](plan-microfauna.md).
 
 Cada incorporación se valorará por:
 
@@ -144,5 +144,6 @@ Para cada fase o incorporación se anotarán:
 - [Método de Aquaforest](../ciclado/fuentes/metodo-aquaforest.md)
 - [Método de Fritz Aquatics](../ciclado/fuentes/metodo-fritz.md)
 - [Ficha de Aquaforest Reef Salt](../fichas/productos/aquaforest-reef-salt.md)
+- [Procedimiento operativo de cambios de agua](../operacion/cambios-agua.md)
 - [Veril: iluminación](../veril/iluminacion.md)
 - [Veril: biología](../veril/biologia.md)

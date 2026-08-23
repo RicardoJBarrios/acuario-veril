@@ -9,7 +9,6 @@ Este directorio reúne las fichas del hardware de la urna, los equipos del siste
 ## Equipos principales
 
 - [D-D H2Ocean Compact ATO](dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md)
-- [SONOFF S60ZBTPF](sonoff-s60zbtpf/sonoff-s60zbtpf.md)
 - [Sicce Shark Skimmer 300](sicce-shark-skimmer-300/sicce-shark-skimmer-300.md)
 - [Sicce Micra Plus 600](sicce-micra-plus-600/sicce-micra-plus-600.md)
 - [Mantis Tourbon 60](mantis-tourbon-60/mantis-tourbon-60.md)
@@ -17,6 +16,8 @@ Este directorio reúne las fichas del hardware de la urna, los equipos del siste
 
 ## Sensores y monitorización
 
+- [DanoPlus DP-414](danoplus-dp-414/danoplus-dp-414.md)
+- [SONOFF S60ZBTPF](sonoff-s60zbtpf/sonoff-s60zbtpf.md)
 - [SONOFF SNZB-02LD](sonoff-snzb-02ld/sonoff-snzb-02ld.md)
 - [SONOFF SNZB-05P](sonoff-snzb-05p/sonoff-snzb-05p.md)
 - [Excellux ZG-109TDS](zigbee-7-en-1-monitor-calidad-agua/excellux-zg-109tds.md)

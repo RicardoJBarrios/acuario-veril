@@ -12,5 +12,6 @@ La operación es una capa transversal, no una octava dimensión ni una fase post
 - [Plan de ciclado](../ciclado/plan.md): operación específica durante el establecimiento del biofiltro
 - [Plan de maduración](../maduracion/plan.md): operación específica durante la evolución inicial
 - [Implementación de Veril](../veril/README.md): condiciones vigentes del sistema
+- [Cambios de agua](cambios-agua.md): preparación, comprobación, registro y contribución del agua nueva
 
 Los procedimientos recurrentes de mantenimiento, seguimiento e incidencias se añadirán aquí cuando estén definidos.

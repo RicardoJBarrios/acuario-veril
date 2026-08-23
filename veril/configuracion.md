@@ -25,9 +25,9 @@ La explicación general de cada línea pertenece al [modelo de dimensiones](../f
 | Infraestructura | AIO lateral de pequeño volumen, con display, compartimento técnico, retorno y margen de seguridad | [Infraestructura](infraestructura.md), [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md) y documentación de la urna | Integridad, niveles, parada, reinicio, acceso y mantenimiento |
 | Espacial | Masa principal posterior derecha, masa secundaria, islas, playa, canal y espacio negativo funcional | [Espacial](espacial.md) y [dimensión espacial](../fichas/dimensiones/dimension-espacial.md) | Estabilidad, accesibilidad, rutas libres y reserva de crecimiento |
 | Hidráulica | [Mantis Tourbon 60](../fichas/hardware/mantis-tourbon-60/mantis-tourbon-60.md) para movimiento y [Sicce Micra Plus 600](../fichas/hardware/sicce-micra-plus-600/sicce-micra-plus-600.md) para retorno, integradas sobre las rutas de renovación del aquascape | [Hidráulica](hidraulica.md) y [técnica de la urna](../fichas/hardware/urna/tecnica.md) | Renovación, distribución, transporte, reinicio y acumulaciones |
-| Iluminación | [AI Prime 16HD Reef](../fichas/hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md), suspendida y con *shade*, con mapa de PPFD pendiente | [Iluminación](iluminacion.md) | Cobertura, gradientes, sombras, PPFD registrado y compatibilidad con las zonas |
+| Iluminación | [AI Prime 16HD Reef](../fichas/hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md), suspendida y con *shade*, cuyo mapa se medirá con [DanoPlus DP-414](../fichas/hardware/danoplus-dp-414/danoplus-dp-414.md) | [Iluminación](iluminacion.md) | Cobertura, gradientes, sombras, mapa de PPFD y compatibilidad con las zonas |
 | Biológica | Configuración mixta con incorporación progresiva y evaluación de compatibilidad y crecimiento | [Biología](biologia.md) y fichas específicas de organismos | Respuesta observable, capacidad compartida, contención y mantenimiento |
-| Química | Seguimiento de composición y estabilidad mediante parámetros, relaciones y tendencias | [Química](quimica.md) y [fichas de parámetros](../fichas/parametros/README.md) | Método de medición, tendencias, relaciones, estabilidad y respuesta |
+| Química | Seguimiento de composición y estabilidad mediante parámetros, relaciones y tendencias; temperatura objetivo del agua de 25,0 °C | [Química](quimica.md) y [fichas de parámetros](../fichas/parametros/README.md) | Método de medición, tendencias, relaciones, estabilidad y respuesta térmica |
 | Procesamiento | Método Berlín como referencia: superficies colonizadas, skimmer y retirada física, bajo las condiciones hidráulicas del sistema | [Procesamiento](procesamiento.md), [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md) y [ficha del skimmer Sicce Shark 300](../fichas/hardware/sicce-shark-skimmer-300/sicce-shark-skimmer-300.md) | Capacidad demostrada, exportación, acumulaciones y continuidad del mantenimiento |
 
 ## Dependencias de diseño
@@ -75,6 +75,26 @@ La configuración reúne decisiones de diseño y pendientes de validación. En p
 - La respuesta del procesamiento durante las fases operativas documentadas en `ciclado/`
 
 Una decisión prevista no debe redactarse como una propiedad demostrada. El estado de cada comprobación se actualizará en su documento propietario o en el plan operativo que corresponda.
+
+## Régimen térmico adoptado
+
+Veril adopta una **temperatura objetivo del agua de 25,0 °C**.
+
+Esta decisión se toma como un punto de consigna para una configuración mixta de arrecife, no como un valor universal ni como una garantía biológica. Se sitúa en una posición intermedia dentro del intervalo operativo general de aproximadamente 24–26 °C descrito en la [ficha de temperatura](../fichas/parametros/temperatura.md).
+
+La elección de 25,0 °C busca equilibrar:
+
+- Compatibilidad general con peces, corales, coraliformes e invertebrados tropicales previstos
+- Demanda metabólica y de oxígeno inferior a la que implicaría mantener habitualmente el sistema en el extremo alto del intervalo
+- Margen frente a episodios cálidos en Santa Cruz de Tenerife
+- Carga térmica de la iluminación, las bombas y los equipos sumergidos
+- Capacidad de mantener el despacho y el acuario en condiciones razonablemente estables mediante aire acondicionado portátil, ventilación y control térmico
+
+El clima local no determina por sí solo la temperatura del agua, pero sí forma parte de la carga térmica que debe gestionar el sistema. Las normales de AEMET para Santa Cruz de Tenerife muestran máximas medias cercanas a 28–29 °C en julio y agosto, por lo que la refrigeración ambiental aporta margen durante los periodos cálidos. [AEMET](https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo&l=C449C)
+
+La temperatura objetivo no implica perseguir décimas mediante conmutaciones constantes. La banda normal de funcionamiento, los avisos, los límites de intervención, la respuesta ante sobretemperatura y la respuesta ante pérdida de calefacción quedan pendientes de fijarse con el sensor, el calentador, la carga térmica y las pruebas de la instalación.
+
+La dimensión química conserva la interpretación de la temperatura como variable de estado y contexto de medición. La infraestructura documenta la capacidad física de calentamiento y disipación, la hidráulica su distribución y homogeneización, y la dimensión biológica su compatibilidad con la comunidad prevista.
 
 ## Documentos relacionados
 

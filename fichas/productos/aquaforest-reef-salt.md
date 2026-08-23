@@ -21,6 +21,17 @@ La sal se utiliza para preparar agua marina a partir de agua osmotizada o desmin
 
 La cantidad de sal es una referencia del fabricante. La salinidad final siempre se comprobará con un instrumento adecuado, porque puede variar con la temperatura, el volumen real, la humedad de la sal y el método de mezcla.
 
+## Composición publicada según la salinidad
+
+La guía de productos de Aquaforest publica para Reef Salt valores diferenciados a 33 y 35 ppt:
+
+| Salinidad publicada | Alcalinidad | Calcio | Magnesio | Potasio |
+| --- | --- | --- | --- | --- |
+| 33 ppt | 7,3–7,7 dKH | 410–430 mg/L | 1300–1360 mg/L | 360–380 mg/L |
+| 35 ppt | 7,7–8,3 dKH | 440–460 mg/L | 1360–1420 mg/L | 380–400 mg/L |
+
+Estos valores son referencias del fabricante para la sal a esas salinidades, no objetivos independientes para el acuario ni una garantía de la composición de cada preparación o lote. La medición del agua preparada y, cuando proceda, el análisis específico del lote prevalecen sobre la tabla publicada.
+
 ## Preparación
 
 1. Utilizar agua osmotizada o desmineralizada con una temperatura aproximada de 24 °C
@@ -28,7 +39,8 @@ La cantidad de sal es una referencia del fabricante. La salinidad final siempre 
 3. Agitar con fuerza durante unos 15 minutos hasta que la mezcla se disuelva y el agua quede clara
 4. Medir la salinidad con un refractómetro o instrumento calibrado para agua marina
 5. Ajustar únicamente después de medir, añadiendo agua osmotizada o sal disuelta de forma controlada
-6. Utilizar el agua preparada dentro de los tres días y volver a medirla si ha permanecido almacenada
+6. Igualar la temperatura con el sistema antes de utilizar el agua y volver a comprobarla si ha permanecido almacenada
+7. Utilizar el agua preparada dentro de los tres días posteriores a la disolución
 
 No se añadirá sal directamente al acuario con animales ni se corregirá la salinidad mediante estimaciones visuales.
 
@@ -57,4 +69,6 @@ Esta declaración de control de calidad no sustituye la medición de la salinida
 ## Fuentes
 
 - [Aquaforest: Reef Salt](https://aquaforest.eu/en/products/seawater/marine-salts/reef-salt/)
+- [Aquaforest: guía de productos](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf), referencias de composición de Reef Salt a 33 y 35 ppt
+- [Aquaforest: cómo medir la salinidad del agua](https://aquaforest.eu/en/knowledge-base/ways-to-measure-salinity-of-water/), referencia general de 35 ppt para acuarios de arrecife y 33 ppt para sistemas fish-only
 - [Aquaforest: consulta de análisis de sal por lote](https://aquaforest.eu/en/check-your-salt/)

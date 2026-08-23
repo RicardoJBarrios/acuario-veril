@@ -4,7 +4,7 @@
 
 ## Alcance de esta ficha
 
-La fauna y los organismos descritos aquí son opcionales mientras no exista una ficha específica que confirme su incorporación. La configuración física no implica que deban incorporarse peces, organismos sésiles, invertebrados, microfauna ni un equipo de limpieza.
+La fauna y los organismos descritos aquí son opcionales mientras no exista una decisión documentada que confirme su incorporación. La configuración física no implica que deban incorporarse peces, organismos sésiles, invertebrados, microfauna ni un equipo de limpieza.
 
 La elección concreta de especies, cantidades, fechas y parámetros pertenece a sus fichas de biología y a la documentación operativa correspondiente. Esta ficha conserva las decisiones que afectan directamente a la ocupación y evolución del aquascape.
 
@@ -14,7 +14,7 @@ La elección concreta de especies, cantidades, fechas y parámetros pertenece a 
 
 **Previsto:** Las primeras incorporaciones serán principalmente corales y organismos coraliformes fotosintéticos, siempre después de disponer de condiciones físicas, lumínicas, hidráulicas y químicas interpretables.
 
-**Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en sus fichas y planes correspondientes. La pared viva y los medios biológicos adicionales siguen siendo decisiones sujetas a viabilidad.
+**Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en las fichas generales y en los planes correspondientes, sin convertir esta ficha en un catálogo ni en un protocolo. La pared viva y los medios biológicos adicionales siguen siendo decisiones sujetas a viabilidad.
 
 ## Relación entre comunidad y aquascape
 
@@ -27,6 +27,14 @@ Si una población deja de conservar las funciones físicas del diseño, el aspec
 - La [dimensión espacial](espacial.md) para la geometría, los refugios, los pasos, la playa, el canal y el sustrato libre
 - La [hidráulica](hidraulica.md) para las rutas de renovación
 - La [iluminación](iluminacion.md) para la cobertura y las sombras
+
+## Papel esperado de la microfauna
+
+La microfauna se considera una comunidad potencial de organismos asociados a biofilms, roca, sustrato y zonas protegidas. Si llega a establecerse, puede contribuir al consumo y redistribución de partículas, a la transferencia de materia hacia otros organismos y a la diversidad funcional del sistema.
+
+Su presencia no se considerará un equipo de limpieza, un mecanismo autónomo de exportación ni una prueba suficiente de madurez. La ausencia de organismos visibles durante una observación puntual tampoco demostrará que no exista microfauna en zonas protegidas.
+
+Esta ficha no define especies, cultivos, proveedores, fechas, inoculación, alimentación ni procedimientos de incorporación. La información general pertenece a las [fichas de biología](../fichas/biologia/README.md), y cualquier incorporación concreta se decide en el [plan de microfauna de maduración](../maduracion/plan-microfauna.md).
 
 ## Capacidad biológica y medios complementarios
 
@@ -128,8 +136,7 @@ Si el crecimiento altera de forma relevante el espacio disponible, la carga biol
 
 ## Fuentes biológicas
 
-- [Ficha de algas coralinas](../fichas/biologia/algas-coralinas.md)
-- [Ficha general de copépodos marinos](../fichas/biologia/microfauna-copepodos-marinos.md)
-- [Aplicación en Veril: copépodos marinos](../fichas/biologia/veril/microfauna-copepodos-marinos.md)
-- [Ficha general de microinvertebrados marinos](../fichas/biologia/microinvertebrados-marinos.md)
-- [Aplicación en Veril: microinvertebrados marinos](../fichas/biologia/veril/microfauna-invertebrados-marinos.md)
+- [Ficha de algas coralinas](../fichas/biologia/algas/algas-coralinas.md)
+- [Ficha general de copépodos marinos](../fichas/biologia/microorganismos/microfauna/copepodos-marinos.md)
+- [Ficha general de microinvertebrados marinos](../fichas/biologia/microorganismos/microfauna/microinvertebrados-marinos.md)
+- [Plan de incorporación de microfauna](../maduracion/plan-microfauna.md)

@@ -4,7 +4,7 @@
 
 La maduración es el proceso posterior al establecimiento inicial del biofiltro durante el que la comunidad biológica se desarrolla, se reorganiza y responde a las condiciones reales del acuario.
 
-No es una segunda prueba de ciclado ni una duración fija. Incluye la evolución de las superficies colonizadas, la sucesión de microorganismos y microfauna, la aparición de productores y consumidores, y la estabilización progresiva de las relaciones entre carga, recursos y mantenimiento.
+No es una segunda prueba de ciclado ni una duración fija. Incluye la evolución de las superficies colonizadas, la sucesión de bacterias, arqueas, microalgas, cianobacterias, protozoos y microfauna, la aparición de productores y consumidores, y la estabilización progresiva de las relaciones entre carga, recursos y mantenimiento.
 
 ## Qué debe observarse
 
@@ -12,6 +12,7 @@ La maduración se evalúa mediante tendencias y respuestas observables, entre el
 
 - Estabilidad de las variables químicas relevantes bajo una carga conocida
 - Evolución del biofilm, las algas, los sedimentos y la microfauna
+- Aparición, persistencia o retroceso de microorganismos y organismos pequeños sin convertirlos en objetivos obligatorios
 - Respuesta del sistema a cambios pequeños y separados en el tiempo
 - Capacidad de mantener las condiciones previstas sin correcciones continuas
 - Desarrollo de los organismos incorporados y su interacción con el espacio disponible

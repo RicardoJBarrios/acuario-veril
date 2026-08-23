@@ -21,4 +21,4 @@ La aplicación concreta de Química se encuentra en las [fichas de parámetros](
 
 Cada ficha es propietaria de su materia. Las relaciones con otros aspectos deben expresarse mediante enlaces y consecuencias concretas, sin repetir las definiciones generales ni la configuración integrada.
 
-Las fichas específicas de microfauna se encuentran en [`fichas/biologia/veril/`](../fichas/biologia/veril/); sus funciones generales pertenecen a las fichas de referencia de `fichas/biologia/`.
+La función general de la microfauna pertenece a las fichas de referencia de `fichas/biologia/`. Su papel esperado en Veril se resume en [Biología](biologia.md), y su incorporación, si procede, se decide en el [plan de microfauna de maduración](../maduracion/plan-microfauna.md).

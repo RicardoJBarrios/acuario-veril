@@ -7,3 +7,5 @@ Esta carpeta documenta la fase posterior al ciclado, durante la que se observa e
 La explicación general del proceso está en la [ficha de maduración](../fichas/procesos/maduracion.md) y el protocolo específico de Veril está en el [plan de maduración](plan.md).
 
 La maduración no tiene una duración fija ni constituye una segunda prueba de ciclado. Se avanza mediante condiciones observables, ventanas de seguimiento y decisiones registradas.
+
+Los módulos específicos de incorporación se documentan dentro de esta fase; el de microfauna está en el [plan de incorporación de microfauna](plan-microfauna.md).

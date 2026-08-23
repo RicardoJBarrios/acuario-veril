@@ -27,7 +27,7 @@ La capacidad nitrificante se establece sobre las superficies que permanecerán i
 
 La presencia de microorganismos no equivale por sí sola a una capacidad demostrada. La comunidad puede estar presente sin que el sistema haya sido sometido a una carga medible o sin que la prueba permita distinguir su respuesta.
 
-Las fichas de microorganismos describen los grupos biológicos implicados. El ciclado los considera por su función conjunta y por la capacidad observable del sistema, no por la etiqueta de un producto o por la identificación de una especie concreta.
+Las fichas de [microorganismos y microfauna](../biologia/microorganismos/README.md) describen los grupos biológicos implicados. El ciclado considera la comunidad nitrificante por su función conjunta y por la capacidad observable del sistema, no por la etiqueta de un producto o por la identificación de una especie concreta. La aparición de diatomeas, cianobacterias, protozoos o microfauna puede aportar contexto, pero no forma parte de la prueba principal.
 
 ## Límites de interpretación
 

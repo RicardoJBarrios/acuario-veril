@@ -8,6 +8,30 @@ Veril utiliza una urna AIO de pequeño volumen con un compartimento técnico lat
 
 La distribución concreta de las cámaras está documentada en la [técnica de la urna](../fichas/hardware/urna/tecnica.md). Esta ficha conserva únicamente sus consecuencias sobre volumen funcional, acceso, niveles, seguridad y mantenimiento.
 
+## Entorno de instalación
+
+Veril se instalará en un despacho de aproximadamente **9 m²**, situado en Santa Cruz de Tenerife, en la cuarta planta de un edificio de cinco. El despacho dispone de una ventana de dos hojas con cristal esmerilado, sin persianas ni cortinas, orientada a un patio interior, además de aire acondicionado portátil y ventilador de techo. Se utiliza habitualmente durante jornadas superiores a diez horas. La urna se sitúa a la izquierda del escritorio. También contiene un rack, una impresora 3D y una cantidad importante de equipo informático que permanece encendido total o parcialmente durante la jornada.
+
+Este entorno forma parte de las condiciones físicas de la instalación porque puede afectar a:
+
+- La temperatura del agua y la capacidad de disipar el calor de la iluminación y los equipos sumergidos
+- La carga térmica acumulada del rack, la impresora 3D y el equipo informático
+- La evaporación y el consumo del depósito del ATO
+- La humedad ambiental, la condensación y la corrosión de elementos próximos
+- La incidencia de radiación solar directa o indirecta sobre la urna
+- La ventilación, las corrientes de aire y la distribución térmica del despacho
+- El ruido y la convivencia entre el acuario, el aire acondicionado y la ocupación prolongada del espacio
+
+El rack, la impresora 3D y el equipo informático se considerarán fuentes adicionales de calor. Su efecto dependerá de la potencia realmente disipada, el tiempo de funcionamiento, la proximidad a la urna y la capacidad de renovación del aire. La impresora 3D puede introducir además necesidades específicas de ventilación durante su funcionamiento, que se evaluarán sin asumir que el aire del despacho es térmicamente o ambientalmente neutro.
+
+La ventana puede intervenir en la ventilación del despacho, pero no se considerará por sí sola una fuente de refrigeración controlada. Al dar a un patio interior y encontrarse en una planta alta, la exposición solar directa puede ser distinta de la de una fachada exterior abierta, aunque seguirá existiendo entrada de luz ambiental y posibles ganancias térmicas. El cristal esmerilado limita la visibilidad y difunde parcialmente la luz, pero no debe interpretarse como una protección solar equivalente a una persiana o cortina. La radiación incidente y su efecto real sobre la temperatura de la urna se evaluarán en el funcionamiento cotidiano.
+
+El aire acondicionado portátil se sitúa en el suelo, a la derecha de la urna y entre esta y la ventana. Su tubo de extracción conduce el aire caliente al exterior a través de la ventana. Se considerará un medio de control ambiental del despacho y una fuente local de movimiento y descarga térmica, no un sustituto del control térmico del acuario. Su posición debe conservar espacio suficiente para la extracción, el acceso y la ausencia de obstrucciones.
+
+El ventilador de techo se considerará un medio de distribución del aire del despacho. No se dirigirá un chorro de aire de forma continua hacia la superficie del agua, la urna o los sensores sin evaluar antes sus efectos sobre evaporación, salpicaduras, lecturas y estabilidad.
+
+La temperatura objetivo del agua y su justificación se documentan en la [configuración integrada](configuracion.md#régimen-térmico-adoptado). Las consecuencias sobre evaporación y circulación se mantienen en las fichas específicas de [hidráulica](hidraulica.md) y [química](quimica.md).
+
 ## Estado de la decisión
 
 **Adoptado:** Se mantiene como línea de Veril una urna AIO lateral de pequeño volumen, con el compartimento técnico integrado en la propia urna.

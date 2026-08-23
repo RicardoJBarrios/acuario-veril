@@ -46,7 +46,9 @@ La distribución final dependerá de la luminaria, la altura, el agua, la orient
 
 ## Medición y clasificación de zonas por PPFD
 
-Se realizará un mapa de PPFD en el acuario una vez instalada la luminaria y definida la geometría operativa del aquascape. La medición servirá para clasificar las diferentes zonas de luz disponibles en el display y no se sustituirá por estimaciones basadas únicamente en la posición o la altura de la luminaria.
+Se realizará un mapa de PPFD con el [DanoPlus DP-414](../fichas/hardware/danoplus-dp-414/danoplus-dp-414.md) una vez instalada la luminaria y definida la geometría operativa del aquascape. El sensor se utilizará sumergido y unido a su varilla, manteniendo una orientación y un método de colocación constantes. La medición servirá para clasificar las diferentes zonas de luz disponibles en el display y no se sustituirá por estimaciones basadas únicamente en la posición o la altura de la luminaria.
+
+El DP-414 se utilizará inicialmente como referencia de zonificación y comparación interna. No se aplicará un factor de corrección genérico: si se consigue comparar la unidad con un medidor subacuático de referencia, el factor obtenido se documentará en la ficha del sensor y en el registro del mapa.
 
 El registro deberá conservar, como mínimo:
 
@@ -56,6 +58,8 @@ El registro deberá conservar, como mínimo:
 - Altura o posición de la superficie medida
 - Relación entre cada zona medida y la roca, el sustrato o los espacios previstos
 - Fecha y equipo utilizado
+- Estado de los canales de la AI Prime 16HD Reef y programación activa
+- Orientación del sensor y factor de corrección aplicado, si existe
 
 El resultado se utilizará como mapa de referencia para asignar los organismos fotosintéticos a zonas compatibles. Los límites de PPFD no se fijan en esta ficha antes de disponer de la medición y de las necesidades documentadas de cada organismo.
 
@@ -79,7 +83,9 @@ La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporaci
 - La [dimensión espacial](espacial.md) define la altura, la orientación, las superficies inferiores y la playa que deben recibir luz o formar parte de la composición
 - La [hidráulica](hidraulica.md) conserva las condiciones de movimiento y renovación que deben coordinarse con la ocupación de las superficies
 - La [biología](biologia.md) documenta los organismos que ocuparán las zonas iluminadas
+- El [DanoPlus DP-414](../fichas/hardware/danoplus-dp-414/danoplus-dp-414.md) documenta el instrumento, sus límites y el procedimiento de medición
 
 ## Fuente de diseño
 
 - [Ficha de la AI Prime 16HD Reef](../fichas/hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md)
+- [Ficha del DanoPlus DP-414](../fichas/hardware/danoplus-dp-414/danoplus-dp-414.md)
