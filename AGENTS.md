@@ -5,10 +5,10 @@ Estas reglas adaptan al repositorio `veril-docs` las normas editoriales comparti
 ## Organización y fuentes
 
 - Mantener separadas las fuentes, las decisiones de proyecto, los planes operativos y las fichas reutilizables
-- Mantener las decisiones y el plan específico de ciclado de Veril en `ciclado/`, la maduración en `maduracion/`, la operación recurrente en `operacion/`, las del hardware en su documentación propia y los criterios transversales de configuración en `fichas/dimensiones/`
-- Mantener la información general y reutilizable en `fichas/`
-- Mantener los conceptos, beneficios, límites y modelos generales de un proceso en `fichas/procesos/`; reservar `operacion/` para los procedimientos concretos de Veril que los aplican
-- Mantener la información general de los organismos en `fichas/biologia/`; documentar las aplicaciones y decisiones específicas en `veril/` o en los planes operativos correspondientes
+- Mantener las decisiones y el plan específico de ciclado de Veril en `03_ciclado/`, la maduración en `04_maduracion/`, la operación recurrente en `05_operacion/`, las del hardware en su documentación propia y los criterios transversales de configuración en `01_fichas/01_dimensiones/`
+- Mantener la información general y reutilizable en `01_fichas/`
+- Mantener los conceptos, beneficios, límites y modelos generales de un proceso en `01_fichas/06_procesos/`; reservar `05_operacion/` para los procedimientos concretos de Veril que los aplican
+- Mantener la información general de los organismos en `01_fichas/02_biologia/`; documentar las aplicaciones y decisiones específicas en `02_veril/` o en los planes operativos correspondientes
 - Usar enlaces internos relativos; no enlazar rutas absolutas de otro repositorio
 - Conservar la incertidumbre y los pendientes como tales; no convertir hipótesis, publicidad o experiencia aislada en hechos
 - Documentar las opiniones generalizadas, los debates y las críticas extendidas cuando sean relevantes, etiquetándolos como opiniones, percepción del hobby o práctica común y separándolos de los hechos verificados

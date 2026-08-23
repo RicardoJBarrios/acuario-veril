@@ -8,6 +8,8 @@ Veril es un acuario marino de pequeño volumen, construido como una urna AIO art
 
 Este repositorio centraliza las decisiones de diseño y configuración de Veril, la documentación del hardware y los productos, los planes de ciclado y maduración, y el seguimiento de las comprobaciones y cambios del sistema. Las decisiones vigentes, los pendientes y los límites conocidos deben quedar documentados aquí para conservar una referencia única del proyecto.
 
+Los prefijos numéricos de los directorios y documentos principales indican el orden recomendado de lectura. No representan una dependencia estricta ni sustituyen los enlaces entre documentos.
+
 ## Proveedor de referencia
 
 El proveedor de referencia de Veril es [Elite Reef Kanarias](https://www.elitereefkanarias.es/). Sus canales públicos de referencia son la [web oficial](https://www.elitereefkanarias.es/) y su [perfil de Instagram](https://www.instagram.com/elitereefkanarias/).
@@ -16,11 +18,11 @@ Agradezco a Elite Reef Kanarias el asesoramiento y el apoyo prestados durante la
 
 ## Índice
 
-- [Implementación de Veril](veril/README.md): decisiones concretas de espacio, sustrato, flujo, iluminación y biología
-- [Ciclado](ciclado/README.md): evidencia, decisiones y plan de arranque
-- [Maduración](maduracion/README.md): evolución biológica posterior al ciclado
-- [Operación](operacion/README.md): procedimientos recurrentes de mantenimiento, seguimiento y respuesta
-- [Fichas](fichas/README.md): hardware, productos, parámetros, biología, procesos, historia y dimensiones
+- [Fichas](01_fichas/00_README.md): marco general, dimensiones, biología, parámetros, hardware, productos y procesos
+- [Implementación de Veril](02_veril/00_README.md): decisiones concretas de espacio, sustrato, flujo, iluminación y biología
+- [Ciclado](03_ciclado/README.md): evidencia, decisiones y plan de arranque
+- [Maduración](04_maduracion/README.md): evolución biológica posterior al ciclado
+- [Operación](05_operacion/README.md): procedimientos recurrentes de mantenimiento, seguimiento y respuesta
 - [Contribución](CONTRIBUTING.md): criterios para ampliar o corregir la documentación
 
 ## Repositorio privado opcional
