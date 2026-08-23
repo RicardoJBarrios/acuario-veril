@@ -35,7 +35,7 @@ Estas siete dimensiones no son siete sistemas alternativos. Son siete preguntas 
 La infraestructura contiene y limita el sistema. La dimensión espacial organiza el interior del display. La hidráulica transporta y renueva el agua. La iluminación determina la exposición lumínica. La biología ocupa, consume y responde. La química describe la composición y los equilibrios del agua. El procesamiento transforma, retiene y retira materia.
 
 ```mermaid
-flowchart LR
+flowchart
     F[Infraestructura<br/>contiene y limita]
     E[Espacial<br/>organiza]
     H[Hidráulica<br/>transporta y renueva]

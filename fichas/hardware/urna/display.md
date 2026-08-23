@@ -15,7 +15,7 @@ La disposición longitudinal permite desarrollar el aquascape desde la zona téc
 - Conservar pasos para retirar detrito y limpiar los cristales
 - Evitar apoyar equipo auxiliar sobre la arena o la roca
 
-La composición de la roca, el sustrato, los espacios negativos y las rutas hidráulicas se desarrolla en [implementación de Veril](../../../veril/README.md), con sus fichas de [roca](../../../veril/roca.md), [sustrato](../../../veril/sustrato.md), [hidráulica](../../../veril/hidraulica.md) y [biología](../../../veril/biologia.md).
+La composición de la roca, el sustrato, los espacios negativos y las rutas hidráulicas se desarrolla en [implementación de Veril](../../../veril/README.md), con sus fichas [espacial](../../../veril/espacial.md), [hidráulica](../../../veril/hidraulica.md) y [biología](../../../veril/biologia.md).
 
 ## Circulación y mantenimiento
 

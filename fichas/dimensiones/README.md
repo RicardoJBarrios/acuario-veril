@@ -13,8 +13,6 @@ Esta sección reúne las dimensiones arquitectónicas de referencia adoptadas pa
 - [Dimensión de iluminación](dimension-iluminacion.md): espectro, intensidad, fotoperiodo, transiciones y luz lunar
 - [Dimensión química](dimension-quimica.md): composición, equilibrios, transformaciones, medición y estabilidad del agua
 
-Para revisar temporalmente el conjunto en un único documento, puede consultarse el [compendio temporal de dimensiones](compendio-temporal.md). Los documentos individuales siguen siendo la referencia estructural.
-
 ## Cómo leer esta sección
 
 El modelo establece la responsabilidad común de las fichas. Cada dimensión debe indicar qué debe tenerse en cuenta, por qué importa, qué variante adopta Veril, cómo se aplicará y qué observaciones, mediciones o pruebas demostrarán que funciona.

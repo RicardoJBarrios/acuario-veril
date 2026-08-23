@@ -103,7 +103,7 @@ En organismos fotosintéticos, el flujo puede interactuar con la exposición lum
 
 En organismos que dependan de alimentación particulada, la circulación condiciona la llegada, permanencia y dispersión del alimento. La alimentación concreta y la respuesta del organismo se documentan en la [dimensión biológica](dimension-biologica.md) y en las fichas de los organismos.
 
-El flujo también afecta al sustrato. Un movimiento excesivo puede desplazarlo o crear nubes persistentes; uno insuficiente puede favorecer la deposición en determinadas zonas. La selección y distribución del sustrato pertenecen a la [dimensión espacial](dimension-espacial.md) y a la ficha de [sustrato de Veril](../../veril/sustrato.md); aquí se evalúa su respuesta hidráulica.
+El flujo también afecta al sustrato. Un movimiento excesivo puede desplazarlo o crear nubes persistentes; uno insuficiente puede favorecer la deposición en determinadas zonas. La selección y distribución del sustrato pertenecen a la [dimensión espacial](dimension-espacial.md) y a la ficha [espacial de Veril](../../veril/espacial.md); aquí se evalúa su respuesta hidráulica.
 
 ## Elementos compatibles, pero no obligatorios
 

@@ -12,6 +12,14 @@ La referencia actual es de **250 mm** entre la cara inferior de la luminaria y e
 
 La luminaria contará con un *shade* frontal realizado mediante impresión 3D para reducir el reflejo sobre el cristal delantero y evitar el deslumbramiento. Los laterales y la parte trasera quedarán libres para conservar la ventilación y la dispersión lateral de la luz.
 
+## Estado de la decisión
+
+**Adoptado:** Veril utilizará una AI Prime 16HD Reef suspendida, ligeramente desplazada hacia la derecha y equipada con un *shade* frontal compatible con la ventilación.
+
+**Previsto:** La luminaria deberá cubrir las masas, las islas y las superficies que se decida ocupar, conservando gradientes y sombras funcionales.
+
+**Pendiente:** Deben comprobarse la altura final, la cobertura efectiva, el mapa de PPFD, la clasificación de zonas y el régimen temporal antes de asignar corales fotosintéticos a posiciones concretas.
+
 ## Cobertura prevista
 
 La cobertura deberá alcanzar:
@@ -23,7 +31,7 @@ La cobertura deberá alcanzar:
 
 La zona técnica lateral no forma parte de la superficie principal de iluminación.
 
-La geometría de las masas iluminadas se documenta en [roca](roca.md). La distribución del sustrato se documenta en [sustrato](sustrato.md).
+La geometría de las masas iluminadas y la distribución del sustrato se documentan en la [dimensión espacial de Veril](espacial.md).
 
 ## Gradiente y sombras
 
@@ -68,9 +76,8 @@ La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporaci
 
 ## Relaciones con otras decisiones de Veril
 
-- La [roca](roca.md) define la altura, la orientación y las superficies que deben recibir luz
-- El [sustrato](sustrato.md) define las superficies inferiores y la playa que forman parte de la composición
-- La [hidráulica](hidraulica.md) define el movimiento del agua que modifica la distribución efectiva de luz
+- La [dimensión espacial](espacial.md) define la altura, la orientación, las superficies inferiores y la playa que deben recibir luz o formar parte de la composición
+- La [hidráulica](hidraulica.md) conserva las condiciones de movimiento y renovación que deben coordinarse con la ocupación de las superficies
 - La [biología](biologia.md) documenta los organismos que ocuparán las zonas iluminadas
 
 ## Fuente de diseño

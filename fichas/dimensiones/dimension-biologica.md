@@ -122,7 +122,7 @@ Su incorporación debe comprobar:
 
 La dimensión espacial define la estructura, el sustrato, los refugios y el espacio negativo. Desde la dimensión biológica solo se comprueba que esa organización proporcione espacio de nado, territorios, superficies de crecimiento y refugios compatibles con los organismos previstos.
 
-El crecimiento, la conducta y la necesidad de acceso pueden convertir una estructura inicialmente compatible en una limitación para la comunidad. La evaluación concreta del aquascape pertenece a la [dimensión espacial](dimension-espacial.md) y, para Veril, a las fichas de [roca](../../veril/roca.md) y [sustrato](../../veril/sustrato.md).
+El crecimiento, la conducta y la necesidad de acceso pueden convertir una estructura inicialmente compatible en una limitación para la comunidad. La evaluación concreta del aquascape pertenece a la [dimensión espacial](dimension-espacial.md) y, para Veril, a la ficha [espacial](../../veril/espacial.md).
 
 ## Consecuencias sobre entradas y demanda
 

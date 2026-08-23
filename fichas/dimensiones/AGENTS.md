@@ -17,7 +17,6 @@ Este directorio documenta las dimensiones arquitectónicas de referencia adoptad
 - Documentar en cada dimensión qué debe tenerse en cuenta, por qué importa, cómo se aplicará y cómo se comprobará
 - Considerar la operación como una capa transversal de medición, mantenimiento, pruebas y respuesta, no como una octava dimensión
 - Resolver las relaciones entre dimensiones mediante enlaces y consecuencias limitadas al objeto de la ficha responsable
-- Utilizar [compendio-temporal.md](compendio-temporal.md) solo como documento auxiliar de revisión; los siete documentos individuales siguen siendo la fuente estructural
 
 ## Alcance por documento
 

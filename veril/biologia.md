@@ -8,6 +8,14 @@ La fauna y los organismos descritos aquí son opcionales mientras no exista una 
 
 La elección concreta de especies, cantidades, fechas y parámetros pertenece a sus fichas de biología y a la documentación operativa correspondiente. Esta ficha conserva las decisiones que afectan directamente a la ocupación y evolución del aquascape.
 
+## Estado de la decisión
+
+**Adoptado:** Veril se organizará como una configuración mixta de arrecife, y cada incorporación deberá evaluarse por compatibilidad, necesidades de luz y flujo, crecimiento, interacción y carga compartida.
+
+**Previsto:** Las primeras incorporaciones serán principalmente corales y organismos coraliformes fotosintéticos, siempre después de disponer de condiciones físicas, lumínicas, hidráulicas y químicas interpretables.
+
+**Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en sus fichas y planes correspondientes. La pared viva y los medios biológicos adicionales siguen siendo decisiones sujetas a viabilidad.
+
 ## Relación entre comunidad y aquascape
 
 El aquascape disponible condiciona la biología que puede plantearse: volumen, geometría de la roca, superficie de sustrato, flujo, luz, refugios y acceso. La selección biológica partirá de esas condiciones reales, de acuerdo con la [dimensión biológica](../fichas/dimensiones/dimension-biologica.md).
@@ -16,16 +24,13 @@ La biología modificará el aquascape con el tiempo. La colonización y el creci
 
 Si una población deja de conservar las funciones físicas del diseño, el aspecto afectado se revisará en su documento propietario:
 
-- La [roca](roca.md) para la geometría, los refugios y los pasos
-- El [sustrato](sustrato.md) para la playa, el canal y el sustrato libre
+- La [dimensión espacial](espacial.md) para la geometría, los refugios, los pasos, la playa, el canal y el sustrato libre
 - La [hidráulica](hidraulica.md) para las rutas de renovación
 - La [iluminación](iluminacion.md) para la cobertura y las sombras
 
 ## Capacidad biológica y medios complementarios
 
-Si el montaje o una modificación del hardscape conlleva una pérdida sustancial de superficie colonizable o de capacidad biológica, el compartimento técnico podrá compensarla mediante roca viva, BactoFlex, canutillos cerámicos u otro medio biológico equivalente.
-
-Estos medios no forman parte de la configuración base. Su posible incorporación constituirá una decisión independiente y deberá documentarse en relación con la [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md), sin atribuir automáticamente su función al aquascape.
+Si se detecta una capacidad de procesamiento insuficiente asociada a las superficies disponibles, la necesidad de medios biológicos adicionales se evaluará en la [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md). No se incorporarán automáticamente por reducir roca ni por disponer de menos superficie aparente.
 
 ## Pared viva
 
@@ -46,8 +51,7 @@ La pared deberá conservar el canal, el espacio negativo y los elementos funcion
 
 La elección de cada organismo se realizará relacionando sus necesidades con las condiciones documentadas en:
 
-- [Roca](roca.md)
-- [Sustrato](sustrato.md)
+- [Espacial](espacial.md)
 - [Hidráulica](hidraulica.md)
 - [Iluminación](iluminacion.md)
 
@@ -64,25 +68,15 @@ La población no deberá cerrar pasos, cubrir el canal, bloquear elementos técn
 
 ## Compatibilidad entre corales fotosintéticos
 
-Los corales fotosintéticos con necesidades de PPFD diferentes no se colocarán juntos en la misma zona funcional del aquascape. La convivencia dentro del mismo display no implica que deban compartir una misma superficie, terraza o agrupación.
+La colocación de los corales fotosintéticos de Veril se decidirá después de disponer del [mapa de PPFD](iluminacion.md) y de consultar las necesidades documentadas de cada organismo. Los grupos con necesidades lumínicas incompatibles no compartirán una misma zona funcional; se utilizarán zonas separadas o se descartará la combinación si no existe una distribución espacial viable.
 
-La colocación se decidirá después de disponer del [mapa de PPFD](iluminacion.md) y de consultar las necesidades documentadas de cada organismo. Cuando los requisitos sean incompatibles, se utilizarán zonas separadas o se descartará la combinación si no existe una distribución espacial viable.
-
-Esta regla aplica a la disposición concreta de Veril. No constituye una clasificación universal de especies ni sustituye la ficha individual de cada coral.
+Esta regla pertenece a la disposición concreta de Veril y no sustituye las fichas individuales de los corales.
 
 ## Potencial de interacción agresiva
 
-Además de las necesidades de PPFD, cada coral se evaluará por su potencial de interacción agresiva con los organismos próximos. En esta documentación, el criterio incluye:
+Cada coral que se estudie incorporar a Veril se evaluará en su ficha individual por sus mecanismos de interacción, su expansión y la distancia o barrera necesaria para contenerlo. La decisión concreta deberá considerar la trayectoria previsible de crecimiento, no solo la distancia inicial.
 
-- Guerra química o liberación de compuestos que puedan afectar a otros organismos
-- Tentáculos de barrido, tentáculos urticantes o estructuras equivalentes
-- Filamentos mesentéricos u otros mecanismos de contacto agresivo
-- Crecimiento invasivo, expansión rápida o capacidad de ocupar superficies vecinas
-- Contacto físico, sombreado o bloqueo de espacio producido durante el crecimiento
-
-Los corales con mecanismos de agresión incompatibles no se colocarán juntos ni se considerarán compatibles solo porque sus necesidades de PPFD sean similares. La separación deberá considerar la trayectoria previsible de crecimiento y no únicamente la distancia inicial entre colonias.
-
-La ficha individual de cada coral deberá documentar, cuando exista información suficiente, su potencial de interacción, la distancia de seguridad necesaria y las medidas de contención previstas. Si no puede garantizarse una separación funcional dentro del aquascape, la incorporación se descartará o se revisará la composición espacial.
+Cuando no pueda garantizarse una separación funcional dentro del aquascape, la incorporación se descartará o se revisará la composición espacial. Las explicaciones generales de los mecanismos de agresión pertenecen a la dimensión biológica y a las fichas de los organismos.
 
 ## Disposición según crecimiento y restricciones
 

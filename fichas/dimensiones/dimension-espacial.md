@@ -12,7 +12,7 @@ La tesis de esta dimensión es:
 
 > El aquascape no es una decoración añadida al acuario, sino la estructura espacial que distribuye superficies, organismos, flujo, luz, refugios y acceso dentro del display.
 
-Para Veril se adopta una organización espacial funcional basada en estructura estable, espacio negativo, gradientes, refugios utilizables, crecimiento previsible y acceso suficiente. Esta línea se elige para que el aquascape pueda sostener la configuración biológica y servir de soporte a las demás dimensiones; su aplicación concreta se comprueba mediante las fichas de [roca](../../veril/roca.md), [sustrato](../../veril/sustrato.md) y las evaluaciones del sistema.
+Para Veril se adopta una organización espacial funcional basada en estructura estable, espacio negativo, gradientes, refugios utilizables, crecimiento previsible y acceso suficiente. Esta línea se elige para que el aquascape pueda sostener la configuración biológica y servir de soporte a las demás dimensiones; su aplicación concreta se comprueba mediante la ficha [espacial de Veril](../../veril/espacial.md) y las evaluaciones del sistema.
 
 Dentro del modelo integrado, esta dimensión organiza el interior del display. La infraestructura fija sus límites; la hidráulica, la iluminación y la biología determinan cómo se utilizan y evalúan sus zonas.
 

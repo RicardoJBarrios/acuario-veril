@@ -2,28 +2,21 @@
 
 ## Propósito
 
-Este directorio documenta cómo se concretan en Veril las dimensiones, la configuración biológica y las decisiones de diseño descritas en `fichas/`. El display útil es de aproximadamente **60 × 32 × 40 cm**. No contiene fichas generales reutilizables.
+Este directorio documenta las decisiones, pendientes y criterios de aceptación de la implementación vigente de Veril. No contiene fichas generales reutilizables.
 
-La definición general de cada dimensión pertenece a las fichas de [dimensiones](../fichas/dimensiones/README.md). La [dimensión espacial](../fichas/dimensiones/dimension-espacial.md), la [dimensión de infraestructura](../fichas/dimensiones/dimension-infraestructura.md), la [dimensión biológica](../fichas/dimensiones/dimension-biologica.md), la [dimensión hidráulica](../fichas/dimensiones/dimension-hidraulica.md), la [dimensión de iluminación](../fichas/dimensiones/dimension-iluminacion.md), la [dimensión química](../fichas/dimensiones/dimension-quimica.md) y la [dimensión de procesamiento](../fichas/dimensiones/dimension-procesamiento.md) establecen las restricciones que esta implementación debe satisfacer.
+La definición general pertenece al [modelo de dimensiones](../fichas/dimensiones/modelo.md) y a las [fichas de dimensiones](../fichas/dimensiones/README.md). La configuración conjunta se documenta exclusivamente en [configuracion.md](configuracion.md).
 
-Estas fichas no vuelven a explicar esas dimensiones. Registran decisiones de Veril, fuentes de diseño, pendientes y criterios de aceptación observables.
+La aplicación concreta de Química se encuentra en las [fichas de parámetros](../fichas/parametros/README.md) y en los [planes de ciclado y maduración](../ciclado/README.md). La aplicación concreta de Procesamiento se comprueba mediante su dimensión, el hardware correspondiente y esos planes operativos.
 
 ## Documentos
 
-- [Roca](roca.md): aplicación de la dimensión espacial a la composición, geometría, apoyos y estabilidad
-- [Sustrato](sustrato.md): producto, granulometría, profundidad y distribución previstas
-- [Hidráulica](hidraulica.md): aplicación de la dimensión hidráulica a bombas, retorno, rutas de flujo y comprobaciones
-- [Iluminación](iluminacion.md): aplicación de la dimensión de iluminación a luminaria, posición, cobertura, sombras y *shade*
-- [Biología](biologia.md): aplicación de las dimensiones biológica y espacial a colonización, población compatible y evolución
+- [Configuración integrada](configuracion.md): relación entre las dimensiones, decisiones conjuntas y criterios globales de aceptación
+- [Infraestructura](infraestructura.md): aplicación de la arquitectura AIO, cámaras, niveles, acceso y seguridad
+- [Espacial](espacial.md): composición rocosa, sustrato, geometría, apoyos, playa y canal
+- [Hidráulica](hidraulica.md): bombas, retorno, rutas de flujo y comprobaciones
+- [Iluminación](iluminacion.md): luminaria, posición, cobertura, sombras y *shade*
+- [Biología](biologia.md): colonización, población compatible y evolución
+- [Química](quimica.md): aplicación de la dimensión química mediante parámetros, relaciones y tendencias
+- [Procesamiento](procesamiento.md): aplicación del método Berlín, skimmer, superficies colonizadas y retirada
 
-## Responsabilidad de cada ficha
-
-Cada documento es propietario de su materia. Las relaciones con otros aspectos se expresan mediante enlaces, sin repetir explicaciones generales:
-
-- [Roca](roca.md) conserva la decisión geométrica y estructural del hardscape
-- [Sustrato](sustrato.md) conserva la decisión de sustrato, playa y canal
-- [Hidráulica](hidraulica.md) conserva la decisión de bombas, retorno y rutas de flujo
-- [Iluminación](iluminacion.md) conserva la decisión de luminaria, posición y cobertura
-- [Biología](biologia.md) conserva la decisión de colonización, población y crecimiento
-
-Las imágenes conceptuales y la composición visual se documentan en [Roca](roca.md). La integración final de las dimensiones y de estas decisiones se documentará en la ficha específica de configuración del sistema.
+Cada ficha es propietaria de su materia. Las relaciones con otros aspectos deben expresarse mediante enlaces y consecuencias concretas, sin repetir las definiciones generales ni la configuración integrada.
