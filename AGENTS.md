@@ -5,8 +5,9 @@ Estas reglas adaptan al repositorio `veril-docs` las normas editoriales comparti
 ## Organización y fuentes
 
 - Mantener separadas las fuentes, las decisiones de proyecto, los planes operativos y las fichas reutilizables
-- Mantener las decisiones específicas de Veril sobre ciclado en `ciclado/`, las del hardware en su documentación propia y los criterios transversales de configuración en `fichas/dimensiones/`
+- Mantener las decisiones y el plan específico de ciclado de Veril en `ciclado/`, la maduración en `maduracion/`, la operación recurrente en `operacion/`, las del hardware en su documentación propia y los criterios transversales de configuración en `fichas/dimensiones/`
 - Mantener la información general y reutilizable en `fichas/`
+- Mantener todas las fichas de organismos en `fichas/biologia/`; separar las aplicaciones y decisiones específicas de Veril en `fichas/biologia/veril/`
 - Usar enlaces internos relativos; no enlazar rutas absolutas de otro repositorio
 - Conservar la incertidumbre y los pendientes como tales; no convertir hipótesis, publicidad o experiencia aislada en hechos
 - Documentar las opiniones generalizadas, los debates y las críticas extendidas cuando sean relevantes, etiquetándolos como opiniones, percepción del hobby o práctica común y separándolos de los hechos verificados

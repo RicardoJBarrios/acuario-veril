@@ -129,4 +129,7 @@ Si el crecimiento altera de forma relevante el espacio disponible, la carga biol
 ## Fuentes biológicas
 
 - [Ficha de algas coralinas](../fichas/biologia/algas-coralinas.md)
-- [Sección de microfauna marina](../fichas/biologia/README.md#microfauna-marina)
+- [Ficha general de copépodos marinos](../fichas/biologia/microfauna-copepodos-marinos.md)
+- [Aplicación en Veril: copépodos marinos](../fichas/biologia/veril/microfauna-copepodos-marinos.md)
+- [Ficha general de microinvertebrados marinos](../fichas/biologia/microinvertebrados-marinos.md)
+- [Aplicación en Veril: microinvertebrados marinos](../fichas/biologia/veril/microfauna-invertebrados-marinos.md)

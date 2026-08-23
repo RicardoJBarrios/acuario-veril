@@ -16,7 +16,7 @@
 | Control | Controlador cableado incluido |
 | Comunicación de red | La web oficial enlaza una aplicación; no está confirmado que la Tourbon 60 de Veril sea compatible con ella |
 
-La Tourbon 60 es la bomba de circulación seleccionada para el display de Veril. El caudal máximo es una cifra de catálogo, no una medición de caudal útil dentro de la urna. La roca, el nivel, la orientación, la altura, la arena y los corales modificarán el movimiento real.
+La Tourbon 60 es la bomba de circulación seleccionada para el display de Veril. El caudal máximo es una cifra de catálogo, no una medición de caudal útil dentro de la urna. La roca, el nivel, la orientación, la altura, el sustrato y los corales modificarán el movimiento real.
 
 El manual público de la serie disponible describe la instalación, los modos, las protecciones y el mantenimiento, pero su tabla de parámetros muestra explícitamente las Tourbon 100 y 200 y no incluye una fila independiente para la Tourbon 60. La página oficial sí publica una tabla específica para esta variante: 24 V CC, 4.000 l/h, 3–15 W, cristal de hasta 10 mm y acuarios de 40–60 cm. Varias fichas comerciales publican **8 W** como consumo máximo, por lo que el consumo exacto se comprobará en la etiqueta y la fuente de la unidad recibida.
 
@@ -38,7 +38,7 @@ El controlador incorpora cinco modos principales:
 
 - **Flujo constante:** mantiene una salida continua con la intensidad seleccionada. Es el modo inicial más fácil de interpretar.
 - **Flujo de onda:** aumenta y reduce progresivamente la velocidad. El tiempo de subida y bajada se regula mediante el control de frecuencia.
-- **Modo pulsante:** alterna un pico de flujo con una reducción rápida hacia la potencia mínima. Puede producir una oscilación más marcada y desplazar la arena si se ajusta demasiado alto.
+- **Modo pulsante:** alterna un pico de flujo con una reducción rápida hacia la potencia mínima. Puede producir una oscilación más marcada y desplazar el sustrato si se ajusta demasiado alto.
 - **Modo aleatorio:** cambia de forma variable la velocidad y la intensidad hasta el máximo configurado. Es difícil comparar su efecto sin registrar observaciones durante un periodo suficiente.
 - **Modo ciclo:** alterna automáticamente los cuatro modos anteriores y cambia al siguiente después de diez ciclos.
 
@@ -71,16 +71,16 @@ La bomba se instalará en:
 - lateral izquierdo del display;
 - tercio superior, aproximadamente 8–12 cm bajo la superficie como punto de partida;
 - orientación inicial hacia la derecha, ligeramente hacia atrás y hacia arriba;
-- posición que cree renovación del corredor trasero sin golpear directamente la arena, el cristal opuesto o un coral.
+- posición que cree renovación del corredor trasero sin golpear directamente el sustrato, el cristal opuesto o un coral.
 
-La posición final se ajustará después de instalar la roca, la arena y el nivel operativo real. El cable y el imán deben permanecer accesibles para inspección, retirada y limpieza.
+La posición final se ajustará después de instalar la roca, el sustrato y el nivel operativo real. El cable y el imán deben permanecer accesibles para inspección, retirada y limpieza.
 
 La colocación se aceptará cuando:
 
 - la superficie presente movimiento continuo sin salpicaduras;
 - el corredor trasero reciba renovación sin crear un chorro aislado;
 - no haya zonas de detrito que permanezcan inmóviles de forma persistente;
-- la arena no se desplace continuamente ni forme cráteres;
+- el sustrato no se desplace continuamente ni forme cráteres;
 - las microislas no vibren ni reciban un flujo que desplace sus organismos;
 - el flujo no retraiga de forma sostenida a los corales ni los golpee directamente;
 - la bomba no produzca vibración anómala, ruido creciente o calentamiento excesivo.
@@ -92,7 +92,7 @@ La colocación se aceptará cuando:
 3. Conectar el adaptador de baja tensión al controlador y después a la red.
 4. Montar las dos partes del imán lentamente y de forma desplazada, evitando atrapamientos de los dedos y golpes sobre el vidrio.
 5. Comenzar en flujo constante y con la intensidad mínima que permita observar el recorrido del agua.
-6. Comprobar la superficie, el corredor trasero, la arena y las zonas protegidas.
+6. Comprobar la superficie, el corredor trasero, el sustrato y las zonas protegidas.
 7. Registrar cada cambio de intensidad, modo u orientación por separado.
 
 Los modos de pulsos, onda, aleatorio y ciclo se probarán solo después de validar la orientación básica. No se cambiarán a la vez el modo, la posición y la geometría de la roca, porque se perdería la capacidad de interpretar el efecto.
@@ -104,7 +104,7 @@ Antes de manipular la bomba se desconectará el adaptador de la red. Para la lim
 1. Retirar el imán exterior con cuidado y separar las dos partes.
 2. Extraer las tapas de los impulsores siguiendo el sentido indicado por el manual.
 3. Retirar jaulas de flujo, casquillos, gomas y rotor.
-4. Eliminar algas, carbonato, arena y detrito sin dañar el eje cerámico ni las superficies de apoyo.
+4. Eliminar algas, carbonato, sustrato y detrito sin dañar el eje cerámico ni las superficies de apoyo.
 5. Comprobar que el rotor gira libremente y que las gomas permanecen asentadas.
 6. Montar de nuevo el conjunto y probarlo en agua antes de devolverlo a su posición definitiva.
 
@@ -135,7 +135,7 @@ Por tanto, la aceptación de la unidad de Veril se basará en una prueba propia:
 - registrar consumo si se dispone de medidor;
 - observar ruido y vibración en silencio ambiental;
 - comprobar el movimiento con partículas inocuas o alimento antes de introducir animales;
-- comprobar la respuesta de la arena y de las microislas;
+- comprobar la respuesta de el sustrato y de las microislas;
 - registrar el comportamiento del controlador en modo constante y en un modo variable;
 - repetir la observación después de la primera limpieza.
 

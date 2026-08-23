@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-La maduración comienza después de cerrar el [plan de ciclado](plan-ciclado.md). Desarrolla la estabilidad ecológica posterior a la prueba del biofiltro y no constituye una segunda prueba de amonio ni una autorización automática para introducir toda la población.
+La maduración comienza después de cerrar el [plan de ciclado](../ciclado/plan.md). Desarrolla la estabilidad ecológica posterior a la prueba del biofiltro y no constituye una segunda prueba de amonio ni una autorización automática para introducir toda la población.
 
 Busca observar la colonización, la sucesión biológica, la estabilidad química y la respuesta del sistema a incorporaciones graduales.
 
@@ -61,7 +61,7 @@ Se mantiene el sistema sin nuevas incorporaciones hasta observar una tendencia e
 - Retorno, circulación, skimmer, ATO y oxigenación
 - Biofilm, turbidez, sedimentos, película, algas y olor
 
-La luz permanece apagada o en iluminación ambiental hasta que exista una finalidad biológica concreta. La configuración y la introducción de la luz se rigen por [iluminación](../../veril/iluminacion.md).
+La luz permanece apagada o en iluminación ambiental hasta que exista una finalidad biológica concreta. La configuración y la introducción de la luz se rigen por [iluminación](../veril/iluminacion.md).
 
 ### Fase B — luz y sucesión observable
 
@@ -85,7 +85,7 @@ No se introducirán varias cargas biológicas nuevas en la misma ventana de obse
 
 ## Bioseguridad
 
-Toda roca, arena, soporte, organismo o agua procedente de otro sistema puede introducir organismos no deseados. Antes de incorporarlo se registrará la procedencia y se inspeccionarán plagas, lesiones, detritos y organismos acompañantes.
+Toda roca, sustrato, soporte, organismo o agua procedente de otro sistema puede introducir organismos no deseados. Antes de incorporarlo se registrará la procedencia y se inspeccionarán plagas, lesiones, detritos y organismos acompañantes.
 
 No se contempla una pecera independiente de cuarentena y aclimatación en la configuración actual. Cada entrada de fauna requerirá una decisión sanitaria y de aclimatación específica.
 
@@ -140,9 +140,9 @@ Para cada fase o incorporación se anotarán:
 
 ## Fuentes
 
-- [Plan de ciclado](plan-ciclado.md)
-- [Método de Aquaforest](../fuentes/metodo-aquaforest.md)
-- [Método de Fritz Aquatics](../fuentes/metodo-fritz.md)
-- [Ficha de Aquaforest Reef Salt](../../fichas/productos/aquaforest-reef-salt.md)
-- [Veril: iluminación](../../veril/iluminacion.md)
-- [Veril: biología](../../veril/biologia.md)
+- [Plan de ciclado](../ciclado/plan.md)
+- [Método de Aquaforest](../ciclado/fuentes/metodo-aquaforest.md)
+- [Método de Fritz Aquatics](../ciclado/fuentes/metodo-fritz.md)
+- [Ficha de Aquaforest Reef Salt](../fichas/productos/aquaforest-reef-salt.md)
+- [Veril: iluminación](../veril/iluminacion.md)
+- [Veril: biología](../veril/biologia.md)

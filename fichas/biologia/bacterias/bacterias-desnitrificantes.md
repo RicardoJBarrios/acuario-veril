@@ -54,4 +54,4 @@ No para demostrar la nitrificación. Durante el ciclado funcional se necesita co
 
 ## Fuentes
 
-- [Ciclado sin peces](../../ciclado/fuentes/ciclado-sin-peces.md)
+- [Ciclado sin peces](../../procesos/ciclado-sin-peces.md)

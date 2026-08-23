@@ -63,7 +63,7 @@ Esta dimensión considera varias escalas de vida que se solapan dentro del siste
 
 Las bacterias, arqueas y otros microorganismos colonizan superficies, partículas y capas de biofilm. Forman una base biológica para transformaciones, competencia por recursos y relaciones tróficas posteriores. Su presencia no demuestra por sí sola una capacidad de procesamiento concreta ni una comunidad madura.
 
-La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y microorganismos](../biologia/README.md#bacterias-y-microorganismos); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](dimension-procesamiento.md), y su establecimiento temporal a los documentos de [ciclado y maduración](../../ciclado/README.md).
+La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y microorganismos](../biologia/README.md#bacterias-y-microorganismos); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](dimension-procesamiento.md), y su establecimiento temporal a los documentos de [ciclado](../../ciclado/plan.md) y [maduración](../../maduracion/plan.md).
 
 ### Microfauna y organismos crípticos
 
@@ -156,7 +156,7 @@ La configuración mixta puede coexistir con distintos complementos y condiciones
 - La filtración mecánica y los medios pertenecen a la [dimensión de procesamiento](dimension-procesamiento.md)
 - Los refugios, el sustrato y las zonas protegidas pertenecen a la [dimensión espacial](dimension-espacial.md)
 - La dosificación, la reposición y la interpretación de parámetros pertenecen a la [dimensión química](dimension-quimica.md) y a las fichas de parámetros
-- La cuarentena, la aclimatación y las ventanas de observación pertenecen a los procedimientos de incorporación y a los planes de [ciclado y maduración](../../ciclado/README.md)
+- La cuarentena, la aclimatación y las ventanas de observación pertenecen a los procedimientos de incorporación y a los planes de [ciclado](../../ciclado/plan.md) y [maduración](../../maduracion/plan.md)
 
 ## Variantes habituales
 
@@ -200,7 +200,7 @@ En consecuencia, la configuración mixta debe entenderse como la búsqueda de un
 
 - La compatibilidad no puede deducirse de que dos organismos sean habituales en acuarios de arrecife
 - Una mayor carga de peces puede aumentar las entradas de materia y nutrientes mientras determinados corales requieren márgenes estrechos de estabilidad, reduciendo el margen operativo del conjunto
-- La luz o el flujo adecuados para unos corales pueden resultar inadecuados para otros animales o para la arena
+- La luz o el flujo adecuados para unos corales pueden resultar inadecuados para otros animales o para el sustrato
 - El crecimiento de los corales puede modificar territorios, corredores y relaciones de agresión
 - Una urna pequeña ofrece menos espacio de nado, refugios y separación entre organismos
 - La alimentación necesaria para un grupo puede aumentar la carga que debe procesar el sistema
@@ -299,7 +299,7 @@ La respuesta de un sistema pequeño debe observarse con mayor frecuencia porque 
 - Competencia por alimento o refugios
 - Crecimiento que cierre corredores o invada otros organismos
 - Residuos que permanezcan después de la alimentación
-- Cambios de la arena o aparición de zonas inaccesibles
+- Cambios de el sustrato o aparición de zonas inaccesibles
 - Dificultad para observar, alimentar o retirar un animal
 
 El diseño físico de la urna, la estructura espacial, la circulación y la iluminación debe documentarse en sus fichas específicas. Esta ficha define la consecuencia de que esos elementos deban servir simultáneamente a peces, corales e invertebrados.
@@ -327,7 +327,7 @@ La dimensión biológica y su configuración mixta:
 - Usar el volumen nominal como único criterio de carga
 - Ignorar el tamaño adulto, la conducta territorial o la dieta
 - Aumentar la alimentación para sostener peces sin comprobar la capacidad de retirada del sistema
-- Aumentar la luz o el flujo para los corales sin observar la respuesta de los peces, la arena y otros organismos
+- Aumentar la luz o el flujo para los corales sin observar la respuesta de los peces, el sustrato y otros organismos
 - Introducir varios grupos a la vez sin poder atribuir los cambios a una incorporación concreta
 - Dejar que el crecimiento de los corales cierre corredores, invada territorios o bloquee el mantenimiento
 - Suponer que una comunidad diversa necesita automáticamente más animales
@@ -378,7 +378,7 @@ Debe observarse:
 
 - Movimiento y ocupación de los peces
 - Respuesta de los tejidos de los corales
-- Estabilidad de la arena
+- Estabilidad de el sustrato
 - Ausencia de zonas inaccesibles con detritos
 - Conservación de espacios libres para crecimiento
 

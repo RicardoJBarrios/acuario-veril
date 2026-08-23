@@ -392,7 +392,7 @@ La iluminación:
 
 ## Función durante el ciclado, la maduración y las transiciones
 
-La iluminación no debe utilizarse para acelerar el ciclado. Durante la maduración, la intensidad y el fotoperiodo deben introducirse de acuerdo con el plan operativo de [maduración](../../ciclado/planes/plan-maduracion.md), que documenta la aplicación concreta.
+La iluminación no debe utilizarse para acelerar el ciclado. Durante la maduración, la intensidad y el fotoperiodo deben introducirse de acuerdo con el plan operativo de [maduración](../../maduracion/plan.md), que documenta la aplicación concreta.
 
 Durante las transiciones deben registrarse los cambios de:
 

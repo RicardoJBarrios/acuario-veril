@@ -31,7 +31,7 @@ El oxígeno puede:
 - Disminuir con temperatura alta
 - Disminuir con materia orgánica en descomposición
 - Bajar en recipientes cerrados o con circulación insuficiente
-- Variar entre la superficie, el sump, la arena y zonas sin flujo
+- Variar entre la superficie, el sump, el sustrato y zonas sin flujo
 
 Una lectura puntual puede ocultar una caída nocturna o una zona local de hipoxia.
 

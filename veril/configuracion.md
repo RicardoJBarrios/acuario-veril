@@ -80,6 +80,6 @@ Una decisión prevista no debe redactarse como una propiedad demostrada. El esta
 
 - [Modelo de dimensiones](../fichas/dimensiones/modelo.md)
 - [Índice de dimensiones](../fichas/dimensiones/README.md)
-- [Plan de ciclado](../ciclado/planes/plan-ciclado.md)
-- [Plan de maduración](../ciclado/planes/plan-maduracion.md)
+- [Plan de ciclado](../ciclado/plan.md)
+- [Plan de maduración](../maduracion/plan.md)
 - [Parámetros del agua](../fichas/parametros/README.md)

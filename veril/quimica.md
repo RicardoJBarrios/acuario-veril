@@ -34,7 +34,7 @@ Una lectura puntual no cerrará por sí sola una decisión. Se registrarán el m
 
 ## Aplicación durante las fases operativas
 
-El [ciclado](../ciclado/planes/plan-ciclado.md) y la [maduración](../ciclado/planes/plan-maduracion.md) mantienen sus propios protocolos. Esta ficha solo define qué relación debe conservarse entre la química medida y la configuración de Veril.
+El [ciclado](../ciclado/plan.md) y la [maduración](../maduracion/plan.md) mantienen sus propios protocolos. Esta ficha solo define qué relación debe conservarse entre la química medida y la configuración de Veril.
 
 Antes de nuevas incorporaciones se comprobará que las tendencias químicas sean interpretables para la carga prevista. Una corrección química no se aplicará únicamente para perseguir una cifra aislada ni sustituirá la identificación de entradas, consumos, procesamiento o mantenimiento.
 

@@ -1,8 +1,8 @@
-# Microinvertebrados marinos
+# Veril: microinvertebrados marinos
 
 ## Qué es
 
-La microfauna marina de **Veril** comprende pequeños crustáceos, moluscos, equinodermos y otros invertebrados que viven sobre roca, arena, cristales y zonas protegidas del sump. Participan en el consumo de biofilm, microalgas, partículas y detrito fino, y conectan la vida microbiana con corales y peces.
+Esta ficha aplica la información general sobre [microinvertebrados marinos](../microinvertebrados-marinos.md) a la configuración de Veril.
 
 Su introducción no pretende acortar el ciclado. Responde al principio general de Veril: construir una comunidad más diversa, estable y resiliente, permitiendo que el sistema emplee el tiempo de maduración que necesite.
 
@@ -71,7 +71,7 @@ Muchos poliquetos son recicladores útiles, pero otros pueden resultar problemá
 - **Anfípodos genéricos**: El orden incluye especies con dietas y conductas diferentes
 - **Gusanos o poliquetos mixtos**: Identificación insuficiente
 - **Paquetes de biodiversidad**: Pueden importar Aiptasia, planarias, algas, cangrejos o depredadores
-- **Arena o roca de sistemas desconocidos**: Demasiada incertidumbre sanitaria
+- **Sustrato o roca de sistemas desconocidos**: Demasiada incertidumbre sanitaria
 
 ## Rotíferos y mysis
 
@@ -160,7 +160,7 @@ La opción técnicamente mejor deja de serlo si pasa varios días sin control t�
 - Esperar que controle algas o plagas
 - Comprar una mezcla con depredadores o parásitos
 - Introducir peces especialistas confiando en reposiciones periódicas
-- Limpiar simultáneamente arena, roca y sump
+- Limpiar simultáneamente sustrato, roca y sump
 - Confundir ausencia de observación diurna con ausencia real
 
 ## Encaje en Veril
@@ -205,4 +205,4 @@ La opción técnicamente mejor deja de serlo si pasa varios días sin control t�
 - Coral Evolution, [Gammarus marino](https://coral-evolution.com/producto/gammarus-acuario-marino-500ml/)
 - *Stomatella*, descrita en esta ficha como aparición aceptable desde procedencia controlada
 - *Amphipholis squamata*, descrita en esta ficha como aparición aceptable en grietas
-- [Plan de maduración](../../ciclado/planes/plan-maduracion.md)
+- [Plan de maduración](../../../maduracion/plan.md)

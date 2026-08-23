@@ -100,7 +100,7 @@ La bomba se instalará completamente sumergida en la cámara de retorno, sobre u
 La instalación deberá cumplir:
 
 - Mantener la bomba sumergida durante el funcionamiento
-- Evitar que aspire arena, caracoles, algas, trozos de roca o detrito grande
+- Evitar que aspire sustrato, caracoles, algas, trozos de roca o detrito grande
 - Mantener accesibles la entrada, la esponja, el rotor y la conexión de salida
 - Utilizar el tubo y el adaptador sin forzar la salida de la bomba
 - Evitar curvas cerradas, estrangulamientos y tramos innecesariamente largos
@@ -112,7 +112,7 @@ La regulación se iniciará en una posición baja y se aumentará gradualmente h
 
 ## Puesta en marcha y validación
 
-1. Limpiar la cámara de retorno y comprobar que no contiene arena ni partículas sueltas
+1. Limpiar la cámara de retorno y comprobar que no contiene sustrato ni partículas sueltas
 2. Revisar que la bomba, el cable, las ventosas, la esponja y el adaptador no presentan daños
 3. Colocar la bomba completamente sumergida y con la aspiración libre
 4. Conectar el tubo de retorno y comprobar que no queda doblado ni estrangulado

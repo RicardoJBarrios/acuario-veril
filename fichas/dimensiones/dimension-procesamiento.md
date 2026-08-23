@@ -74,7 +74,7 @@ El diagrama representa funciones relacionadas, no una secuencia única ni una pr
 
 ### Superficie biológica colonizada
 
-El procesamiento biológico del Berlín no reside en un aparato concreto. Se distribuye entre las superficies sumergidas del sistema y las comunidades que las colonizan, aunque no todos los organismos ni todos los procesos que ocurren sobre ellas forman parte de la nitrificación. Las superficies relevantes incluyen roca, arena, paredes, tuberías y, cuando existen, medios biológicos adicionales.
+El procesamiento biológico del Berlín no reside en un aparato concreto. Se distribuye entre las superficies sumergidas del sistema y las comunidades que las colonizan, aunque no todos los organismos ni todos los procesos que ocurren sobre ellas forman parte de la nitrificación. Las superficies relevantes incluyen roca, sustrato, paredes, tuberías y, cuando existen, medios biológicos adicionales.
 
 La roca tiene una importancia especial porque combina varias funciones, documentadas también en las dimensiones [biológica](dimension-biologica.md) y [espacial](dimension-espacial.md):
 
@@ -141,13 +141,13 @@ Su rendimiento depende, entre otros factores, de:
 
 El tamaño nominal del skimmer es una característica del equipo y no una garantía de rendimiento en cualquier instalación. La cantidad o el color del skimmate tampoco constituyen por sí solos una medida de la calidad del agua.
 
-Durante el ciclado, el uso del skimmer y de otros mecanismos de exportación debe seguir el plan operativo y las instrucciones del producto utilizado. Esta dimensión solo distingue qué función de procesamiento queda activa o temporalmente limitada; la secuencia concreta pertenece al [plan de ciclado y maduración](../../ciclado/README.md).
+Durante el ciclado, el uso del skimmer y de otros mecanismos de exportación debe seguir el plan operativo y las instrucciones del producto utilizado. Esta dimensión solo distingue qué función de procesamiento queda activa o temporalmente limitada; la secuencia concreta pertenece al [plan de ciclado](../../ciclado/plan.md) y al [plan de maduración](../../maduracion/plan.md).
 
 ## Exportación y mantenimiento
 
 ### Detritos y mantenimiento físico
 
-No toda la materia permanece disuelta ni llega al skimmer. Parte termina depositándose entre las rocas, sobre la arena, en cámaras técnicas o en zonas de bajo flujo. Allí puede continuar degradándose y devolver compuestos disueltos al agua.
+No toda la materia permanece disuelta ni llega al skimmer. Parte termina depositándose entre las rocas, sobre el sustrato, en cámaras técnicas o en zonas de bajo flujo. Allí puede continuar degradándose y devolver compuestos disueltos al agua.
 
 Incluso un Berlín sin filtración mecánica permanente necesita una estrategia para los sólidos. Puede consistir en:
 
@@ -176,13 +176,13 @@ Calcetines, perlón, esponjas o rollers pueden concentrar partículas y facilita
 
 Si un medio mecánico permanece cargado demasiado tiempo, parte de los sólidos retenidos continuará degradándose dentro del propio filtro. La cuestión relevante no es si un Berlín debe tener filtración mecánica, sino qué sólidos se quieren retirar, dónde se concentrarán y con qué frecuencia saldrán del sistema.
 
-### Arena
+### Sustrato
 
-La arena es compatible con el Berlín. Puede proporcionar sustrato para determinados organismos, superficie colonizable, hábitat para microfauna y una función paisajística.
+La sustrato es compatible con el Berlín. Puede proporcionar sustrato para determinados organismos, superficie colonizable, hábitat para microfauna y una función paisajística.
 
-Una capa fina de arena no debe confundirse con una cama profunda diseñada específicamente para desnitrificación. Los sistemas DSB o diseños equivalentes introducen requisitos propios de profundidad, granulometría, flujo, estabilidad, fauna y funcionamiento biológico, por lo que constituyen una decisión adicional.
+Una capa fina de sustrato no debe confundirse con una cama profunda diseñada específicamente para desnitrificación. Los sistemas DSB o diseños equivalentes introducen requisitos propios de profundidad, granulometría, flujo, estabilidad, fauna y funcionamiento biológico, por lo que constituyen una decisión adicional.
 
-La presencia de arena tampoco convierte automáticamente el sistema en un método Jaubert.
+La presencia de sustrato tampoco convierte automáticamente el sistema en un método Jaubert.
 
 ### Medios biológicos adicionales
 
@@ -286,7 +286,7 @@ Las críticas deben distinguirse de los fallos de aplicación. Algunas cuestiona
 - **Riesgo de sobreexportación**: El skimming intenso combinado con una carga reducida u otros mecanismos de exportación puede llevar a una disponibilidad de nutrientes inferior a la adecuada para la comunidad mantenida. No es una consecuencia necesaria ni exclusiva del Berlín, sino un desequilibrio entre entradas, consumo y exportación
 - **Acumulación oculta**: Se critica que el rechazo de la filtración mecánica permanente puede convertirse en una acumulación de sólidos detrás de la roca o en el sump si se interpreta como permiso para no retirar detritos
 - **Coste y complejidad real**: Aunque la receta se describe a veces como sencilla, un arrecife Berlín moderno puede requerir sump, skimmer, bombas, iluminación intensa, reposición automática, control de temperatura y dosificación. La sencillez biológica no equivale necesariamente a bajo coste o bajo mantenimiento
-- **Naturalidad discutible**: Frente a sistemas con refugios, camas de arena o cultivo de macroalgas, se critica que el Berlín prioriza la exportación técnica y la accesibilidad sobre la reproducción de una red trófica completa. Se trata principalmente de una diferencia de objetivos y de filosofía de diseño, no de un criterio objetivo de eficacia
+- **Naturalidad discutible**: Frente a sistemas con refugios, camas de sustrato o cultivo de macroalgas, se critica que el Berlín prioriza la exportación técnica y la accesibilidad sobre la reproducción de una red trófica completa. Se trata principalmente de una diferencia de objetivos y de filosofía de diseño, no de un criterio objetivo de eficacia
 
 Estas críticas no invalidan el método, pero obligan a declarar qué se espera de él, qué se exporta realmente y qué trabajo manual o técnico acompaña a la arquitectura.
 
@@ -388,7 +388,7 @@ El Berlín:
 - No exige una cantidad universal de roca por litro
 - No exige una cifra universal de circulación
 - No exige un refugio
-- No exige una cama profunda de arena
+- No exige una cama profunda de sustrato
 - No exige filtración mecánica permanente
 - No implica ausencia de mantenimiento
 - No garantiza desnitrificación por utilizar roca porosa
@@ -409,7 +409,7 @@ Sobre todo, el Berlín describe cómo se organiza el sistema; no demuestra por s
 
 ## Función del Berlín durante el ciclado y la maduración
 
-El método Berlín y el ciclado responden a preguntas diferentes. El Berlín define las funciones de procesamiento y exportación; el [plan de ciclado y maduración](../../ciclado/README.md) comprueba cómo se desarrolla y responde la capacidad biológica del sistema.
+El método Berlín y el ciclado responden a preguntas diferentes. El Berlín define las funciones de procesamiento y exportación; el [plan de ciclado](../../ciclado/plan.md) y el [plan de maduración](../../maduracion/plan.md) comprueban cómo se desarrolla y responde la capacidad biológica del sistema.
 
 Durante esas fases deben quedar identificadas las superficies que actuarán como soporte de transformación, los mecanismos de exportación activos y los cambios que puedan alterar su función. La evolución de biofilms, comunidades y microfauna pertenece a la [dimensión biológica](dimension-biologica.md), mientras que la composición resultante se interpreta en la [dimensión química](dimension-quimica.md).
 
@@ -480,7 +480,7 @@ La evaluación debe basarse en tendencias y en la respuesta del sistema, no en i
 | Exportación complementaria | Cambios de agua y retirada de detritos |
 | Conexión hidráulica | Superficies activas y mecanismos de exportación conectados por las condiciones definidas en la [dimensión hidráulica](dimension-hidraulica.md) |
 | Filtración mecánica | Compatible, pero no obligatoria |
-| Arena | Compatible, pero no equivalente a un DSB o sistema Jaubert |
+| Sustrato | Compatible, pero no equivalente a un DSB o sistema Jaubert |
 | Biomedia adicional | Opcional y dependiente de una necesidad concreta |
 | Refugio | Complemento opcional que solo exporta biomasa cuando crece y se cosecha |
 | Roca seca o artificial | Compatible, pero requiere colonización y maduración |

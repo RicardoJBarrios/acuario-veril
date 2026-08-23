@@ -6,7 +6,7 @@ Este directorio documenta las decisiones, pendientes y criterios de aceptación 
 
 La definición general pertenece al [modelo de dimensiones](../fichas/dimensiones/modelo.md) y a las [fichas de dimensiones](../fichas/dimensiones/README.md). La configuración conjunta se documenta exclusivamente en [configuracion.md](configuracion.md).
 
-La aplicación concreta de Química se encuentra en las [fichas de parámetros](../fichas/parametros/README.md) y en los [planes de ciclado y maduración](../ciclado/README.md). La aplicación concreta de Procesamiento se comprueba mediante su dimensión, el hardware correspondiente y esos planes operativos.
+La aplicación concreta de Química se encuentra en las [fichas de parámetros](../fichas/parametros/README.md), el [plan de ciclado](../ciclado/plan.md) y el [plan de maduración](../maduracion/plan.md). La aplicación concreta de Procesamiento se comprueba mediante su dimensión, el hardware correspondiente y esos planes operativos.
 
 ## Documentos
 
@@ -20,3 +20,5 @@ La aplicación concreta de Química se encuentra en las [fichas de parámetros](
 - [Procesamiento](procesamiento.md): aplicación del método Berlín, skimmer, superficies colonizadas y retirada
 
 Cada ficha es propietaria de su materia. Las relaciones con otros aspectos deben expresarse mediante enlaces y consecuencias concretas, sin repetir las definiciones generales ni la configuración integrada.
+
+Las fichas específicas de microfauna se encuentran en [`fichas/biologia/veril/`](../fichas/biologia/veril/); sus funciones generales pertenecen a las fichas de referencia de `fichas/biologia/`.

@@ -2,7 +2,7 @@
 
 ## Qué es
 
-Las algas coralinas son algas rojas calcificadas que crecen sobre roca, arena compactada, cristales, equipos y otros sustratos duros. Las formas más habituales en el acuario son costras rosas, violetas, rojas, verdes o blanquecinas que se adhieren firmemente a la superficie; no son corales ni forman pólipos.
+Las algas coralinas son algas rojas calcificadas que crecen sobre roca, sustrato compactado, cristales, equipos y otros sustratos duros. Las formas más habituales en el acuario son costras rosas, violetas, rojas, verdes o blanquecinas que se adhieren firmemente a la superficie; no son corales ni forman pólipos.
 
 Su interés principal es ecológico y estructural. Pueden ocupar superficies desnudas, contribuir a la consolidación de sustratos carbonatados y ofrecer una cobertura propia de un arrecife maduro. En un acuario no deben tratarse como un producto de limpieza, una prueba de ciclado completado ni una solución para un problema de algas.
 
@@ -107,4 +107,4 @@ La cobertura no debe bloquear la limpieza de cristales, bombas, sensores, rebosa
 - Tebben et al., [Chemical mediation of coral larval settlement by crustose coralline algae](https://pmc.ncbi.nlm.nih.gov/articles/PMC4650656/), sobre señales asociadas al asentamiento de larvas
 - [Coralline Algae, What Is It And How To Grow It](https://reefbuilders.com/2017/01/26/coralline-algae-the-best-ways-to-grow-it/), orientación práctica sobre inoculación y crecimiento en acuario
 - Bulk Reef Supply, [Top 5 Questions on Dry Live Rock for Reef Aquariums](https://www.bulkreefsupply.com/top-5-questions-on-dry-live-rock-for-reef-aquariums), sobre inoculación desde roca, plugs y soportes colonizados
-- Criterios internos de Veril en el [plan de maduración](../../ciclado/planes/plan-maduracion.md)
+- Criterios internos de Veril en el [plan de maduración](../../maduracion/plan.md)

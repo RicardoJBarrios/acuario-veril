@@ -22,7 +22,7 @@ Son necesarias para evitar que el nitrito producido por los oxidantes de amonio 
 
 ## Dónde viven
 
-Se encuentran en roca, arena, medios biológicos, tuberías y otras superficies húmedas con flujo. Su distribución depende del oxígeno, el nitrito disponible y la competencia con otros microorganismos.
+Se encuentran en roca, sustrato, medios biológicos, tuberías y otras superficies húmedas con flujo. Su distribución depende del oxígeno, el nitrito disponible y la competencia con otros microorganismos.
 
 ## Velocidad y condiciones
 
@@ -56,4 +56,4 @@ Aportar nitrito de forma indirecta mediante una carga de amonio controlada, mant
 ## Fuentes
 
 - [Aquaforest: Bio S](https://aquaforest.eu/en/products/seawater/probiotic-method/bio-s/)
-- [Ciclado sin peces](../../ciclado/fuentes/ciclado-sin-peces.md)
+- [Ciclado sin peces](../../procesos/ciclado-sin-peces.md)

@@ -45,4 +45,4 @@ Controlar las entradas orgánicas, retirar detritos, mantener oxigenación y evi
 
 ## Fuentes
 
-- [Ciclado sin peces](../../ciclado/fuentes/ciclado-sin-peces.md)
+- [Ciclado sin peces](../../procesos/ciclado-sin-peces.md)

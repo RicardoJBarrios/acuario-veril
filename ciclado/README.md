@@ -1,19 +1,20 @@
-# Ciclado y maduración de Veril
+# Ciclado de Veril
 
 ## Propósito
 
-Este directorio separa la evidencia metodológica, las decisiones de arranque y los planes operativos de Veril.
+Este directorio reúne la evidencia metodológica, las decisiones de arranque y el plan específico de ciclado de Veril. La explicación general está en la [ficha de ciclado](../fichas/procesos/ciclado.md) y la fase posterior tiene su propia documentación en [maduración](../maduracion/README.md).
 
 ## Estructura
 
 ### Fuentes
 
-- [Ciclado sin peces](fuentes/ciclado-sin-peces.md)
 - [Método de Dr. Tim Hovanec](fuentes/metodo-dr-tim.md)
 - [Método de Aquaforest](fuentes/metodo-aquaforest.md)
 - [Método de Fritz Aquatics](fuentes/metodo-fritz.md)
 
 Estas fuentes describen métodos, resultados y límites de transferencia. No fijan por sí solas la configuración de Veril.
+
+La variante general de ciclado sin peces está documentada en [la ficha de procesos correspondiente](../fichas/procesos/ciclado-sin-peces.md).
 
 ### Decisiones
 
@@ -21,14 +22,13 @@ Estas fuentes describen métodos, resultados y límites de transferencia. No fij
 
 Este documento fija la receta elegida, sus condiciones, exclusiones y pendientes.
 
-### Planes
+### Plan
 
-- [Plan de ciclado](planes/plan-ciclado.md): prueba funcional del biofiltro
-- [Plan de maduración](planes/plan-maduracion.md): estabilidad ecológica e incorporación gradual
+- [Plan de ciclado](plan.md): prueba funcional del biofiltro
 
 ## Relación entre las fases
 
-`montaje técnico → ciclado sin peces → maduración → incorporación gradual → mantenimiento estable`
+`montaje técnico → ciclado sin peces → maduración → incorporación gradual → operación estable`
 
 El ciclado demuestra una capacidad nitrificante frente a una carga conocida. La maduración posterior observa la estabilidad del sistema, la colonización, la sucesión biológica y la respuesta a incorporaciones pequeñas.
 

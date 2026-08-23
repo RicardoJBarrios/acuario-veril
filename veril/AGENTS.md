@@ -18,7 +18,7 @@
 - Documentar los criterios de aceptación observables para cada decisión
 - Mantener las decisiones de población y organismos concretos en sus fichas propias, salvo cuando afecten directamente a la ocupación del display y a la implementación de Veril
 - Documentar la aplicación concreta de Química mediante las fichas de parámetros y los planes operativos, y la de Procesamiento mediante sus fichas de dimensión, hardware y ciclado o maduración
-- Mantener el ciclado y la maduración en `ciclado/` como documentación operativa separada; `veril/` solo define las condiciones que esos planes deben comprobar
+- Mantener el ciclado en `ciclado/` y la maduración en `maduracion/` como documentación operativa separada; `veril/` solo define las condiciones que esos planes deben comprobar
 
 ## Redacción y comprobación
 

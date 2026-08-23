@@ -59,16 +59,16 @@ No se debe añadir amoníaco doméstico salvo que se haya demostrado que es amon
 
 ### 4.3 Amonio ya presente
 
-La arena viva o inoculada puede aportar amonio durante las primeras horas. Antes de añadir cloruro de amonio se debe medir el agua. Si ya contiene amonio, la dosis se reduce o se omite según la lectura y la receta aplicada.
+La sustrato vivo o inoculada puede aportar amonio durante las primeras horas. Antes de añadir cloruro de amonio se debe medir el agua. Si ya contiene amonio, la dosis se reduce o se omite según la lectura y la receta aplicada.
 
-Cuando se utilice arena viva o inoculada, se tratará como una posible fuente inicial de amonio y nutrientes: primero se medirá y después se decidirá la carga adicional.
+Cuando se utilice sustrato vivo o inoculada, se tratará como una posible fuente inicial de amonio y nutrientes: primero se medirá y después se decidirá la carga adicional.
 
 ## 5. Ruta con One & Only
 
 ### Día 1
 
 1. Montar acuario, circulación, calentador y medio biológico
-2. Dejar el agua funcionando y estabilizarse; con arena viva o inoculada, respetar el periodo de espera indicado por el producto
+2. Dejar el agua funcionando y estabilizarse; con sustrato vivo o inoculada, respetar el periodo de espera indicado por el producto
 3. Medir el amonio antes de dosificar
 4. Añadir la cantidad de cloruro de amonio que lleve aproximadamente a 2 ppm de NH3-N, sin perseguir una cifra exacta a costa de sobredosificar
 5. Agitar bien One & Only y añadirlo al acuario o al sump

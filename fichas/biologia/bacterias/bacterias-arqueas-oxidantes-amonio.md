@@ -12,7 +12,7 @@ La reacción funcional es la misma etapa inicial de la nitrificación:
 
 - Transforman nitrógeno amoniacal en nitrito
 - Consumen oxígeno y contribuyen al consumo de alcalinidad
-- Forman parte de biofilms en roca, arena, medios y superficies húmedas
+- Forman parte de biofilms en roca, sustrato, medios y superficies húmedas
 
 No eliminan nitrógeno del sistema ni sustituyen a los oxidantes de nitrito.
 

@@ -104,7 +104,7 @@ Se conservarán:
 El sistema no sustituye:
 
 - La inspección del movimiento superficial y del corredor trasero
-- La comprobación de arena desplazada o zonas de detrito
+- La comprobación de sustrato desplazado o zonas de detrito
 - La limpieza del rotor y de las jaulas de flujo
 - La revisión del controlador, el adaptador y los conectores
 - La protección eléctrica y frente a salpicaduras

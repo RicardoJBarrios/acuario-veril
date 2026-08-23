@@ -44,4 +44,4 @@ Conviven con oxidantes de amonio, oxidantes de nitrito, arqueas y bacterias hete
 ## Fuentes
 
 - [Comammox Nitrospira en biofiltros de acuarios](https://pmc.ncbi.nlm.nih.gov/articles/PMC11267875/)
-- [Ciclado sin peces](../../ciclado/fuentes/ciclado-sin-peces.md)
+- [Ciclado sin peces](../../procesos/ciclado-sin-peces.md)

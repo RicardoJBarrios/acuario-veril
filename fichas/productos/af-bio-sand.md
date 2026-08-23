@@ -2,7 +2,7 @@
 
 ## Qué es
 
-AF Bio Sand es una arena marina de carbonato de calcio comercializada con dos preparados para su activación. El fabricante la presenta como sustrato y como soporte de colonización microbiana para acuarios marinos.
+AF Bio Sand es un sustrato marina de carbonato de calcio comercializada con dos preparados para su activación. El fabricante la presenta como sustrato y como soporte de colonización microbiana para acuarios marinos.
 
 ## Funciones
 
@@ -11,7 +11,7 @@ AF Bio Sand es una arena marina de carbonato de calcio comercializada con dos pr
 - Proporcionar una vía de inoculación asociada a la activación
 - Aportar material calcáreo al sistema
 
-La arena no equivale a roca viva madura, microfauna establecida ni un biofiltro validado.
+La sustrato no equivale a roca viva madura, microfauna establecida ni un biofiltro validado.
 
 ## Datos documentados
 
@@ -25,18 +25,18 @@ El fabricante no publica una lista completa de especies bacterianas, concentraci
 
 ## Composición conocida y desconocida
 
-La parte mineral declarada es arena natural de carbonato de calcio. Los dos preparados aportan cepas nitrificantes aisladas en laboratorio y un nutriente para su desarrollo, según Aquaforest.
+La parte mineral declarada es sustrato natural de carbonato de calcio. Los dos preparados aportan cepas nitrificantes aisladas en laboratorio y un nutriente para su desarrollo, según Aquaforest.
 
-No se publican los taxones, cepas, recuentos viables, composición del nutriente ni controles de liberación por lote. Por ello la activación de la arena se trata como una entrada auxiliar de superficie y biología, no como un inoculante cuya carga pueda compararse con otra botella.
+No se publican los taxones, cepas, recuentos viables, composición del nutriente ni controles de liberación por lote. Por ello la activación de el sustrato se trata como una entrada auxiliar de superficie y biología, no como un inoculante cuya carga pueda compararse con otra botella.
 
 ## Preparación general
 
-1. Aclarar la arena con agua RO/DI si la etiqueta lo indica
+1. Aclarar el sustrato con agua RO/DI si la etiqueta lo indica
 2. Mezclar los dos preparados en el volumen de agua salada indicado
-3. Incorporar la mezcla a la arena
+3. Incorporar la mezcla a el sustrato
 4. Mantener el recipiente abierto durante el tiempo de activación
 5. Respetar la temperatura indicada
-6. Introducir la arena de forma controlada
+6. Introducir el sustrato de forma controlada
 
 No se debe usar agua clorada para activar un producto bacteriano. Si se fracciona el saco, también deben fraccionarse correctamente los preparados; no es recomendable hacerlo a ojo.
 
@@ -66,13 +66,13 @@ Riesgos principales:
 - Activación con agua clorada
 - Cierre hermético durante la activación
 - Exceso de profundidad
-- Colocar roca inestable sobre arena móvil
-- Interpretar la arena activada como un ciclado terminado
+- Colocar roca inestable sobre sustrato móvil
+- Interpretar el sustrato activada como un ciclado terminado
 - Remover toda la cama de una vez
 
 ## Conservación
 
-Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. La arena y los preparados deben conservarse según sus instrucciones; no se debe asumir que un producto abierto mantiene indefinidamente la viabilidad declarada.
+Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. La sustrato y los preparados deben conservarse según sus instrucciones; no se debe asumir que un producto abierto mantiene indefinidamente la viabilidad declarada.
 
 ## Fuentes
 

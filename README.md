@@ -4,7 +4,7 @@ Repositorio de documentación técnica del acuario marino Veril. El contenido es
 
 ## Descripción de Veril
 
-Veril es un acuario marino de pequeño volumen, construido como una urna AIO artesanal tipo península. Cuenta con un display aproximado de **60 × 32 × 40 cm** y un compartimento técnico lateral integrado. El proyecto contempla un aquascape asimétrico de roca inerte y arena, circulación y retorno independientes, iluminación suspendida y una evolución biológica gradual. El agua se preparará mediante ósmosis inversa y sal **Aquaforest Reef Salt**.
+Veril es un acuario marino de pequeño volumen, construido como una urna AIO artesanal tipo península. Cuenta con un display aproximado de **60 × 32 × 40 cm** y un compartimento técnico lateral integrado. El proyecto contempla un aquascape asimétrico de roca inerte y sustrato, circulación y retorno independientes, iluminación suspendida y una evolución biológica gradual. El agua se preparará mediante ósmosis inversa y sal **Aquaforest Reef Salt**.
 
 Este repositorio centraliza las decisiones de diseño y configuración de Veril, la documentación del hardware y los productos, los planes de ciclado y maduración, y el seguimiento de las comprobaciones y cambios del sistema. Las decisiones vigentes, los pendientes y los límites conocidos deben quedar documentados aquí para conservar una referencia única del proyecto.
 
@@ -17,8 +17,15 @@ Agradezco a Elite Reef Kanarias el asesoramiento y el apoyo prestados durante la
 ## Índice
 
 - [Implementación de Veril](veril/README.md): decisiones concretas de espacio, sustrato, flujo, iluminación y biología
-- [Ciclado y maduración](ciclado/README.md): arranque y evolución inicial
-- [Fichas](fichas/README.md): hardware, productos, parámetros, biología y métodos
+- [Ciclado](ciclado/README.md): evidencia, decisiones y plan de arranque
+- [Maduración](maduracion/README.md): evolución biológica posterior al ciclado
+- [Operación](operacion/README.md): procedimientos recurrentes de mantenimiento, seguimiento y respuesta
+- [Fichas](fichas/README.md): hardware, productos, parámetros, biología, procesos, historia y dimensiones
+- [Contribución](CONTRIBUTING.md): criterios para ampliar o corregir la documentación
+
+## Repositorio privado opcional
+
+El directorio `privado/` es un submódulo independiente para documentación comercial y personal. No forma parte del contenido público necesario para utilizar este repositorio y requiere permisos propios para clonarse o actualizarse.
 
 ## Principios documentales
 

@@ -28,7 +28,7 @@ El método completo combina:
 
 ## Pautas publicadas
 
-- AF Bio Sand: mezclar el contenido de los dos preparados con 3 L de agua salada, dejar la arena 24 h a 25–28 °C y añadirla después gradualmente
+- AF Bio Sand: mezclar el contenido de los dos preparados con 3 L de agua salada, dejar el sustrato 24 h a 25–28 °C y añadirla después gradualmente
 - AF Life Bio Fil: 250 ml por 100 L en el método Kickstart, colocado en una zona del sump con buen flujo
 - Bio S: 1 gota por 100 L cada día durante los primeros 14 días
 - AF Life Source: 10 ml por 100 L una vez por semana; puede producir turbidez temporal
@@ -39,12 +39,12 @@ Las cantidades se recalculan sobre el volumen neto real. Un volumen cercano a 90
 
 El Kickstart completo es una estrategia comercial integrada y no obliga a utilizar todos sus componentes en cualquier acuario. AF Life Bio Fil requiere una zona de buen flujo y no debe comprimirse, enterrarse ni convertirse en un depósito de detritos. AF Life Source no demuestra la nitrificación ni sustituye una fuente controlada de amonio. AF Rock puede sustituirse por otra superficie adecuada.
 
-No se deben añadir simultáneamente otros cultivos bacterianos o fuentes de carbono para “crear más diversidad” sin revisar la estrategia. La arena y el medio nutritivo de AF Bio Sand no sustituyen la prueba de carga. La turbidez temporal de AF Bio Sand o AF Life Source no debe corregirse automáticamente con filtración mecánica fina.
+No se deben añadir simultáneamente otros cultivos bacterianos o fuentes de carbono para “crear más diversidad” sin revisar la estrategia. La sustrato y el medio nutritivo de AF Bio Sand no sustituyen la prueba de carga. La turbidez temporal de AF Bio Sand o AF Life Source no debe corregirse automáticamente con filtración mecánica fina.
 
 ## Secuencia Aquaforest
 
 1. Preparar AF Bio Sand en las condiciones indicadas
-2. Colocar la roca y la arena sin comprometer el flujo
+2. Colocar la roca y el sustrato sin comprometer el flujo
 3. Instalar AF Life Bio Fil solo si se adopta el Kickstart completo y existe una posición adecuada
 4. Mantener retorno y movimiento activos
 5. Añadir Bio S durante los primeros 14 días según el volumen y el envase

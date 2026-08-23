@@ -76,4 +76,4 @@ Elite Reef Kanarias muestra el producto en su catálogo. La disponibilidad debe 
 - [Elite Reef Kanarias: Fritz Fishless Fuel](https://www.elitereefkanarias.es/es/bacterias/4628-fritz-fishless-fuel.html)
 - [Fritz Aquatics: Fritz Fishless Fuel](https://fritzaquatics.com/products/fritz-fishless-fuel)
 - [Fritz: SDS de Fishless Fuel](https://fritzaquatics.com/assets/files/uploads/Fishless_Fuel_082720.pdf)
-- [Plan de ciclado](../../ciclado/planes/plan-ciclado.md)
+- [Plan de ciclado](../../ciclado/plan.md)

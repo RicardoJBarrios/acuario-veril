@@ -31,7 +31,7 @@ La capacidad de procesamiento dependerá de:
 - La carga de materia introducida por alimentación, organismos y mantenimiento
 - La estabilidad química y la continuidad de las condiciones de trabajo
 
-El ciclado comprobará una capacidad nitrificante frente a una carga conocida. La maduración observará la respuesta del conjunto y no será sustituida por esta ficha. Ambos documentos se mantienen en [ciclado y maduración](../ciclado/README.md).
+El ciclado comprobará una capacidad nitrificante frente a una carga conocida. La maduración observará la respuesta del conjunto y no será sustituida por esta ficha. Los protocolos se mantienen en el [plan de ciclado](../ciclado/plan.md) y el [plan de maduración](../maduracion/plan.md).
 
 ## Criterios de aceptación
 

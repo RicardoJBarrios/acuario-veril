@@ -27,7 +27,7 @@ El nitrato puede:
 
 - Aumentar por nitrificación, alimentación y descomposición
 - Disminuir por cambios de agua, asimilación biológica, desnitrificación o exportación
-- Quedar temporalmente retenido en roca, arena o biomasa
+- Quedar temporalmente retenido en roca, sustrato o biomasa
 - Aparecer bajo aunque exista nitrógeno en otras formas
 - Mostrar una tendencia distinta a la del fosfato
 

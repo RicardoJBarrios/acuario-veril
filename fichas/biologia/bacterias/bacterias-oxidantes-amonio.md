@@ -22,7 +22,7 @@ No eliminan el nitrógeno del sistema: lo transforman en otra forma.
 
 ## Dónde viven
 
-Pueden colonizar roca, arena, cerámica, plástico, paredes, tuberías y otros medios. La mayor parte de la actividad se encuentra en biofilms, no necesariamente en el agua libre.
+Pueden colonizar roca, sustrato, cerámica, plástico, paredes, tuberías y otros medios. La mayor parte de la actividad se encuentra en biofilms, no necesariamente en el agua libre.
 
 La cantidad de superficie, el flujo, la oxigenación y la disponibilidad de amonio condicionan su abundancia.
 
@@ -68,4 +68,4 @@ Superficies estables, circulación, oxígeno, carga de amonio conocida y ausenci
 
 - [Aquaforest: Bio S](https://aquaforest.eu/en/products/seawater/probiotic-method/bio-s/)
 - [Aquaforest: AF Bio Sand](https://aquaforest.eu/en/products/seawater/aquascaping/af-bio-sand/)
-- [Ciclado sin peces](../../ciclado/fuentes/ciclado-sin-peces.md)
+- [Ciclado sin peces](../../procesos/ciclado-sin-peces.md)

@@ -94,7 +94,7 @@ La instalación se aceptará después de:
 5. Configurar la aplicación, conceder los permisos necesarios y actualizar el firmware si se solicita
 6. Registrar la programación inicial, el estado de Fan Shutdown y el consumo eléctrico
 7. Comprobar temperatura, ventilador, ruido, salpicaduras, condensación y posibles reflejos
-8. Medir PAR en la cumbre, las terrazas, las microislas, la arena, los bordes y las zonas sombreadas
+8. Medir PAR en la cumbre, las terrazas, las microislas, el sustrato, los bordes y las zonas sombreadas
 9. Comprobar y registrar la altura real, y ajustar orientación, shade o intensidad a partir del mapa obtenido
 10. Guardar la configuración aceptada y relacionarla con la ubicación de los organismos
 

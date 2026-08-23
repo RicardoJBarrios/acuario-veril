@@ -72,7 +72,7 @@ La configuración deberá conservar:
 - Relación observable entre la cobertura y las superficies que se decidan ocupar
 - Mapa de PPFD disponible para clasificar las zonas antes de colocar corales fotosintéticos
 
-La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporación progresiva pertenece al [plan de maduración](../ciclado/planes/plan-maduracion.md).
+La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporación progresiva pertenece al [plan de maduración](../maduracion/plan.md).
 
 ## Relaciones con otras decisiones de Veril
 

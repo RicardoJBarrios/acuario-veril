@@ -20,9 +20,10 @@ AF Bio Sand se considera sustrato preparado y superficie inicial, no un segundo 
 
 ## Condiciones de la decisión
 
-- La cadena de frío y la fecha del TurboStart deberán poder verificarse antes de iniciar
+- Las condiciones de conservación, la caducidad y la trazabilidad del TurboStart deberán poder verificarse antes de iniciar, según su ficha de producto
 - El volumen operativo real se medirá antes de calcular las dosis
 - La concentración declarada del Fishless Fuel se contrastará con el test disponible
+- La unidad de la carga y la equivalencia con la lectura del test se fijarán antes de dosificar
 - La prueba utilizará una sola inoculación comercial adicional
 - La capacidad se demostrará mediante cargas medidas, no por la claridad del agua ni por el número de días
 
@@ -48,7 +49,7 @@ Las fuentes comparativas no permiten declarar una receta universalmente superior
 
 ## Aplicación
 
-La ejecución, las cargas, las mediciones y las puertas de decisión están en el [plan de ciclado](../planes/plan-ciclado.md). La evolución posterior corresponde al [plan de maduración](../planes/plan-maduracion.md).
+La ejecución, las cargas, las mediciones y las puertas de decisión están en el [plan de ciclado](../plan.md). La evolución posterior corresponde al [plan de maduración](../../maduracion/plan.md).
 
 ## Fuentes locales
 
