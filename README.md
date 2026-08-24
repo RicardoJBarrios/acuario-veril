@@ -4,11 +4,11 @@ Repositorio de documentación técnica del acuario marino Veril. El contenido es
 
 ## Descripción de Veril
 
-Veril es un acuario marino de pequeño volumen, construido como una urna AIO artesanal tipo península. Cuenta con un display aproximado de **60 × 32 × 40 cm** y un compartimento técnico lateral integrado. El proyecto contempla un aquascape asimétrico de roca inerte y sustrato, circulación y retorno independientes, iluminación suspendida y una evolución biológica gradual. El agua se preparará mediante ósmosis inversa y sal **Aquaforest Reef Salt**.
+Veril es un acuario marino de pequeño volumen, construido como una urna AIO artesanal tipo península, con un display aproximado de **60 × 32 × 40 cm** y un compartimento técnico lateral integrado. Su configuración vigente combina un aquascape asimétrico de roca inerte y sustrato, retorno y circulación independientes, iluminación suspendida y agua preparada mediante ósmosis inversa y sal.
 
-Este repositorio centraliza las decisiones de diseño y configuración de Veril, la documentación del hardware y los productos, los planes de ciclado y maduración, y el seguimiento de las comprobaciones y cambios del sistema. Las decisiones vigentes, los pendientes y los límites conocidos deben quedar documentados aquí para conservar una referencia única del proyecto.
+Este repositorio reúne la configuración vigente de Veril, sus fichas de hardware y productos, los planes de ciclado y maduración y la documentación de operación y comprobaciones. Las decisiones, pendientes y límites conocidos deben conservarse aquí como referencia única del proyecto.
 
-Los prefijos numéricos de los directorios y documentos principales indican el orden recomendado de lectura. No representan una dependencia estricta ni sustituyen los enlaces entre documentos.
+Los prefijos numéricos indican el orden recomendado de lectura, pero no establecen dependencias estrictas ni sustituyen los enlaces entre documentos.
 
 ## Proveedor de referencia
 
@@ -23,17 +23,7 @@ Agradezco a Elite Reef Kanarias el asesoramiento y el apoyo prestados durante la
 - [Ciclado](03_ciclado/README.md): evidencia, decisiones y plan de arranque
 - [Maduración](04_maduracion/README.md): evolución biológica posterior al ciclado
 - [Operación](05_operacion/README.md): procedimientos recurrentes de mantenimiento, seguimiento y respuesta
-- [Contribución](CONTRIBUTING.md): criterios para ampliar o corregir la documentación
 
 ## Repositorio privado opcional
 
 El directorio `privado/` es un submódulo independiente para documentación comercial y personal. No forma parte del contenido público necesario para utilizar este repositorio y requiere permisos propios para clonarse o actualizarse.
-
-## Principios documentales
-
-- La documentación describe la configuración vigente y sus condiciones de ejecución
-- Los planes de ciclado y maduración se mantienen separados
-- Las fichas generales no se mezclan con las decisiones operativas específicas
-- Las incertidumbres, límites y pruebas pendientes permanecen visibles
-- Las dosis y criterios medibles se basan en el volumen y los instrumentos reales
-- Una apariencia favorable no sustituye una prueba funcional ni una observación continuada
