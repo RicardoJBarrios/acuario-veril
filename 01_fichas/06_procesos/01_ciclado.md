@@ -21,6 +21,14 @@ Un ciclado correctamente interpretado debe permitir comprobar, con un método de
 
 La aparición de nitrato, el agua clara o la ausencia de olor pueden aportar contexto, pero no sustituyen la comprobación de la transformación de la carga.
 
+## Relación con la arquitectura de procesamiento
+
+El ciclado demuestra una capacidad biológica bajo las condiciones de una arquitectura concreta; no demuestra una capacidad abstracta independiente del sistema que la sostiene. Las superficies instaladas, la renovación del agua, la oxigenación y las condiciones químicas deben permanecer definidas y registradas durante la prueba.
+
+El ciclado no es exclusivo del método Berlín ni constituye una variante del mismo. Cuando un sistema adopta Berlín como arquitectura de procesamiento, la prueba debe interpretarse dentro de esa implementación: evalúa la capacidad de las superficies colonizables y de las condiciones que las mantienen activas, sin sustituir la evaluación posterior de la transformación, la exportación y el mantenimiento propios de dicha arquitectura.
+
+En Veril, esta relación se concreta en la [dimensión de procesamiento](../01_dimensiones/07_procesamiento.md) y en su [ficha de aplicación](../../02_veril/07_procesamiento.md), donde se documenta el método Berlín adoptado. El plan específico y el [runbook de ciclado](../../03_ciclado/runbook.md) definen la ejecución y los criterios locales.
+
 ## Superficies y comunidad biológica
 
 La capacidad nitrificante se establece sobre las superficies que permanecerán instaladas y expuestas al agua. La roca, el sustrato, los materiales técnicos y otras superficies sumergidas pueden contribuir a esa colonización según su área, estructura, accesibilidad y condiciones de renovación.

@@ -2,11 +2,14 @@
 
 Estas reglas adaptan al repositorio `veril-docs` las normas editoriales compartidas de [normativa](../normativa/README.md) y las convenciones del repositorio `acuario`.
 
+Las normas de un `AGENTS.md` más profundo concretan y, cuando sea necesario, sustituyen estas reglas dentro de su subárbol. La responsabilidad documental debe resolverse en el nivel más específico posible sin duplicar normas comunes.
+
 ## Organización y fuentes
 
 - Mantener separadas las fuentes, las decisiones de proyecto, los planes operativos y las fichas reutilizables
 - Mantener las decisiones y el plan específico de ciclado de Veril en `03_ciclado/`, la maduración en `04_maduracion/`, la operación recurrente en `05_operacion/`, las del hardware en su documentación propia y los criterios transversales de configuración en `01_fichas/01_dimensiones/`
 - Mantener la información general y reutilizable en `01_fichas/`
+- Mantener las dimensiones generales en `01_fichas/01_dimensiones/` y sus aplicaciones alineadas, con la misma numeración, en `02_veril/`
 - Mantener los conceptos, beneficios, límites y modelos generales de un proceso en `01_fichas/06_procesos/`; reservar `05_operacion/` para los procedimientos concretos de Veril que los aplican
 - Mantener la información general de los organismos en `01_fichas/02_biologia/`; documentar las aplicaciones y decisiones específicas en `02_veril/` o en los planes operativos correspondientes
 - Usar enlaces internos relativos; no enlazar rutas absolutas de otro repositorio

@@ -18,13 +18,17 @@ La variante general de ciclado sin peces está documentada en [la ficha de proce
 
 ### Decisiones
 
-- [Selección del inoculante y evaluación de la receta](decisiones/seleccion-inoculante-y-receta.md)
+- [Receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md)
 
 Este documento fija la receta elegida, sus condiciones, exclusiones y pendientes.
 
 ### Plan
 
 - [Plan de ciclado](plan.md): prueba funcional del biofiltro
+- [Runbook de ciclado sin peces](runbook.md): ejecución paso a paso, controles y registro
+- [Proyección microbiológica del ciclado](proyeccion-microbiologica.md): grupos esperados, incertidumbres y sucesión inicial
+
+La receta confirmada utiliza AF Bio Sand como sustrato y superficie inicial, FritzZyme TurboStart 900 Saltwater como inoculación bacteriana y Fritz Fishless Fuel como fuente controlada de nitrógeno amoniacal. Aquaforest Reef Salt prepara el agua salada, pero no constituye una inoculación.
 
 ## Relación entre las fases
 

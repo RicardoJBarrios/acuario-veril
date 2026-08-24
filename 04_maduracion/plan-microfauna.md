@@ -10,9 +10,19 @@ Evaluar si una comunidad identificable de microfauna puede establecerse y desemp
 
 ## Estado de la decisión
 
-**Previsto:** Se estudiará primero una incorporación de copépodos bentónicos de identidad y procedencia verificables.
+**Previsto:** Se estudiará primero una incorporación de copépodos vivos de identidad y procedencia verificables durante la maduración, antes de introducir habitantes que ejerzan una presión de depredación relevante. La opción inicial proyectada es un cultivo mixto tipo **Apocalypse Mix**, siempre que la composición y las condiciones del lote puedan verificarse. La referencia comercial consultada es [Power Aquaculture Apocalypse Mix](https://www.power-aquaculture.es/product/copepodos-bentonicos-apocalypse-mix/).
 
-**Condicionado:** *Tisbe biminiensis* es la primera opción de estudio si el cultivo está correctamente identificado y sus condiciones son compatibles. *Apocyclops panamensis* podrá considerarse como complemento. *Tigriopus californicus* queda como opción secundaria y no se presupone que todas las especies establezcan una población residente.
+**Condicionado:** *Apocyclops panamensis*, *Tisbe biminiensis* y *Tisbe battagliai* se consideran grupos funcionalmente complementarios en la proyección inicial: el primero puede utilizar la interfaz bentónica y la columna de agua, mientras que los dos últimos se asocian principalmente a superficies, biofilm y refugios. La composición exacta del producto, la identidad a nivel de especie y la concentración declarada deberán confirmarse para el lote que se reciba.
+
+**Complemento opcional:** Podrá evaluarse una pequeña cantidad de roca viva o madura de procedencia controlada. Su función sería aportar biodiversidad asociada que no suele estar presente en cultivos comerciales de copépodos, como anfípodos, ostrácodos, poliquetos, esponjas, microalgas y otros organismos criptobentónicos. Su incorporación tendrá un riesgo de organismos acompañantes y no se realizará directamente desde una fuente desconocida.
+
+**Soporte alimentario condicionado:** Podrá utilizarse un fitoplancton vivo específico para copépodos, como [Power Aquaculture Fito Mix Pod Boom](https://www.power-aquaculture.es/product/fito-mix-pod-boom/), si la observación demuestra que el biofilm y las partículas disponibles no sostienen la población introducida. El producto se documenta aquí como recurso de mantenimiento proyectado, no como una nueva fuente de biodiversidad.
+
+**Alternativa:** Si Apocalypse Mix no está disponible o no supera la verificación del lote, podrá estudiarse Nuclear Mix como primera incorporación. Un cultivo identificado de *Tisbe* podrá utilizarse como opción más conservadora cuando no exista una mezcla adecuada. Estas alternativas no forman parte de la secuencia prevista mientras la primera opción esté disponible y sea compatible.
+
+**Módulos no previstos inicialmente:** Zoo Mix, rotíferos vivos y Roti Boom quedan fuera de la estrategia inicial. Podrán reconsiderarse en una fase posterior si aparece una finalidad concreta relacionada con zooplancton, filtradores o alimentación viva, pero no se añadirán solo para aumentar el número de productos.
+
+**Criterio de selección:** En igualdad de condiciones se preferirá la opción que proporcione mayor biodiversidad funcional y capacidad de establecimiento, no necesariamente la que anuncie más especies. La disponibilidad gratuita de un material colonizado no reduce este criterio; solo será preferente si su procedencia, estado sanitario y posibilidad de observación son aceptables.
 
 **Posterior:** Los anfípodos y otros microinvertebrados podrán evaluarse después, de forma identificada y separada cuando sea necesario. *Stomatella*, pequeñas ofiuras, ostrácodos o poliquetos solo se conservarán o favorecerán cuando puedan identificarse y resulten compatibles.
 
@@ -30,6 +40,39 @@ No se incorporará microfauna hasta que se cumplan conjuntamente estas condicion
 - No haya mortalidad, descomposición ni tratamientos incompatibles
 - La presión de depredación prevista sea compatible con el establecimiento
 - Se haya decidido cómo inspeccionar y manejar la entrada desde el punto de vista sanitario
+
+En el caso de la primera mezcla, se prevé que no haya peces, corales ni otros habitantes macroscópicos en el sistema. Esta condición reduce la depredación inicial, pero no elimina la necesidad de disponer de biofilm, oxígeno, refugios y una fuente de alimento compatible.
+
+## Proyección de incorporación y establecimiento
+
+La siguiente secuencia es una proyección operativa, no una predicción exacta de supervivencia, densidad ni composición final. La respuesta dependerá del lote, el transporte, la aclimatación, la disponibilidad de alimento, la estructura espacial y las condiciones reales del sistema.
+
+```mermaid
+flowchart TD
+    A[Ciclado demostrado y sistema sin habitantes] --> B[Apocalypse Mix verificado]
+    B --> C[Ventana de observación y maduración]
+    C --> D{¿Establecimiento y respuesta compatibles?}
+    D -->|Sí| E[Continuar observando sin repetir por calendario]
+    D -->|No o insuficiente| F[Identificar causa antes de añadir más organismos]
+    E --> G{¿Existe roca madura segura?}
+    G -->|Sí, tras observación separada| H[Complemento opcional de biodiversidad]
+    G -->|No| I[Continuar con la comunidad ya establecida]
+    E --> J{¿Se observa necesidad de alimento?}
+    J -->|Sí, con motivo documentado| K[Pod Boom como soporte condicionado]
+    J -->|No| L[No añadir productos adicionales]
+```
+
+### Aportación esperada de cada entrada
+
+| Entrada | Aportación esperada | Límite de la proyección |
+| --- | --- | --- |
+| Apocalypse Mix | Diversidad inicial de copépodos con ocupación potencial de superficies, interfaces y columna de agua | No garantiza que las tres poblaciones sobrevivan, se reproduzcan o permanezcan detectables |
+| Roca viva o madura | Organismos asociados a biofilm, superficies y refugios que no suelen incluirse en cultivos definidos | Su composición es parcialmente desconocida y puede incluir plagas, patógenos, materia en descomposición u organismos incompatibles |
+| Fito Mix Pod Boom | Alimento potencial para la colonia de copépodos; el proveedor declara una mezcla de *Tetraselmis suecica*, *Isochrysis galbana* y *Phaeodactylum tricornutum* | No constituye una inoculación de microfauna y su uso puede alterar la carga de nutrientes; no se dosificará sin una necesidad observable |
+
+La ausencia de peces durante la maduración permite que los copépodos estén menos expuestos a depredación. No implica que la población vaya a establecerse: una comunidad sin alimento, superficies adecuadas o refugios puede disminuir aunque no haya habitantes macroscópicos.
+
+No se combinarán varias mezclas comerciales en una única incorporación inicial. La estrategia prevista utiliza Apocalypse Mix como única inoculación comercial, seguida de una ventana de observación. La roca madura, si se acepta, se incorporará como entrada separada. El fitoplancton se mantendrá como intervención independiente: solo se añadirá si existe una razón documentada y no para compensar automáticamente la ausencia de observaciones.
 
 ## Procedimiento previsto
 
@@ -51,7 +94,7 @@ Se detendrá el módulo ante amonio o nitrito fuera de límite, deterioro sosten
 
 ## Alimentación y carga
 
-No se establecerá una alimentación específica mientras no se observe una necesidad real. La disponibilidad de biofilm y partículas se evaluará junto con la carga general del sistema. Cualquier uso de fitoplancton u otro alimento deberá documentarse como una intervención de mantenimiento, con dosis, motivo y respuesta observada.
+No se establecerá una alimentación específica mientras no se observe una necesidad real. La disponibilidad de biofilm y partículas se evaluará junto con la carga general del sistema. Si se utiliza Fito Mix Pod Boom u otro fitoplancton, se documentarán el producto, el lote, la fecha, la dosis, el motivo y la respuesta observada. La pauta comercial no se transferirá automáticamente al sistema: la concentración, el volumen operativo y la evolución de nitrato y fosfato deberán formar parte de la decisión.
 
 La microfauna no se contabilizará como exportación. Sus efectos se interpretarán como consumo, transformación y redistribución de materia dentro de la comunidad; la retirada efectiva seguirá dependiendo de los mecanismos y rutinas documentados en las fichas correspondientes.
 
@@ -75,3 +118,12 @@ Para cada incorporación se anotarán:
 - [Microinvertebrados marinos](../01_fichas/02_biologia/microorganismos/microfauna/microinvertebrados-marinos.md)
 - [Biología de Veril](../02_veril/06_biologia.md)
 - [Plan general de maduración](plan.md)
+
+## Fuentes de la proyección
+
+- [Power Aquaculture Apocalypse Mix](https://www.power-aquaculture.es/product/copepodos-bentonicos-apocalypse-mix/), descripción comercial del cultivo y de su composición declarada
+- [Power Aquaculture Nuclear Mix](https://www.power-aquaculture.es/product/nuevo-nuclear-mix/), descripción comercial del cultivo y de su composición declarada
+- [Power Aquaculture Fito Mix Pod Boom](https://www.power-aquaculture.es/product/fito-mix-pod-boom/), descripción comercial del fitoplancton destinado a alimentar colonias de copépodos
+- [Power Aquaculture Fito Mix Roti Boom](https://www.power-aquaculture.es/product/fito-mix-roti-boom/), referencia de una alternativa futura no prevista inicialmente para alimentar o enriquecer rotíferos
+
+Estas páginas documentan las afirmaciones del proveedor utilizadas para construir la proyección. No sustituyen la verificación del producto recibido: la identidad, la concentración, la fecha de cosecha, la salinidad de transporte y el estado del lote deberán registrarse cuando se evalúe una incorporación real. En el caso del fitoplancton, también deberán comprobarse la conservación en frío, la fecha de caducidad o duración indicada y la respuesta química del sistema.

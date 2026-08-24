@@ -6,7 +6,9 @@ Este documento reúne la metodología de DrTim’s Aquatics a partir de sus guí
 
 El objetivo es establecer y comprobar un biofiltro nitrificante sin utilizar peces como fuente de amonio. El resultado de la prueba demuestra una capacidad frente a una carga concreta; no demuestra por sí solo que el reef esté maduro ni que pueda recibir una población completa.
 
-## 1. Qué entiende DrTim’s por ciclado
+## Componentes y condiciones
+
+### Qué entiende DrTim’s por ciclado
 
 El amonio procedente de los residuos de los peces se transforma en nitrito por un grupo de microorganismos nitrificantes y el nitrito se transforma después en nitrato por otro grupo. El nitrato no vuelve normalmente a ser amonio para cerrar el proceso; su control posterior pertenece a la exportación, el consumo biológico y la maduración del sistema.
 
@@ -19,7 +21,7 @@ El ciclado sin peces sustituye el animal por una fuente de amonio:
 - Permite comprobar la conversión mediante tests
 - Reduce la carga orgánica incontrolada y la turbidez asociada a materia en descomposición
 
-## 2. Dos rutas oficiales
+### Dos rutas oficiales
 
 DrTim’s describe dos formas principales:
 
@@ -28,7 +30,7 @@ DrTim’s describe dos formas principales:
 
 No se deben mezclar las pautas de ambas rutas. Si se utiliza otro cultivo bacteriano, se documentará como una estrategia distinta y no se añadirá simultáneamente sin revisar el protocolo.
 
-## 3. Material y condiciones
+### Material y condiciones
 
 La receta oficial necesita:
 
@@ -43,7 +45,9 @@ También son útiles un test de nitrato, un refractómetro para salinidad, un te
 
 La receta recomienda que el agua esté libre de cloro y cloraminas antes de añadir One & Only. En agua marina preparada se debe registrar su procedencia y tratamiento en vez de asumirlo.
 
-## 4. Fuente de amonio
+## Pauta publicada
+
+### Fuente de amonio
 
 ### 4.1 Cloruro de amonio de DrTim’s
 
@@ -63,7 +67,7 @@ La sustrato vivo o inoculada puede aportar amonio durante las primeras horas. An
 
 Cuando se utilice sustrato vivo o inoculada, se tratará como una posible fuente inicial de amonio y nutrientes: primero se medirá y después se decidirá la carga adicional.
 
-## 5. Ruta con One & Only
+### Ruta con One & Only
 
 ### Día 1
 
@@ -104,7 +108,7 @@ Después:
 
 La guía rápida usa estos umbrales como criterio operativo de ciclado. Superar la receta no equivale a maduración del reef.
 
-## 6. Ruta sin One & Only
+### Ruta sin One & Only
 
 La ruta sin cultivo comercial requiere más tiempo:
 
@@ -121,7 +125,7 @@ La ruta sin cultivo comercial requiere más tiempo:
 
 Esta ruta no se debe convertir en un calendario rígido. Las fechas son orientativas de la explicación oficial y dependen del agua, la temperatura, el pH, la superficie disponible y la carga añadida.
 
-## 7. Equipos y productos durante la inoculación
+### Equipos y productos durante la inoculación
 
 ### 7.1 Circulación y biofiltro
 
@@ -143,7 +147,9 @@ La página oficial sobre compatibilidad de productos indica no añadir Waste-Awa
 
 No se añadirán productos para eliminar amonio: pueden ocultar la carga, modificar la lectura y alargar el ciclado.
 
-## 8. Seguimiento y problemas
+## Seguimiento, interpretación y límites
+
+### Seguimiento y problemas
 
 ### Amonio o nitrito por encima de 5 ppm
 
@@ -169,7 +175,7 @@ La guía advierte que algunos tests no detectan bien concentraciones bajas de ni
 
 Comprobar pH, temperatura, salinidad, oxigenación, concentración de amonio y estado del medio biológico. La causa puede ser una dosis excesiva, pH bajo, nitrito inhibidor o una lectura defectuosa. No se resolverá añadiendo más botellas de bacterias sin diagnosticar.
 
-## 9. Qué demuestra el método
+### Qué demuestra el método
 
 Demuestra una capacidad nitrificante frente a una carga concreta cuando:
 
@@ -189,7 +195,7 @@ No demuestra:
 - Que el mismo resultado se produzca con otro cultivo comercial
 - Equivalencia entre un ensayo acelerado y las condiciones normales del reef
 
-## Fuentes oficiales
+## Fuentes consultadas
 
 - [DrTim’s: Fishless Cycling](https://www.drtimsaquatics.com/resources/fishless-cycling/)
 - [DrTim’s: Quick Guide to Fishless Cycling with One & Only](https://www.drtimsaquatics.com/resources/library/quick-guide-to-fishless-cycling-with-one-and-only/)

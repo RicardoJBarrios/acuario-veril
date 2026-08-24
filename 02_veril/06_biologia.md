@@ -16,6 +16,17 @@ La elección concreta de especies, cantidades, fechas y parámetros pertenece a 
 
 **Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en las fichas generales y en los planes correspondientes, sin convertir esta ficha en un catálogo ni en un protocolo. La pared viva y los medios biológicos adicionales siguen siendo decisiones sujetas a viabilidad.
 
+## Arranque biológico adoptado
+
+El arranque de Veril se validará mediante un ciclado sin peces basado en:
+
+- AF Bio Sand activado como sustrato, superficie inicial y aportación microbiológica asociada
+- FritzZyme TurboStart 900 Saltwater como inoculación bacteriana adicional
+- Fritz Fishless Fuel como fuente controlada de nitrógeno amoniacal
+- Agua RO/DI preparada con Aquaforest Reef Salt y ajustada a `S_P = 35`
+
+Se espera demostrar una capacidad nitrificante frente a dos cargas conocidas, no obtener por ese procedimiento una comunidad madura, una microfauna establecida ni una capacidad general para toda la población futura. La preparación exacta, las dosis calculadas sobre el volumen operativo real y los criterios de cierre están en el [plan de ciclado](../03_ciclado/plan.md) y su ejecución paso a paso en el [runbook](../03_ciclado/runbook.md).
+
 ## Relación entre comunidad y aquascape
 
 El aquascape disponible condiciona la biología que puede plantearse: volumen, geometría de la roca, superficie de sustrato, flujo, luz, refugios y acceso. La selección biológica partirá de esas condiciones reales, de acuerdo con la [dimensión biológica](../01_fichas/01_dimensiones/06_biologica.md).

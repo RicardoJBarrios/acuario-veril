@@ -6,7 +6,7 @@ Este documento resume el método de Fritz Aquatics para establecer un biofiltro 
 
 El método describe un arranque del biofiltro. No demuestra por sí solo la madurez ecológica del reef, la diversidad microbiana ni la estabilidad a largo plazo.
 
-## Componentes del método
+## Componentes y condiciones
 
 Para un ciclado marino sin peces, Fritz combina:
 
@@ -18,7 +18,7 @@ Para un ciclado marino sin peces, Fritz combina:
 
 TurboStart 900 y FritzZyme 9 son las fórmulas salinas de Fritz. No se sustituirán automáticamente por las fórmulas de agua dulce, porque el fabricante las destina a condiciones diferentes.
 
-## Condiciones del agua
+### Condiciones del agua
 
 Fritz publica como condiciones favorables para TurboStart 900:
 
@@ -32,7 +32,9 @@ Fritz publica como condiciones favorables para TurboStart 900:
 
 Estas cifras son condiciones de funcionamiento publicadas para el producto, no objetivos universales de mantenimiento. Para Veril se comprobarán además la salinidad, la temperatura, el pH y la alcalinidad antes de iniciar la prueba.
 
-## Preparación e inoculación
+## Pauta publicada
+
+### Preparación e inoculación
 
 1. Preparar agua sin cloro ni cloraminas
 2. Montar el acuario con circulación, oxigenación y superficies colonizables
@@ -44,7 +46,7 @@ Estas cifras son condiciones de funcionamiento publicadas para el producto, no o
 
 La ficha actual de TurboStart 900 publica como dosis de sistema nuevo **29 ml por 95 L**. La etiqueta del envase adquirido prevalece si presenta una pauta diferente. Fritz indica que puede utilizarse una sobredosificación de hasta cinco veces la dosis recomendada para reducir el tiempo de establecimiento, pero esa posibilidad no forma parte de la receta base de Veril.
 
-## Ciclado sin peces
+### Ciclado sin peces
 
 Fritz recomienda añadir Fishless Fuel como fuente de amonio controlable. La cantidad debe medirse con el test y no se debe perseguir una cifra teórica ignorando la lectura real. La guía de Fritz indica que una concentración detectable por debajo de 4 ppm es suficiente para iniciar el proceso.
 
@@ -57,17 +59,19 @@ Durante el ciclado:
 
 Fritz también describe una ruta fish-in, pero no se aplica a Veril: el ciclado se realizará sin peces ni otros animales.
 
-## Equipos durante los primeros días
+### Equipos durante los primeros días
 
 Fritz indica mantener apagados el skimmer, los fleece rollers y los esterilizadores UV durante al menos cinco días después de aplicar TurboStart 900. El retorno, la circulación y la agitación superficial sí deben mantenerse para asegurar oxígeno y flujo sobre las superficies.
 
 La reactivación de los equipos se decidirá según la oxigenación, la carga y el plan de Veril. Mantener un equipo apagado no sustituye una aireación suficiente.
 
-## Conservación y observaciones
+### Compatibilidad y observaciones
 
 TurboStart 900 es un producto vivo que debe mantenerse refrigerado, sin congelarse ni sobrecalentarse, y utilizarse antes de la fecha de caducidad. El fabricante indica que puede aparecer turbidez ligera u olor terroso durante unas horas y que las variaciones de color u olor entre frascos pueden ser normales. Un olor fuerte a azufre requiere cautela y revisión del producto antes de usarlo.
 
-## Qué demuestra el método
+## Seguimiento, interpretación y límites
+
+### Qué demuestra el método
 
 El método puede demostrar capacidad nitrificante frente a una carga concreta cuando:
 
@@ -84,7 +88,7 @@ No demuestra por sí solo:
 - Ausencia futura de algas, cianobacterias o diatomeas
 - Estabilidad a largo plazo
 
-## Fuentes oficiales
+## Fuentes consultadas
 
 - [Fritz Aquatics: guía para ciclar un acuario marino](https://fritzaquatics.com/resources/articles/fritzzyme-user-guide-sw)
 - [Fritz Aquatics: FritzZyme TurboStart 900 Saltwater](https://fritzaquatics.com/products/fritzzyme-turbostart-900-saltwater)

@@ -6,7 +6,7 @@
 - Mantener la explicación general de cada dimensión en las fichas de `01_fichas/01_dimensiones/`
 - Enlazar las dimensiones en lugar de repetir sus definiciones, fundamentos o debates generales
 - Mantener separadas las responsabilidades de espacio, hidráulica, iluminación, biología, química y procesamiento, aunque roca y sustrato se documenten conjuntamente en la ficha espacial
-- Utilizar `configuracion.md` como documento integrador de las decisiones entre dimensiones, sin convertirlo en una repetición de sus fichas
+- Utilizar `00_configuracion.md` como documento integrador de las decisiones entre dimensiones, sin convertirlo en una repetición de sus fichas
 - Mantener puntos de aplicación para las siete dimensiones; cuando una dimensión no requiera una ficha independiente, enlazar claramente sus documentos propietarios
 - No convertir estas fichas en recomendaciones reutilizables para otros acuarios
 
@@ -19,6 +19,7 @@
 - Mantener las decisiones de población y organismos concretos en sus fichas propias, salvo cuando afecten directamente a la ocupación del display y a la implementación de Veril
 - Documentar la aplicación concreta de Química mediante las fichas de parámetros y los planes operativos, y la de Procesamiento mediante sus fichas de dimensión, hardware y ciclado o maduración
 - Mantener el ciclado en `03_ciclado/` y la maduración en `04_maduracion/` como documentación operativa separada; `02_veril/` solo define las condiciones que esos planes deben comprobar
+- Mantener la correspondencia numérica entre las fichas de `01_fichas/01_dimensiones/` y las aplicaciones de este directorio; `00_configuracion.md` queda fuera de esa correspondencia como documento integrador
 
 ## Redacción y comprobación
 

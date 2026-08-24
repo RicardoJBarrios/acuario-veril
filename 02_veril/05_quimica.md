@@ -12,6 +12,14 @@ El agua de reposición por evaporación será agua RO/DI mediante el [ATO selecc
 
 No se fija en esta ficha una tabla independiente de valores objetivo. Los rangos, métodos, unidades, frecuencia y límites de interpretación pertenecen a las fichas de parámetros y a los planes operativos que los utilicen.
 
+## Agua del arranque biológico
+
+El agua del ciclado se preparará con RO/DI y Aquaforest Reef Salt. La ficha del producto indica aproximadamente 390 g por 10 L como referencia para 33 ppt, con mezcla a unos 24 °C durante aproximadamente 15 minutos o hasta que quede clara; en Veril esa masa será solo el punto de partida y la aceptación se hará mediante medición hasta `S_P = 35`.
+
+Antes de añadir TurboStart y Fishless Fuel, el sistema deberá encontrarse aproximadamente a **25,0 °C**, que es la temperatura objetivo de Veril y queda dentro del intervalo de uso publicado para TurboStart. El detalle de activación del AF Bio Sand, las dosis de los productos y la secuencia temporal pertenecen al [plan de ciclado](../03_ciclado/plan.md) y al [runbook de ciclado](../03_ciclado/runbook.md).
+
+Aquaforest Reef Salt prepara la matriz salina; no inocula bacterias ni sustituye a TurboStart. El agua RO/DI de reposición del ATO tampoco contiene sal y no se utilizará para preparar las cargas de Fishless Fuel.
+
 ## Justificación de la salinidad objetivo
 
 Veril adopta una salinidad práctica objetivo de **`S_P = 35`**. Esta decisión no presenta 35 como una salinidad universalmente obligatoria, sino como el punto de consigna elegido para esta configuración.

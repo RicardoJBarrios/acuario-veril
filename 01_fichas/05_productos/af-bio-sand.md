@@ -27,7 +27,7 @@ El fabricante no publica una lista completa de especies bacterianas, concentraci
 
 La parte mineral declarada es sustrato natural de carbonato de calcio. Los dos preparados aportan cepas nitrificantes aisladas en laboratorio y un nutriente para su desarrollo, según Aquaforest.
 
-No se publican los taxones, cepas, recuentos viables, composición del nutriente ni controles de liberación por lote. Por ello la activación de el sustrato se trata como una entrada auxiliar de superficie y biología, no como un inoculante cuya carga pueda compararse con otra botella.
+No se publican los taxones, cepas, recuentos viables, composición del nutriente ni controles de liberación por lote. Por ello la activación del sustrato se trata como una entrada microbiológica asociada cuya composición y carga no pueden compararse cuantitativamente con otra botella de inoculante.
 
 ## Preparación general
 
@@ -77,4 +77,5 @@ Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. La
 ## Fuentes
 
 - [Aquaforest: AF Bio Sand](https://aquaforest.eu/en/products/seawater/aquascaping/af-bio-sand/)
+- [Aquaforest: Products Guide](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf)
 - [Método Aquaforest](../../03_ciclado/fuentes/metodo-aquaforest.md)
