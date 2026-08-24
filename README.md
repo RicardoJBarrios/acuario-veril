@@ -1,5 +1,11 @@
 # Documentación de Veril
 
+<div align="center" style="text-align: center;">
+  <a href="02_veril/identidad-grafica.md">
+    <img src="veril.png" alt="Logotipo de Veril — Nano Reef" width="420">
+  </a>
+</div>
+
 Repositorio de documentación técnica del acuario marino Veril. El contenido está organizado para separar el diseño físico, el arranque biológico, el hardware y las fichas generales reutilizables.
 
 ## Descripción de Veril
