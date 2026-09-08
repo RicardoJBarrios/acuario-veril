@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Esquema funcional del ciclo del nitrógeno</title>
+  <desc id="desc">Amonio y amoníaco se oxidan a nitrito y después a nitrato; otros microorganismos pueden reducir nitrato en condiciones adecuadas.</desc>
+  <rect width="1200" height="420" rx="24" fill="#eef7f8"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="48" font-size="26" font-weight="700" fill="#123b4a">Esquema funcional del procesamiento del nitrógeno</text>
+    <g font-size="22" font-weight="700" fill="#123b4a">
+      <rect x="55" y="130" width="220" height="100" rx="18" fill="#d8eff2" stroke="#287c8c" stroke-width="3"/><text x="165" y="188">Amonio / amoníaco</text>
+      <rect x="340" y="130" width="180" height="100" rx="18" fill="#d8eff2" stroke="#287c8c" stroke-width="3"/><text x="430" y="188">Nitrito</text>
+      <rect x="585" y="130" width="180" height="100" rx="18" fill="#d8eff2" stroke="#287c8c" stroke-width="3"/><text x="675" y="188">Nitrato</text>
+      <rect x="830" y="130" width="315" height="100" rx="18" fill="#e6f2df" stroke="#5e8e4a" stroke-width="3"/><text x="987" y="175">Asimilación, exportación</text><text x="987" y="205">o reducción posterior</text>
+    </g>
+    <g fill="none" stroke="#287c8c" stroke-width="7" stroke-linecap="round">
+      <path d="M280 180h48"/><path d="M525 180h48"/><path d="M770 180h48"/>
+    </g>
+    <g fill="#287c8c"><path d="M328 180l-18-12v24z"/><path d="M573 180l-18-12v24z"/><path d="M818 180l-18-12v24z"/></g>
+    <g font-size="18" fill="#365866"><text x="430" y="278">microorganismos oxidantes de amonio</text><text x="675" y="310">microorganismos oxidantes de nitrito</text><text x="987" y="350">La presencia no demuestra por sí sola una capacidad validada</text></g>
+  </g>
+</svg>

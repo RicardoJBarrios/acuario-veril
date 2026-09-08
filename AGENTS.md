@@ -1,26 +1,25 @@
 # Normas de edición del repositorio
 
-Estas reglas adaptan al repositorio `veril-docs` las normas editoriales compartidas de [normativa](../normativa/README.md) y las convenciones del repositorio `acuario`.
+Estas reglas adaptan al repositorio `veril-docs` las normas editoriales compartidas de [normativa](../../normativa/README.md) y las convenciones del repositorio `acuario`.
 
 Las normas de un `AGENTS.md` más profundo concretan y, cuando sea necesario, sustituyen estas reglas dentro de su subárbol. La responsabilidad documental debe resolverse en el nivel más específico posible sin duplicar normas comunes.
 
 ## Organización y fuentes
 
-- Mantener separadas las fuentes, las decisiones de proyecto, los planes operativos y las fichas reutilizables
-- Mantener las decisiones y el plan específico de ciclado de Veril en `03_ciclado/`, la maduración en `04_maduracion/`, la operación recurrente en `05_operacion/`, las del hardware en su documentación propia y los criterios transversales de configuración en `01_fichas/01_dimensiones/`
-- Mantener la información general y reutilizable en `01_fichas/`
-- Mantener las dimensiones generales en `01_fichas/01_dimensiones/` y sus aplicaciones alineadas, con la misma numeración, en `02_veril/`
-- Mantener los conceptos, beneficios, límites y modelos generales de un proceso en `01_fichas/06_procesos/`; reservar `05_operacion/` para los procedimientos concretos de Veril que los aplican
-- Mantener la información general de los organismos en `01_fichas/02_biologia/`; documentar las aplicaciones y decisiones específicas en `02_veril/` o en los planes operativos correspondientes
+- Mantener separadas las fuentes, la configuración vigente, las actuaciones pendientes, las operaciones ejecutadas y las fichas reutilizables
+- Mantener el conocimiento general y reutilizable en `01_verilpedia/`
+- Mantener la configuración vigente y las decisiones de diseño de Veril en `02_configuracion/`
+- Mantener los planes todavía no ejecutados en `03_pendientes/`, incluido el ciclado, la maduración y los procedimientos recurrentes
+- Mantener los hechos ejecutados en `04_operaciones/`, con fecha, resultado, evidencia y pendientes derivados
+- Mantener las dimensiones generales en `01_verilpedia/01_dimensiones/` y sus aplicaciones alineadas, con la misma numeración, en `02_configuracion/`
+- Mantener los conceptos, beneficios, límites y modelos generales de un proceso en `01_verilpedia/06_procesos/`; reservar `03_pendientes/operacion-recurrente/` para los procedimientos concretos de Veril que los aplican
+- Mantener la información general de los organismos en `01_verilpedia/02_biologia/`; documentar las aplicaciones y decisiones específicas en `02_configuracion/` o en las actuaciones pendientes correspondientes
+- No registrar como plan un hecho ya ejecutado ni presentar como resultado una comprobación todavía pendiente
 - Usar enlaces internos relativos; no enlazar rutas absolutas de otro repositorio
 - Conservar la incertidumbre y los pendientes como tales; no convertir hipótesis, publicidad o experiencia aislada en hechos
 - Documentar las opiniones generalizadas, los debates y las críticas extendidas cuando sean relevantes, etiquetándolos como opiniones, percepción del hobby o práctica común y separándolos de los hechos verificados
 - No duplicar una explicación completa cuando exista una fuente local equivalente; enlazarla
 - Aplicar la regla editorial de que el producto adquirido y su documentación vigente prevalecen sobre una ficha antigua o una fuente secundaria
-
-## Fuentes y referencias externas de interés
-
-- [ReefCalcs](https://reefcalcs.com/): Calculadoras y referencias sobre volumen, sustrato, dosificación, salinidad, iluminación, parámetros y otros aspectos del mantenimiento de acuarios. Puede servir como herramienta de contraste y apoyo práctico; comprobar sus constantes, supuestos y resultados frente a la documentación del fabricante, fuentes primarias y mediciones del sistema antes de convertirlos en decisiones de Veril
 
 ## Redacción
 
