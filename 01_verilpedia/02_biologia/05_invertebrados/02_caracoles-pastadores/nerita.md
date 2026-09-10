@@ -2,7 +2,7 @@
 
 ![Nerita versicolor](https://commons.wikimedia.org/wiki/Special:FilePath/Nerita%20versicolor%20%28four-toothed%20nerite%20snails%29%20Bahamas.jpg)
 
-**Imagen:** [Wikimedia Commons, *Nerita versicolor*](https://commons.wikimedia.org/wiki/File:Nerita_versicolor_](four-toothed_nerite_snails)_Bahamas.jpg)
+**Imagen:** [Wikimedia Commons, *Nerita versicolor*](<https://commons.wikimedia.org/wiki/File:Nerita_versicolor_%28four-toothed_nerite_snails%29_Bahamas.jpg>)
 
 ## Qué es
 

@@ -74,7 +74,7 @@ La concentración de cada ion depende también de la salinidad, la preparación 
 
 El amonio, el nitrito y el nitrato representan estados distintos del nitrógeno y no deben tratarse como una única variable. El fosfato participa en el metabolismo y puede acumularse o quedar limitado según las entradas, los consumidores y los procesos de retirada.
 
-La [ficha de amonio(../03_parametros/amonio.md), la [ficha de nitrito](../03_parametros/nitrito.md), la [ficha de nitrato](../03_parametros/nitrato.md) y la [ficha de fosfato](../03_parametros/fosfato.md) describen cada compuesto. La dimensión química los integra como señales de entradas, transformaciones y disponibilidad de nutrientes, no como objetivos que deban forzarse hacia cero o hacia una proporción fija.
+La [ficha de amonio](../03_parametros/amonio.md), la [ficha de nitrito](../03_parametros/nitrito.md), la [ficha de nitrato](../03_parametros/nitrato.md) y la [ficha de fosfato](../03_parametros/fosfato.md) describen cada compuesto. La dimensión química los integra como señales de entradas, transformaciones y disponibilidad de nutrientes, no como objetivos que deban forzarse hacia cero o hacia una proporción fija.
 
 ### Gases disueltos
 

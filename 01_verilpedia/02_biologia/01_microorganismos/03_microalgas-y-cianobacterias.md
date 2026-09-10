@@ -2,7 +2,7 @@
 
 ![Cianobacterias filamentosas al microscopio](https://inaturalist-open-data.s3.amazonaws.com/photos/106997568/large.jpg)
 
-**Imagen:** iNaturalist, [Cyanobacteria ](Class Cyanophyceae)](https://www.inaturalist.org/taxa/196963-Cyanophyceae), licencia CC BY-NC.
+**Imagen:** iNaturalist, [Cyanobacteria (Class Cyanophyceae)](https://www.inaturalist.org/taxa/196963-Cyanophyceae), licencia CC BY-NC.
 
 ## Descripción
 

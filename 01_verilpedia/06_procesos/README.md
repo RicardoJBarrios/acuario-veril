@@ -6,6 +6,7 @@ Estas fichas son una compilación personal de investigación sobre procesos de e
 
 - [Ciclado biológico](01_ciclado.md)
 - [Variante de ciclado sin peces](01a_ciclado-sin-peces.md)
+- [Fuentes metodológicas de ciclado](fuentes/README.md): métodos publicados por fabricantes y sus límites de interpretación
 - [Maduración](02_maduracion.md)
 - [Operación y mantenimiento](03_operacion.md)
 - [Cambios de agua](04_cambios-agua.md)

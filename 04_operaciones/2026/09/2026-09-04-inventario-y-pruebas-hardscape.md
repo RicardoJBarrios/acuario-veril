@@ -24,7 +24,7 @@ Inventariar las rocas disponibles, construir una referencia a escala del display
 
 - [Inventario fotográfico de rocas](../../../02_configuracion/02_hardscape/rocas/README.md)
 - [Plantilla del display](../../../02_configuracion/02_hardscape/plantilla/README.md)
-- Las fotografías de las composiciones descartadas se conservan fuera del repositorio activo, en `proyectos-acuario-legado/hardscape/`
+- Las composiciones descartadas no forman parte de la evidencia conservada en este repositorio; esta operación acredita únicamente las pruebas y el inventario descritos aquí
 
 ## Pendientes derivados
 

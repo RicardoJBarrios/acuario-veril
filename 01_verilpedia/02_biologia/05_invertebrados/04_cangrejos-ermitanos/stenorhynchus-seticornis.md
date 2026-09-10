@@ -2,7 +2,7 @@
 
 ![Stenorhynchus seticornis](https://upload.wikimedia.org/wikipedia/commons/5/54/Cangrejo_ara%C3%B1a_%28Stenorhynchus_seticornis%29%2C_franja_marina_Teno-Rasca%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-05%2C_DD_105.jpg)
 
-**Imagen:** [Wikimedia Commons, *Stenorhynchus seticornis*](https://commons.wikimedia.org/wiki/File:Cangrejo_ara%C3%B1a_](Stenorhynchus_seticornis),_franja_marina_Teno-Rasca,_Tenerife,_Espa%C3%B1a,_2022-01-05,_DD_105.jpg)
+**Imagen:** [Wikimedia Commons, *Stenorhynchus seticornis*](<https://commons.wikimedia.org/wiki/File:Cangrejo_ara%C3%B1a_%28Stenorhynchus_seticornis%29%2C_franja_marina_Teno-Rasca%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-05%2C_DD_105.jpg>)
 
 ## Qué es
 
@@ -66,6 +66,6 @@ No hay variante activa vinculada para Veril.
 
 ## Fuentes
 
-- WoRMS, [*Stenorhynchus seticornis* ](Herbst, 1788)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Stenorhynchus+seticornis)
+- WoRMS, [*Stenorhynchus seticornis* (Herbst, 1788)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Stenorhynchus+seticornis)
 - Transcripción adjunta, **Los INVERTEBRADOS para INICIAR tu REEF**, bloque sobre cangrejo flecha
 - Criterios internos de Veril en [15 - Fauna](../../../../02_configuracion/03_biologia/01_criterios/02_fauna.md)

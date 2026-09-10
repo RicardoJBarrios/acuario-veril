@@ -2,7 +2,7 @@
 
 ![Smaragdia viridis](https://upload.wikimedia.org/wikipedia/commons/6/61/Smaragdia_viridis_%28MNHN-IM-2000-32578%29.jpeg)
 
-**Imagen:** [Wikimedia Commons, *Smaragdia viridis*](<https://commons.wikimedia.org/wiki/File:Smaragdia_viridis_](MNHN-IM-2000-32578).jpeg>), licencia CC BY 4.0.
+**Imagen:** [Wikimedia Commons, *Smaragdia viridis*](<https://commons.wikimedia.org/wiki/File:Smaragdia_viridis_%28MNHN-IM-2000-32578%29.jpeg>), licencia CC BY 4.0.
 
 ## Qué es
 

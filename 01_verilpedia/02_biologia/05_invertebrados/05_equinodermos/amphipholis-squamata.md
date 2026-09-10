@@ -2,7 +2,7 @@
 
 ![Amphipholis squamata](https://upload.wikimedia.org/wikipedia/commons/0/06/Amphipholis_squamata_%28YPM_IZ_031088%29_01.jpg)
 
-**Imagen:** [Wikimedia Commons, *Amphipholis squamata*](<https://commons.wikimedia.org/wiki/File:Amphipholis_squamata_](YPM_IZ_031088)_01.jpg>), licencia CC0.
+**Imagen:** [Wikimedia Commons, *Amphipholis squamata*](<https://commons.wikimedia.org/wiki/File:Amphipholis_squamata_%28YPM_IZ_031088%29_01.jpg>), licencia CC0.
 
 ## Qué es
 
@@ -77,6 +77,6 @@ Puede encajar como biodiversidad de roca en la misma categoría funcional. Es de
 - Animal Diversity Web, [*Ophiactis savignyi*](https://animaldiversity.org/accounts/Ophiactis_savignyi/)
 - Paschinger y colaboradores, [documentación de *Ophiactis savignyi* en sistemas de arrecife](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062179/)
 - Rincón Reef Garden, [¡Estrellas de Mar en mi Nuevo Acuario!](https://www.youtube.com/watch?v=Y3KF_W-ndaM), observación de microofiuras introducidas como biodiversidad de roca
-- Deheyn et al., [tamaño y variabilidad del complejo *Amphipholis squamata*](https://doi.org/10.1016/S0764-4469](00)00139-6)
+- Deheyn et al., [tamaño y variabilidad del complejo *Amphipholis squamata*](https://doi.org/10.1016/S0764-4469%2800%2900139-6)
 - Jones y Smaldon, [alimentación y reproducción de *Amphipholis squamata*](https://doi.org/10.1080/00222938900770341)
 - Criterios internos de Veril en [15 - Fauna](../../../../02_configuracion/03_biologia/01_criterios/02_fauna.md)

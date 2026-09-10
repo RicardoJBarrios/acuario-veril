@@ -2,7 +2,7 @@
 
 ![Clavelina dellavallei](https://upload.wikimedia.org/wikipedia/commons/3/34/Bluestriped_light_bulb_tunicate_%28Clavelina_dellavallei%29.jpg)
 
-**Imagen:** [Wikimedia Commons, *Clavelina dellavallei*](<https://commons.wikimedia.org/wiki/File:Bluestriped_light_bulb_tunicate_](Clavelina_dellavallei).jpg>), licencia CC0.
+**Imagen:** [Wikimedia Commons, *Clavelina dellavallei*](<https://commons.wikimedia.org/wiki/File:Bluestriped_light_bulb_tunicate_%28Clavelina_dellavallei%29.jpg>), licencia CC0.
 
 ## Qué es
 

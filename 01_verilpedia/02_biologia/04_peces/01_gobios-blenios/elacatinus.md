@@ -127,8 +127,8 @@ El «gobio cabeza de cerillo» mostrado en el vídeo de Efren Villegas correspon
 
 - FishBase, [*Elacatinus oceanops*](https://www.fishbase.se/summary/elacatinus-oceanops), [*Elacatinus figaro*](https://www.fishbase.se/summary/elacatinus-figaro) y [*Elacatinus puncticulatus*](https://www.fishbase.se/summary/Elacatinus-puncticulatus.html)
 - Mad Hatter's Reef, [Top 10 Saltwater Fish for a 20 Gallon Nano Reef Tank](https://www.youtube.com/watch?v=_h3SLJ2GeBw)
-- ORA, [Neon Goby ](*Elacatinus oceanops*)](https://www.orafarm.com/product/neon-goby/)
-- ORA, [Red Head Goby ](*Elacatinus puncticulatus*)](https://www.orafarm.com/product/red-head-goby/)
+- ORA, [Neon Goby (*Elacatinus oceanops*)](https://www.orafarm.com/product/neon-goby/)
+- ORA, [Red Head Goby (*Elacatinus puncticulatus*)](https://www.orafarm.com/product/red-head-goby/)
 - Jufor Mundo Animal, [Peces pequeños para tu acuario marino](https://www.youtube.com/watch?v=TBJTXaLqNU4), usado para contrastar la propuesta de *E. oceanops* como limpiador
 - Efren Villegas, [Peces marinos para acuarios de menos de 100 litros, más especies](https://www.youtube.com/watch?v=0h1HnQKD9sw), usado para identificar y contrastar el gobio cabeza de cerillo
 - Reef2Reef, [discusión sobre *Elacatinus oceanops* en acuario](https://www.reef2reef.com/threads/should-i-get-neon-gobies-elacatinus-oceanops.919405/)

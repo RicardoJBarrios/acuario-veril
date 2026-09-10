@@ -69,6 +69,6 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 
 ## Fuentes
 
-- WoRMS, [*Babylonia formosae* ](G. B. Sowerby II, 1866)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Babylonia+formosae)
+- WoRMS, [*Babylonia formosae* (G. B. Sowerby II, 1866)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Babylonia+formosae)
 - Elite Reef Kanarias, [¿Cuántos caracoles y cuáles meto en mi acuario marino?](https://www.youtube.com/watch/YRelEJ6u2yM)
 - Criterios internos de Veril en [15 - Fauna](../../../../02_configuracion/03_biologia/01_criterios/02_fauna.md)

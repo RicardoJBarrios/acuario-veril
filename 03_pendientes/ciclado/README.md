@@ -8,9 +8,7 @@ Este directorio reúne la evidencia metodológica, las decisiones de arranque y 
 
 ### Fuentes
 
-- [Método de Dr. Tim Hovanec](fuentes/metodo-dr-tim.md)
-- [Método de Aquaforest](fuentes/metodo-aquaforest.md)
-- [Método de Fritz Aquatics](fuentes/metodo-fritz.md)
+- [Métodos generales de ciclado en Verilpedia](../../01_verilpedia/06_procesos/fuentes/README.md)
 
 Estas fuentes describen métodos, resultados y límites de transferencia. No fijan por sí solas la configuración de Veril.
 

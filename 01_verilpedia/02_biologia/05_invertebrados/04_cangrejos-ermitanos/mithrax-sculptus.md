@@ -110,7 +110,7 @@ No se introduciría de forma preventiva. Reef Cleaners recoge ejemplares de hast
 
 ## Fuentes
 
-- WoRMS, [*Mithraculus sculptus* ](Lamarck, 1818)](https://www.marinespecies.org/aphia.php?id=421990&p=taxdetails)
+- WoRMS, [*Mithraculus sculptus* (Lamarck, 1818)](https://www.marinespecies.org/aphia.php?id=421990&p=taxdetails)
 - WoRMS, [*Pitho mirabilis*](https://www.marinespecies.org/aphia.php?id=422019&p=taxdetails)
 - Reef Cleaners, [Pitho Crab](https://www.reefcleaners.org/aquarium-store/pitho-crab), usado para contrastar talla, dieta y riesgo con corales
 - LiveAquaria, [Emerald Crab](https://www.liveaquaria.com/products/emerald-crab)

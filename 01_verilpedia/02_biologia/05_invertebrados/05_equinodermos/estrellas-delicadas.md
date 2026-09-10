@@ -2,7 +2,7 @@
 
 ![Linckia laevigata](https://upload.wikimedia.org/wikipedia/commons/c/c8/Estrella_de_mar_azul_%28Linckia_laevigata%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_183.jpg)
 
-**Imagen:** [Wikimedia Commons, *Linckia laevigata*](https://commons.wikimedia.org/wiki/File:Estrella_de_mar_azul_](Linckia_laevigata),_Anilao,_Filipinas,_2023-08-22,_DD_183.jpg)
+**Imagen:** [Wikimedia Commons, *Linckia laevigata*](<https://commons.wikimedia.org/wiki/File:Estrella_de_mar_azul_%28Linckia_laevigata%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_183.jpg>)
 
 ## Qué es
 

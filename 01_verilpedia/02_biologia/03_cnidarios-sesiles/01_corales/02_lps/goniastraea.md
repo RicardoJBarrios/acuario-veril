@@ -105,13 +105,13 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 
 ![GONIASTRAEA INDONESIA RED](https://www.elitereefkanarias.es/4868-home_default/goniastraea-indonesia-red-.jpg)
 
-**Fuentes observadas:** [Elite Reef Kanarias 1(https://www.elitereefkanarias.es/5235-goniastraea-indonesia-red-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5234-goniastraea-indonesia-red.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5237-goniastraea-indonesia-red-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5236-goniastraea-indonesia-red-.html)
+**Fuentes observadas:** [Elite Reef Kanarias 1](https://www.elitereefkanarias.es/5235-goniastraea-indonesia-red-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5234-goniastraea-indonesia-red.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5237-goniastraea-indonesia-red-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5236-goniastraea-indonesia-red-.html)
 
 ### Goniastraea Orange Eyes
 
 ![Goniastraea Orange Eyes](https://www.elitereefkanarias.es/4874-home_default/goniastraea-orange-eyes-.jpg)
 
-**Fuentes observadas:** [Elite Reef Kanarias 1(https://www.elitereefkanarias.es/5241-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5242-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5239-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5243-goniastraea-orange-eyes-.html)
+**Fuentes observadas:** [Elite Reef Kanarias 1](https://www.elitereefkanarias.es/5241-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5242-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5239-goniastraea-orange-eyes-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5243-goniastraea-orange-eyes-.html)
 
 Entradas agrupadas por morfo comercial.
 

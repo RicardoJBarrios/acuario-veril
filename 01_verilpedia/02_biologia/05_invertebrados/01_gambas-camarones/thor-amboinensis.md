@@ -80,7 +80,7 @@ No hay entrada de catálogo vinculada en la revisión previa de **Elite Reef Kan
 
 ## Fuentes
 
-- WoRMS, [*Thor amboinensis* ](De Man, 1888)](https://www.marinespecies.org/aphia.php?id=107534&p=taxdetails)
+- WoRMS, [*Thor amboinensis* (De Man, 1888)](https://www.marinespecies.org/aphia.php?id=107534&p=taxdetails)
 - Reef App, [*Thor amboinensis*](https://reefapp.net/en/encyclopedia/thor-amboinensis)
 - Tropical Fish Hobbyist Magazine, [*Thor amboinensis*](https://www.tfhmagazine.com/articles/saltwater/thor-amboinensis)
 - Tropical Fish Hobbyist Magazine, [Keeping Sexy Shrimp](https://www.tfhmagazine.com/articles/saltwater/keeping-sexy-shrimp-full-article)

@@ -5,7 +5,7 @@
 Este documento describe el método Kickstart de Aquaforest. El fabricante presenta el conjunto como una forma de acelerar la maduración; esa afirmación no sustituye la prueba de una carga controlada de amonio.
 
 > [!NOTE]
-> `AF Rock` aparece aquí únicamente como componente del método comercial descrito por Aquaforest. No identifica la roca instalada en Veril, cuya procedencia documentada es **D-D Marco Coralline Rock**.
+> `AF Rock` aparece aquí únicamente como componente del método comercial descrito por Aquaforest. No identifica cualquier otra roca utilizada en un acuario.
 
 ## Componentes y condiciones
 
@@ -36,7 +36,7 @@ El método completo combina:
 - Bio S: 1 gota por 100 L cada día durante los primeros 14 días
 - AF Life Source: 10 ml por 100 L una vez por semana; puede producir turbidez temporal
 
-Las cantidades se recalculan sobre el volumen neto real. Un volumen cercano a 90 L produciría como referencia 0,9 gotas de Bio S y 9 ml de Life Source, pero no se improvisarán fracciones ni se compensará con dosis adicionales. El envase, el gotero y el volumen medido deciden la pauta práctica.
+Las cantidades se recalculan sobre el volumen neto real. No se deben improvisar fracciones ni compensar con dosis adicionales: el envase, el gotero y el volumen medido deciden la pauta práctica.
 
 ### Compatibilidad y límites
 
@@ -73,4 +73,4 @@ AF Life Source puede aportar sedimento y minerales, pero no sustituye la fuente 
 - [Aquaforest: Bio S](https://aquaforest.eu/en/products/seawater/probiotic-method/bio-s/)
 - [Aquaforest: AF Life Source](https://aquaforest.eu/en/products/seawater/water-treatment/af-life-source/)
 - [Aquaforest: Kickstart Method](https://aquaforest.eu/en/knowledge-base/aquafores-kickstart-method-fast-and-effective-way-to-start-reef/)
-- [Ficha local de AF Bio Sand](../../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md)
+- [Ficha local de AF Bio Sand](../../05_productos/01_af-bio-sand/af-bio-sand.md)

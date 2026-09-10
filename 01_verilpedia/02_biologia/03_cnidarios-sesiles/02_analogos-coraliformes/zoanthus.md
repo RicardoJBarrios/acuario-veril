@@ -143,7 +143,7 @@ Morfo de alto contraste con tonos verdes, amarillos y rosados bajo luz azul. No 
 
 **Fuente:** [Elite Reef Kanarias](https://www.elitereefkanarias.es/5226-zoanthus-candy-apple-red.html)
 
-**Otras fuentes observadas:** [Elite Reef Kanarias 1(https://www.elitereefkanarias.es/5227-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5228-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5230-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5231-zoanthus-candy-apple-red-.html)
+**Otras fuentes observadas:** [Elite Reef Kanarias 1](https://www.elitereefkanarias.es/5227-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5228-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 3](https://www.elitereefkanarias.es/5230-zoanthus-candy-apple-red-.html), [Elite Reef Kanarias 4](https://www.elitereefkanarias.es/5231-zoanthus-candy-apple-red-.html)
 
 Variedad con disco rojo y falda verde fluorescente. Las entradas repetidas parecen corresponder a lote o número de pólipos, no a fichas separadas.
 

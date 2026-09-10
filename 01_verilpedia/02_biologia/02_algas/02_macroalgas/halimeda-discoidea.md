@@ -2,7 +2,7 @@
 
 ![Halimeda discoidea](https://upload.wikimedia.org/wikipedia/commons/6/6e/Watercress_algae_%28Halimeda_discoidea%29.jpg)
 
-**Imagen:** [Wikimedia Commons, *Halimeda discoidea*](<https:/commons.wikimedia.org/wiki/File:Watercress_algae_](Halimeda_discoidea).jpg>), licencia CC BY-SA 4.0.
+**Imagen:** [Wikimedia Commons, *Halimeda discoidea*](<https://commons.wikimedia.org/wiki/File:Watercress_algae_%28Halimeda_discoidea%29.jpg>), licencia CC BY-SA 4.0.
 
 ## Qué es
 

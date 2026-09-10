@@ -2,7 +2,7 @@
 
 ![Camposcia retusa](https://upload.wikimedia.org/wikipedia/commons/4/45/Camposcia_retusa_%28MNHN-IU-2013-421%29.jpeg)
 
-**Imagen:** [Wikimedia Commons, *Camposcia retusa*](https://commons.wikimedia.org/wiki/File:Camposcia_retusa_](MNHN-IU-2013-421).jpeg)
+**Imagen:** [Wikimedia Commons, *Camposcia retusa*](<https://commons.wikimedia.org/wiki/File:Camposcia_retusa_%28MNHN-IU-2013-421%29.jpeg>)
 
 ## Qué es
 

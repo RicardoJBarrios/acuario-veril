@@ -63,7 +63,7 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 
 ## Fuentes
 
-- WoRMS, [*Stenopus hispidus* ](Olivier, 1811)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Stenopus+hispidus)
+- WoRMS, [*Stenopus hispidus* (Olivier, 1811)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Stenopus+hispidus)
 - Reefs.com, [Shrimps for the Marine Tank](https://reefs.com/magazine/shrimps-for-the-marine-tank/), por criterios prácticos de gambas ornamentales y riesgos de convivencia
 - LiveAquaria, fichas comerciales de coral banded shrimp para parámetros generales, temperamento y compatibilidad reef con cautela
 - Elite Reef Kanarias, [Estas gambas cuidan el acuario](https://www.youtube.com/watch/T3aL9iA50D4)

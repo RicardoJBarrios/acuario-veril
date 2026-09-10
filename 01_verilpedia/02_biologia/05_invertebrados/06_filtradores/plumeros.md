@@ -2,7 +2,7 @@
 
 ![Bispira brunnea](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bispira_brunnea_%28Social_Feather_Duster_Worm%29.jpg)
 
-**Imagen:** [Wikimedia Commons, *Bispira brunnea*](https://commons.wikimedia.org/wiki/File:Bispira_brunnea_](Social_Feather_Duster_Worm).jpg)
+**Imagen:** [Wikimedia Commons, *Bispira brunnea*](<https://commons.wikimedia.org/wiki/File:Bispira_brunnea_%28Social_Feather_Duster_Worm%29.jpg>)
 
 ## Qué es
 
@@ -75,6 +75,6 @@ Los Christmas tree worms quedan dentro de esta lectura como plumeros ornamentale
 - WoRMS, [*Bispira brunnea*](https://www.marinespecies.org/aphia.php?id=421069&p=taxdetails)
 - Transcripción adjunta, **Los INVERTEBRADOS para INICIAR tu REEF**, bloque sobre plumeros y Christmas tree worms
 - Acuarios HD, [Los Invertebrados y sus Funciones en el Acuario Marino de Arrecife](https://www.youtube.com/watch/1rzL4XsT1Kw)
-- RedPROMAR, [*Bispira viola*(https://redpromar.org/species/100059), [*Branchiomma luctuosum*(https://redpromar.org/species/104551), [*Sabella spallanzanii*](https://redpromar.org/species/100006), [*Protula tubularia*](https://redpromar.org/species/100300) y [*Spirobranchus triqueter*](https://redpromar.org/species/100677)
-- Gobierno de Canarias, [CanariWiki: espirógrafo ](*Sabella spallanzanii*)](https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Espir%C3%B3grafo_%28Sabella_spallanzanii%29)
+- RedPROMAR, [*Bispira viola*](https://redpromar.org/species/100059), [*Branchiomma luctuosum*](https://redpromar.org/species/104551), [*Sabella spallanzanii*](https://redpromar.org/species/100006), [*Protula tubularia*](https://redpromar.org/species/100300) y [*Spirobranchus triqueter*](https://redpromar.org/species/100677)
+- Gobierno de Canarias, [CanariWiki: espirógrafo (*Sabella spallanzanii*)](<https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Espir%C3%B3grafo_%28Sabella_spallanzanii%29>)
 - Criterios internos de Veril en [15 - Fauna](../../../../02_configuracion/03_biologia/01_criterios/02_fauna.md)

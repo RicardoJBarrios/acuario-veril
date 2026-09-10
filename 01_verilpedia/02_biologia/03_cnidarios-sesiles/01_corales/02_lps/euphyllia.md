@@ -125,7 +125,7 @@ Las entradas parancora quedan agrupadas aquí, incluida la cabeza doble Cooper/G
 
 ### Euphyllia torch orange
 
-![EUPHILIA TORCH ORANGE ](UNA CABEZA)](https://www.elitereefkanarias.es/5383-home_default/euphilia-torch-orange-una-cabeza.jpg)
+![EUPHILIA TORCH ORANGE (UNA CABEZA)](https://www.elitereefkanarias.es/5383-home_default/euphilia-torch-orange-una-cabeza.jpg)
 
 **Fuentes observadas:** [Elite Reef Kanarias 1](https://www.elitereefkanarias.es/5843-euphilia-torch-orange-una-cabeza.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5844-euphilia-torch-orange-doble-cabeza.html)
 
@@ -133,7 +133,7 @@ Torch de una o doble cabeza. En Veril requeriría todavía más margen.
 
 ### Euphyllia torch premium / ultra
 
-![EUPHILIA TORCH PREMIUM ](UNA CABEZA)](https://www.elitereefkanarias.es/5414-home_default/euphilia-torch-premium-una-cabeza.jpg)
+![EUPHILIA TORCH PREMIUM (UNA CABEZA)](https://www.elitereefkanarias.es/5414-home_default/euphilia-torch-premium-una-cabeza.jpg)
 
 **Fuentes observadas:** [Elite Reef Kanarias 1](https://www.elitereefkanarias.es/5882-euphilia-torch-premium-una-cabeza.html), [Elite Reef Kanarias 2](https://www.elitereefkanarias.es/5837-euphilia-torch-ultra.html)
 
@@ -145,7 +145,7 @@ Torch de una o doble cabeza. En Veril requeriría todavía más margen.
 
 ### Euphyllia torch yellow tips
 
-![EUPHILIAS TORCH YELLOW TIPS ](UNA CABEZA)](https://www.elitereefkanarias.es/5382-home_default/euphilias-torch-yellow-tips-una-cabeza.jpg)
+![EUPHILIAS TORCH YELLOW TIPS (UNA CABEZA)](https://www.elitereefkanarias.es/5382-home_default/euphilias-torch-yellow-tips-una-cabeza.jpg)
 
 **Fuente:** [Elite Reef Kanarias](https://www.elitereefkanarias.es/5842-euphilias-torch-yellow-tips-una-cabeza.html)
 

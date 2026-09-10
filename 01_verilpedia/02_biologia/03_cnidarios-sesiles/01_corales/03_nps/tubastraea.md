@@ -88,7 +88,7 @@ No hay una variante de Elite Reef Kanarias vinculada en esta ficha. Cualquier pi
 
 ## Fuentes
 
-- [Wikimedia Commons, *Tubastraea coccinea* en el Waikiki Aquarium](https://commons.wikimedia.org/wiki/File:Orange_Cup_Coral_](Tubastraea_coccinea)_at_the_Waikiki_Aquarium.JPG)
+- [Wikimedia Commons, *Tubastraea coccinea* en el Waikiki Aquarium](<https://commons.wikimedia.org/wiki/File:Orange_Cup_Coral_%28Tubastraea_coccinea%29_at_the_Waikiki_Aquarium.JPG>)
 - [WoRMS, búsqueda taxonómica de *Tubastraea*](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Tubastraea)
 - [Life-history traits of *Tubastraea coccinea*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7381571/)
 - [The invasion of the azooxanthellate coral *Tubastraea* throughout the world](https://repository.si.edu/server/api/core/bitstreams/a4faaf58-42d1-4375-9926-e546fb8a4039/content)

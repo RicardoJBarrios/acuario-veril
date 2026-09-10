@@ -63,7 +63,7 @@ Esta dimensión considera varias escalas de vida que se solapan dentro del siste
 
 Las bacterias, arqueas y otros microorganismos colonizan superficies, partículas y capas de biofilm. Forman una base biológica para transformaciones, competencia por recursos y relaciones tróficas posteriores. Su presencia no demuestra por sí sola una capacidad de procesamiento concreta ni una comunidad madura.
 
-La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y arqueas(../02_biologia/01_microorganismos/01_bacterias/README.md); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](07_procesamiento.md), y su establecimiento temporal a los documentos de [ciclado](../../03_pendientes/ciclado/plan.md) y [maduración](../../03_pendientes/maduracion/plan.md).
+La dimensión biológica los considera como una capa funcional distribuida por el sistema. La composición y las funciones de los grupos relacionados con el ciclo del nitrógeno se desarrollan en las fichas de [bacterias y arqueas](../02_biologia/01_microorganismos/01_bacterias/README.md); su papel en la transformación de materia pertenece a la [dimensión de procesamiento](07_procesamiento.md), y su establecimiento temporal a los documentos de [ciclado](../../03_pendientes/ciclado/plan.md) y [maduración](../../03_pendientes/maduracion/plan.md).
 
 ### Microfauna y organismos crípticos
 

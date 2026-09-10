@@ -62,6 +62,6 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 
 ## Fuentes
 
-- WoRMS, [*Lysmata seticaudata* ](Risso, 1816)](https://www.marinespecies.org/aphia.php?id=107528&p=taxdetails)
+- WoRMS, [*Lysmata seticaudata* (Risso, 1816)](https://www.marinespecies.org/aphia.php?id=107528&p=taxdetails)
 - Elite Reef Kanarias, [Estas gambas cuidan el acuario](https://www.youtube.com/watch/T3aL9iA50D4)
 - Criterios internos de Veril en [15 - Fauna](../../../../02_configuracion/01_dimensiones/06_biologia.md)

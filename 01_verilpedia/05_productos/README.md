@@ -31,6 +31,6 @@ Los manuales y fichas técnicas descargados se conservan dentro del directorio d
 
 ## Fuentes metodológicas locales
 
-- [Método de Dr. Tim Hovanec](../../03_pendientes/ciclado/fuentes/metodo-dr-tim.md)
-- [Sistema de arranque de Aquaforest](../../03_pendientes/ciclado/fuentes/metodo-aquaforest.md)
-- [Método de Fritz Aquatics](../../03_pendientes/ciclado/fuentes/metodo-fritz.md)
+- [Método de Dr. Tim Hovanec](../06_procesos/fuentes/metodo-dr-tim.md)
+- [Sistema de arranque de Aquaforest](../06_procesos/fuentes/metodo-aquaforest.md)
+- [Método de Fritz Aquatics](../06_procesos/fuentes/metodo-fritz.md)

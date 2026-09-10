@@ -155,13 +155,13 @@ Referencia comercial a ermitaños rayados de color naranja y blanco, normalmente
 
 ## Fuentes
 
-- WoRMS, [*Calcinus elegans* ](H. Milne Edwards, 1836)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Calcinus+elegans)
+- WoRMS, [*Calcinus elegans* (H. Milne Edwards, 1836)](https://www.marinespecies.org/aphia.php?p=taxlist&tName=Calcinus+elegans)
 - Transcripción adjunta, **Los INVERTEBRADOS para INICIAR tu REEF**, bloque sobre ermitaños rojos, azules y Halloween
 - Cetamar, [¡Animales imprescindibles que debes tener en tu acuario marino, sí o sí!](https://www.youtube.com/watch?v=6MnqSpRYvqs), bloque sobre *Clibanarius tricolor* y equipo de limpieza inicial
 - Nano-Reef, [Clean Up Crews](https://www.nano-reef.com/articles/livestock/clean-up-crews-r16/)
 - Reef2Reef, [debate sobre equipo de limpieza](https://www.reef2reef.com/threads/clean-up-crew.731356/)
 - RedPROMAR, [*Calcinus tubularis*](https://redpromar.org/species/100003) y [*Clibanarius aequabilis*](https://redpromar.org/species/105232)
-- Gobierno de Canarias, [CanariWiki: cangrejo ermitaño de roca ](*Clibanarius erythropus*)](https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Cangrejo_ermita%C3%B1o_de_roca)
+- Gobierno de Canarias, [CanariWiki: cangrejo ermitaño de roca (*Clibanarius erythropus*)](https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Cangrejo_ermita%C3%B1o_de_roca)
 - Elite Reef Kanarias, [Acuario marino libre de algas con estos 5 animales](https://www.youtube.com/watch/R5p_H2Z0mEk)
 - Acuarios HD, [Los Invertebrados y sus Funciones en el Acuario Marino de Arrecife](https://www.youtube.com/watch/1rzL4XsT1Kw)
 - Elite Reef Kanarias, [catálogo de invertebrados](https://www.elitereefkanarias.es/141-invertebrados-)

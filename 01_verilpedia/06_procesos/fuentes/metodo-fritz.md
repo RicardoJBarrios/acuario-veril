@@ -30,7 +30,7 @@ Fritz publica como condiciones favorables para TurboStart 900:
 | Alcalinidad mínima | 4,5 dKH |
 | Fosfato | Por encima de 0 ppm |
 
-Estas cifras son condiciones de funcionamiento publicadas para el producto, no objetivos universales de mantenimiento. Para Veril se comprobarán además la salinidad, la temperatura, el pH y la alcalinidad antes de iniciar la prueba.
+Estas cifras son condiciones de funcionamiento publicadas para el producto, no objetivos universales de mantenimiento. Antes de iniciar una prueba se comprobarán además la salinidad, la temperatura, el pH y la alcalinidad.
 
 ## Pauta publicada
 
@@ -44,7 +44,7 @@ Estas cifras son condiciones de funcionamiento publicadas para el producto, no o
 6. Mantener el flujo y la aireación adecuados durante todo el proceso
 7. Medir amonio, nitrito y nitrato y registrar las dosis y los horarios
 
-La ficha actual de TurboStart 900 publica como dosis de sistema nuevo **29 ml por 95 L**. La etiqueta del envase adquirido prevalece si presenta una pauta diferente. Fritz indica que puede utilizarse una sobredosificación de hasta cinco veces la dosis recomendada para reducir el tiempo de establecimiento, pero esa posibilidad no forma parte de la receta base de Veril.
+La ficha actual de TurboStart 900 publica como dosis de sistema nuevo **29 ml por 95 L**. La etiqueta del envase utilizado prevalece si presenta una pauta diferente. Fritz indica que puede utilizarse una sobredosificación de hasta cinco veces la dosis recomendada para reducir el tiempo de establecimiento, pero esa posibilidad no forma parte de una receta base prudente.
 
 ### Ciclado sin peces
 
@@ -57,13 +57,13 @@ Durante el ciclado:
 - Añadir una dosis parcial de Fishless Fuel si el amonio llega a cero y todavía no se desea introducir animales
 - Considerar completada la prueba solo cuando una carga conocida sea procesada y amonio y nitrito estén en torno a cero según el límite de detección del test
 
-Fritz también describe una ruta fish-in, pero no se aplica a Veril: el ciclado se realizará sin peces ni otros animales.
+Fritz también describe una ruta fish-in, pero esta ficha se centra en el ciclado sin peces ni otros animales.
 
 ### Equipos durante los primeros días
 
 Fritz indica mantener apagados el skimmer, los fleece rollers y los esterilizadores UV durante al menos cinco días después de aplicar TurboStart 900. El retorno, la circulación y la agitación superficial sí deben mantenerse para asegurar oxígeno y flujo sobre las superficies.
 
-La reactivación de los equipos se decidirá según la oxigenación, la carga y el plan de Veril. Mantener un equipo apagado no sustituye una aireación suficiente.
+La reactivación de los equipos se decidirá según la oxigenación, la carga y el procedimiento aplicado. Mantener un equipo apagado no sustituye una aireación suficiente.
 
 ### Compatibilidad y observaciones
 
@@ -93,5 +93,5 @@ No demuestra por sí solo:
 - [Fritz Aquatics: guía para ciclar un acuario marino](https://fritzaquatics.com/resources/articles/fritzzyme-user-guide-sw)
 - [Fritz Aquatics: FritzZyme TurboStart 900 Saltwater](https://fritzaquatics.com/products/fritzzyme-turbostart-900-saltwater)
 - [Fritz Aquatics: Fishless Fuel](https://fritzaquatics.com/products/fishless-fuel)
-- [Ficha local de TurboStart 900](../../../01_verilpedia/05_productos/10_fritzzyme-turbostart-900/fritzzyme-turbostart-900.md)
-- [Ficha local de Fishless Fuel](../../../01_verilpedia/05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
+- [Ficha local de TurboStart 900](../../05_productos/10_fritzzyme-turbostart-900/fritzzyme-turbostart-900.md)
+- [Ficha local de Fishless Fuel](../../05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
