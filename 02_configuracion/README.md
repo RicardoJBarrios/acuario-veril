@@ -10,7 +10,7 @@ El estado material inicial comprende la urna y aproximadamente **87 L de agua de
 
 También están disponibles para la caracterización y el ciclado el [Salifert Ammonia NH3 Profi Test](../01_verilpedia/05_productos/12_salifert-ammonia-nh3/salifert-ammonia-nh3.md), presentación de 50 tests y caducidad **10/2027**, el [Salifert NO2 Profi Test](../01_verilpedia/05_productos/13_salifert-no2/salifert-no2.md), presentación de 50 tests y caducidad **06/2029**, y un [Tetra Test 7 en 1](../01_verilpedia/05_productos/14_tetra-test-7-en-1/tetra-test-7-en-1.md), presentación de 50 tiras, para pH, KH, GH, NO2, NO3, Cl2 y CO2. Los Salifert de amonio y nitrito serán los métodos principales para seguir el ciclado; las tiras Tetra se utilizarán únicamente como referencia inicial y caracterización orientativa.
 
-La Mantis Tourbon 60, la AI Prime 16HD Reef y el sistema de ósmosis RO/DI permanecen pendientes de disponibilidad.
+La Mantis Tourbon 60 y la AI Prime 16HD Reef permanecen pendientes de disponibilidad. El equipo de ósmosis inversa RO6CB con bomba y los componentes comunicados del DI han sido adquiridos, pero la recepción, la instalación, la carga de resina y la aceptación del sistema RO/DI completo siguen pendientes.
 
 La configuración integrada combina:
 
