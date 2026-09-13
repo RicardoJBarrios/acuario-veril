@@ -12,11 +12,10 @@
 - No confundir especificaciones del fabricante con rendimiento medido en Veril
 - No presentar compatibilidad, precisión o capacidad como demostradas sin evidencia suficiente
 - Enlazar `02_configuracion/` cuando el equipo forme parte de una decisión concreta de configuración
-- No crear nuevas fichas generales dentro de este directorio.
+- Crear una ficha general aquí solo cuando Veril sea su autoridad declarada.
+  En ese caso, `veril-documentacion` crea el enlace simbólico correspondiente
+  en `catalogo/hardware/`; no se duplica el contenido.
 
-## Comprobación
-
-- Conservar manuales y documentos descargados junto a la ficha cuando corresponda
-- Identificar la fuente de cada afirmación relevante
-- Separar producto identificado, producto adquirido y aceptación local
-- Validar enlaces y ejecutar `/Users/ricardo/Documents/herramientas/validar-esquema.rb`.
+La conservación de manuales, la atribución de fuentes y la separación entre
+producto identificado, adquirido y aceptación local se resuelven con
+`documentacion-hardware` y `veril-documentacion`.

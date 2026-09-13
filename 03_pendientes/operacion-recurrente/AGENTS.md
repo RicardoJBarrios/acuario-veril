@@ -14,9 +14,8 @@
 - Enlazar los planes de ciclado y maduración cuando el procedimiento tenga reglas específicas de esas fases
 - Registrar cada ejecución real, con fecha y resultado, en `04_operaciones/`
 
-## Comprobación
+## Comprobación local
 
 - Definir materiales, pasos, condiciones de seguridad, registro y respuesta ante desviaciones
 - Distinguir instrucciones del fabricante, procedimiento adoptado y observación local
 - Mantener trazabilidad de lotes, volúmenes, mediciones e incidencias cuando corresponda
-- Validar enlaces y ejecutar `git diff --check`

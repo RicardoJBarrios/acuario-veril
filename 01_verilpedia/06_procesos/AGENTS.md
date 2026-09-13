@@ -13,8 +13,7 @@
 - Enlazar la ficha propietaria cuando el proceso dependa de química, biología, hidráulica, procesamiento u operación
 - Explicar las fases y sus relaciones sin presentar calendarios o recetas universales
 
-## Comprobación
+## Comprobación local
 
 - Mantener explícita la diferencia entre fase, procedimiento y operación transversal
 - Comprobar que la aplicación concreta está enlazada y no incorporada por duplicación
-- Validar enlaces y ejecutar `git diff --check`

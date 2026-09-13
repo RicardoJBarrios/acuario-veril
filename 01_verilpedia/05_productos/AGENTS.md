@@ -6,4 +6,3 @@
 - Enlazar el plan o procedimiento propietario cuando el producto se utilice en Veril
 - Dar prioridad a la etiqueta y documentación vigente del lote adquirido frente a resúmenes antiguos
 - No inferir una función, composición o viabilidad que la documentación no respalde
-- Validar enlaces y ejecutar `git diff --check`

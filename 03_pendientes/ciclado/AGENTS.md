@@ -12,10 +12,9 @@
 - No introducir aquí decisiones propias de maduración, operación estable o selección de organismos salvo como condición de transición
 - Registrar cambios que alteren la interpretación de la prueba y conservar los pendientes como pendientes
 
-## Comprobación
+## Comprobación local
 
 - Mantener una receta coherente durante cada prueba
 - Documentar volumen operativo, unidades, método de medición, carga, plazo y criterio de cierre
 - Enlazar `03_pendientes/maduracion/` como fase posterior
 - Trasladar a `04_operaciones/` las ejecuciones reales, sus fechas, resultados, incidencias y evidencias
-- Validar enlaces y ejecutar `git diff --check`

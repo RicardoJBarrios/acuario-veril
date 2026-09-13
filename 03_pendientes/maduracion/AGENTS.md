@@ -13,9 +13,8 @@
 - No sustituir cuarentena, aclimatación, operación ni fichas de equipos
 - Separar la observación de una sucesión natural de una inoculación deliberada
 
-## Comprobación
+## Comprobación local
 
 - Definir condiciones de entrada y criterios observables antes de avanzar
 - Introducir una variable o módulo cada vez cuando sea posible
 - Registrar carga, respuesta biológica, química, mantenimiento requerido y decisión siguiente
-- Validar enlaces y ejecutar `git diff --check`

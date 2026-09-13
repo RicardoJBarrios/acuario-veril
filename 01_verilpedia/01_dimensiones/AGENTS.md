@@ -24,9 +24,8 @@
 - Describir criterios observables, medibles y registrables en lugar de proxies aislados
 - Enlazar la historia en `01_verilpedia/07_historia/` cuando sea relevante, sin convertir la ficha en un apéndice histórico
 
-## Comprobación
+## Comprobación local
 
 - Confirmar que la variante adoptada y su aplicación están explícitas
 - Confirmar que la ficha no invade otra dimensión
 - Comprobar que la numeración coincide con la ficha de `02_configuracion/`
-- Validar enlaces internos y ejecutar `git diff --check`
