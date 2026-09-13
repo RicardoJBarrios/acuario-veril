@@ -1,6 +1,6 @@
 # Otros microorganismos marinos relacionados
 
-![Esquema funcional de una red microbiana marina](01_bacterias/ciclo-nitrogeno.svg)
+![Esquema funcional de una red microbiana marina](../01_bacterias/ciclo-nitrogeno.svg)
 
 **Imagen:** Esquema propio de Verilpedia; se incluye como recurso conceptual, no como identificación de un organismo.
 
@@ -16,7 +16,7 @@ No se inocularán ni se eliminarán de forma selectiva. La gestión se limita a 
 
 Algunas bacterias reductoras de sulfato utilizan sulfato como aceptor de electrones y pueden producir sulfuro bajo condiciones muy reductoras. Forman parte de procesos anaerobios naturales, pero una acumulación de sulfuro en una zona cerrada o removida bruscamente puede ser peligrosa.
 
-Su presencia no es un requisito del ciclado. La creación o explotación deliberada de zonas anóxicas pertenece a la [dimensión de procesamiento](../../01_dimensiones/07_procesamiento.md) y a la [dimensión química](../../01_dimensiones/05_quimica.md), no a esta ficha general.
+Su presencia no es un requisito del ciclado. La creación o explotación deliberada de zonas anóxicas pertenece a la [dimensión de procesamiento](../../../01_dimensiones/07_procesamiento.md) y a la [dimensión química](../../../01_dimensiones/05_quimica.md), no a esta ficha general.
 
 ## Microorganismos potencialmente patógenos
 
@@ -30,10 +30,10 @@ Los protozoos y otros organismos parásitos pueden afectar a peces o invertebrad
 
 ## Relación con otras áreas
 
-- El [ciclado](../../06_procesos/01_ciclado.md) no necesita demostrar bacteriófagos, reductores de sulfato, patógenos ni parásitos
-- La [maduración](../../06_procesos/02_maduracion.md) puede cambiar las condiciones que favorecen o limitan estos grupos, pero no tiene como objetivo desarrollarlos
-- La [dimensión de procesamiento](../../01_dimensiones/07_procesamiento.md) describe transformaciones y exportaciones, incluida la necesidad de no confundir reducción con retirada segura
-- La [dimensión química](../../01_dimensiones/05_quimica.md) permite interpretar oxígeno, sulfuro, pH, alcalinidad y nutrientes cuando exista una observación o hipótesis concreta
+- El [ciclado](../../../06_procesos/01_ciclado.md) no necesita demostrar bacteriófagos, reductores de sulfato, patógenos ni parásitos
+- La [maduración](../../../06_procesos/03_maduracion.md) puede cambiar las condiciones que favorecen o limitan estos grupos, pero no tiene como objetivo desarrollarlos
+- La [dimensión de procesamiento](../../../01_dimensiones/07_procesamiento.md) describe transformaciones y exportaciones, incluida la necesidad de no confundir reducción con retirada segura
+- La [dimensión química](../../../01_dimensiones/05_quimica.md) permite interpretar oxígeno, sulfuro, pH, alcalinidad y nutrientes cuando exista una observación o hipótesis concreta
 
 ## Límites
 

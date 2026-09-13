@@ -8,6 +8,17 @@
 
 Las microalgas son organismos fotosintéticos microscópicos que pueden formar parte de la columna de agua, los biofilms y las superficies del acuario. Las diatomeas y los dinoflagelados pertenecen a grupos distintos y no deben tratarse como una única categoría funcional.
 
+Para la interpretación de coberturas visibles, consultar las fichas específicas de [diatomeas](diatomeas.md), [cianobacterias](cianobacterias.md) y [dinoflagelados](dinoflagelados.md). Esta ficha conserva el marco general y no sustituye esas distinciones.
+
+## Fichas específicas
+
+- [Diatomeas](diatomeas.md)
+- [Cianobacterias](cianobacterias.md)
+- [Dinoflagelados](dinoflagelados.md)
+- [*Ostreopsis*](ostreopsis.md)
+- [*Amphidinium*](amphidinium.md)
+- [*Prorocentrum*](prorocentrum.md)
+
 Las cianobacterias son bacterias fotosintéticas. En un acuario pueden formar parte normal de los biofilms, pero algunas proliferaciones producen mantos visibles y viscosos que alteran la estética, la superficie disponible y, en determinados casos, la salud de otros organismos.
 
 ## Función en un acuario marino
@@ -73,9 +84,9 @@ La disminución de nitrato o fosfato tampoco demuestra por sí sola que una micr
 
 ## Relación con ciclado y maduración
 
-Las diatomeas, cianobacterias y otras microalgas pueden aparecer durante la sucesión de superficies, pero no constituyen una prueba de ciclado completado ni de madurez ecológica. El [ciclado](../../06_procesos/01_ciclado.md) evalúa principalmente la transformación de nitrógeno amoniacal.
+Las diatomeas, cianobacterias y otras microalgas pueden aparecer durante la sucesión de superficies, pero no constituyen una prueba de ciclado completado ni de madurez ecológica. El [ciclado](../../../06_procesos/01_ciclado.md) evalúa principalmente la transformación de nitrógeno amoniacal.
 
-La [maduración](../../06_procesos/02_maduracion.md) observa su aparición, persistencia, competencia y relación con biofilm, microfauna, iluminación y nutrientes. Cualquier introducción deliberada se documenta en el plan operativo correspondiente.
+La [maduración](../../../06_procesos/03_maduracion.md) observa su aparición, persistencia, competencia y relación con biofilm, microfauna, iluminación y nutrientes. Cualquier introducción deliberada se documenta en el plan operativo correspondiente.
 
 ## Fuentes
 

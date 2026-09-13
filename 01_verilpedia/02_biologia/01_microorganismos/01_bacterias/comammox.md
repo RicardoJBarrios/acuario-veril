@@ -54,7 +54,7 @@ Los tests de amonio, nitrito y nitrato muestran el resultado conjunto del biofil
 
 ## Relación con ciclado y maduración
 
-Los comammox pueden aparecer durante la sucesión del biofilm y modificar la forma en que se observa la nitrificación. El [ciclado](../../../06_procesos/01_ciclado.md) comprueba la capacidad funcional sin atribuirla a un grupo concreto, y la [maduración](../../../06_procesos/02_maduracion.md) permite interpretar cambios posteriores de la comunidad.
+Los comammox pueden aparecer durante la sucesión del biofilm y modificar la forma en que se observa la nitrificación. El [ciclado](../../../06_procesos/01_ciclado.md) comprueba la capacidad funcional sin atribuirla a un grupo concreto, y la [maduración](../../../06_procesos/03_maduracion.md) permite interpretar cambios posteriores de la comunidad.
 
 ## Fuentes
 

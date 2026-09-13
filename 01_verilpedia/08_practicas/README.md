@@ -7,5 +7,6 @@ Esta sección reúne, como compilación personal de investigación, prácticas g
 - [Estación auxiliar](01_estacion-auxiliar.md): Separación física para preparación de agua, observación, cuarentena y hospital
 - [Cuarentena y hospital](02_cuarentena-y-hospital.md): Bioseguridad, observación, tratamiento y criterios de alta
 - [Supervisión y automatización](03_supervision-y-automatizacion.md): Monitorización, alarmas, modos y límites de la automatización
+- [Diagnóstico y bioseguridad](04_diagnostico-y-bioseguridad/README.md): identificación, plagas, salud de organismos y entradas de corales
 
-El mantenimiento general se desarrolla en la [ficha de operación](../06_procesos/03_operacion.md) y los [cambios de agua](../06_procesos/04_cambios-agua.md).
+El mantenimiento general se desarrolla en la [ficha de operación](../06_procesos/05_operacion.md) y los [cambios de agua](../06_procesos/06_cambios-agua.md).

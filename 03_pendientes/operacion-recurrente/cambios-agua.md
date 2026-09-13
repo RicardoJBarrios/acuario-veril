@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Este documento define el procedimiento específico de Veril para preparar, comprobar, registrar y utilizar el agua de cambio. La explicación general de qué es un cambio de agua, qué puede aportar y cuáles son sus límites pertenece a la [ficha general de cambios de agua](../../01_verilpedia/06_procesos/04_cambios-agua.md).
+Este documento define el procedimiento específico de Veril para preparar, comprobar, registrar y utilizar el agua de cambio. La explicación general de qué es un cambio de agua, qué puede aportar y cuáles son sus límites pertenece a la [ficha general de cambios de agua](../../01_verilpedia/06_procesos/06_cambios-agua.md).
 
 La composición declarada y los límites del producto pertenecen a la [ficha de Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md). La interpretación de cada parámetro pertenece a las [fichas de parámetros](../../01_verilpedia/03_parametros/README.md). Este documento concreta cómo se utilizará esa información en Veril, sin duplicar sus definiciones generales.
 
@@ -155,11 +155,11 @@ Cuando existan mediciones anteriores, del agua nueva y posteriores, se comprobar
 - El agua de reposición por evaporación no debe contener sal añadida
 - Los cambios de agua realizados durante ciclado o maduración deben registrarse en el plan correspondiente porque pueden alterar la interpretación de una prueba o tendencia
 
-La interpretación general de la dilución, la sustitución y sus límites se conserva en la [ficha general de cambios de agua](../../01_verilpedia/06_procesos/04_cambios-agua.md).
+La interpretación general de la dilución, la sustitución y sus límites se conserva en la [ficha general de cambios de agua](../../01_verilpedia/06_procesos/06_cambios-agua.md).
 
 ## Fuentes y documentos relacionados
 
-- [Cambios de agua en un acuario marino](../../01_verilpedia/06_procesos/04_cambios-agua.md): definición general, efectos, límites y balance simplificado de mezcla
+- [Cambios de agua en un acuario marino](../../01_verilpedia/06_procesos/06_cambios-agua.md): definición general, efectos, límites y balance simplificado de mezcla
 - [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md): composición declarada, preparación, conservación y análisis por lote
 - [Química de Veril](../../02_configuracion/01_dimensiones/05_quimica.md): decisión de utilizar RO/DI y Aquaforest Reef Salt
 - [Fichas de parámetros](../../01_verilpedia/03_parametros/README.md): interpretación de salinidad, temperatura, alcalinidad, calcio, magnesio y demás variables

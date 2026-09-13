@@ -93,5 +93,5 @@ No demuestra por sí solo:
 - [Fritz Aquatics: guía para ciclar un acuario marino](https://fritzaquatics.com/resources/articles/fritzzyme-user-guide-sw)
 - [Fritz Aquatics: FritzZyme TurboStart 900 Saltwater](https://fritzaquatics.com/products/fritzzyme-turbostart-900-saltwater)
 - [Fritz Aquatics: Fishless Fuel](https://fritzaquatics.com/products/fishless-fuel)
-- [Ficha local de TurboStart 900](../../05_productos/10_fritzzyme-turbostart-900/fritzzyme-turbostart-900.md)
-- [Ficha local de Fishless Fuel](../../05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
+- [Ficha local de TurboStart 900](../05_productos/10_fritzzyme-turbostart-900/fritzzyme-turbostart-900.md)
+- [Ficha local de Fishless Fuel](../05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)

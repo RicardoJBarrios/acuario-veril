@@ -16,3 +16,4 @@ Las fichas describen identidad, función, alimentación, tamaño, comportamiento
 - [Cangrejos ermitaños y cangrejos afines](04_cangrejos-ermitanos/README.md): ermitaños pequeños, patas azules, patas rojas, ermitaño arcoíris, *Calcinus*, cangrejos pomponeros, porcelana, mitrácidos y otras fichas comparativas
 - [Equinodermos](05_equinodermos/README.md): ofiuras, estrellas, erizos y pepinos de mar
 - [Filtradores](06_filtradores/README.md): ascidias, esponjas y plumeros
+- [Riesgos y organismos acompañantes](07_riesgos/README.md): vermétidos, hidroides, polizones y confusiones frecuentes

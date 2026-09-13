@@ -73,4 +73,4 @@ AF Life Source puede aportar sedimento y minerales, pero no sustituye la fuente 
 - [Aquaforest: Bio S](https://aquaforest.eu/en/products/seawater/probiotic-method/bio-s/)
 - [Aquaforest: AF Life Source](https://aquaforest.eu/en/products/seawater/water-treatment/af-life-source/)
 - [Aquaforest: Kickstart Method](https://aquaforest.eu/en/knowledge-base/aquafores-kickstart-method-fast-and-effective-way-to-start-reef/)
-- [Ficha local de AF Bio Sand](../../05_productos/01_af-bio-sand/af-bio-sand.md)
+- [Ficha local de AF Bio Sand](../05_productos/01_af-bio-sand/af-bio-sand.md)

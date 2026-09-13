@@ -54,7 +54,7 @@ Los tests domésticos miden amonio, nitrito y nitrato como resultado conjunto de
 
 ## Relación con ciclado y maduración
 
-Las AOA pueden participar desde el establecimiento inicial del biofilm y cambiar su abundancia durante la maduración. El [ciclado](../../../06_procesos/01_ciclado.md) demuestra la función nitrificante sin necesidad de identificar el grupo responsable, mientras que la [maduración](../../../06_procesos/02_maduracion.md) documenta la sucesión de las comunidades.
+Las AOA pueden participar desde el establecimiento inicial del biofilm y cambiar su abundancia durante la maduración. El [ciclado](../../../06_procesos/01_ciclado.md) demuestra la función nitrificante sin necesidad de identificar el grupo responsable, mientras que la [maduración](../../../06_procesos/03_maduracion.md) documenta la sucesión de las comunidades.
 
 ## Fuentes
 

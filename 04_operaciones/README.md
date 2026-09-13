@@ -18,6 +18,8 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [4 de septiembre: Inventario, plantilla y pruebas de composición del hardscape](2026/09/2026-09-04-inventario-y-pruebas-hardscape.md)
 - [5 de septiembre: Montaje, fijación del hardscape y primer llenado](2026/09/2026-09-05-montaje-y-primer-llenado/README.md)
 - [6 de septiembre: Ajuste de nivel, restablecimiento del retorno y colocación del sensor](2026/09/2026-09-06-ajuste-nivel-retorno-y-sensor.md)
+- [13 de septiembre: Comprobación de salinidad con refractómetro](2026/09/2026-09-13-comprobacion-salinidad-refractometro.md)
+- [13 de septiembre: Observación de cambio de color del hardscape](2026/09/2026-09-13-observacion-cambio-color-hardscape/README.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

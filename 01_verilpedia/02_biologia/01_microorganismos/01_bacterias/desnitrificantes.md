@@ -56,7 +56,7 @@ Una disminución de nitrato puede tener varias causas y no demuestra por sí sol
 
 ## Relación con ciclado y maduración
 
-La desnitrificación pertenece normalmente a una fase posterior de gestión del nitrato y maduración. El [ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md) demuestra la transformación de amonio a nitrito y nitrato, mientras que el plan de maduración documenta las decisiones posteriores.
+La desnitrificación pertenece normalmente a una fase posterior de gestión del nitrato y maduración. El [ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md) demuestra la transformación de amonio a nitrito y nitrato, mientras que el plan de maduración documenta las decisiones posteriores.
 
 ## Fuentes
 

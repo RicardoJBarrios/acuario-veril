@@ -54,10 +54,10 @@ Los tests domésticos miden amonio, nitrito y nitrato como resultado conjunto de
 
 ## Relación con ciclado y maduración
 
-Las AOB pueden establecerse durante el ciclado y cambiar su abundancia durante la maduración. El [ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md) demuestra la capacidad funcional sin identificar cada grupo, mientras que la [maduración](../../../06_procesos/02_maduracion.md) permite observar la sucesión posterior.
+Las AOB pueden establecerse durante el ciclado y cambiar su abundancia durante la maduración. El [ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md) demuestra la capacidad funcional sin identificar cada grupo, mientras que la [maduración](../../../06_procesos/03_maduracion.md) permite observar la sucesión posterior.
 
 ## Fuentes
 
 - [Temporal and Spatial Stability of Ammonia-Oxidizing Archaea and Bacteria in Aquarium Biofilters](https://pmc.ncbi.nlm.nih.gov/articles/PMC4257543/), estabilidad y distribución de oxidantes de amonio en biofiltros de acuario
-- [Ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md)
+- [Ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md)
 - [Fichas de productos bacterianos](../../../05_productos/README.md)

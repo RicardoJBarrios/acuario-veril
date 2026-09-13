@@ -60,9 +60,9 @@ La ejecución, las cargas, las mediciones y las puertas de decisión están en e
 
 ## Fuentes locales
 
-- [Método de Aquaforest](../../../01_verilpedia/06_procesos/fuentes/metodo-aquaforest.md)
-- [Método de Fritz Aquatics](../../../01_verilpedia/06_procesos/fuentes/metodo-fritz.md)
-- [Método de Dr. Tim](../../../01_verilpedia/06_procesos/fuentes/metodo-dr-tim.md)
+- [Método de Aquaforest](../../../01_verilpedia/06_procesos/metodo-aquaforest.md)
+- [Método de Fritz Aquatics](../../../01_verilpedia/06_procesos/metodo-fritz.md)
+- [Método de Dr. Tim](../../../01_verilpedia/06_procesos/metodo-dr-tim.md)
 - [Ficha de FritzZyme 9](../../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md)
 - [Ficha de Fishless Fuel](../../../01_verilpedia/05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
 - [Ficha de AF Bio Sand](../../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md)

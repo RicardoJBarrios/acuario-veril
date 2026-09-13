@@ -8,7 +8,7 @@ En un acuario marino, esta capacidad se desarrolla sobre superficies colonizable
 
 El ciclado no es una fecha, una apariencia del agua ni la simple adición de un producto. Es una combinación de establecimiento biológico y comprobación funcional.
 
-La variante sin peces utiliza una fuente controlada de nitrógeno amoniacal y se describe en la [ficha de ciclado sin peces](01a_ciclado-sin-peces.md).
+La variante sin peces utiliza una fuente controlada de nitrógeno amoniacal y se describe en la [ficha de ciclado sin peces](02_ciclado-sin-peces.md).
 
 ## Qué debe demostrar
 
@@ -53,7 +53,7 @@ Por eso, el cierre del ciclado debe dar paso a una fase de maduración y no a la
 
 El ciclado responde principalmente a la pregunta «¿puede el sistema procesar una carga nitrogenada conocida?». La maduración responde a una pregunta más amplia: «¿cómo evoluciona y se estabiliza la comunidad biológica bajo condiciones reales y cargas crecientes?».
 
-La ejecución concreta pertenece al plan operativo del sistema. La evolución posterior se documenta en la [ficha de maduración](02_maduracion.md) y en el plan específico que corresponda.
+La ejecución concreta pertenece al plan operativo del sistema. La evolución posterior se documenta en la [ficha de maduración](03_maduracion.md) y en el plan específico que corresponda.
 
 ## Términos relacionados
 

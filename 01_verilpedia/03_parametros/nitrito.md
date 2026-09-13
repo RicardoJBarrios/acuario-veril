@@ -97,4 +97,4 @@ La ausencia de un pico observable de nitrito puede ser compatible con una oxidac
 - [Grosell y Jensen: Uptake and effects of nitrite in the marine teleost Platichthys flesus](https://doi.org/10.1016/S0166-445X%2899%2900091-0), captación intestinal y efectos fisiológicos en un pez marino
 - [FAO: Water quality and fish health](https://www.fao.org/fishery/docs/CDrom/aquaculture/a0844t/docrep/009/T1623E/T1623E03.htm), contexto de calidad del agua y toxicidad en animales acuáticos
 - [Ciclado biológico](../06_procesos/01_ciclado.md), función del nitrito como intermedio y límites de la prueba
-- [Ciclado sin peces](../06_procesos/01a_ciclado-sin-peces.md), interpretación de la transformación de una carga conocida
+- [Ciclado sin peces](../06_procesos/02_ciclado-sin-peces.md), interpretación de la transformación de una carga conocida

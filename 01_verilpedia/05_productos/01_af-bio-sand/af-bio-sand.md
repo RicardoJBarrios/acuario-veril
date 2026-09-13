@@ -79,4 +79,4 @@ Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. La
 - [Copia local de la guía de productos Aquaforest](aquaforest-product-guide-en.pdf)
 - [Aquaforest: AF Bio Sand](https://aquaforest.eu/en/products/seawater/aquascaping/af-bio-sand/)
 - [Aquaforest: Products Guide](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf)
-- [Método Aquaforest](../../06_procesos/fuentes/metodo-aquaforest.md)
+- [Método Aquaforest](../../06_procesos/metodo-aquaforest.md)

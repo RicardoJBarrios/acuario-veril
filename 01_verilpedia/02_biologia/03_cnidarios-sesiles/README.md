@@ -10,3 +10,5 @@ Las fichas describen identidad, función, necesidades generales, crecimiento, ag
 
 - [Corales](01_corales/README.md): corales blandos, LPS, NPS y SPS
 - [Análogos coraliformes](02_analogos-coraliformes/README.md): anémonas, coralimorfarios y zoántidos
+- [*Aiptasia* y majano](aiptasia-y-majano.md): anémonas oportunistas y límites de identificación
+- [Salud de corales](01_corales/06_salud/README.md) y [plagas asociadas](01_corales/05_plagas/README.md)

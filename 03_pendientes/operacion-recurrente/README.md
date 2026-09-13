@@ -8,7 +8,7 @@ La operación es una capa transversal, no una octava dimensión ni una fase post
 
 ## Documentación relacionada
 
-- [Operación y mantenimiento](../../01_verilpedia/06_procesos/03_operacion.md): marco general de la operación como proceso transversal
+- [Operación y mantenimiento](../../01_verilpedia/06_procesos/05_operacion.md): marco general de la operación como proceso transversal
 - [Dimensiones arquitectónicas](../../01_verilpedia/01_dimensiones/README.md): criterios que la operación debe observar y evaluar
 - [Plan de ciclado](../ciclado/plan.md): operación específica durante el establecimiento del biofiltro
 - [Plan de maduración](../maduracion/plan.md): operación específica durante la evolución inicial

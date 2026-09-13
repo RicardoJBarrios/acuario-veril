@@ -8,11 +8,11 @@ Este directorio reúne la evidencia metodológica, las decisiones de arranque y 
 
 ### Fuentes
 
-- [Métodos generales de ciclado en Verilpedia](../../01_verilpedia/06_procesos/fuentes/README.md)
+- [Métodos generales de ciclado en Verilpedia](../../01_verilpedia/06_procesos/README.md)
 
 Estas fuentes describen métodos, resultados y límites de transferencia. No fijan por sí solas la configuración de Veril.
 
-La variante general de ciclado sin peces está documentada en [la ficha de procesos correspondiente](../../01_verilpedia/06_procesos/01a_ciclado-sin-peces.md).
+La variante general de ciclado sin peces está documentada en [la ficha de procesos correspondiente](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md).
 
 ### Decisiones
 

@@ -59,7 +59,7 @@ Una película, turbidez o movimiento puntual no identifica un protozoo. La obser
 
 ## Relación con ciclado y maduración
 
-Los protozoos pueden formar parte de la sucesión de biofilms y de la red trófica durante la [maduración](../../06_procesos/02_maduracion.md). No son un criterio de cierre del [ciclado](../../06_procesos/01_ciclado.md) ni una prueba suficiente de madurez.
+Los protozoos pueden formar parte de la sucesión de biofilms y de la red trófica durante la [maduración](../../../06_procesos/03_maduracion.md). No son un criterio de cierre del [ciclado](../../../06_procesos/01_ciclado.md) ni una prueba suficiente de madurez.
 
 ## Fuentes
 

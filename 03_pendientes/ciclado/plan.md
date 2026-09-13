@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-Veril aplicará la [variante de ciclado sin peces](../../01_verilpedia/06_procesos/01a_ciclado-sin-peces.md) para demostrar una capacidad nitrificante bajo condiciones definidas. La definición del proceso, lo que debe demostrar y sus límites de interpretación están en la [ficha de ciclado biológico](../../01_verilpedia/06_procesos/01_ciclado.md).
+Veril aplicará la [variante de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md) para demostrar una capacidad nitrificante bajo condiciones definidas. La definición del proceso, lo que debe demostrar y sus límites de interpretación están en la [ficha de ciclado biológico](../../01_verilpedia/06_procesos/01_ciclado.md).
 
 La prueba se ejecutará dentro de la arquitectura de procesamiento Berlín adoptada por Veril. El ciclado validará la capacidad nitrificante de las superficies y condiciones del sistema, pero no sustituirá la evaluación posterior de la exportación orgánica, la retirada física ni el mantenimiento propios de esa arquitectura.
 
@@ -175,7 +175,7 @@ La aparición de nitrato apoyará la interpretación, pero no sustituirá las me
 
 ## Puertas de decisión
 
-Se aplicarán las puertas de decisión generales de la [ficha de ciclado sin peces](../../01_verilpedia/06_procesos/01a_ciclado-sin-peces.md), con estos criterios operativos para Veril:
+Se aplicarán las puertas de decisión generales de la [ficha de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md), con estos criterios operativos para Veril:
 
 ### Roja — detener
 
@@ -210,7 +210,7 @@ Además de los límites generales de interpretación descritos en las fichas de 
 
 ## Fuentes
 
-- [Variante general de ciclado sin peces](../../01_verilpedia/06_procesos/01a_ciclado-sin-peces.md)
+- [Variante general de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md)
 - [Receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md)
 - [Ficha de AF Bio Sand](../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md)
 - [Ficha de FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md)

@@ -20,7 +20,7 @@ Este bloque explica:
 - Qué puede y qué no puede inferirse mediante mediciones domésticas
 - Qué límites deben aplicarse al interpretar etiquetas y cultivos comerciales
 
-El [ciclado](../../../06_procesos/01_ciclado.md) define cómo se demuestra la capacidad nitrificante de un sistema. La [maduración](../../../06_procesos/02_maduracion.md) documenta la evolución posterior de biofilms, microfauna y comunidades. Los planes concretos de cada sistema documentan inoculantes, cargas y puertas de decisión. Las fichas de [productos](../../../05_productos/README.md) conservan las afirmaciones y condiciones de cada fabricante.
+El [ciclado](../../../06_procesos/01_ciclado.md) define cómo se demuestra la capacidad nitrificante de un sistema. La [maduración](../../../06_procesos/03_maduracion.md) documenta la evolución posterior de biofilms, microfauna y comunidades. Los planes concretos de cada sistema documentan inoculantes, cargas y puertas de decisión. Las fichas de [productos](../../../05_productos/README.md) conservan las afirmaciones y condiciones de cada fabricante.
 
 ## Índice
 

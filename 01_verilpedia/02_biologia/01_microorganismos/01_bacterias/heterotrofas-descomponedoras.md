@@ -52,9 +52,9 @@ La turbidez, una película o una disminución de nutrientes no identifica por s�
 
 ## Relación con ciclado y maduración
 
-Durante una prueba de nitrificación no se deben estimular deliberadamente con fuentes de carbono, porque añaden una función distinta y dificultan interpretar qué procesa el amonio. Son parte normal de la [maduración](../../../06_procesos/02_maduracion.md), donde se observa la transformación de materia y la sucesión de biofilms.
+Durante una prueba de nitrificación no se deben estimular deliberadamente con fuentes de carbono, porque añaden una función distinta y dificultan interpretar qué procesa el amonio. Son parte normal de la [maduración](../../../06_procesos/03_maduracion.md), donde se observa la transformación de materia y la sucesión de biofilms.
 
 ## Fuentes
 
 - [Microbial Surface Colonization and Biofilm Development in Marine Environments](https://pmc.ncbi.nlm.nih.gov/articles/PMC4711185/), colonización de superficies y funciones de los biofilms marinos
-- [Ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md)
+- [Ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md)

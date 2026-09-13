@@ -56,10 +56,10 @@ Los tests domésticos muestran concentraciones de nitrito y nitrato, pero no per
 
 ## Relación con ciclado y maduración
 
-Las NOB pueden establecerse después de los oxidantes de amonio o coexistir con otros nitrificantes. El [ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md) demuestra la transformación funcional de la carga y la [maduración](../../../06_procesos/02_maduracion.md) permite observar la evolución de la comunidad.
+Las NOB pueden establecerse después de los oxidantes de amonio o coexistir con otros nitrificantes. El [ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md) demuestra la transformación funcional de la carga y la [maduración](../../../06_procesos/03_maduracion.md) permite observar la evolución de la comunidad.
 
 ## Fuentes
 
 - [Comammox Nitrospira among dominant ammonia oxidizers within aquarium biofilter microbial communities](https://pmc.ncbi.nlm.nih.gov/articles/PMC11267875/), diversidad de nitrificantes y relación entre grupos en biofiltros de acuario
 - [Temporal and Spatial Stability of Ammonia-Oxidizing Archaea and Bacteria in Aquarium Biofilters](https://pmc.ncbi.nlm.nih.gov/articles/PMC4257543/), comunidades nitrificantes y estabilidad de biofilms de acuario
-- [Ciclado sin peces](../../../06_procesos/01a_ciclado-sin-peces.md)
+- [Ciclado sin peces](../../../06_procesos/02_ciclado-sin-peces.md)
