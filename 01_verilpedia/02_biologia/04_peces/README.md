@@ -12,5 +12,5 @@ Las fichas describen comportamiento, tamaño adulto, alimentación, territorio, 
 - [Peces de columna y cuevas](02_columna-cueva/README.md): *Assessor*, basslets, cardenales, *Nemateleotris*, *Plectranthias*, *Pseudochromis* y *Serranus*
 - [Peces especialistas](03_especialistas/README.md): chupasangres canarios, *Rudarius* y *Synchiropus*
 - [Lábridos pequeños](04_labridos-pequenos/README.md): *Pseudocheilinops* y *Wetmorella*
-- [Payasos y damiselas](05_payasos-damiselas/README.md): *Amphiprion* y damiselas territoriales
+- [Payasos y damiselas](05_payasos-damiselas/README.md): *Amphiprion*, *Chromis viridis* y damiselas territoriales
 - [Salud de peces](06_salud/README.md): signos, parásitos, enfermedades y problemas de manejo

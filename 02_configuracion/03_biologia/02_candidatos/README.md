@@ -120,6 +120,7 @@ Las fichas de microorganismos y microfauna de Verilpedia se mantienen como conoc
 | Peces | [Rudarius ercodes](../../../01_verilpedia/02_biologia/04_peces/03_especialistas/rudarius-ercodes.md) | No inicial |
 | Peces | [Tripterygion delaisi](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/tripterygion-delaisi.md) | No inicial |
 | Peces | [Wetmorella](../../../01_verilpedia/02_biologia/04_peces/04_labridos-pequenos/wetmorella.md) | No inicial |
+| Peces | [Chromis viridis](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/chromis-viridis.md) | No propuesto |
 | Peces | [Damiselas territoriales](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/damiselas-territoriales.md) | No propuesto |
 | Peces | [Synchiropus](../../../01_verilpedia/02_biologia/04_peces/03_especialistas/synchiropus.md) | No propuesto |
 | Invertebrados | [Astraea](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/astraea.md) | Candidato |

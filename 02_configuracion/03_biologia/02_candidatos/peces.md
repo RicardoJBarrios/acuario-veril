@@ -354,6 +354,30 @@ Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias roja
 - **Estado**: No propuesto
 - **Motivo**: Territorialidad excesiva para el objetivo de comunidad tranquila
 
+<a id="peces--payasos-damiselas--chromis-viridis"></a>
+## *Chromis viridis*
+
+**Ficha enciclopédica:** [*Chromis viridis*](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/chromis-viridis.md)
+
+### Estado y encaje
+
+- **Estado**: No propuesto
+- **Motivo**: Es una damisela de columna y agregaciones, pero la talla adulta publicada, la actividad de nado y el carácter social no dejan margen demostrado para un grupo en el display de aproximadamente 59–60 L de Veril
+
+La evaluación no aplica a *C. viridis* el descarte de las damiselas
+territoriales, sino su propia ecología. El display mide 594 × 308 mm y la línea
+de fauna de trabajo ya contempla una pareja de *Amphiprion ocellaris* y un
+*Ecsenius stigmatura*. Añadir un grupo de chromis a esa comunidad aumentaría la
+carga y la competencia por la columna sin que exista una justificación de
+bienestar específica para ese espacio.
+
+No se elegirá un ejemplar aislado para sortear esa falta de margen: la especie
+forma agregaciones naturales y la evidencia consultada no permite afirmar que
+un individuo aislado, una pareja o un grupo pequeño mantengan un encaje
+adecuado en Veril. Esta decisión puede revisarse solo con una población
+alternativa, volumen operativo medido, espacio de nado suficiente y una
+valoración profesional del grupo concreto.
+
 <a id="peces--especialistas--synchiropus"></a>
 ## Synchiropus
 
@@ -363,4 +387,3 @@ Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias roja
 
 - **Estado**: No propuesto
 - **Motivo**: Dependencia de microfauna continua incompatible con el margen actual de Veril
-
