@@ -95,7 +95,7 @@ FritzZyme 9 se dosificará inicialmente tomando como referencia la pauta de sist
 
 Veril aplicará los criterios de medición de las fichas generales de ciclado, amonio, nitrito, pH, alcalinidad, salinidad y temperatura. Antes de iniciar se registrarán los tests seleccionados, sus escalas, procedimientos y límites de aceptación.
 
-Para esta prueba, las cargas se expresarán como **mg/L como N** y se conservará también la lectura en la unidad nativa del test. Cualquier conversión entre NH₃, NH₄⁺, TAN o NH₃-N se documentará antes de iniciar.
+Para esta prueba, las cargas se expresarán como **mg/L como N** y se conservará también la lectura en la unidad nativa del test. Cualquier conversión entre NH₃, NH₄⁺, TAN o NH₃-N se documentará antes de iniciar. La selección escalonada de métodos, los candidatos de compra y sus límites de uso se mantienen en el [plan transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md).
 
 El límite local de aceptación será el valor mínimo que el método seleccionado permita distinguir con fiabilidad del cero operativo. El plazo de cada carga será el definido en este plan y no se modificará durante la prueba.
 
@@ -172,6 +172,13 @@ Además de los criterios generales de la ficha de ciclado, Veril cerrará esta p
 - No haya animales ni materia orgánica en descomposición
 
 La aparición de nitrato apoyará la interpretación, pero no sustituirá las mediciones de amonio y nitrito.
+
+Tras cerrar la prueba se tomará la muestra **ICP-01** definida en el [plan
+transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio).
+Su fin es construir la línea base elemental antes de la maduración; el informe
+no altera retrospectivamente el criterio de cierre biológico ni retrasa por sí
+solo la transición a maduración, salvo que revele una condición que justifique
+detener incorporaciones e investigar.
 
 ## Puertas de decisión
 

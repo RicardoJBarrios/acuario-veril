@@ -7,5 +7,6 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 - [Ciclado](ciclado/README.md): Fase previa, receta, prueba nitrificante y criterios de cierre
 - [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
+- [Plan transversal de medición y tests](operacion-recurrente/medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
 
 Las ejecuciones reales, incluidas las que aplican estos documentos, se registran en [Operaciones](../04_operaciones/README.md).

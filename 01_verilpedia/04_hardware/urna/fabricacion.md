@@ -24,7 +24,8 @@ La base queda encajada dentro del perímetro formado por frontal, trasera y late
 ```text
 Display interior: 594 × 308 mm
 Sump interior: 139 × 296 mm
-Cámaras del sump: 139 × 86 mm + 139 × 133 mm + 139 × 77 mm
+Cámara Entrada: 139 × 86 × 390 mm
+Cámaras Skimmer y Retorno en planta: 139 × 133 mm + 139 × 77 mm
 ```
 
 La medida exterior nominal es de **750 × 320 × 400 mm**. En el sentido de los 320 mm, la parte superior puede ser aproximadamente **1–2 mm más estrecha** que la base por la silicona.
@@ -46,6 +47,8 @@ El separador Lacobel negro de **5 mm** oculta la zona técnica. Incluye dos perf
 La perforación de entrada a la cámara **Entrada** tiene **50 mm de diámetro**. Su posición está indicada a **17 mm del borde superior** y a **30 mm de la pared trasera**. Estas referencias se conservan tal como fueron medidas, sin asumir que correspondan al centro geométrico o al borde de la perforación.
 
 Los dos separadores internos son de vidrio de aproximadamente **137 × 340 × 6 mm**. El primero llega hasta la parte superior y deja un paso inferior de aproximadamente **50 mm**. El segundo llega hasta el fondo y deja un paso superior de aproximadamente **50 mm**. La altura resulta de **400 − 10 − 50 = 340 mm**, considerando el cristal de fondo de **10 mm**.
+
+Esta altura de **340 mm** corresponde a los separadores internos y no a la cámara Entrada. La cámara Entrada llega hasta el borde superior de la urna y su altura interior nominal es **390 mm**, calculada como **400 mm de altura exterior menos los 10 mm del fondo**.
 
 ## Apoyo
 

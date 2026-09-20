@@ -8,7 +8,7 @@ La unidad de medida principal será el PPFD registrado en µmol fotones m⁻² s
 
 ## Estado de la decisión
 
-**Seleccionado:** Se utilizará el DP-414 como instrumento propio para el mapa de PPFD de Veril, siempre que la unidad recibida corresponda al modelo documentado y el sensor no presente daños.
+**Adquirido:** El usuario confirma disponer del DanoPlus DP-414. Se utilizará como instrumento propio para el mapa de PPFD de Veril, una vez comprobado que la unidad corresponde al modelo documentado y el sensor no presenta daños.
 
 **Previsto:** El sensor se empleará sumergido, unido a la varilla telescópica, con una orientación y un protocolo de posición constantes.
 

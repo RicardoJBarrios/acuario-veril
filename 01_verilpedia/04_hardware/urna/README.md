@@ -39,7 +39,7 @@ Urna marina artesanal de tipo AIO y disposición longitudinal tipo península, f
 └────────────────────────────────────────────────────────────┴───────────────┘
 ```
 
-La zona técnica se divide en tres cámaras: **Entrada** (**139 × 86 mm**), **Skimmer** (**139 × 133 mm**) y **Retorno** (**139 × 77 mm**). Entrada comunica con Skimmer mediante un paso inferior de aproximadamente **50 mm** y Skimmer con Retorno mediante un paso superior de aproximadamente **50 mm**. Retorno aloja la bomba, el ATO y los sensores.
+La zona técnica se divide en tres cámaras: **Entrada** (**139 × 86 × 390 mm**), **Skimmer** (**139 × 133 mm**) y **Retorno** (**139 × 77 mm**). Las dimensiones en planta de las cámaras se expresan como ancho × fondo; la cámara Entrada alcanza la altura interior de la urna: **400 mm de altura exterior menos 10 mm de fondo = 390 mm**. Entrada comunica con Skimmer mediante un paso inferior de aproximadamente **50 mm** y Skimmer con Retorno mediante un paso superior de aproximadamente **50 mm**. Retorno aloja la bomba, el ATO y los sensores.
 
 ## Fotografías de referencia
 

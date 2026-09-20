@@ -21,6 +21,13 @@ y aceptación pertenecen a `02_configuracion/`, a los planes y a las operaciones
 - [Mantis Tourbon 60](mantis-tourbon-60/mantis-tourbon-60.md)
 - [AI Prime 16HD Reef](ai-prime-16hd-reef/ai-prime-16hd-reef.md)
 
+## Limpieza y mantenimiento manual
+
+- [Cepillo de dientes de cerdas suaves](cepillo-dientes-cerdas-suaves/cepillo-dientes-cerdas-suaves.md)
+- [Seachem Algae Scraper 31 cm](seachem-algae-scraper-31cm/seachem-algae-scraper-31cm.md)
+- [TUNZE Care Magnet nano](tunze-care-magnet-nano/tunze-care-magnet-nano.md)
+- [XGB-830](xgb-830/xgb-830.md)
+
 ## Sensores y monitorización
 
 - [DanoPlus DP-414](danoplus-dp-414/danoplus-dp-414.md)

@@ -123,6 +123,12 @@ La fase inicial estará preparada para una primera incorporación cuando se cump
 - Circulación, retorno, oxigenación y skimmer fiables
 - Rutina de alimentación, observación y mantenimiento preparada para la incorporación elegida
 
+Antes de pasar a una primera carga calcificadora o a una pauta de dosificación,
+se tomará la muestra **ICP-02** definida en el [plan transversal de medición y
+tests](../operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio).
+Será un contraste de composición elemental y agua de aporte; no sustituye los
+criterios anteriores ni autoriza por sí sola la incorporación.
+
 «Maduro» no significa estable para cualquier población. Cada aumento de carga requiere una nueva observación.
 
 ## Registro mínimo

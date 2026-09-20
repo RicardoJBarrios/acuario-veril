@@ -13,3 +13,4 @@ Estas fichas son una compilación personal de investigación sobre procesos de e
 - [Ugly phase](04_ugly-phase.md)
 - [Operación y mantenimiento](05_operacion.md)
 - [Cambios de agua](06_cambios-agua.md)
+- [Análisis ICP de agua marina](10_analisis-icp.md)

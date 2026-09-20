@@ -38,7 +38,7 @@ Los puntos que deben guiar la selección son:
 
 - Madurez biológica suficiente antes de introducir piezas sensibles
 - Demanda de luz compatible con la **ICA Coral LED PRO II 60 cm** y con la ausencia de mapas PAR propios
-- Flujo compatible con la **Mantis Tourbon 60 Wave Maker** regulada de forma amplia e irregular
+- Flujo compatible con la **Mantis Tourbon 60 Wave Maker** y con su ajuste actual documentado; cualquier modo variable futuro deberá evaluarse antes de usarlo como criterio de incorporación
 - Crecimiento previsible dentro de un display de **60 × 32 cm**
 - Distancia suficiente entre piezas con riesgo de contacto o competencia
 - Ubicación viable en roca, terraza o zona baja

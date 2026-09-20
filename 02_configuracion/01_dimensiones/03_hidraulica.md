@@ -10,15 +10,26 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 ## Estado de la decisión
 
-**Adoptado:** La circulación de Veril combinará la Mantis Tourbon 60, todavía pendiente de disponibilidad, para movimiento y la Sicce Micra Plus 600 para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), definido físicamente en Infraestructura.
+**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra Plus 600 para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), definido físicamente en Infraestructura.
 
 **Previsto:** El campo de flujo deberá rodear, atravesar y pasar por debajo de la composición espacial, manteniendo renovadas las zonas funcionales sin desplazar el sustrato.
 
-**Pendiente:** La distribución real, el comportamiento del corredor trasero, el tiempo de renovación, la respuesta del sustrato, el volumen de retrosifonado y el reinicio tras una parada deben validarse con la composición instalada.
+**Observado:** La [prueba dinámica del 17 de septiembre](../../04_operaciones/2026/09/2026-09-17-observaciones-flujo-temperatura-y-sustrato.md#prueba-dinámica-de-circulación), con la Tourbon entonces al 40 %, mostró partículas finas en superficie recorriendo un circuito circular alrededor de la roca.
 
-### Disposición prevista de las bombas
+**Pendiente:** La distribución real en huecos, corredor trasero y zonas inferiores, el tiempo de renovación, la respuesta del sustrato, el volumen de retrosifonado y el reinicio tras una parada deben validarse con la composición instalada.
 
-La salida de la **Sicce Micra Plus 600** estará en la parte superior derecha del display, en continuidad con la cámara Retorno. La **Mantis Tourbon 60** se colocará en el cristal izquierdo, próxima a la parte superior trasera. La intención es generar una circulación longitudinal y envolvente alrededor de la estructura.
+### Disposición y ajuste vigente de la Mantis
+
+La Mantis Tourbon 60 está instalada con esta disposición y ajuste vigente:
+
+- A unos **12 cm** del borde del acuario, interpretados junto con un nivel de agua situado aproximadamente 37 mm por debajo de dicho borde.
+- A unos **53 mm** de la parte trasera, menos el grosor del cristal trasero.
+- Orientada hacia el frente.
+- `Constant mode`, `Flow percent: 50 %`, `Cycle: 0,4 s` y `Master` configurado.
+
+El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiembre se cambió el porcentaje al 50 %. Los demás valores de esta lista son los últimos comunicados y no se han vuelto a comprobar durante ese cambio.
+
+La salida de la **Sicce Micra Plus 600** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
 El display contiene aproximadamente **59–60 L de agua** con 2 cm de arena, 2 cm de margen libre y la roca disponible. Esta cifra sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen.
 
@@ -33,7 +44,7 @@ Este esquema es una simulación cualitativa basada en la geometría disponible y
 
 La masa rocosa deja un corredor perimetral mínimo de **40 mm** en frontal y trasera y de **30 mm** en los laterales. Estos márgenes son suficientes para conservar una ruta potencial de circulación, pero no demuestran por sí solos que el agua se renueve. La terraza central y la torre derecha son los puntos con mayor probabilidad de producir zonas de baja velocidad debajo, detrás o en sus encuentros con la base.
 
-La primera orientación de prueba será:
+Como referencia para futuras pruebas, una orientación alternativa podría:
 
 - Retorno dirigido a lo largo de la zona abierta, con una ligera componente hacia la superficie
 - Tourbon dirigida desde el lateral izquierdo hacia la zona derecha, con una ligera inclinación hacia el frente o hacia abajo
@@ -92,7 +103,7 @@ La continuidad del corredor se comprobará después de colocar la roca y antes d
 
 ## Equipos y configuración
 
-La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) será la bomba principal de movimiento. La [Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md) será la bomba de retorno.
+La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) es la bomba principal de movimiento. La [Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md) es la bomba de retorno.
 
 La bomba de retorno ya dispone de su tubo instalado. El [tubo Eheim adquirido](../../01_verilpedia/05_productos/07_eheim-4005843/eheim-4005843.md), de **3 m y 16/22 mm**, referencia **4005843**, es material auxiliar para llenar el display, trasvasar agua y mover agua entre recipientes o cámaras durante el montaje y el mantenimiento. No forma parte del recorrido hidráulico permanente del retorno.
 
@@ -100,7 +111,7 @@ La bomba principal generará circulación global y turbulencias distribuidas. El
 
 La entrada del retorno estará protegida por una rejilla circular. La salida utilizará una boquilla plana y ensanchada, formada por varias secciones orientables, cuya función será distribuir el flujo sin crear una corriente dominante.
 
-El comportamiento final dependerá de la resistencia real del circuito, la disposición de la estructura y la relación entre ambas bombas. La regulación operativa se comprobará una vez montado el conjunto.
+El comportamiento final depende de la resistencia real del circuito, la disposición de la estructura y la relación entre ambas bombas. El ajuste actual de la Mantis está documentado, pero la aceptación de la regulación hidráulica sigue pendiente de pruebas que cubran todas las zonas del conjunto.
 
 ## Rutas que deben mantenerse funcionales
 

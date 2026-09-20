@@ -21,6 +21,10 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [13 de septiembre: Comprobación de salinidad con refractómetro](2026/09/2026-09-13-comprobacion-salinidad-refractometro.md)
 - [13 de septiembre: Reposición manual y observación del nivel](2026/09/2026-09-13-reposicion-manual-y-observacion-nivel.md)
 - [13 de septiembre: Observación de cambio de color del hardscape](2026/09/2026-09-13-observacion-cambio-color-hardscape/README.md)
+- [17 de septiembre: Observaciones de flujo, temperatura y sustrato](2026/09/2026-09-17-observaciones-flujo-temperatura-y-sustrato.md)
+- [17 de septiembre: Automatización de la refrigeración preventiva del despacho](2026/09/2026-09-17-automatizacion-refrigeracion-preventiva.md)
+- [18 de septiembre: Ajuste de la Mantis Tourbon 60 al 50 %](2026/09/2026-09-18-ajuste-mantis-tourbon-50.md)
+- [20 de septiembre: Medición manual de salinidad y química inicial](2026/09/2026-09-20-medicion-manual-salinidad-y-quimica.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.
