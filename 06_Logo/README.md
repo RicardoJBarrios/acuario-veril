@@ -32,6 +32,7 @@ Las versiones monocromas utilizan negro (`#000000`) sobre fondos claros o blanco
 
 - [Logotipo principal editable](logotipo.svg)
 - [Diseño PNG](diseño.png)
+- [Logotipo utilizado en portada](../veril.png)
 
 ## Alcance
 
