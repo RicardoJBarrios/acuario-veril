@@ -2,7 +2,7 @@
 
 <div align="center" style="text-align: center; padding: 20px">
   <a href="06_Logo/README.md">
-    <img src="veril.png" alt="Logotipo de Veril — Nano Reef" width="420">
+    <img src="06_Logo/png/imagotipo-vertical-con-descriptor-negativo-color.png" alt="Logotipo de Veril — Nano Reef" width="420">
   </a>
 </div>
 

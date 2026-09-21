@@ -32,7 +32,21 @@ Las versiones monocromas utilizan negro (`#000000`) sobre fondos claros o blanco
 
 - [Logotipo principal editable](logotipo.svg)
 - [Diseño PNG](diseño.png)
-- [Logotipo utilizado en portada](../veril.png)
+- [Exportaciones PNG](png/): variantes derivadas de las páginas de `logotipo.svg`, a 192 ppp y sin la geometría de construcción.
+- [Logotipo utilizado en portada](png/imagotipo-vertical-con-descriptor-negativo-color.png)
+
+### Variantes PNG
+
+Las variantes se nombran por construcción, orientación, polaridad y tratamiento cromático. **Positivo** significa motivo oscuro sobre fondo claro o transparente; **negativo**, motivo claro sobre fondo oscuro. **Monocromo** se limita a negro o blanco y **color** aplica la paleta de Veril.
+
+| Construcción | Variantes disponibles |
+| --- | --- |
+| Isotipo | [Positivo monocromo](png/isotipo-positivo-monocromo.png), [positivo color](png/isotipo-positivo-color.png), [negativo monocromo](png/isotipo-negativo-monocromo.png) y [negativo color](png/isotipo-negativo-color.png) |
+| Logotipo | [Positivo monocromo](png/logotipo-positivo-monocromo.png) y [negativo monocromo](png/logotipo-negativo-monocromo.png) |
+| Logotipo con descriptor | [Positivo monocromo](png/logotipo-con-descriptor-positivo-monocromo.png), [positivo color](png/logotipo-con-descriptor-positivo-color.png), [negativo monocromo](png/logotipo-con-descriptor-negativo-monocromo.png) y [negativo color](png/logotipo-con-descriptor-negativo-color.png) |
+| Imagotipo vertical | [Positivo monocromo](png/imagotipo-vertical-positivo-monocromo.png), [positivo color](png/imagotipo-vertical-positivo-color.png), [negativo monocromo](png/imagotipo-vertical-negativo-monocromo.png) y [negativo color](png/imagotipo-vertical-negativo-color.png) |
+| Imagotipo vertical con descriptor | [Positivo monocromo](png/imagotipo-vertical-con-descriptor-positivo-monocromo.png), [positivo color](png/imagotipo-vertical-con-descriptor-positivo-color.png), [negativo monocromo](png/imagotipo-vertical-con-descriptor-negativo-monocromo.png) y [negativo color](png/imagotipo-vertical-con-descriptor-negativo-color.png) |
+| Imagotipo horizontal con descriptor | [Positivo monocromo](png/imagotipo-horizontal-con-descriptor-positivo-monocromo.png), [positivo color](png/imagotipo-horizontal-con-descriptor-positivo-color.png), [negativo monocromo](png/imagotipo-horizontal-con-descriptor-negativo-monocromo.png) y [negativo color](png/imagotipo-horizontal-con-descriptor-negativo-color.png) |
 
 ## Alcance
 
