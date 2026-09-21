@@ -10,6 +10,7 @@ Las carcasas no incluyen, según la información disponible, una resina desioniz
 
 - [Carcasas T33](carcasas-t33.md): Dos carcasas transparentes con conexiones rápidas de 1/4 pulgadas, destinadas a alojar medios filtrantes
 - [Resina XEPTA RODI](resina-xepta-rodi.md): Medio DI recomendado para completar las carcasas, todavía no documentado como recibido ni cargado
+- [Procedimiento pendiente de rellenado DI](../../../03_pendientes/operacion-recurrente/rellenado-resina-di.md): carga, enjuague, comprobación y registro antes de aceptar agua para Veril
 - [Monitor TDS HM Digital TRM-1](monitor-tds-hm-digital-trm-1.md): Medición en tres puntos del circuito RO/DI
 - [Kit de tubo y conexiones HUAZIZ](tubo-conexiones-huaziz.md): Diez metros de tubo blanco de 1/4 pulgadas y conexiones rápidas
 - [Manómetro The Water Filter Men](manometro-the-water-filter-men.md): Indicador de presión con conexión para tubo de 1/4 pulgadas

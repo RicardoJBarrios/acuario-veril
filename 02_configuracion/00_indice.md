@@ -23,7 +23,7 @@ La aplicación concreta de Química se encuentra en las [fichas de parámetros](
 
 - [Hardscape](02_hardscape/README.md): composición, plantilla, inventario fotográfico y registro visual de la roca
 - [Biología específica](03_biologia/README.md): criterios de selección, candidatos y escenarios del proyecto
-- [Identidad gráfica](identidad-grafica.md): nombre, logotipo y criterios visuales de Veril
+- [Identidad gráfica](../06_Logo/README.md): nombre, logotipo y criterios visuales de Veril
 
 Los documentos de `01_dimensiones/` mantienen la correspondencia con las siete dimensiones generales de [Verilpedia](../01_verilpedia/01_dimensiones/README.md). `README.md` integra sus decisiones sin sustituir las fichas propietarias. Los directorios `02` y `03` reúnen bloques específicos del proyecto que necesitan más de un documento o recursos visuales.
 

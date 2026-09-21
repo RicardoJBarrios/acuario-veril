@@ -28,6 +28,11 @@ La paleta cromática principal está formada por tres colores que se aplican com
 
 Las versiones monocromas utilizan negro (`#000000`) sobre fondos claros o blanco (`#ffffff`) sobre fondos oscuros. Estos valores describen la paleta de referencia; el resultado visual puede variar según el perfil de color, el soporte y el método de reproducción.
 
+## Recursos vigentes
+
+- [Logotipo principal editable](logotipo.svg)
+- [Diseño PNG](diseño.png)
+
 ## Alcance
 
 Esta ficha documenta la identidad gráfica de Veril. No define la configuración del acuario, sus dimensiones, su arquitectura técnica ni sus decisiones biológicas.

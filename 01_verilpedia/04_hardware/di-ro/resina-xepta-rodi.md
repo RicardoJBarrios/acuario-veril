@@ -1,10 +1,12 @@
 # Resina XEPTA RODI RESIN
 
-## Recomendación para Veril
+## Estado de selección para Veril
 
-La opción que mejor encaja actualmente con el sistema DI previsto es **XEPTA RODI RESIN de 1000 ml**. Elite Reef Kanarias la muestra en stock, con un precio publicado de 18,95 €, y la presenta dentro de su categoría de ósmosis. La disponibilidad y el precio son una fotografía del catálogo consultado y deben confirmarse al realizar el pedido.
+La opción seleccionada para el sistema DI previsto es **XEPTA RODI RESIN de 1000 ml**.
 
-Se recomienda como una única resina de lecho mixto para cargar las dos carcasas T33 en serie, siempre que la capacidad útil real de las carcasas lo permita. El volumen de 1000 ml ofrece margen frente a una presentación de 300 ml, pero no se afirma que deba utilizarse todo el envase ni que una carga concreta produzca una cantidad determinada de agua.
+Se adopta como resina de lecho mixto para cargar las dos carcasas T33 en serie, siempre que su capacidad útil real lo permita. El volumen de 1000 ml ofrece margen frente a una presentación de 300 ml, pero no se afirma que deba utilizarse todo el envase ni que una carga concreta produzca una cantidad determinada de agua.
+
+La [investigación sobre XEPTA y Resinex MX-2](fuentes/2026-09-21-investigacion-xepta-resinex-mx-2.md) sustenta, como hipótesis de diseño, una equivalencia funcional muy probable con Resinex MX-2 de Jacobi; no confirma que XEPTA la reenvase.
 
 ## Datos documentados
 
@@ -12,24 +14,39 @@ Se recomienda como una única resina de lecho mixto para cargar las dos carcasas
 | --- | --- |
 | Producto | XEPTA RODI RESIN 1000 ML |
 | Marca | XEPTA |
-| Tipo publicado por distribuidores | Resina de lecho mixto lista para usar |
+| Tipo publicado por XEPTA | Resina de lecho mixto lista para usar |
 | Presentación | 1000 ml |
-| Precio observado en Elite Reef Kanarias | 18,95 € |
-| Disponibilidad observada en Elite Reef Kanarias | En stock: 7 unidades |
-| Uso anunciado | Retener sustancias que la membrana de ósmosis no haya eliminado y producir agua desmineralizada |
+| Uso anunciado por XEPTA | Retener sustancias que la membrana de ósmosis no haya eliminado y producir agua desmineralizada |
 
-La tienda de Elite Reef Kanarias no publica en la ficha consultada la composición, la capacidad de intercambio, el grado de pureza, la relación catión/anión ni instrucciones de enjuague. Una ficha comercial de terceros atribuye a este producto capacidades mínimas de 0,68 eq/l para catión y 0,48 eq/l para anión, pero ese dato no se adopta como especificación confirmada del fabricante.
+XEPTA declara una capacidad mínima de retención de **0,68 eq/L** para catión y **0,48 eq/L** para anión. No publica composición, grado de pureza, relación catión/anión ni instrucciones de enjuague.
+
+## Valores de referencia para el diseño
+
+| Parámetro | Valor de referencia Resinex MX-2 | Estado para XEPTA RODI RESIN |
+| --- | --- | --- |
+| Componente catiónico | Resinex K-8 H, aproximadamente 40 % en volumen | No publicado por XEPTA |
+| Componente aniónico | Resinex A-4 OH, aproximadamente 60 % en volumen | No publicado por XEPTA |
+| Relación catión/anión | 1:1,5 en volumen | No publicada por XEPTA |
+| Forma iónica | H⁺/OH⁻ | No publicada por XEPTA |
+| Tipo de resina aniónica | Base fuerte, Type I | No publicado por XEPTA |
+| Capacidad catiónica mínima | 0,68 eq/L | Declarada por XEPTA |
+| Capacidad aniónica mínima | 0,48 eq/L | Declarada por XEPTA |
+| Tamaño de perla | 0,42–1,25 mm | No publicado por XEPTA |
+| Densidad aparente | 740 kg/m³ | Referencia orientativa, no criterio de aceptación |
+| Caudal de servicio | 8–40 BV/h | Referencia de MX-2, no validación de las T33 |
+
+La tabla conserva los valores necesarios para diseñar y contrastar la resina. Su comparación, las premisas y los límites de la hipótesis permanecen desarrollados únicamente en la investigación enlazada arriba.
 
 ## Comparación con las alternativas observadas
 
-| Producto | Estado observado | Presentación | Evaluación para Veril |
-| --- | --- | --- | --- |
-| XEPTA RODI RESIN | En stock: 7 | 1000 ml | Opción preferida por volumen disponible y uso específico RO/DI |
-| ARKA myAqua | En stock: 2 | 300 ml | Alternativa válida si se confirma la capacidad total necesaria |
-| AF DI RESIN | Agotada | 1000 ml | No disponible en la consulta realizada |
-| TRITON DI | Fuera de stock | 1000 ml | No disponible en la consulta realizada |
+| Producto | Presentación catalogada | Evaluación para Veril |
+| --- | --- | --- |
+| XEPTA RODI RESIN | 1000 ml | Opción seleccionada por formato, uso específico RO/DI y evidencia técnica disponible |
+| ARKA myAqua | 300 ml con cartucho | Alternativa si se prioriza una formulación con indicador, asumiendo un formato menos adecuado para rellenar dos T33 |
+| AF DI RESIN | 1000 ml | Alternativa de formato comparable; composición pendiente de contraste |
+| TRITON DI | 1000 ml | Alternativa de formato comparable; composición pendiente de contraste |
 
-La selección no constituye una prueba de superioridad química frente a las alternativas. Se basa en el tipo de producto anunciado, la presentación, la disponibilidad observada y la necesidad de alimentar dos carcasas rellenables.
+La selección no constituye una prueba de superioridad química frente a las alternativas. Se basa en el tipo de producto anunciado, el formato, la evidencia técnica disponible y la necesidad de alimentar dos carcasas rellenables.
 
 ## Criterios de uso y aceptación
 
@@ -42,11 +59,12 @@ La selección no constituye una prueba de superioridad química frente a las alt
 - Utilizar la lectura entre carcasas para identificar cuándo la primera carga empieza a agotarse
 - Sustituir o reorganizar la resina según las mediciones, no según un calendario fijo
 - No aceptar el agua para ATO o preparación de agua salada hasta comprobar una salida estable y coherente
+- Registrar el volumen de resina realmente cargado, el TDS indicado en los tres puntos y el volumen de agua producido entre cambios de resina
+- Tratar la densidad aparente de 740 kg/m³ solo como posible indicio físico de compatibilidad, nunca como identificación de OEM o aceptación de calidad
 
 ## Fuente y límites
 
-- [XEPTA RODI RESIN 1000 ML en Elite Reef Kanarias](https://www.elitereefkanarias.es/3976-xepta-rodi-resin-1000-ml.html)
+- [Página oficial de XEPTA RODI Resin](https://shop.xepta-reef.com/es/resinas/86-xepta-po4-out-resin.html)
 - [Descripción comercial adicional de XEPTA RODI Resin](https://todozoas.es/products/xepta-rodi-resin)
-- [Datos de capacidad publicados por un distribuidor no oficial](https://reef-aquarium-store.com/zepta-rhodi-resin-1000ml)
 
-Las fichas consultadas no sustituyen a la etiqueta, la ficha técnica ni las instrucciones del envase que llegue a Veril. La resina queda recomendada, no confirmada como comprada, recibida o instalada.
+La URL oficial conserva el slug y una imagen con el nombre `po4-out-resin`, pero el título, los metadatos estructurados y la descripción del contenido identifican el producto como XEPTA RODI Resin. Las fichas consultadas no sustituyen a la etiqueta, la ficha técnica ni las instrucciones del envase que llegue a Veril. La resina queda seleccionada para el diseño, no confirmada como comprada, recibida, cargada ni validada en funcionamiento.

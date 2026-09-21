@@ -15,5 +15,6 @@ La operación es una capa transversal, no una octava dimensión ni una fase post
 - [Configuración de Veril](../../02_configuracion/README.md): condiciones vigentes del sistema
 - [Cambios de agua](cambios-agua.md): preparación, comprobación, registro y contribución del agua nueva
 - [Plan transversal de medición y selección de tests](medicion-y-tests.md): métodos, instrumentos y criterios de elección aplicables a todas las fases
+- [Rellenado de resina DI](rellenado-resina-di.md): carga, enjuague, comprobación y renovación de las dos carcasas T33
 
 Los procedimientos recurrentes de mantenimiento, seguimiento e incidencias se añadirán aquí cuando estén definidos.

@@ -1,8 +1,8 @@
 # Documentación de Veril
 
 <div align="center" style="text-align: center; padding: 20px">
-  <a href="02_configuracion/identidad-grafica.md">
-    <img src="veril.png" alt="Logotipo de Veril — Nano Reef" width="420">
+  <a href="06_Logo/README.md">
+    <img src="06_Logo/logotipo.svg" alt="Logotipo de Veril — Nano Reef" width="420">
   </a>
 </div>
 
