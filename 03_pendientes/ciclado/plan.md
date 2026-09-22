@@ -48,6 +48,15 @@ La [caracterización preliminar del 5 de septiembre](../../04_operaciones/2026/0
 
 El refractómetro se limpiará, se verificará a cero con agua RO/DI o agua pura y se utilizará después de igualar térmicamente muestra e instrumento durante aproximadamente 15–30 segundos. Se repetirán varias lecturas y no se aplicará una corrección manual de temperatura al equipo con compensación automática.
 
+## Estabilización previa a T0
+
+Antes de activar el AF Bio Sand o añadir FritzZyme 9, se estabilizarán dos condiciones de partida. Esta fase sigue pendiente de ejecución y no forma parte del ciclado.
+
+- Se retocarán las automatizaciones que controlan la temperatura del despacho hasta mantener el agua alrededor del objetivo operativo de **25,0 °C**. La línea base de 24–48 horas deberá confirmar que la temperatura se mantiene estable, no solo que alcanza ese valor en una lectura aislada.
+- Se reducirá la salinidad mediante reposición medida de la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta alcanzar `S_P = 35`. Se repetirán las lecturas con el refractómetro y no se superará el nivel de trabajo del sistema.
+
+No se iniciará T0 mientras una de las dos condiciones siga fuera de objetivo o presente variaciones que impidan interpretar la línea base.
+
 ## Ruta adoptada: ciclado tras una fase sin arena
 
 La ruta adoptada mantiene el fondo desnudo durante la fase previa de limpieza y observación. La arena se incorporará después, si los tests y la inspección no muestran anomalías, y antes de añadir FritzZyme 9 y Fishless Fuel.
@@ -106,13 +115,14 @@ El nitrato se registrará como apoyo interpretativo. El pH y la alcalinidad se u
 1. Comprobar que la urna, el rebosadero, el retorno y las cámaras funcionan sin fugas ni niveles inseguros
 2. Colocar la roca con apoyos estables y superficies accesibles al flujo
 3. Recibir el agua de mar filtrada con UV de Elite Reef Kanarias y registrar proveedor, fecha, volumen, salinidad, temperatura, pH y alcalinidad
-4. Preparar e instalar el AF Bio Sand según la documentación del producto, después de la fase previa y antes de comenzar el ciclado biológico
-5. Medir el volumen operativo real y registrar el método de cálculo y su incertidumbre
-6. Activar retorno, circulación y agitación superficial
-7. Mantener una línea base de observación de 24–48 horas
-8. Registrar proveedor, tratamiento declarado, fecha, conservación y aspecto del agua, además de la trazabilidad de los productos
+4. Ajustar las automatizaciones térmicas y corregir la salinidad mediante reposición de evaporación con RO/DI hasta alcanzar las condiciones de estabilización previas a T0
+5. Mantener una línea base de observación de 24–48 horas que confirme la estabilidad térmica y salina
+6. Preparar e instalar el AF Bio Sand según la documentación del producto, después de la fase previa y antes de comenzar el ciclado biológico
+7. Medir el volumen operativo real y registrar el método de cálculo y su incertidumbre
+8. Activar retorno, circulación y agitación superficial
+9. Registrar proveedor, tratamiento declarado, fecha, conservación y aspecto del agua, además de la trazabilidad de los productos
 
-No se iniciará el ciclado hasta comprobar los parámetros de aceptación del agua, medir el volumen operativo real y disponer de agua RO/DI para compensar la evaporación.
+No se iniciará el ciclado hasta comprobar los parámetros de aceptación del agua, estabilizar temperatura y salinidad, medir el volumen operativo real y disponer de agua RO/DI para compensar la evaporación.
 
 La línea base incluirá temperatura, salinidad, pH, alcalinidad, nitrógeno amoniacal y nitrito, y, como apoyo, nitrato y fosfato. Se conservará también la lectura en la unidad nativa de cada test.
 

@@ -80,6 +80,16 @@ No iniciar si hay fugas, niveles inseguros, materia orgánica en descomposición
 
 Esta fase no cuenta como inicio del ciclado y no se dosificará amonio ni bacterias durante ella.
 
+### T−: estabilizar temperatura y salinidad
+
+1. Retocar las automatizaciones de control térmico del despacho hasta mantener el agua alrededor de **25,0 °C**
+2. Reponer la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta aproximar la salinidad a `S_P = 35`, sin superar el nivel de trabajo del sistema
+3. Repetir las lecturas de salinidad con el refractómetro según el método del plan
+4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier ajuste de automatización o reposición
+5. Continuar únicamente cuando ambas variables permanezcan estables y dentro de objetivo
+
+Esta fase no activa el AF Bio Sand ni inicia el ciclado. Si no se alcanza la salinidad objetivo mediante reposición de evaporación sin superar el nivel de trabajo, se pausará y se definirá una corrección de agua registrada antes de continuar.
+
 ### T−24 horas: activar AF Bio Sand
 
 1. Separar 3 L del agua de mar filtrada con UV suministrada por Elite Reef Kanarias
@@ -98,7 +108,7 @@ La arena activada se incorporará al display después de la inspección y limpie
 1. Confirmar que la roca y las superficies que permanecerán durante la prueba siguen estables; añadir el sustrato activado como cama definitiva
 2. Completar el sistema hasta sus niveles de trabajo previstos con agua de mar filtrada con UV y medir el volumen operativo real mediante volúmenes conocidos o un método equivalente registrable
 3. Registrar el volumen, el método y cualquier incertidumbre
-4. Comprobar que la temperatura se aproxima a 25,0 °C y que la salinidad es `S_P = 35`
+4. Confirmar, a partir de la línea base, que la temperatura se mantiene alrededor de 25,0 °C y que la salinidad permanece en `S_P = 35`
 5. Activar retorno, circulación y agitación superficial
 6. Registrar línea base de nitrógeno amoniacal, nitrito, pH, alcalinidad, salinidad y temperatura; nitrato y fosfato serán opcionales de apoyo
 7. Verificar lote, caducidad y conservación de FritzZyme 9, registrar su pauta de dosificación y confirmar que hay cantidad suficiente

@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.16"
-     inkscape:cx="5181.25"
-     inkscape:cy="1884.375"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="4951.4048"
+     inkscape:cy="1745.1174"
      inkscape:window-width="1920"
      inkscape:window-height="932"
      inkscape:window-x="1080"
@@ -726,7 +726,10 @@
        width="100"
        height="100"
        x="1217.4991"
-       y="360" /><g
+       y="360"
+       inkscape:export-filename="../veril.png"
+       inkscape:export-xdpi="127"
+       inkscape:export-ydpi="127" /><g
        id="g149-7"
        transform="translate(-2.156134e-6,359.94984)"><path
          id="path35-7-0-5"
