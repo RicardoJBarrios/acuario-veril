@@ -362,7 +362,7 @@ Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias roja
 ### Estado y encaje
 
 - **Estado**: No propuesto
-- **Motivo**: Es una damisela de columna y agregaciones, pero la talla adulta publicada, la actividad de nado y el carácter social no dejan margen demostrado para un grupo en el display de aproximadamente 59–60 L de Veril
+- **Motivo**: Es una damisela de columna y agregaciones, pero la talla adulta publicada, la actividad de nado y el carácter social no dejan margen demostrado para un grupo en el display estimado en aproximadamente 61,8 L de Veril. La estimación geométrica vigente y su límite están documentados en la [ficha espacial](../../01_dimensiones/02_espacial.md#volumen-de-agua-del-display).
 
 La evaluación no aplica a *C. viridis* el descarte de las damiselas
 territoriales, sino su propia ecología. El display mide 594 × 308 mm y la línea

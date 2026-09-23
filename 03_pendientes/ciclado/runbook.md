@@ -13,7 +13,7 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 
 | Variable | Valor o criterio |
 | --- | --- |
-| Volumen estimado del display | 59–60 L con 2 cm de arena, 2 cm de margen superior y la roca disponible |
+| Volumen estimado del display | Aproximadamente 61,8 L con 2 cm de arena, 2 cm de margen superior y unos 2,20 L de desplazamiento equivalente medido por cambio de nivel; véase la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md) |
 | Volumen de planificación del sistema completo | 75 L, provisional, incluido el sump |
 | Volumen geométrico estimado | Aproximadamente 96 L; referencia de control, no volumen final de dosificación |
 | Temperatura del sistema | 25,0 °C como objetivo operativo |
@@ -37,7 +37,7 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 
 Como referencia alternativa sobre los 96 L geométricos: **4,80 mL de Fishless Fuel** para la primera carga y **2,40 mL** para la segunda. La dosis de FritzZyme 9 y cualquier preparación con Reef Salt no se fijarán para este ciclado con agua de mar. Estas cantidades no se utilizarán como dosis finales mientras no se mida el volumen operativo real.
 
-El valor de 59–60 L describe solo el display. Si el volumen operativo total medido no coincide con 75 L o 96 L, recalcular antes de dosificar:
+El valor de aproximadamente 61,8 L describe solo el display y sigue siendo una estimación geométrica, no una medición de llenado. Si el volumen operativo total medido no coincide con 75 L o 96 L, recalcular antes de dosificar:
 
 ```text
 FritzZyme 9 (mL) = V_operativo (L) × 119 / 19

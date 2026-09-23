@@ -69,6 +69,42 @@ La luz se introduce progresivamente cuando exista una finalidad biológica y las
 
 No se cambian simultáneamente luz, nutrientes y población sin registrar la relación entre los cambios. Un apagado total solo se utilizará ante un problema concreto y documentado.
 
+### Criterio preventivo: fosfato indetectable
+
+Un fosfato indetectable no se tratará como un objetivo de limpieza ni como un
+diagnóstico aislado. Se considerará una señal que requiere contexto, sobre
+todo si se repite junto con nitrato bajo, cambios de alimentación, medios
+adsorbentes, consumo biológico intenso, deterioro de corales o aparición de
+organismos oportunistas.
+
+El error preventivo que se quiere evitar es mantener o aumentar una estrategia
+de reducción de nutrientes cuando el PO₄ ya no es detectable, o intentar
+corregirlo con un producto cuya formulación incluya una fuente de carbono o
+fósforo particulado sin conocer su efecto real. Una lectura cero no demuestra
+por sí sola limitación, pero tampoco debe celebrarse automáticamente como un
+estado deseable.
+
+Si Veril tuviera corales y apareciera ese patrón, la posible respuesta sería:
+
+1. Repetir la medición con el mismo método, registrando unidad, límite de
+   detección, hora y relación con alimentación y cambios de agua.
+2. Revisar entradas, exportación, adsorbentes, detritos, roca, sustrato,
+   biomasa y evolución conjunta de NO₃ y PO₄.
+3. No añadir más productos reductores ni carbono por rutina mientras la causa
+   siga sin aclararse.
+4. Si la lectura baja persiste y la respuesta biológica es compatible con una
+   limitación, decidir una intervención gradual y específica, documentando
+   producto, dosis, volumen operativo y respuesta.
+5. Mantener una ventana de observación después de una sola modificación.
+
+En el caso atribuido a [Michael Reef Tenerife](https://www.youtube.com/watch?v=TeoZRt9Elws&t=775s), el autor comunica que la comida sola y un producto combinado
+con fuente de carbono no le resolvieron el fosfato indetectable; también
+describe algas asociadas a un producto particulado. Comunica mejoría tras usar
+pequeñas aportaciones repetidas de fosfato líquido y mantener una lectura
+detectable. Esto sirve como advertencia y como hipótesis de intervención, no
+como pauta transferible ni como prueba de que esos síntomas tengan siempre la
+misma causa.
+
 ### Fase C — incorporaciones graduales
 
 Las entradas biológicas posteriores son módulos independientes, no etapas obligatorias ni una secuencia fija. Pueden incluir colonización de superficies, microfauna, organismos consumidores, organismos sésiles o fauna móvil, siempre que exista una decisión específica de compatibilidad. La incorporación de microfauna se desarrolla en el [plan específico de microfauna](plan-microfauna.md).

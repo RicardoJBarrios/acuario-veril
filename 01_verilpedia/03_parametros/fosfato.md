@@ -43,6 +43,22 @@ El fosfato adsorbido puede permanecer en el sistema y volver a la fase acuosa. P
 
 Puede indicar poco aporte, consumo rápido, adsorción o sensibilidad insuficiente del test. Si coincide con nitrato bajo, puede señalar limitación general de nutrientes. Una reducción rápida puede modificar bruscamente la disponibilidad de nutrientes y afectar a organismos y comunidades microbianas o fotosintéticas adaptadas al estado anterior. La aparición de organismos oportunistas no puede atribuirse al fosfato bajo de forma aislada.
 
+### Caso documentado como advertencia
+
+En el vídeo [Acuario marino va Fatal, ¿qué importancia tiene el PO₄? Nitrato a
+0!](https://www.youtube.com/watch?v=TeoZRt9Elws&t=775s), publicado por Michael
+Reef Tenerife, el autor describe su experiencia en un acuario de unos 100–120
+litros con peces y alimentación frecuente. Comunica un fosfato
+repetidamente indetectable, deterioro por la base y detención del crecimiento
+de algunos corales, además de la aparición de dinoflagelados. Esta es una
+experiencia concreta del autor: no demuestra que el fosfato bajo sea la causa
+única de cada síntoma ni permite trasladar sus cifras o dosis a Veril.
+
+El valor preventivo del caso es recordar que una carga de alimento apreciable
+no garantiza un fosfato medible en la columna de agua. El consumo biológico,
+la adsorción, la exportación y la incorporación a partículas pueden ocultar
+una entrada continua.
+
 ## Qué pasa si está alto
 
 Puede indicar exceso de alimentación, detritos, roca o exportación insuficiente. Una mayor disponibilidad de fosfato puede contribuir al crecimiento de organismos fotosintéticos cuando otros recursos no sean limitantes, pero una concentración elevada no permite predecir por sí sola la aparición o magnitud de un crecimiento algal.
@@ -67,6 +83,21 @@ Los métodos colorimétricos dependen del reactivo, el tiempo de reacción, la l
 El fosfato puede regularse reduciendo entradas, retirando materia acumulada, mediante cambios de agua, adsorción en medios específicos o asimilación biológica seguida de exportación de la biomasa correspondiente. La elección depende de la fuente y de la tendencia, no solo del valor medido.
 
 Cuando sea necesaria una reducción significativa, conviene evitar cambios bruscos no justificados y comprobar la respuesta del sistema durante el proceso. La liberación desde roca o sedimento puede mantener el valor elevado aunque se reduzcan las entradas.
+
+### Medidas comunicadas por el caso y límites
+
+El autor comunica que la alimentación por sí sola no le permitió mantener
+fosfato detectable. También comunica que un producto combinado de nitrógeno y
+fósforo con fuente de carbono, y una presentación de fosfato particulado, no
+resolvieron su problema: observó algas asociadas a partículas sobre roca y
+suelo, sin una elevación estable del fosfato medido.
+
+Como medida que sí le funcionó en su sistema, describe pequeñas aportaciones
+repetidas de una fuente líquida de fosfato hasta recuperar lecturas detectables
+y después una pauta de mantenimiento. El resultado se conserva como
+experiencia atribuida, no como protocolo para Veril. Antes de dosificar habría
+que confirmar la medición, la unidad, la causa, el volumen operativo, la carga,
+el producto y la respuesta del sistema.
 
 ## Interpretación y respuesta
 
@@ -106,3 +137,4 @@ El ortofosfato reactivo es una magnitud operacional y no representa necesariamen
 - [Effects of phosphate on growth and skeletal density in Acropora muricata](https://doi.org/10.1016/j.jembe.2011.10.013), estudio experimental sobre fosfato, crecimiento y densidad esquelética
 - [Randy Holmes-Farley: Phosphorus and reefs](https://www.advancedaquarist.com/2002/9/chemistry), puente entre química del fósforo y mantenimiento de arrecifes
 - [ReefCalcs: parámetros ideales de arrecife](https://reefcalcs.com/guides/ideal-reef-parameters/), referencia práctica de rango y unidades en acuariofilia
+- [Michael Reef Tenerife: Acuario marino va Fatal, ¿qué importancia tiene el PO₄? Nitrato a 0!](https://www.youtube.com/watch?v=TeoZRt9Elws&t=775s), experiencia atribuida sobre fosfato indetectable, síntomas, productos probados y respuesta observada; no constituye una recomendación general

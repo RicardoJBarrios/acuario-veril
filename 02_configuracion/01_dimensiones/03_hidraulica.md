@@ -31,7 +31,7 @@ El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiemb
 
 La salida de la **Sicce Micra Plus 600** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
-El display contiene aproximadamente **59–60 L de agua** con 2 cm de arena, 2 cm de margen libre y la roca disponible. Esta cifra sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen.
+El display se estima en aproximadamente **61,8 L de agua** con 2 cm de arena, 2 cm de margen libre y el desplazamiento equivalente de la roca medido por variación de nivel. Es una estimación geométrica, no el volumen operativo total. Esta cifra sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen.
 
 Con la composición instalada, la trayectoria esperada será:
 

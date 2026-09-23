@@ -26,6 +26,8 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [18 de septiembre: Ajuste de la Mantis Tourbon 60 al 50 %](2026/09/2026-09-18-ajuste-mantis-tourbon-50.md)
 - [20 de septiembre: Medición manual de salinidad y química inicial](2026/09/2026-09-20-medicion-manual-salinidad-y-quimica.md)
 - [22 de septiembre: Ajuste de la refrigeración preventiva para mantener el agua bajo 27 °C](2026/09/2026-09-22-ajuste-refrigeracion-preventiva-bajo-27.md)
+- [23 de septiembre: Ajuste del control térmico del agua](2026/09/2026-09-23-ajuste-control-termico-agua.md)
+- [23 de septiembre: Pesaje y medición del desplazamiento del hardscape](2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

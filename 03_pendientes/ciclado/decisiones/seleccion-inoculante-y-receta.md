@@ -20,7 +20,7 @@ AF Bio Sand aporta sustrato, preparados con cepas nitrificantes aisladas en labo
 
 El agua de mar filtrada con UV de Elite Reef Kanarias se utilizará para el llenado del ciclado y, preferentemente, para los 3 L de activación del AF Bio Sand. No se considera una fuente microbiológica deliberada. Después del ciclado, los cambios utilizarán agua de ósmosis RO/DI con Aquaforest Reef Salt.
 
-Como referencia provisional para el sistema completo, se conserva un volumen de planificación de **75 L**: el display aporta aproximadamente **59–60 L** después de colocar 2 cm de arena, dejar 2 cm de margen superior y descontar el desplazamiento estimado de los 7,25 kg de roca; el resto corresponde al agua efectiva del sump. Para 75 L, la receta requiere **469,7 ml de FritzZyme 9** con la pauta de sistema nuevo, **3,75 ml de Fishless Fuel** para la primera carga de 2,0 mg/L como N y **1,88 ml** para la segunda carga de 1,0 mg/L como N. El envase disponible de FritzZyme 9 contiene **946 ml** y cubre por sí solo la pauta de sistema nuevo para el volumen de planificación. Todas las cantidades se recalcularán sobre el volumen operativo total medido antes de iniciar mediante las fórmulas del plan y del runbook.
+Como referencia provisional para el sistema completo, se conserva un volumen de planificación de **75 L**: el display aporta aproximadamente **61,8 L** bajo la estimación geométrica vigente (2 cm de arena, 2 cm de margen superior y unos 2,20 L de desplazamiento equivalente medido por cambio de nivel); el resto se atribuye provisionalmente al agua efectiva del sump. La medición del desplazamiento y sus límites constan en la [operación del 23 de septiembre](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md). Para 75 L, la receta requiere **469,7 ml de FritzZyme 9** con la pauta de sistema nuevo, **3,75 ml de Fishless Fuel** para la primera carga de 2,0 mg/L como N y **1,88 ml** para la segunda carga de 1,0 mg/L como N. El envase disponible de FritzZyme 9 contiene **946 ml** y cubre por sí solo la pauta de sistema nuevo para el volumen de planificación. Todas las cantidades se recalcularán sobre el volumen operativo total medido antes de iniciar mediante las fórmulas del plan y del runbook.
 
 La receta contiene dos aportaciones microbiológicas deliberadas: la asociada a AF Bio Sand y la de FritzZyme 9. No se añadirán otros programas bacterianos completos; esta exclusión limita la complejidad de la prueba sin afirmar que las dos aportaciones adoptadas sean idénticas o completamente independientes.
 
@@ -60,9 +60,9 @@ La ejecución, las cargas, las mediciones y las puertas de decisión están en e
 
 ## Fuentes locales
 
-- [Método de Aquaforest](../../../01_verilpedia/06_procesos/metodo-aquaforest.md)
-- [Método de Fritz Aquatics](../../../01_verilpedia/06_procesos/metodo-fritz.md)
-- [Método de Dr. Tim](../../../01_verilpedia/06_procesos/metodo-dr-tim.md)
+- [Método de Aquaforest](../../../01_verilpedia/06_procesos/07_metodo-aquaforest.md)
+- [Método de Fritz Aquatics](../../../01_verilpedia/06_procesos/09_metodo-fritz.md)
+- [Método de Dr. Tim](../../../01_verilpedia/06_procesos/08_metodo-dr-tim.md)
 - [Ficha de FritzZyme 9](../../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md)
 - [Ficha de Fishless Fuel](../../../01_verilpedia/05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
 - [Ficha de AF Bio Sand](../../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md)

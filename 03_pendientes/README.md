@@ -8,5 +8,6 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 - [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
 - [Plan transversal de medición y tests](operacion-recurrente/medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
+- [Diseños 3D](disenos-3d/README.md): modelos y archivos de fabricación cuya validación física sigue pendiente
 
 Las ejecuciones reales, incluidas las que aplican estos documentos, se registran en [Operaciones](../04_operaciones/README.md).

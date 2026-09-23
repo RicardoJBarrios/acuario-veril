@@ -8,7 +8,7 @@ La disposición longitudinal permite desarrollar el aquascape desde la zona téc
 
 ## Volumen operativo estimado del display
 
-Con 2 cm de arena y 2 cm de margen sin agua hasta el borde, la columna de agua estimada es de 350 mm sobre una base interior de 594 × 308 mm. Esto representa **64,03 L antes de colocar la roca**. El desplazamiento provisional de los **7,25 kg de roca** se estima en **4–5 L**, por lo que el display contendrá aproximadamente **59–60 L de agua**.
+Con 2 cm de arena y 2 cm de margen sin agua hasta el borde, la columna de agua estimada es de 350 mm sobre una base interior de 594 × 308 mm. Esto representa **64,03 L antes de colocar la roca**. Al retirar la roca del display el 23 de septiembre de 2026, el nivel descendió 12 mm; sobre esa base interior, el desplazamiento equivalente calculado es de aproximadamente **2,20 L**. Bajo las hipótesis de esta estimación, quedarían aproximadamente **61,8 L de agua** en el display. La medida de nivel y sus límites están descritos en la [operación de pesaje y desplazamiento](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
 Este dato corresponde solo al display. El volumen operativo total incluirá también el agua de las cámaras Entrada, Skimmer y Retorno y deberá medirse con el sistema montado antes de calcular dosis o cargas.
 

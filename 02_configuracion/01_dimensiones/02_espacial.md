@@ -132,13 +132,15 @@ Altura de agua = 390 − 20 − 20 = 350 mm
 Volumen bruto de agua del display = 594 × 308 × 350 / 1.000.000 = 64,03 L
 ```
 
-Los **7,25 kg de roca** no permiten deducir por sí solos el volumen exterior desplazado, porque intervienen la porosidad, la densidad aparente, los huecos y el aire retenido. Para planificar se adopta provisionalmente un desplazamiento aproximado de **4–5 L**, lo que deja:
+El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026** se retiró toda la roca del display y se observó un descenso de nivel de **12 mm**. Aplicado a la planta interior aproximada de 594 × 308 mm, equivale a un desplazamiento de unos **2,20 L**. Esta medición sustituye la estimación provisional anterior de 4–5 L basada en el peso; sus condiciones y límites constan en el [registro de la operación](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+
+Con el desplazamiento medido como aproximación, resulta:
 
 ```text
-Volumen neto estimado del display = 64,03 − 4/5 = aproximadamente 59–60 L
+Volumen neto estimado del display = 64,03 − 2,20 = aproximadamente 61,8 L
 ```
 
-Este rango es una estimación de trabajo. El valor que se utilizará para dosificar será el volumen operativo medido durante el llenado, sumando el agua efectiva de las cámaras Entrada, Skimmer y Retorno. El volumen del display no debe confundirse con el volumen total del sistema.
+Este valor sigue siendo una estimación de trabajo: parte de una columna de agua calculada y de una variación de nivel, no de una medición de litros incorporados. El valor que se utilizará para dosificar será el volumen operativo medido durante el llenado, sumando el agua efectiva de las cámaras Entrada, Skimmer y Retorno. El volumen del display no debe confundirse con el volumen total del sistema.
 
 La forma más fiable de cerrar el dato será registrar los litros realmente incorporados al sistema mediante recipientes graduados, con la roca, la arena y el nivel operativo definitivos. La reducción de 1–2 mm del ancho en la parte superior queda dentro de la incertidumbre de esta estimación y no cambia materialmente el resultado.
 
