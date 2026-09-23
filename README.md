@@ -6,7 +6,7 @@
   </a>
 </div>
 
-Veril es un **nano reef de arrecife mixto de aproximadamente 75 litros**, pensado para mantener peces, corales e invertebrados en una urna AIO que recibe alrededor de **90 litros de agua** entre el display y el compartimento técnico.
+Veril es un **nano reef de arrecife mixto de aproximadamente 75 litros**, pensado para mantener peces, corales e invertebrados en una urna AIO. Como referencia práctica, se estiman **unos 60 litros en el display** y **75 litros en el sistema completo**, incluido el compartimento técnico. Son cifras aproximadas para describir la escala del acuario, no mediciones exactas del volumen neto.
 
 Esta documentación reúne, en un único lugar, lo que voy aprendiendo, las decisiones que tomo o me vienen impuestas y, sobre todo, los motivos que hay detrás de ellas. También recoge las actuaciones que realizo, sus consecuencias, las formas de cuidar y mantener el acuario, las dificultades que a menudo no se explican al principio y las distintas fases por las que irá pasando el sistema. En conjunto, pretende ser un registro de lo que necesito aprender para mantenerlo de forma responsable.
 

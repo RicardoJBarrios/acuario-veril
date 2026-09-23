@@ -8,9 +8,9 @@ La disposición longitudinal permite desarrollar el aquascape desde la zona téc
 
 ## Volumen operativo estimado del display
 
-Con 2 cm de arena y 2 cm de margen sin agua hasta el borde, la columna de agua estimada es de 350 mm sobre una base interior de 594 × 308 mm. Esto representa **64,03 L antes de colocar la roca**. Al retirar la roca del display el 23 de septiembre de 2026, el nivel descendió 12 mm; sobre esa base interior, el desplazamiento equivalente calculado es de aproximadamente **2,20 L**. Bajo las hipótesis de esta estimación, quedarían aproximadamente **61,8 L de agua** en el display. La medida de nivel y sus límites están descritos en la [operación de pesaje y desplazamiento](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+Como referencia de diseño, con 2 cm de arena y 2 cm de margen libre, la columna de agua sería de 350 mm sobre una base interior de 594 × 308 mm: **64,03 L brutos** antes de descontar la roca. La operación del 23 de septiembre de 2026 permite inferir un desplazamiento de roca de **aproximadamente 2,339 L**, usando el descenso confirmado de 12 mm tanto en display como en Entrada. El cálculo da **aproximadamente 61,69 L** para el display en ese escenario, que se redondea a **unos 60 L** como referencia práctica para dosificaciones aproximadas. No es una medición directa de litros ni el volumen total del sistema; el detalle y sus límites constan en la [operación de pesaje y desplazamiento](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
-Este dato corresponde solo al display. El volumen operativo total incluirá también el agua de las cámaras Entrada, Skimmer y Retorno y deberá medirse con el sistema montado antes de calcular dosis o cargas.
+Este dato corresponde solo al display. La convención nominal vigente de Veril es **60 L para el display** y **75 L para el sistema completo**, incluidas las cámaras Entrada, Skimmer y Retorno. Se usarán como valores por defecto para simplificar cálculos y dosificaciones; son aproximaciones adoptadas, no mediciones exactas.
 
 ## Organización
 

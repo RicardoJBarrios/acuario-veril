@@ -42,9 +42,18 @@ El G-code anterior de la cesta, los autosaves de FreeCAD y el primer proyecto de
 
 ## Procedencia comprobada
 
+La fuente FreeCAD se modificó manualmente después de la generación de los
+proyectos de Orca y G-code descrita en el informe del 23 de septiembre. La
+fuente actual tiene SHA-256
+`4b150f8a2fe6f462e7d288edae638592d6e5d58545fe49d8e9268827e5dfc0ce`; la
+tabla de procedencia anterior registraba
+`bb4dec50ba6769acaff8bad391ba463b4404e77bd01756305d6a0e0495e7dbc8`.
+No se ha verificado que las exportaciones y el G-code correspondan a la fuente
+modificada, por lo que se conserva pendiente esa comprobación.
+
 | Artefacto | SHA-256 |
 | --- | --- |
-| `veril-bactoflex.FCStd` | `bb4dec50ba6769acaff8bad391ba463b4404e77bd01756305d6a0e0495e7dbc8` |
+| `veril-bactoflex.FCStd` | `4b150f8a2fe6f462e7d288edae638592d6e5d58545fe49d8e9268827e5dfc0ce` |
 | `veril-bactoflex-jaula--kp3-winkle-petg.3mf` | `d6cf3fb24da548f772bbc1f6e6c648a230eb76bda17e5454abaff1fc4ad4d328` |
 | `veril-bactoflex-tapa--kp3-winkle-petg.3mf` | `2ed945cd05162da3cfcf14b8c632371dec87a6e507b03b5ce1b717ba7f726566` |
 

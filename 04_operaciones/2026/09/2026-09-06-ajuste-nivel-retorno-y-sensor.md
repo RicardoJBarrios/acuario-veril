@@ -17,7 +17,7 @@ Corregir el nivel insuficiente detectado en el primer llenado, restablecer el re
 
 ## Resultado
 
-- El volumen acumulado introducido en el sistema pasó a ser de aproximadamente **87 L**: 80 L incorporados el 5 de septiembre y unos 7 L añadidos durante esta operación
+- Se añadió una cantidad estimada en aproximadamente 7 L durante esta operación; el volumen acumulado del sistema no puede calcularse porque la cantidad introducida el día anterior no se midió y seguramente fue inferior a la capacidad nominal de los recipientes
 - El display quedó aproximadamente 35 mm por debajo del borde superior
 - La cámara Skimmer quedó al nivel de su rebosadero
 - La cámara Retorno quedó aproximadamente 170 mm por debajo de su parte superior

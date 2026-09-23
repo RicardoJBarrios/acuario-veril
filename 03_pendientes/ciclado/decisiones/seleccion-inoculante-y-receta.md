@@ -20,14 +20,14 @@ AF Bio Sand aporta sustrato, preparados con cepas nitrificantes aisladas en labo
 
 El agua de mar filtrada con UV de Elite Reef Kanarias se utilizará para el llenado del ciclado y, preferentemente, para los 3 L de activación del AF Bio Sand. No se considera una fuente microbiológica deliberada. Después del ciclado, los cambios utilizarán agua de ósmosis RO/DI con Aquaforest Reef Salt.
 
-Como referencia provisional para el sistema completo, se conserva un volumen de planificación de **75 L**: el display aporta aproximadamente **61,8 L** bajo la estimación geométrica vigente (2 cm de arena, 2 cm de margen superior y unos 2,20 L de desplazamiento equivalente medido por cambio de nivel); el resto se atribuye provisionalmente al agua efectiva del sump. La medición del desplazamiento y sus límites constan en la [operación del 23 de septiembre](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md). Para 75 L, la receta requiere **469,7 ml de FritzZyme 9** con la pauta de sistema nuevo, **3,75 ml de Fishless Fuel** para la primera carga de 2,0 mg/L como N y **1,88 ml** para la segunda carga de 1,0 mg/L como N. El envase disponible de FritzZyme 9 contiene **946 ml** y cubre por sí solo la pauta de sistema nuevo para el volumen de planificación. Todas las cantidades se recalcularán sobre el volumen operativo total medido antes de iniciar mediante las fórmulas del plan y del runbook.
+La convención simplificada vigente de Veril fija **75 L para el sistema completo** y **60 L para el display**; se usarán como bases por defecto en referencias y cálculos. El cálculo geométrico detallado del display da aproximadamente **61,69 L** bajo la hipótesis de 2 cm de arena y de margen superior, descontando **2,339 L** de desplazamiento inferido para la roca; es el respaldo de la aproximación, no reemplaza el valor nominal adoptado. La estimación del sistema y sus límites constan en la [operación del 23 de septiembre](../../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md). Para 75 L, la receta requiere **469,7 ml de FritzZyme 9** con la pauta de sistema nuevo, **3,75 ml de Fishless Fuel** para la primera carga de 2,0 mg/L como N y **1,88 ml** para la segunda carga de 1,0 mg/L como N. El envase disponible de FritzZyme 9 contiene **946 ml** y cubre por sí solo la pauta de sistema nuevo para el volumen nominal.
 
 La receta contiene dos aportaciones microbiológicas deliberadas: la asociada a AF Bio Sand y la de FritzZyme 9. No se añadirán otros programas bacterianos completos; esta exclusión limita la complejidad de la prueba sin afirmar que las dos aportaciones adoptadas sean idénticas o completamente independientes.
 
 ## Condiciones de la decisión
 
 - Las condiciones de conservación, la caducidad, la trazabilidad, la dosis y la cantidad suficiente de FritzZyme 9 deberán poder verificarse antes de iniciar
-- El volumen operativo real se medirá antes de calcular las dosis
+- Las dosis se calcularán sobre el volumen nominal adoptado de 75 L para el sistema completo
 - La concentración declarada del Fishless Fuel se contrastará con el test disponible
 - La unidad de la carga y la equivalencia con la lectura del test se fijarán antes de dosificar
 - La prueba utilizará únicamente las dos aportaciones microbiológicas incluidas en la receta: AF Bio Sand y FritzZyme 9
@@ -49,7 +49,7 @@ Las fuentes comparativas no permiten declarar una receta universalmente superior
 
 - Confirmar conservación, caducidad, lote, transporte, dosis y cantidad suficiente de FritzZyme 9
 - Registrar la presentación y el lote de cada producto
-- Medir el volumen operativo real
+- Aplicar la base nominal de 75 L al calcular las dosis de Veril
 - Seleccionar y documentar los tests de amonio y nitrito, sus escalas y sus límites de aceptación
 - Si se sustituye un componente, registrar la sustitución como una receta diferente
 - Confirmar que el agua preparada con Reef Salt alcanza `S_P = 35` antes de inocular

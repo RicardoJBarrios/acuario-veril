@@ -11,7 +11,7 @@ Instalar y fijar la composición elegida, realizar el primer llenado con agua de
 ## Entradas
 
 - Roca D-D Marco Coralline Rock inventariada previamente
-- 80 L de agua de mar introducidos en el sistema: dos recipientes de 30 L y uno de 20 L
+- Agua de mar suministrada en dos recipientes de capacidad nominal de 30 L y uno de 20 L; el volumen efectivamente trasvasado no se midió
 - Dos bidones auxiliares de 15 L: uno lleno y otro con una cantidad pequeña; permanecen fuera del sistema
 - Sicce Micra Plus 600 como bomba de retorno
 - Tetra Test 7in1 y refractómetro D-D The Aquarium Solution AQPR001
@@ -20,9 +20,17 @@ Instalar y fijar la composición elegida, realizar el primer llenado con agua de
 
 - Se instaló la composición rocosa sin arena
 - Se fijaron las uniones estructurales de las rocas con **AF Stone Fix** durante la misma operación
-- Se llenaron el display y las cámaras con 80 L de agua de mar
+- Se llenaron el display y las cámaras con agua de mar de esos recipientes; no se registró el volumen efectivamente introducido
 - Se activó el retorno para una primera comprobación
 - Se realizó una caracterización preliminar del agua recibida
+
+### Corrección posterior sobre el volumen de llenado
+
+Anotación del **23 de septiembre de 2026**: el registro original trató la
+capacidad nominal conjunta de los recipientes (80 L) como si fuera el volumen
+trasvasado. El propietario indica que seguramente se introdujo menos. Como no
+se midió el volumen vertido, los 80 L no deben interpretarse como cantidad
+incorporada al sistema.
 
 ## Resultado del hardscape
 

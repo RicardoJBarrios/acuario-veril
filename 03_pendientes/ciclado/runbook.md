@@ -13,21 +13,21 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 
 | Variable | Valor o criterio |
 | --- | --- |
-| Volumen estimado del display | Aproximadamente 61,8 L con 2 cm de arena, 2 cm de margen superior y unos 2,20 L de desplazamiento equivalente medido por cambio de nivel; véase la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md) |
-| Volumen de planificación del sistema completo | 75 L, provisional, incluido el sump |
+| Volumen de referencia del display | Aproximadamente 60 L redondeados (cálculo detallado: 61,69 L con 2 cm de arena, 2 cm de margen superior y 2,339 L de desplazamiento inferido) |
+| Volumen nominal adoptado del sistema completo | 75 L, incluido el sump; base simplificada vigente para los cálculos y las dosis de Veril |
 | Volumen geométrico estimado | Aproximadamente 96 L; referencia de control, no volumen final de dosificación |
 | Temperatura del sistema | 25,0 °C como objetivo operativo |
 | Salinidad | `S_P = 35`, verificada por medición del agua de mar filtrada con UV |
-| Agua introducida antes del ciclado | Aproximadamente 87 L de agua de mar filtrada con UV suministrada por Elite Reef Kanarias: 80 L el 5 de septiembre y unos 7 L el 6 de septiembre |
+| Agua introducida antes del ciclado | Volumen acumulado desconocido. El 5 de septiembre se usaron recipientes con capacidades nominales de 30, 30 y 20 L, pero seguramente se trasvasó menos; el 6 de septiembre se estimaron unos 7 L adicionales |
 | Agua posterior para cambios | Agua de ósmosis RO/DI con la sal seleccionada para Veril; sistema RO/DI pendiente |
 | Primera carga | 2,0 mg/L como N |
 | Segunda carga | 1,0 mg/L como N, después de confirmar la primera |
-| FritzZyme 9 | Sistema nuevo: 119 ml por 19 L; recalcular sobre `V_operativo` |
+| FritzZyme 9 | Sistema nuevo: 119 ml por 19 L; calcular sobre `V_sistema = 75 L` |
 | Fishless Fuel | 40 mg/mL como TAN, verificado por el test |
 | Skimmer | Apagado durante los cinco primeros días tras FritzZyme 9 |
 | Plazo de cada carga | Máximo 5 días desde su adición |
 
-### Cantidades provisionales para 75 L y 96 L
+### Cantidades de referencia calculadas sobre 75 L
 
 - FritzZyme 9: **469,7 ml para 75 L como referencia de sistema nuevo; el envase disponible contiene 946 ml**
 - Fishless Fuel para la primera carga: **3,75 mL**
@@ -35,13 +35,13 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 - Aquaforest Reef Salt: No se utilizará para el llenado inicial
 - Activación de AF Bio Sand: **3 L de agua salada durante 24 horas**, preferentemente del agua filtrada con UV suministrada
 
-Como referencia alternativa sobre los 96 L geométricos: **4,80 mL de Fishless Fuel** para la primera carga y **2,40 mL** para la segunda. La dosis de FritzZyme 9 y cualquier preparación con Reef Salt no se fijarán para este ciclado con agua de mar. Estas cantidades no se utilizarán como dosis finales mientras no se mida el volumen operativo real.
+Los 96 L geométricos se conservan únicamente como comparación de capacidad y no se utilizarán como base de dosificación. La dosis de FritzZyme 9 y cualquier preparación con Reef Salt no aplican al llenado de este ciclado con agua de mar.
 
-El valor de aproximadamente 61,8 L describe solo el display y sigue siendo una estimación geométrica, no una medición de llenado. Si el volumen operativo total medido no coincide con 75 L o 96 L, recalcular antes de dosificar:
+La convención por defecto es 60 L para el display y 75 L para el sistema completo. El cálculo detallado del display (61,69 L) y los 96 L geométricos son antecedentes, no sustituyen los valores nominales adoptados. Para las dosis de sistema se utilizará `V_sistema = 75 L`:
 
 ```text
-FritzZyme 9 (mL) = V_operativo (L) × 119 / 19
-Fishless Fuel (mL) = V_operativo (L) × objetivo (mg/L como N) / 40
+FritzZyme 9 (mL) = 75 (L) × 119 / 19
+Fishless Fuel (mL) = 75 (L) × objetivo (mg/L como N) / 40
 ```
 
 ## Material y comprobaciones previas
@@ -106,7 +106,7 @@ La arena activada se incorporará al display después de la inspección y limpie
 ### T0: preparar el sistema
 
 1. Confirmar que la roca y las superficies que permanecerán durante la prueba siguen estables; añadir el sustrato activado como cama definitiva
-2. Completar el sistema hasta sus niveles de trabajo previstos con agua de mar filtrada con UV y medir el volumen operativo real mediante volúmenes conocidos o un método equivalente registrable
+2. Completar el sistema hasta sus niveles de trabajo previstos con agua de mar filtrada con UV; para los cálculos se aplicará el volumen nominal adoptado de 75 L
 3. Registrar el volumen, el método y cualquier incertidumbre
 4. Confirmar, a partir de la línea base, que la temperatura se mantiene alrededor de 25,0 °C y que la salinidad permanece en `S_P = 35`
 5. Activar retorno, circulación y agitación superficial

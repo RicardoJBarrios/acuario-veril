@@ -25,7 +25,7 @@ El arranque de Veril se validará mediante un ciclado sin peces basado en:
 - Fritz Fishless Fuel como fuente controlada de nitrógeno amoniacal
 - Agua de mar filtrada con UV suministrada por Elite Reef Kanarias y verificada hasta `S_P = 35`
 
-Se espera demostrar una capacidad nitrificante frente a dos cargas conocidas, no obtener por ese procedimiento una comunidad madura, una microfauna establecida ni una capacidad general para toda la población futura. La preparación exacta, las dosis calculadas sobre el volumen operativo real y los criterios de cierre están en el [plan de ciclado](../../03_pendientes/ciclado/plan.md) y su ejecución paso a paso en el [runbook](../../03_pendientes/ciclado/runbook.md).
+Se espera demostrar una capacidad nitrificante frente a dos cargas conocidas, no obtener por ese procedimiento una comunidad madura, una microfauna establecida ni una capacidad general para toda la población futura. La preparación, las dosis calculadas sobre el volumen nominal adoptado de **75 L** y los criterios de cierre están en el [plan de ciclado](../../03_pendientes/ciclado/plan.md) y su ejecución paso a paso en el [runbook](../../03_pendientes/ciclado/runbook.md).
 
 ## Relación entre comunidad y aquascape
 

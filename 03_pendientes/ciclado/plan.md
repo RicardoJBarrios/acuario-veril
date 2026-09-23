@@ -22,13 +22,13 @@ La prueba se realizará con:
 - Sin animales, equipo de limpieza ni materia orgánica en descomposición
 - Sin productos biológicos adicionales a los definidos en la receta
 
-El volumen geométrico de la urna no se utilizará para dosificar. Todas las cargas se calcularán sobre el volumen operativo real.
+El volumen geométrico bruto de la urna no se confundirá con el volumen operativo. Para planificar el ciclado se toman como referencias redondeadas **unos 60 L en el display con arena** y **unos 75 L en el sistema completo**, incluido el sump. Son cifras aproximadas basadas en la geometría y en el cálculo por cámaras; no son una medición exacta del agua neta.
 
-El display, una vez descontados 2 cm de arena, 2 cm de margen libre y unos 2,20 L de desplazamiento equivalente calculado a partir de la variación de nivel observada, se estima en aproximadamente **61,8 L**. La medición y sus límites están registrados en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md). Esta cifra no es el volumen de dosificación: el volumen operativo de Veril incluirá también el agua de las cámaras Entrada, Skimmer y Retorno. Se mantiene provisionalmente **75 L** como volumen de planificación del sistema completo hasta medir el llenado real. El volumen geométrico bruto estimado de la urna es aproximadamente 96 L y se conserva solo como referencia geométrica de control.
+El cálculo detallado del display en ese escenario da aproximadamente **61,69 L** (64,03 L geométricos menos 2,339 L inferidos para la roca), que se redondea a 60 L para esta planificación. El cálculo de cámaras da una base de aproximadamente 74,736 L antes de descontar la pared del tubo de retorno y otros elementos, con el nivel de Retorno de 75 mm aún como objetivo, no como ajuste observado. Se adopta **75 L** como volumen nominal de planificación para las dosis orientativas, no como volumen neto medido. El volumen geométrico bruto estimado de la urna es aproximadamente 96 L y se conserva solo como referencia geométrica de control. El método y las incertidumbres constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
-El primer llenado y el ajuste posterior están documentados como [operación del 5](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md) y [operación del 6 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-06-ajuste-nivel-retorno-y-sensor.md). El 5 de septiembre se introdujeron **80 L** —dos recipientes de 30 L y uno de 20 L—. El 6 de septiembre se añadieron aproximadamente **7 L** de otro recipiente de 20 L. El total incorporado es, por tanto, de aproximadamente **87 L**, que puede expresarse de forma redondeada como **unos 90 L**. Los dos bidones de 15 L permanecen como reserva externa y no forman parte del volumen operativo. Estas cantidades añadidas no sustituyen la medición del volumen operativo real.
+El primer llenado y el ajuste posterior están documentados como [operación del 5](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md) y [operación del 6 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-06-ajuste-nivel-retorno-y-sensor.md). El 5 de septiembre se utilizaron dos recipientes con capacidad nominal de 30 L y uno de 20 L, pero el propietario indica que seguramente se trasvasó menos que su capacidad conjunta de 80 L; el volumen real no se midió. El 6 de septiembre se estimaron aproximadamente **7 L** adicionales. No se puede determinar ni redondear con rigor el volumen acumulado introducido. Los dos bidones de 15 L permanecen como reserva externa y no forman parte del volumen operativo. Para cálculos de Veril se aplicará la convención nominal vigente: **75 L para el sistema completo** y **60 L para el display**.
 
-Antes de dosificar se medirá el volumen operativo real con la roca, el sustrato, los niveles de trabajo y los equipos instalados, y se recalcularán todas las cantidades.
+Las dosis del plan se calcularán usando **75 L** como volumen nominal del sistema completo, conforme a la convención simplificada vigente de Veril. No se esperará a medir el volumen real para aplicar esta referencia.
 
 ## Fase previa: acondicionamiento de la roca sin arena
 
@@ -68,7 +68,7 @@ La ruta adoptada mantiene el fondo desnudo durante la fase previa de limpieza y 
 
 La ruta B permitiría retirar con mayor facilidad el polvo de la roca seca, partículas de manipulación y detritos depositados durante la prueba. También facilitaría observar el flujo bajo el arco, detrás de las estratificaciones y alrededor de la masa derecha. No debe justificarse por una supuesta liberación relevante de sílice del vidrio: el interés está en controlar partículas y residuos del montaje.
 
-El coste principal es añadir una etapa y retrasar unas horas el inicio del ciclado. Durante el ciclado, la superficie rocosa y el AF Bio Sand activado serán las superficies deliberadas principales; el agua de mar filtrada con UV no se contabilizará como inoculación controlada. La ruta B no requiere aumentar la dosis de FritzZyme 9 ni de Fishless Fuel: las cargas seguirán calculándose y verificándose sobre el volumen operativo real.
+El coste principal es añadir una etapa y retrasar unas horas el inicio del ciclado. Durante el ciclado, la superficie rocosa y el AF Bio Sand activado serán las superficies deliberadas principales; el agua de mar filtrada con UV no se contabilizará como inoculación controlada. La ruta B no requiere aumentar la dosis de FritzZyme 9 ni de Fishless Fuel: las cargas se calcularán sobre el volumen nominal de **75 L** y se verificarán analíticamente.
 
 Para la ruta adoptada se aplicarán estas condiciones:
 
@@ -85,20 +85,20 @@ La activación previa a la incorporación permite que el AF Bio Sand forme parte
 
 ### Dosis de referencia y cálculo
 
-Las siguientes cantidades son referencias para 75 L y 96 L. Ninguna sustituye la medición del volumen operativo ni la verificación analítica:
+Las siguientes cantidades muestran la base nominal adoptada de **75 L** y, para comparación geométrica, **96 L**. En Veril se utilizará 75 L como base de cálculo. Los 96 L no son un volumen operativo ni una alternativa de dosificación:
 
-| Elemento | Cálculo | Referencia para 75 L | Referencia para 96 L |
-| --- | --- | ---: | ---: |
-| FritzZyme 9 | Sistema nuevo: `V_operativo × 119 ml / 19 L` | 469,7 ml | 563,7 ml |
-| Primera carga de Fishless Fuel, objetivo 2,0 mg/L como N | `V_operativo × 2,0 mg/L ÷ 40 mg/mL` | 3,75 mL | 4,80 mL |
-| Segunda carga de Fishless Fuel, objetivo 1,0 mg/L como N | `V_operativo × 1,0 mg/L ÷ 40 mg/mL` | 1,88 mL | 2,40 mL |
-| Aquaforest Reef Salt | Referencia del fabricante: 39 g/L para aproximadamente 33 ppt | 2.925 g | 3.744 g |
+| Elemento | Cálculo | Referencia para 75 L |
+| --- | --- | ---: |
+| FritzZyme 9 | Sistema nuevo: `75 L × 119 ml / 19 L` | 469,7 ml |
+| Primera carga de Fishless Fuel, objetivo 2,0 mg/L como N | `75 L × 2,0 mg/L ÷ 40 mg/mL` | 3,75 mL |
+| Segunda carga de Fishless Fuel, objetivo 1,0 mg/L como N | `75 L × 1,0 mg/L ÷ 40 mg/mL` | 1,88 mL |
+| Aquaforest Reef Salt | Referencia del fabricante: 39 g/L para aproximadamente 33 ppt | 2.925 g |
 
 El agua principal del ciclado no se preparará con Reef Salt: se utilizará agua de mar filtrada con UV, suministrada por Elite Reef Kanarias, y se aceptará únicamente después de medir su salinidad, temperatura, pH y alcalinidad. Las referencias de Reef Salt de la tabla solo conservan el procedimiento posterior y no aplican a este llenado. La activación de AF Bio Sand utilizará los **3 L de agua salada durante 24 horas** indicados por su ficha, preferentemente de la misma agua de mar filtrada con UV. Una vez finalizado el ciclado, los cambios de agua continuarán con agua de ósmosis RO/DI y la sal seleccionada para Veril.
 
-Cuando se conozca el volumen operativo real, se sustituirá `V_operativo` en las fórmulas y se redondeará la dosis a una cantidad que pueda medirse con el material disponible. El redondeo se registrará y no se corregirá añadiendo producto sin volver a calcular.
+Para los cálculos de Veril se fijará `V_sistema = 75 L` en las fórmulas. El redondeo de la dosis se registrará y no se corregirá añadiendo producto sin volver a calcular.
 
-FritzZyme 9 se dosificará inicialmente tomando como referencia la pauta de sistema nuevo publicada por Fritz, **119 ml por 19 L**, y se recalculará sobre el volumen operativo medido. El vendedor ha recomendado utilizar la mitad de esa pauta, pero el fundamento de esa reducción no está documentado por Fritz. Para 75 L, la mitad equivale aproximadamente a **235 ml**. Fishless Fuel se calculará con la concentración declarada de 40 mg/mL como TAN y se verificará con el test seleccionado. Si la etiqueta, el lote o el método analítico difieren, prevalecerán esos datos y se registrará el recálculo. La elección entre la pauta oficial completa y la recomendación del vendedor queda pendiente antes de iniciar.
+FritzZyme 9 se calculará con la pauta de sistema nuevo publicada por Fritz, **119 ml por 19 L**, usando el volumen nominal de **75 L**. El vendedor ha recomendado utilizar la mitad de esa pauta, pero el fundamento de esa reducción no está documentado por Fritz. Para 75 L, la mitad equivale aproximadamente a **235 ml**. Fishless Fuel se calculará con la concentración declarada de 40 mg/mL como TAN y se verificará con el test seleccionado. Si la etiqueta, el lote o el método analítico difieren, prevalecerán esos datos y se registrará el recálculo. La elección entre la pauta oficial completa y la recomendación del vendedor queda pendiente antes de iniciar.
 
 ## Criterios de medición
 
@@ -118,11 +118,11 @@ El nitrato se registrará como apoyo interpretativo. El pH y la alcalinidad se u
 4. Ajustar las automatizaciones térmicas y corregir la salinidad mediante reposición de evaporación con RO/DI hasta alcanzar las condiciones de estabilización previas a T0
 5. Mantener una línea base de observación de 24–48 horas que confirme la estabilidad térmica y salina
 6. Preparar e instalar el AF Bio Sand según la documentación del producto, después de la fase previa y antes de comenzar el ciclado biológico
-7. Medir el volumen operativo real y registrar el método de cálculo y su incertidumbre
+7. Aplicar la base nominal de 75 L para el sistema completo y registrar las dosis calculadas
 8. Activar retorno, circulación y agitación superficial
 9. Registrar proveedor, tratamiento declarado, fecha, conservación y aspecto del agua, además de la trazabilidad de los productos
 
-No se iniciará el ciclado hasta comprobar los parámetros de aceptación del agua, estabilizar temperatura y salinidad, medir el volumen operativo real y disponer de agua RO/DI para compensar la evaporación.
+No se iniciará el ciclado hasta comprobar los parámetros de aceptación del agua, estabilizar temperatura y salinidad y disponer de agua RO/DI para compensar la evaporación. Para las dosis se utilizará la convención nominal de 75 L.
 
 La línea base incluirá temperatura, salinidad, pH, alcalinidad, nitrógeno amoniacal y nitrito, y, como apoyo, nitrato y fosfato. Se conservará también la lectura en la unidad nativa de cada test.
 
@@ -149,7 +149,7 @@ Si una condición roja obliga a realizar un cambio de agua durante la prueba, se
 
 La ejecución detallada está en el [runbook de ciclado](runbook.md). El plan fija las siguientes condiciones propias de Veril:
 
-- FritzZyme 9 y Fishless Fuel se añadirán según las dosis recalculadas para el volumen operativo real
+- FritzZyme 9 y Fishless Fuel se calcularán sobre el volumen nominal de 75 L adoptado para Veril
 - Fishless Fuel se añadirá en la misma sesión que FritzZyme 9 o dentro de las 24 horas siguientes
 - La primera carga será de 2,0 mg/L como N y la segunda de 1,0 mg/L como N, después de confirmar la primera
 - El skimmer permanecerá apagado durante los cinco primeros días posteriores a FritzZyme 9, salvo intervención registrada por seguridad

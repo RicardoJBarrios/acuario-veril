@@ -9,25 +9,33 @@ La composición declarada y los límites del producto pertenecen a la [ficha de 
 ## Decisiones adoptadas
 
 - Preparar el agua nueva con agua RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md)
-- Preparar el agua nueva para una salinidad objetivo de `S_P = 35`
+- Tomar como referencia un cambio nominal de **10 L** y preparar el agua nueva para `S_P = 35`; la base de cálculo y la masa inicial de sal se detallan en «Base nominal para cambios y sal»
 - Utilizar exclusivamente agua RO/DI sin sal para reponer la evaporación mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md)
-- Medir y verificar la salinidad, la temperatura y el estado visual del agua nueva antes de incorporarla al sistema
 - Registrar el lote de sal, la preparación y las mediciones asociadas a cada cambio
 - No utilizar un cambio de agua como sustituto de identificar una fuente, un consumo anómalo, una precipitación o un problema de procesamiento
 
 ## Decisiones pendientes
 
-- Volumen operativo de cada cambio
 - Frecuencia o condición que desencadenará un cambio
-- Parámetros que se medirán siempre en el agua preparada
 - Momento y parámetros de la medición posterior en el acuario
 - Límites que obligarán a aplazar, repetir o modificar una preparación
 - Diferencia máxima admisible de temperatura y salinidad entre el agua nueva y Veril
 - Criterio de preparación del agua nueva cuando la salinidad real de Veril difiera del objetivo `S_P = 35`
 - Criterio operativo de aceptación del agua RO/DI
-- Volumen operativo de referencia para calcular la fracción `f`
 
-Hasta que esas decisiones se documenten, no se fija aquí un porcentaje, volumen o calendario universal. La salinidad objetivo sí queda fijada en `S_P = 35`.
+## Base nominal para cambios y sal
+
+La convención simplificada vigente de Veril es **75 L para el sistema completo** y **60 L para el display**. El cambio nominal será de **10 L**, aproximadamente el 13,3 % del sistema completo. Si en una ocasión se decide expresar un cambio como porcentaje, el cálculo será:
+
+```text
+Volumen del cambio (L) = 75 L × porcentaje / 100
+```
+
+Si el cálculo se refiere solo al display, se utilizarán sus **60 L** nominales. La frecuencia o el motivo que desencadenará el cambio sigue pendiente y no se fija aquí.
+
+Aquaforest publica **390 g por 10 L** como cantidad inicial aproximada para **33 ppt** y pide medir la salinidad resultante ([instrucciones oficiales](https://aquaforest.eu/en/products/seawater/marine-salts/reef-salt/)). Para **35 ppt** se han encontrado dos referencias de usuarios a **415 g por 10 L**: un usuario informa que su envase lo indica para 35 ppt ([Ultimate Reef, 7 de junio de 2025](https://www.ultimatereef.net/threads/aqua-forest-reef-salt-measurements.939220/)); otro declara que pesó 415 g en 10 L de RO/DI y obtuvo 35 ppt con un refractómetro calibrado ([Reef2Reef, 12 de febrero de 2025](https://www.reef2reef.com/threads/aquaforest-reef-salt-mixing-low-alkalinity.1096824/)). Son referencias de usuarios y no una especificación oficial verificada para todos los lotes. Como punto de partida nominal para los 10 L de Veril se adopta **aproximadamente 415 g**, sujeto a comprobación y ajuste por medición.
+
+El cálculo de sal corresponde únicamente a los **10 L de agua nueva**, no a todo el sistema de 75 L. Los 415 g son un punto de partida: se medirán la salinidad y la temperatura después de disolver, y se ajustará gradualmente hasta `S_P = 35`. La lectura medida prevalece sobre las referencias publicadas. Tras preparar una primera mezcla, la masa realmente necesaria para ese lote y ese método podrá sustituir la estimación en las preparaciones posteriores.
 
 ## Preparación del agua nueva
 
@@ -37,22 +45,15 @@ La preparación seguirá la [ficha del producto](../../01_verilpedia/05_producto
 2. Medir el volumen real de agua RO/DI utilizado
 3. Llevar el agua de partida aproximadamente a **24 °C**, como referencia de preparación del fabricante, y registrar su temperatura
 4. Registrar la masa de sal añadida
-5. Utilizar la referencia publicada de 390 g por 10 L para 33 ppt como punto de partida orientativo, no como receta final
-6. Una vez exista un historial suficiente de un mismo lote, utilizar como referencia inicial la masa específica obtenida en preparaciones anteriores, manteniendo siempre la medición final de salinidad como criterio de aceptación
-7. Considerar la referencia de composición publicada por Aquaforest para Reef Salt a 35 ppt al evaluar el agua preparada
-8. Añadir la sal al agua y mezclar con una bomba o movimiento suficiente
-9. Mantener la mezcla durante al menos **15 minutos**, que es el tiempo de disolución publicado por Aquaforest
-10. Comprobar que el agua esté clara y medir la salinidad con un instrumento calibrado para agua marina
-11. Ajustar de forma controlada con agua RO/DI o con sal previamente disuelta hasta alcanzar `S_P = 35`
-12. Igualar la temperatura con el acuario antes del uso. Si por razones operativas el agua debe mantenerse preparada durante más tiempo, conservarla según las instrucciones de almacenamiento del fabricante y aplicar únicamente la circulación o aireación que el procedimiento correspondiente justifique
-13. Medir los parámetros adicionales definidos para esa fase o tipo de cambio
-14. Registrar cualquier ajuste realizado antes de utilizar el agua
+5. Añadir la masa inicial definida en «Base nominal para cambios y sal» —o la referencia validada para ese lote— y mezclar con una bomba o movimiento suficiente
+6. Mantener la mezcla durante al menos **15 minutos**, tiempo de disolución publicado por Aquaforest
+7. Comprobar la claridad y medir la salinidad con un instrumento calibrado para agua marina; ajustar gradualmente con RO/DI o con salmuera preparada por separado hasta `S_P = 35`, homogeneizando y midiendo de nuevo tras cada ajuste
+8. Igualar la temperatura con el acuario antes del uso y medir los parámetros adicionales definidos para esa fase o tipo de cambio
+9. Registrar las mediciones y cualquier ajuste realizado
 
-La referencia de masa publicada para 33 ppt no se convertirá automáticamente mediante una regla lineal en una cantidad objetivo para 35 ppt. La humedad, la composición del lote, el volumen real, la temperatura y el instrumento pueden modificar el resultado. La salinidad medida prevalece siempre sobre cualquier cálculo inicial.
+Los aproximadamente **24 °C** corresponden a la referencia de preparación del fabricante; antes del uso, el agua debe alcanzar la diferencia de temperatura que se establezca como admisible para Veril. Los 15 minutos son un mínimo de mezcla, no un criterio de aceptación: antes de incorporar el agua se deben verificar salinidad, temperatura y claridad. La salinidad medida prevalece sobre cualquier masa inicial; humedad, lote, volumen real, temperatura e instrumento pueden influir en el resultado.
 
-Los 15 minutos representan el tiempo mínimo de mezcla y disolución indicado para el producto, no una garantía de que el agua esté lista sin medición. No se incorporará el agua hasta comprobar la salinidad, la temperatura y la claridad de la mezcla. La preparación química y el acondicionamiento térmico son operaciones distintas: los aproximadamente 24 °C corresponden a la referencia de preparación del producto, mientras que antes del uso se debe alcanzar la diferencia de temperatura que se establezca como admisible para Veril.
-
-Aquaforest indica que el agua preparada debe utilizarse dentro de los tres días posteriores a la disolución. Si no se utiliza inmediatamente, se almacenará en un recipiente limpio y cerrado para limitar la evaporación. Antes del uso se comprobarán, como mínimo, la salinidad, la temperatura y el estado visual de la mezcla.
+Aquaforest indica que el agua preparada debe utilizarse dentro de los tres días posteriores a la disolución. Si no se utiliza inmediatamente, se almacenará en un recipiente limpio y cerrado para limitar la evaporación; antes del uso se repetirá la comprobación de salinidad, temperatura y estado visual.
 
 Si la salinidad es demasiado alta, se corregirá con RO/DI. Si es demasiado baja, se corregirá añadiendo progresivamente una preparación salina de concentración conocida preparada por separado, evitando incorporar sal seca directamente al agua ya destinada al cambio. Esto reduce el riesgo de disolución incompleta y de concentraciones locales elevadas. Después de cada ajuste se homogeneizará completamente y se volverá a medir.
 
@@ -77,7 +78,7 @@ Cuando el cambio pueda afectar a la interpretación química del sistema, se reg
 
 La medición del agua nueva permite conocer su composición observada, pero no demuestra por sí sola la composición completa de la sal ni sustituye un análisis de laboratorio o de lote.
 
-Los criterios de aceptación de cada preparación serán, como mínimo, la salinidad, la temperatura, la claridad de la mezcla y la trazabilidad del agua de partida. La alcalinidad, el calcio, el magnesio y otros parámetros se utilizarán para caracterización periódica, comprobación de un lote nuevo o investigación de un resultado inesperado, sin convertirlos automáticamente en controles obligatorios de cada preparación.
+La alcalinidad, el calcio, el magnesio y otros parámetros se medirán para caracterizar un lote nuevo o investigar resultados inesperados, no necesariamente en cada preparación. Los controles mínimos de aceptación se describen en «Preparación del agua nueva».
 
 ## Ejecución del cambio
 
@@ -110,6 +111,16 @@ Después de incorporar el volumen previsto:
 - Confirmar finalmente que los niveles de las cámaras han recuperado su estado operativo
 
 No se añadirá sal seca directamente al acuario con animales. La salinidad del sistema no se corregirá mediante una estimación visual del nivel o una compensación improvisada del volumen retirado.
+
+## Refuerzo del biofiltro con FritzZyme 9
+
+Fritz menciona los cambios de agua, la incorporación de nuevos peces, la limpieza agresiva, la medicación y el cambio de material filtrante entre las situaciones en que puede reforzarse el biofiltro con FritzZyme 9. No prescribe una repetición automática después de cada cambio de agua: indica utilizarlo cuando se necesite reforzar el biofiltro y vigilar amoniaco y nitrito para valorar nuevas dosis.
+
+En Veril, un cambio de agua rutinario por sí solo **no será motivo para dosificar FritzZyme 9**. Tras introducir peces u otra fauna que aumente la carga biológica, se vigilarán amoniaco y nitrito; se reservará el producto para una necesidad concreta de refuerzo del biofiltro. La misma condición se aplicará después de una intervención que pueda reducir significativamente la población bacteriana. Durante el ciclado sin peces prevalecen las dosis y el procedimiento del [plan de ciclado](../ciclado/plan.md).
+
+Para un sistema establecido, Fritz publica **30 ml por cada 19 L**. El cálculo se hace sobre el volumen total del sistema, no solo sobre los 10 L cambiados ni sobre el volumen de animales incorporados. Con la base nominal de **75 L**, corresponde a **aproximadamente 118 ml por aplicación**. Si se actualiza el volumen operativo, se recalculará proporcionalmente.
+
+Fritz indica mantener apagados el skimmer y los esterilizadores UV durante al menos **cinco días** después de la aplicación y mantener flujo o aireación adecuados. Como esta condición interrumpe el funcionamiento normal del skimmer de Veril, no se dosificará preventivamente: solo se valorará una aplicación si existe una necesidad concreta de refuerzo y se puede cumplir el periodo de apagado de forma segura. Si no es viable, se mantendrá la vigilancia de amoniaco y nitrito y no se usará el producto. La dosis, las condiciones y los límites del producto se detallan en la [ficha de FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md).
 
 ## Comprobación posterior
 
@@ -161,6 +172,7 @@ La interpretación general de la dilución, la sustitución y sus límites se co
 
 - [Cambios de agua en un acuario marino](../../01_verilpedia/06_procesos/06_cambios-agua.md): definición general, efectos, límites y balance simplificado de mezcla
 - [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md): composición declarada, preparación, conservación y análisis por lote
+- [FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md): dosis, condiciones de uso y conservación del producto
 - [Química de Veril](../../02_configuracion/01_dimensiones/05_quimica.md): decisión de utilizar RO/DI y Aquaforest Reef Salt
 - [Fichas de parámetros](../../01_verilpedia/03_parametros/README.md): interpretación de salinidad, temperatura, alcalinidad, calcio, magnesio y demás variables
 - [Plan de ciclado](../ciclado/plan.md): cambios de agua durante el establecimiento y sus efectos sobre la prueba

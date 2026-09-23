@@ -132,17 +132,19 @@ Altura de agua = 390 − 20 − 20 = 350 mm
 Volumen bruto de agua del display = 594 × 308 × 350 / 1.000.000 = 64,03 L
 ```
 
-El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026** se retiró toda la roca del display y se observó un descenso de nivel de **12 mm**. Aplicado a la planta interior aproximada de 594 × 308 mm, equivale a un desplazamiento de unos **2,20 L**. Esta medición sustituye la estimación provisional anterior de 4–5 L basada en el peso; sus condiciones y límites constan en el [registro de la operación](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026**, al retirar la roca, bajó 12 mm el nivel del display y el propietario confirmó después el mismo descenso en Entrada; Skimmer no bajó. Con áreas interiores de 594 × 308 mm y 139 × 86 mm, el desplazamiento inferido es **2,339 L**. El cálculo excluye la cámara Skimmer, que no cambió de nivel, y omite el orificio circular Display–Entrada por no tener una medida volumétrica exacta. El resultado sustituye la estimación anterior de 4–5 L basada en el peso. Sigue condicionado a que durante la comparación no hubiera reposición ni transferencia neta de agua con Retorno. Véase el [registro de la operación](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
 Con el desplazamiento medido como aproximación, resulta:
 
 ```text
-Volumen neto estimado del display = 64,03 − 2,20 = aproximadamente 61,8 L
+Volumen calculado del display = 64,03 − 2,339 = aproximadamente 61,69 L
 ```
 
-Este valor sigue siendo una estimación de trabajo: parte de una columna de agua calculada y de una variación de nivel, no de una medición de litros incorporados. El valor que se utilizará para dosificar será el volumen operativo medido durante el llenado, sumando el agua efectiva de las cámaras Entrada, Skimmer y Retorno. El volumen del display no debe confundirse con el volumen total del sistema.
+El valor detallado de 61,69 L es una estimación geométrica para un escenario de diseño, no una medición de litros incorporados. La convención simplificada de Veril redondea el display con arena a **60 L** y el sistema completo, incluidas las cámaras técnicas, a **75 L**. El cálculo del sistema consta en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md); sus límites —incluido el nivel objetivo de Retorno aún no comprobado con ATO y el desplazamiento pendiente de tubo y otros elementos— se conservan como contexto, sin alterar los valores nominales adoptados. No deben confundirse con los **96 L geométricos brutos** ni con el volumen realmente introducido durante el llenado, que no se midió.
 
-La forma más fiable de cerrar el dato será registrar los litros realmente incorporados al sistema mediante recipientes graduados, con la roca, la arena y el nivel operativo definitivos. La reducción de 1–2 mm del ancho en la parte superior queda dentro de la incertidumbre de esta estimación y no cambia materialmente el resultado.
+**Convención nominal vigente:** a todos los efectos prácticos y para simplificar los cálculos de Veril, se hablará de **75 L para el sistema completo** y **60 L para el display**. Se usarán como valores por defecto en referencias, comparaciones y dosificaciones, hasta que el propietario indique expresamente otra base. Son volúmenes aproximados adoptados, no una medición exacta. Los cálculos detallados y sus incertidumbres quedan como respaldo y no sustituyen esta convención. El volumen del display no debe confundirse con el volumen total del sistema.
+
+Si en el futuro se decide reemplazar esta convención por una medición neta, el método más fiable será registrar los litros realmente incorporados mediante recipientes graduados, con la roca, la arena y los niveles definitivos. La reducción de 1–2 mm del ancho en la parte superior queda dentro de la incertidumbre geométrica y no cambia materialmente la referencia nominal.
 
 ### Medidas de referencia de la composición instalada
 
@@ -150,6 +152,7 @@ En la composición montada sobre la plantilla del display se han marcado los má
 
 | Elemento | Medida registrada |
 | --- | ---: |
+| Masa nominal orientativa del conjunto de roca | Aproximadamente 7,5 kg |
 | Separación frontal mínima | 40 mm |
 | Separación trasera mínima | 40 mm |
 | Separación lateral mínima | 30 mm |

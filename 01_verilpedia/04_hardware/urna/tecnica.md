@@ -8,7 +8,7 @@ No se instalará filtración mecánica. El uso de un medio biológico adicional 
 
 ## Recorrido hidráulico
 
-La zona técnica tiene tres cámaras interiores. La cámara **Entrada** queda documentada con unas dimensiones nominales de **139 × 86 × 390 mm** (ancho × fondo × altura interior). Las otras dos cámaras se expresan aquí en planta como **Skimmer** (**139 × 133 mm**) y **Retorno** (**139 × 77 mm**):
+La zona técnica tiene tres cámaras interiores. La cámara **Entrada** queda documentada con unas dimensiones nominales de **139 × 86 × 390 mm** (ancho × fondo × altura interior). Las otras dos cámaras se expresan aquí en planta como **Skimmer** (**139 × 134 mm**) y **Retorno** (**139 × 77 mm**):
 
 ```text
 Display
@@ -20,7 +20,7 @@ Display
 → Retorno al display
 ```
 
-La cámara **Entrada** concentra la entrada y el acceso a la rejilla. Su altura interior nominal es de **390 mm**, calculada como **400 mm de altura exterior menos 10 mm del fondo**; los **340 mm** de los separadores internos no son la altura de esta cámara, sino la altura de una pieza que deja un paso inferior aproximado de 50 mm hacia Skimmer. La entrada a esta cámara se realiza mediante una perforación de **50 mm de diámetro**, situada a **17 mm del borde superior** y a **30 mm de la pared trasera**. La cámara **Skimmer** aloja el skimmer y el calentador. La cámara **Retorno** mantiene la bomba de retorno, el sensor del ATO y los sensores de temperatura.
+La cámara **Entrada** concentra la entrada y el acceso a la rejilla. Su altura interior nominal es de **390 mm**, calculada como **400 mm de altura exterior menos 10 mm del fondo**; los **340 mm** de los separadores internos no son la altura de esta cámara, sino la altura de una pieza que deja un paso inferior aproximado de 50 mm hacia Skimmer. La entrada a esta cámara se realiza mediante una perforación de **50 mm de diámetro**, situada a **17 mm del borde superior** y a **30 mm de la pared trasera**. La cámara **Skimmer** aloja el skimmer y el calentador. En la observación del 23 de septiembre de 2026, su nivel quedó 50 mm por debajo del borde, frente a 37 mm en display/Entrada; esa cota describe la observación y no se adopta aquí como nivel universal para todos los regímenes. La cámara **Retorno** mantiene la bomba de retorno, el sensor del ATO y los sensores de temperatura.
 
 ## Equipo técnico
 

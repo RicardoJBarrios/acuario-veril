@@ -40,7 +40,7 @@ Los cambios de color u olor pueden producirse entre envases. Un olor fuerte a az
 
 ## Aplicación prevista en Veril
 
-FritzZyme 9 se utilizará como inoculante bacteriano principal del ciclado sin peces, junto con AF Bio Sand, Fishless Fuel y el agua de mar filtrada con UV de Elite Reef Kanarias. La dosis de Veril se calcula en el [plan de ciclado](../../../03_pendientes/ciclado/plan.md), sobre el volumen operativo real.
+FritzZyme 9 se utilizará como inoculante bacteriano principal del ciclado sin peces, junto con AF Bio Sand, Fishless Fuel y el agua de mar filtrada con UV de Elite Reef Kanarias. La dosis de Veril se calcula en el [plan de ciclado](../../../03_pendientes/ciclado/plan.md), usando la base nominal adoptada de **75 L para el sistema completo**.
 
 La pauta de sistema nuevo publicada equivale aproximadamente a **469,7 ml para 75 L** y **563,7 ml para 90 L**. Por tanto, el envase adquirido de **946 ml** cubre por sí solo la pauta completa de sistema nuevo para el volumen de planificación provisional de Veril. La dosis final seguirá dependiendo del volumen operativo total medido.
 

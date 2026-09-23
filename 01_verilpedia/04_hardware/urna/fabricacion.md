@@ -25,7 +25,7 @@ La base queda encajada dentro del perímetro formado por frontal, trasera y late
 Display interior: 594 × 308 mm
 Sump interior: 139 × 296 mm
 Cámara Entrada: 139 × 86 × 390 mm
-Cámaras Skimmer y Retorno en planta: 139 × 133 mm + 139 × 77 mm
+Cámaras Skimmer y Retorno en planta: 139 × 134 mm + 139 × 77 mm
 ```
 
 La medida exterior nominal es de **750 × 320 × 400 mm**. En el sentido de los 320 mm, la parte superior puede ser aproximadamente **1–2 mm más estrecha** que la base por la silicona.
