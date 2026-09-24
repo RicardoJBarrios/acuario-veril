@@ -22,3 +22,4 @@ Para que todo quede claramente diferenciado, la documentación separa el conocim
 - [Configuración](02_configuracion/README.md): estado vigente y decisiones de diseño de Veril
 - [Pendientes](03_pendientes/README.md): actuaciones todavía no ejecutadas, incluidos ciclado, maduración y procedimientos recurrentes
 - [Operaciones](04_operaciones/README.md): actuaciones ejecutadas, ordenadas por fecha y documentadas con sus resultados
+- [Multimedia](05_multimedia/README.md): recursos visuales con su contexto y límites de interpretación

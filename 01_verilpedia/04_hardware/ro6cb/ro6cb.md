@@ -18,6 +18,8 @@
 
 El título comercial de Amazon identifica el producto como **Nature Water Professionals**, mientras que la tabla de información del anuncio identifica como fabricante a **ALMACEN OSMOSIS, S. L.**. El anuncio también muestra el código `A1002` y el modelo `RO6CB`. La identificación definitiva de la unidad será la etiqueta del equipo, el embalaje y la documentación recibida.
 
+La etiqueta exterior de la caja recibida el 24 de septiembre de 2026 declara modelo RO6CB, potencia de 36 W, entrada de 220 V, frecuencia de 50/60 Hz, protección IPX1, presión de entrada de 0,1–0,6 MPa, temperatura de uso de 5–35 °C, lote 2025-AR022 y fabricación el 19/12/2025. La transcripción y sus fotografías están en el [registro de recepción](../../../04_operaciones/2026/09/2026-09-24-recepcion-equipo-ro6cb/README.md). Es información de la caja, no verificación de la unidad. La tensión declarada difiere de los 230 V que indica el manual de la variante con bomba, por lo que se comprobarán la placa de la bomba y el transformador antes de conectar.
+
 La aplicación prevista en Veril se describe en [Aplicación del equipo RO6CB en Veril](aplicacion-veril.md).
 
 ## Etapas y elementos declarados

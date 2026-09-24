@@ -24,9 +24,9 @@
 
 ## Función en Veril
 
-El **SONOFF SNZB-02LD** se incorporará como termómetro inalámbrico principal de seguimiento de la temperatura del acuario. La sonda se colocará en el agua del display y el cuerpo electrónico permanecerá fuera de la zona húmeda. La comunicación se realizará mediante el gateway **SONOFF ZBBridge-P**.
+El **SONOFF SNZB-02LD** se utiliza en Veril para el seguimiento telemétrico de la temperatura del agua mediante Zigbee y el gateway **SONOFF ZBBridge-P**. La sonda debe quedar en el agua y el cuerpo electrónico fuera de la zona húmeda. La ubicación concreta de la unidad y su estado operativo se documentan en las operaciones y en la configuración de Veril, no en esta ficha general.
 
-El sensor servirá para registrar tendencias y generar avisos de temperatura. No sustituirá la comprobación independiente de la temperatura durante la puesta en marcha ni la verificación periódica del sensor.
+La telemetría permite observar la evolución de la temperatura. Las tendencias y los avisos automáticos solo se utilizarán cuando la cadencia y la señal se hayan validado en el sistema; la automatización térmica de Veril continúa en revisión. La lectura tampoco sustituye la comprobación independiente del sensor.
 
 ## Especificaciones
 

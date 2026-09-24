@@ -28,6 +28,8 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [22 de septiembre: Ajuste de la refrigeración preventiva para mantener el agua bajo 27 °C](2026/09/2026-09-22-ajuste-refrigeracion-preventiva-bajo-27.md)
 - [23 de septiembre: Ajuste del control térmico del agua](2026/09/2026-09-23-ajuste-control-termico-agua.md)
 - [23 de septiembre: Pesaje y medición del desplazamiento del hardscape](2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md)
+- [24 de septiembre: Revisión y preparación del control térmico](2026/09/2026-09-24-revision-observacion-control-termico.md)
+- [24 de septiembre: Recepción comunicada del equipo RO6CB](2026/09/2026-09-24-recepcion-equipo-ro6cb/README.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

@@ -63,7 +63,7 @@ No se debe añadir amoníaco doméstico salvo que se haya demostrado que es amon
 
 ### 4.3 Amonio ya presente
 
-La sustrato vivo o inoculada puede aportar amonio durante las primeras horas. Antes de añadir cloruro de amonio se debe medir el agua. Si ya contiene amonio, la dosis se reduce o se omite según la lectura y la receta aplicada.
+El sustrato vivo o la roca inoculada pueden aportar amonio durante las primeras horas. Antes de añadir cloruro de amonio se debe medir el agua. Si ya contiene amonio, la dosis se reduce o se omite según la lectura y la receta aplicada.
 
 Cuando se utilice sustrato vivo o inoculada, se tratará como una posible fuente inicial de amonio y nutrientes: primero se medirá y después se decidirá la carga adicional.
 

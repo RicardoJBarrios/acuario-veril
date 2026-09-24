@@ -6,9 +6,9 @@ Estas fichas son una compilación personal de investigación sobre procesos de e
 
 - [Ciclado biológico](01_ciclado.md)
 - [Variante de ciclado sin peces](02_ciclado-sin-peces.md)
-- [Método de Aquaforest](metodo-aquaforest.md)
-- [Método oficial de ciclado sin peces de Dr. Tim Hovanec](metodo-dr-tim.md)
-- [Método de Fritz Aquatics para ciclado marino sin peces](metodo-fritz.md)
+- [Método de Aquaforest](07_metodo-aquaforest.md)
+- [Método oficial de ciclado sin peces de Dr. Tim Hovanec](08_metodo-dr-tim.md)
+- [Método de Fritz Aquatics para ciclado marino sin peces](09_metodo-fritz.md)
 - [Maduración](03_maduracion.md)
 - [Ugly phase](04_ugly-phase.md)
 - [Operación y mantenimiento](05_operacion.md)

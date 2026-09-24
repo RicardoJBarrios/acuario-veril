@@ -17,12 +17,12 @@ La proyección se basa en la función declarada de los productos y en la sucesi�
 | Entrada | Aportación esperada | Grado de conocimiento |
 | --- | --- | --- |
 | AF Bio Sand | Sustrato de carbonato cálcico, superficie y preparados con cepas nitrificantes aisladas y un nutriente asociado | Función declarada; composición y concentración por lote no publicadas completamente |
-| FritzZyme 9 | Inoculante líquido de bacterias nitrificantes marinas | Función y composición concreta del lote adquirido pendientes de verificar en su etiqueta y documentación |
+| FritzZyme 9 | Inoculante líquido de bacterias nitrificantes marinas | La función y las instrucciones generales constan en la ficha; la cepa, viabilidad y datos del lote adquirido siguen pendientes de verificar |
 | Fishless Fuel | Fuente controlada de nitrógeno amoniacal para sostener y probar la función nitrificante | Composición y concentración declaradas en la ficha del producto |
 | Reef Salt | Matriz salina para el agua del sistema | No aporta una inoculación deliberada |
 | Roca inerte | Superficie disponible para colonización posterior | No se considera una fuente inicial de biodiversidad equivalente a roca viva |
 
-Aquaforest describe AF Bio Sand como un sustrato cuyos frascos contienen cepas de bacterias nitrificantes aisladas en laboratorio y un nutriente que facilita su desarrollo. FritzZyme 9 se utilizará como inoculante bacteriano adicional, pendiente de caracterizar con la documentación del envase adquirido. La receta contiene, por tanto, dos aportaciones microbiológicas deliberadas, aunque no se conoce el grado de solapamiento entre ellas.
+Aquaforest describe AF Bio Sand como un sustrato cuyos frascos contienen cepas de bacterias nitrificantes aisladas en laboratorio y un nutriente que facilita su desarrollo. FritzZyme 9 se utilizará como inoculante bacteriano adicional. La etiqueta del envase disponible identifica instrucciones y dosis, pero no las cepas ni su viabilidad por lote. La receta contiene, por tanto, dos aportaciones microbiológicas deliberadas, aunque no se conoce el grado de solapamiento entre ellas.
 
 ## Proyección por fases
 

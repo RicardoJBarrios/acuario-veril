@@ -2,7 +2,7 @@
 
 ## Estado documental
 
-El usuario ha comunicado que ha adquirido la variante RO6CB con bomba de refuerzo para el sistema RO/DI de Veril. En esta ficha se documenta el equipo RO anunciado; la recepción física, el inventario del paquete y la instalación todavía deben registrarse.
+El usuario ha comunicado que adquirió la variante RO6CB con bomba de refuerzo para el sistema RO/DI de Veril y que el paquete llegó el 24 de septiembre de 2026. La etiqueta exterior fotografiada declara el modelo RO6CB; todavía no se ha comprobado que la unidad y sus componentes correspondan a ella ni se ha inventariado el paquete. La recepción comunicada consta en el [registro de operación](../../../04_operaciones/2026/09/2026-09-24-recepcion-equipo-ro6cb/README.md).
 
 Los componentes comunicados del sistema DI y sus accesorios se documentan por separado en la [ficha del sistema DI](../di-ro/sistema-di.md). La resina, el montaje final y la aceptación mediante mediciones siguen pendientes. Esta ficha no afirma que el conjunto RO/DI esté completo ni operativo.
 
@@ -58,7 +58,7 @@ El montaje no se considerará aceptado por el mero hecho de que la bomba arranqu
 
 ## Pendientes
 
-- [ ] Recibir y desembalar el equipo
+- [ ] Desembalar e inventariar físicamente el equipo y todos sus componentes
 - [ ] Inventariar físicamente todos los componentes y sus referencias
 - [ ] Fotografiar la etiqueta del equipo, la bomba, el transformador y los cartuchos
 - [ ] Medir la presión de entrada en el punto de instalación
@@ -77,7 +77,7 @@ El montaje no se considerará aceptado por el mero hecho de que la bomba arranqu
 
 El agua RO/DI se utilizará para la reposición por evaporación y para preparar agua salada en los cambios posteriores. La configuración concreta del ATO y su depósito se documenta en el [D-D H2Ocean Compact ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md) y en el [barril GRAF de 15 l](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md).
 
-La compra del equipo RO6CB no acredita todavía que Veril disponga de agua RO/DI utilizable. Esa condición quedará cubierta cuando se complete el sistema DI, se instale el conjunto y se acepten sus mediciones.
+La llegada del paquete RO6CB no acredita todavía que Veril disponga de agua RO/DI utilizable. Esa condición quedará cubierta cuando se inventarie y compruebe la unidad, se complete el sistema DI, se instale el conjunto y se acepten sus mediciones.
 
 ## Fuentes
 

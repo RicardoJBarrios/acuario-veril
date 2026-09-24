@@ -42,7 +42,7 @@ Las cantidades se recalculan sobre el volumen neto real. No se deben improvisar 
 
 El Kickstart completo es una estrategia comercial integrada y no obliga a utilizar todos sus componentes en cualquier acuario. AF Life Bio Fil requiere una zona de buen flujo y no debe comprimirse, enterrarse ni convertirse en un depósito de detritos. AF Life Source no demuestra la nitrificación ni sustituye una fuente controlada de amonio. AF Rock puede sustituirse por otra superficie adecuada.
 
-No se deben añadir simultáneamente otros cultivos bacterianos o fuentes de carbono para “crear más diversidad” sin revisar la estrategia. La sustrato y el medio nutritivo de AF Bio Sand no sustituyen la prueba de carga. La turbidez temporal de AF Bio Sand o AF Life Source no debe corregirse automáticamente con filtración mecánica fina.
+No se deben añadir simultáneamente otros cultivos bacterianos o fuentes de carbono para “crear más diversidad” sin revisar la estrategia. El sustrato y el medio nutritivo de AF Bio Sand no sustituyen la prueba de carga. La turbidez temporal de AF Bio Sand o AF Life Source no debe corregirse automáticamente con filtración mecánica fina.
 
 ### Secuencia Aquaforest
 

@@ -178,7 +178,7 @@ Si un medio mecánico permanece cargado demasiado tiempo, parte de los sólidos 
 
 ### Sustrato
 
-La sustrato es compatible con el Berlín. Puede proporcionar sustrato para determinados organismos, superficie colonizable, hábitat para microfauna y una función paisajística.
+El sustrato es compatible con el método Berlín. Puede proporcionar sustrato para determinados organismos, superficie colonizable, hábitat para microfauna y una función paisajística.
 
 Una capa fina de sustrato no debe confundirse con una cama profunda diseñada específicamente para desnitrificación. Los sistemas DSB o diseños equivalentes introducen requisitos propios de profundidad, granulometría, flujo, estabilidad, fauna y funcionamiento biológico, por lo que constituyen una decisión adicional.
 

@@ -52,7 +52,8 @@ El refractómetro se limpiará, se verificará a cero con agua RO/DI o agua pura
 
 Antes de activar el AF Bio Sand o añadir FritzZyme 9, se estabilizarán dos condiciones de partida. Esta fase sigue pendiente de ejecución y no forma parte del ciclado.
 
-- Se retocarán las automatizaciones que controlan la temperatura del despacho hasta mantener el agua alrededor del objetivo operativo de **25,0 °C**. La línea base de 24–48 horas deberá confirmar que la temperatura se mantiene estable, no solo que alcanza ese valor en una lectura aislada.
+- La temperatura de partida deberá estar dentro de la envolvente aceptable adoptada para Veril, **24–27,5 °C**, procurando partir de la zona preferida **25–26 °C**. El rango óptimo es **24,5–26,5 °C**; 25 °C es un centro orientativo y no una consigna puntual. Se observará una línea base de 24–48 horas para valorar estabilidad, duración y tendencia, sin exigir que el agua alcance exactamente 25,0 °C.
+- La automatización térmica de Home Assistant permanece deshabilitada y en revisión. No se retocará ni reactivará como requisito de esta fase: primero deben completarse la caracterización de la telemetría de `off-sns-05` y la validación de las señales de tendencia, según la [configuración térmica vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro del 24 de septiembre](../../04_operaciones/2026/09/2026-09-24-revision-observacion-control-termico.md).
 - Se reducirá la salinidad mediante reposición medida de la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta alcanzar `S_P = 35`. Se repetirán las lecturas con el refractómetro y no se superará el nivel de trabajo del sistema.
 
 No se iniciará T0 mientras una de las dos condiciones siga fuera de objetivo o presente variaciones que impidan interpretar la línea base.
@@ -89,22 +90,22 @@ Las siguientes cantidades muestran la base nominal adoptada de **75 L** y, para 
 
 | Elemento | Cálculo | Referencia para 75 L |
 | --- | --- | ---: |
-| FritzZyme 9 | Sistema nuevo: `75 L × 119 ml / 19 L` | 469,7 ml |
-| Primera carga de Fishless Fuel, objetivo 2,0 mg/L como N | `75 L × 2,0 mg/L ÷ 40 mg/mL` | 3,75 mL |
-| Segunda carga de Fishless Fuel, objetivo 1,0 mg/L como N | `75 L × 1,0 mg/L ÷ 40 mg/mL` | 1,88 mL |
+| FritzZyme 9 | Dosis de sistema nuevo de la etiqueta: `75 L × 118 ml / 19 L` | 465,8 ml (≈466 ml) |
+| Primera carga de Fishless Fuel, referencia aproximada del fabricante para 2 ppm | `75 L × 5 ml / 94,6 L` | 3,96 ml |
+| Segunda carga de Fishless Fuel, reto de capacidad definido por Veril para aproximadamente 1 ppm | Mitad de la dosis volumétrica inicial como punto de partida local | 1,98 ml |
 | Aquaforest Reef Salt | Referencia del fabricante: 39 g/L para aproximadamente 33 ppt | 2.925 g |
 
 El agua principal del ciclado no se preparará con Reef Salt: se utilizará agua de mar filtrada con UV, suministrada por Elite Reef Kanarias, y se aceptará únicamente después de medir su salinidad, temperatura, pH y alcalinidad. Las referencias de Reef Salt de la tabla solo conservan el procedimiento posterior y no aplican a este llenado. La activación de AF Bio Sand utilizará los **3 L de agua salada durante 24 horas** indicados por su ficha, preferentemente de la misma agua de mar filtrada con UV. Una vez finalizado el ciclado, los cambios de agua continuarán con agua de ósmosis RO/DI y la sal seleccionada para Veril.
 
 Para los cálculos de Veril se fijará `V_sistema = 75 L` en las fórmulas. El redondeo de la dosis se registrará y no se corregirá añadiendo producto sin volver a calcular.
 
-FritzZyme 9 se calculará con la pauta de sistema nuevo publicada por Fritz, **119 ml por 19 L**, usando el volumen nominal de **75 L**. El vendedor ha recomendado utilizar la mitad de esa pauta, pero el fundamento de esa reducción no está documentado por Fritz. Para 75 L, la mitad equivale aproximadamente a **235 ml**. Fishless Fuel se calculará con la concentración declarada de 40 mg/mL como TAN y se verificará con el test seleccionado. Si la etiqueta, el lote o el método analítico difieren, prevalecerán esos datos y se registrará el recálculo. La elección entre la pauta oficial completa y la recomendación del vendedor queda pendiente antes de iniciar.
+La etiqueta fotografiada del FritzZyme 9 disponible indica **118 ml por 19 L** para un sistema nuevo. Sobre el volumen nominal de **75 L**, la pauta completa equivale a **465,8 ml**, redondeados a **466 ml**. La página oficial actual expresa la misma pauta redondeada como 119 ml por 19 L (469,7 ml para 75 L); para esta receta prevalece la etiqueta del envase concreto. La recomendación comercial de media dosis se conserva como antecedente no adoptado. Para Fishless Fuel, la etiqueta del envase confirma aproximadamente **5 ml por 25 US gal (94,6 L) para 2 ppm** y recomienda 2–4 ppm; en 75 L, la referencia volumétrica es **3,96 ml**. La recomendación oficial de 1 ppm o menos se aplica si el amonio llega a cero mientras el nitrito aún está presente. En cambio, la segunda carga de aproximadamente **1,98 ml** de Veril se define como un reto de capacidad posterior a confirmar ambos parámetros en cero durante 24 horas; es una condición del plan local, no la misma instrucción de la etiqueta. Fritz declara 40 mg/ml como TAN, pero no se convertirá esa concentración a la escala del test de Veril sin una base confirmada. Antes de dosificar se verificará la etiqueta exacta y la escala del test Salifert disponible; se registrará el resultado en la escala propia del kit. Si no puede interpretarse la escala o compararse con la pauta, se pausará la dosificación.
 
 ## Criterios de medición
 
 Veril aplicará los criterios de medición de las fichas generales de ciclado, amonio, nitrito, pH, alcalinidad, salinidad y temperatura. Antes de iniciar se registrarán los tests seleccionados, sus escalas, procedimientos y límites de aceptación.
 
-Para esta prueba, las cargas se expresarán como **mg/L como N** y se conservará también la lectura en la unidad nativa del test. Cualquier conversión entre NH₃, NH₄⁺, TAN o NH₃-N se documentará antes de iniciar. La selección escalonada de métodos, los candidatos de compra y sus límites de uso se mantienen en el [plan transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md).
+Para esta prueba, se conservará la lectura en la unidad y escala nativas del test, sin etiquetarla como **mg/L como N** ni convertirla entre NH₃, NH₄⁺, TAN o NH₃-N mientras la equivalencia no esté confirmada para el kit concreto. Antes de dosificar se comprobarán y documentarán la etiqueta y escala del test Salifert disponible. Si no permiten interpretar la carga objetivo, se pausará la dosificación. La selección escalonada de métodos, los candidatos de compra y sus límites de uso se mantienen en el [plan transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md).
 
 El límite local de aceptación será el valor mínimo que el método seleccionado permita distinguir con fiabilidad del cero operativo. El plazo de cada carga será el definido en este plan y no se modificará durante la prueba.
 
@@ -115,8 +116,8 @@ El nitrato se registrará como apoyo interpretativo. El pH y la alcalinidad se u
 1. Comprobar que la urna, el rebosadero, el retorno y las cámaras funcionan sin fugas ni niveles inseguros
 2. Colocar la roca con apoyos estables y superficies accesibles al flujo
 3. Recibir el agua de mar filtrada con UV de Elite Reef Kanarias y registrar proveedor, fecha, volumen, salinidad, temperatura, pH y alcalinidad
-4. Ajustar las automatizaciones térmicas y corregir la salinidad mediante reposición de evaporación con RO/DI hasta alcanzar las condiciones de estabilización previas a T0
-5. Mantener una línea base de observación de 24–48 horas que confirme la estabilidad térmica y salina
+4. Comprobar la temperatura frente a la envolvente adoptada de Veril —preferida 25–26 °C, óptima 24,5–26,5 °C y aceptable 24–27,5 °C— y corregir la salinidad mediante reposición de evaporación con RO/DI hasta alcanzar las condiciones de estabilización previas a T0. No perseguir una consigna de 25,0 °C ni reactivar la automatización térmica mientras siga pendiente su validación
+5. Mantener una línea base de observación de 24–48 horas que permita valorar estabilidad térmica y salina dentro de sus criterios respectivos
 6. Preparar e instalar el AF Bio Sand según la documentación del producto, después de la fase previa y antes de comenzar el ciclado biológico
 7. Aplicar la base nominal de 75 L para el sistema completo y registrar las dosis calculadas
 8. Activar retorno, circulación y agitación superficial
@@ -151,8 +152,8 @@ La ejecución detallada está en el [runbook de ciclado](runbook.md). El plan fi
 
 - FritzZyme 9 y Fishless Fuel se calcularán sobre el volumen nominal de 75 L adoptado para Veril
 - Fishless Fuel se añadirá en la misma sesión que FritzZyme 9 o dentro de las 24 horas siguientes
-- La primera carga será de 2,0 mg/L como N y la segunda de 1,0 mg/L como N, después de confirmar la primera
-- El skimmer permanecerá apagado durante los cinco primeros días posteriores a FritzZyme 9, salvo intervención registrada por seguridad
+- La primera carga seguirá la referencia volumétrica del fabricante para aproximadamente 2 ppm; después de procesarla y confirmar amonio y nitrito en cero durante 24 horas, Veril aplicará una segunda carga de desafío con objetivo local aproximado de 1 ppm, verificando antes que la escala del test permita interpretar la dosis
+- El skimmer y cualquier esterilizador UV permanecerán apagados durante al menos cinco días después de FritzZyme 9, salvo intervención registrada por seguridad; es el plazo de la web oficial y supera el mínimo de cuatro días posteriores que indica la etiqueta del envase para UV
 - No se redosificará mientras amonio o nitrito permanezcan por encima del límite de aceptación
 - No se añadirán alimentos, otros cultivos, carbono, carbón activo, resinas ni correctores para compensar una lectura aislada
 
@@ -164,7 +165,7 @@ La ejecución detallada está en el [runbook de ciclado](runbook.md). El plan fi
 | Primera carga | Producto, lote, concentración, cálculo, fecha y hora |
 | Primeras 24 horas | Nitrógeno amoniacal, nitrito, pH y temperatura |
 | Evolución | Nitrógeno amoniacal y nitrito con la frecuencia necesaria para seguir la tendencia; pH, alcalinidad, salinidad y temperatura como controles |
-| Segunda carga | Nueva carga objetivo de 1,0 mg/L como N (±10 %) cuando la primera se haya procesado |
+| Segunda carga | Nueva carga de referencia aproximada de 1 ppm o menos, según la escala verificable del test, cuando la primera se haya procesado |
 | Confirmación | Nitrógeno amoniacal y nitrito hasta alcanzar el límite de aceptación dentro del plazo fijado |
 
 La primera carga tendrá un plazo operativo máximo de **5 días desde su adición** y la segunda carga tendrá el mismo plazo máximo desde su propia adición. Estos plazos son criterios de aceptación de Veril, no una garantía de resultado del fabricante. Si no se cumplen, no se declarará cerrado el ciclado: se mantendrá el sistema sin animales, se investigará la causa y se documentará cualquier repetición como una nueva prueba o una desviación.
@@ -175,8 +176,8 @@ La segunda carga se añadirá solo después de que la primera haya alcanzado el 
 
 Además de los criterios generales de la ficha de ciclado, Veril cerrará esta prueba únicamente cuando:
 
-- La primera carga de 2,0 mg/L como N se haya procesado dentro del plazo fijado
-- Una segunda carga independiente de 1,0 mg/L como N (±10 %) también vuelva al límite de aceptación
+- La primera carga, preparada según la referencia volumétrica del fabricante para aproximadamente 2 ppm y registrada en la escala nativa del test, se haya procesado dentro del plazo fijado
+- Una segunda carga independiente de desafío, fijada por Veril en un objetivo aproximado de 1 ppm y registrada en la escala nativa del test, también vuelva al límite de aceptación
 - pH y alcalinidad no presenten un deterioro que invalide la interpretación
 - Salinidad, temperatura, circulación y oxigenación permanezcan estables
 - No haya animales ni materia orgánica en descomposición

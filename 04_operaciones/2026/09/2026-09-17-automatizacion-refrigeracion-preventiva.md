@@ -4,7 +4,7 @@
 
 El 17 de septiembre de 2026 se añadió la automatización `automation.veril_iniciar_refrigeracion_preventiva_del_despacho` para usar el aire acondicionado del despacho como medida de refrigeración ambiental de Veril. Esta entrada registra la configuración declarada y sus condiciones de seguridad; no acredita todavía cuánto baja la temperatura del agua durante una sesión real.
 
-La autoridad de la integración y de la automatización es la [ficha local del climatizador Rowenta](../../../../../sistemas/homelab/domotica/home-assistant/documentacion/integraciones/off-clm-01-rowenta.md#automatización-térmica-de-veril). El régimen térmico que da sentido a esta actuación está en [Régimen térmico adoptado](../../../02_configuracion/README.md#régimen-térmico-adoptado).
+La integración técnica del climatizador y su configuración viven en la documentación local de Home Assistant, fuera de este repositorio público. Este registro conserva la instantánea de los criterios que se documentaron para la automatización; no sustituye esa configuración ni acredita el estado físico del equipo. El régimen térmico aplicable está en [Régimen térmico adoptado](../../../02_configuracion/README.md#régimen-térmico-adoptado), y las revisiones posteriores constan en los [registros del 22](2026-09-22-ajuste-refrigeracion-preventiva-bajo-27.md), [23](2026-09-23-ajuste-control-termico-agua.md) y [24 de septiembre](2026-09-24-revision-observacion-control-termico.md).
 
 ## Configuración aplicada
 

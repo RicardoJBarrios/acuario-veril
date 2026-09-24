@@ -2,7 +2,7 @@
 
 ## Qué es
 
-AF Bio Sand es un sustrato marina de carbonato de calcio comercializada con dos preparados para su activación. El fabricante la presenta como sustrato y como soporte de colonización microbiana para acuarios marinos.
+AF Bio Sand es un sustrato marino de carbonato de calcio comercializado con dos preparados para su activación. El fabricante lo presenta como sustrato y como soporte para la colonización microbiana en acuarios marinos.
 
 ## Funciones
 
@@ -11,7 +11,7 @@ AF Bio Sand es un sustrato marina de carbonato de calcio comercializada con dos 
 - Proporcionar una vía de inoculación asociada a la activación
 - Aportar material calcáreo al sistema
 
-La sustrato no equivale a roca viva madura, microfauna establecida ni un biofiltro validado.
+El sustrato no equivale a roca viva madura, microfauna establecida ni un biofiltro validado.
 
 ## Datos documentados
 
@@ -33,7 +33,7 @@ No se publican los taxones, cepas, recuentos viables, composición del nutriente
 
 1. Aclarar el sustrato con agua RO/DI si la etiqueta lo indica
 2. Mezclar los dos preparados en el volumen de agua salada indicado
-3. Incorporar la mezcla a el sustrato
+3. Incorporar la mezcla al sustrato
 4. Mantener el recipiente abierto durante el tiempo de activación
 5. Respetar la temperatura indicada
 6. Introducir el sustrato de forma controlada
@@ -67,16 +67,16 @@ Riesgos principales:
 - Cierre hermético durante la activación
 - Exceso de profundidad
 - Colocar roca inestable sobre sustrato móvil
-- Interpretar el sustrato activada como un ciclado terminado
+- Interpretar el sustrato activado como un ciclado terminado
 - Remover toda la cama de una vez
 
 ## Conservación
 
-Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. La sustrato y los preparados deben conservarse según sus instrucciones; no se debe asumir que un producto abierto mantiene indefinidamente la viabilidad declarada.
+Seguir la etiqueta sobre temperatura, humedad, fecha de caducidad y apertura. El sustrato y los preparados deben conservarse según sus instrucciones; no se debe asumir que un producto abierto mantiene indefinidamente la viabilidad declarada.
 
 ## Fuentes
 
 - [Copia local de la guía de productos Aquaforest](aquaforest-product-guide-en.pdf)
 - [Aquaforest: AF Bio Sand](https://aquaforest.eu/en/products/seawater/aquascaping/af-bio-sand/)
 - [Aquaforest: Products Guide](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf)
-- [Método Aquaforest](../../06_procesos/metodo-aquaforest.md)
+- [Método Aquaforest](../../06_procesos/07_metodo-aquaforest.md)

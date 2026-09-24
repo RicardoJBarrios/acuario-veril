@@ -9,11 +9,11 @@ Fritz Fishless Fuel es una fuente líquida de nitrógeno amoniacal para realizar
 - Formato consultado: 60 ml
 - Concentración declarada: **40 mg/ml de TAN**
 - Aplicación: agua dulce o salada
-- Dosis publicada para aproximadamente 2 ppm: **4 gotas por 3,8 L** o **5 ml por 94,6 L**
+- Dosis de la etiqueta del envase fotografiado para alcanzar 2 ppm: **4 gotas por 3,78 L** o **5 ml por 94,6 L**
 - Dosis de trabajo indicada por el fabricante: aproximadamente 2–4 ppm de amonio
 - La tienda indica que el envase de 60 ml trata aproximadamente 1.135 L
 
-La etiqueta del envase adquirido prevalece sobre estas cifras si cambia la formulación, el gotero o la presentación.
+La [fotografía de la etiqueta del envase de Veril](etiqueta-envase-veril-2026-09-24.jpg), tomada el 24 de septiembre de 2026, confirma la pauta de 5 ml por 94,6 L. En la base nominal de 75 L, equivale a unos **3,96 ml** para la dosis de 2 ppm. La etiqueta recomienda una concentración de 2–4 ppm para el ciclado sin peces y advierte que no se use con animales ni se añadan animales cuando haya amonio o nitrito medibles. La imagen no muestra lote ni caducidad, que deberán comprobarse en el envase antes de utilizarlo.
 
 ## Composición conocida y discrepancia documental
 
@@ -55,7 +55,9 @@ No demuestra por sí sola:
 - Que el agua esté libre de algas o dinoflagelados
 - Que el nitrato posterior esté controlado
 
-Fritz indica añadir una fuente de amonio dentro de las 24 h posteriores a las bacterias y, si amonio ya ha bajado pero el nitrito sigue presente, utilizar una carga menor —1 ppm o menos— solo para evitar falta de alimento. No debe utilizarse como alimento de mantenimiento ni en un acuario con animales.
+Fritz indica añadir una fuente de amonio dentro de las 24 h posteriores a las bacterias y, si el amonio ha bajado a cero pero el nitrito sigue presente, utilizar una carga menor —1 ppm o menos— para evitar que las bacterias pasen hambre. No debe utilizarse como alimento de mantenimiento ni en un acuario con animales. La etiqueta advierte que superar 5 ppm puede ralentizar el ciclado.
+
+La segunda carga de 1 ppm prevista para Veril después de que amonio y nitrito hayan permanecido en cero durante 24 horas es una prueba de capacidad definida por el plan local. No es la misma situación que la recomendación del fabricante para el caso en que el nitrito siga presente.
 
 ## Riesgos
 

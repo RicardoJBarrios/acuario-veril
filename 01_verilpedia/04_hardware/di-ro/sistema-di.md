@@ -2,7 +2,7 @@
 
 ## Estado documental
 
-Este conjunto forma parte del sistema RO/DI adquirido para Veril. Se documentan aquí las piezas comunicadas por el usuario para construir la etapa de desionización posterior al RO6CB. La recepción, el inventario físico, la carga de resina, el montaje y la aceptación mediante mediciones siguen pendientes.
+Este conjunto forma parte del sistema RO/DI previsto para Veril. El propietario comunica que el equipo RO6CB llegó el 24 de septiembre de 2026; la etiqueta de su caja se transcribe en el [registro de recepción](../../../04_operaciones/2026/09/2026-09-24-recepcion-equipo-ro6cb/README.md). Esa recepción no confirma el contenido ni la instalación. La recepción e inventario de las piezas DI, la carga de resina, el montaje y la aceptación mediante mediciones siguen pendientes.
 
 Las carcasas no incluyen, según la información disponible, una resina desionizadora identificada. La resina recomendada se documenta por separado y aún debe comprarse o confirmarse como parte del pedido. Por tanto, este conjunto no demuestra todavía que exista una etapa DI completa ni que produzca agua utilizable para el acuario.
 
