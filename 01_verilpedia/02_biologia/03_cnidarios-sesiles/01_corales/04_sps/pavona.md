@@ -43,8 +43,23 @@ El nombre comercial `PAVONA CAPTUS` probablemente alude a *Pavona cactus*, aunqu
 
 Aunque se describa como SPS resistente, no debe tratarse como un blando. Necesita estabilidad de **KH**, **Ca** y **Mg**, nutrientes detectables y una ubicación que no obligue a moverla cada semana.
 
-## Requisitos de mantenimiento
+## Parámetros de mantenimiento medibles
 
+| Parámetro | Rango o condición cuantificada | Unidad / escala | Alcance y evidencia |
+| --- | --- | --- | --- |
+| Temperatura | 24–26 como referencia práctica de las fichas; envolvente Veril 24–27,5, preferida 25–26 | °C | El dato de Veril es criba de compatibilidad, no tolerancia demostrada de especie |
+| Salinidad | 35 (objetivo operativo local; la ficha también cita gravedad específica 1.024–1.026 sin temperatura de referencia ni instrumento, por lo que no se convierte) | `S_P`; gravedad específica original sin referencia | No convertir escalas sin temperatura/instrumento de referencia |
+| pH | 8,0–8,4 | unidades de pH | Referencia general de arrecife; específica solo si la fuente de ficha lo confirma |
+| PAR | 200–300 µmol fotones m⁻² s⁻¹ como referencia inicial de grupo; no sustituye un dato de especie | µmol fotones m⁻² s⁻¹ si fotosintético; no aplica si no fotosintético | Si hay rango, referencia de grupo/ficha, no universal; medir con DanoPlus DP-414 bajo el agua, altura y orientación reales |
+| Fotoperiodo | Sin intervalo cuantitativo específico localizado para esta ficha | h/día | No inferirlo de las horas programadas de luminaria |
+| Velocidad de flujo | 5–20 como banda experimental general; sin óptimo específico demostrado salvo indicación en la ficha | cm/s | No equivale a caudal de bomba ni renovaciones/h; referencia exploratoria, no consigna universal |
+| Espacio / tamaño | No existe mínimo universal en litros para un cnidario sésil | talla adulta cm; área cm²; L no aplica como umbral universal | Evaluar talla, área ocupada, distancia a vecinos y necesidades de alimentación |
+| Química específica | Sin intervalo específico de especie adicional documentado; en corales calcificadores: Ca 380–450 mg/L, alcalinidad 7–11 dKH y Mg 1250–1400 mg/L como referencia general de arrecife | Ca/Mg mg/L; alcalinidad dKH | Referencia de arrecife, no requisito universal de especie |
+| Alimentación | Dieta descrita en la ficha; frecuencia y dosis: sin valor cuantitativo específico localizado salvo cita expresa | tamaño de presa; frecuencia; masa | No convertir descripción cualitativa en pauta inventada |
+
+Los valores generales de Veril no demuestran tolerancia de la especie. `Sin intervalo cuantitativo específico localizado` indica falta de evidencia publicada/revisada, no ausencia de necesidad de control.
+
+## Requisitos de mantenimiento
 - **Ubicación**: Zona media o media-alta, según PAR y forma de crecimiento
 - **Luz**: Media a media-alta. Evitar subirla de golpe porque puede blanquear
 - **Flujo**: Medio a medio-alto, irregular e indirecto, para evitar acumulación de detrito

@@ -13,6 +13,11 @@
 - No usar categorías funcionales como «equipo de limpieza» u «organismos beneficiosos» como sustituto de la identidad biológica
 - No repetir en estas fichas la explicación general de iluminación, hidráulica, química, procesamiento o infraestructura
 - Mantener diferenciadas las observaciones documentadas, las inferencias y las decisiones del sistema
+- Toda ficha individual de mantenimiento de un organismo debe incluir la matriz de «Parámetros de mantenimiento medibles» de `plantilla-ficha-organismo.md`; incluye cnidarios, peces, invertebrados y algas. Las páginas de enfermedades, plagas, organismos confundidos, panorámicas de grupo y microorganismos oportunistas no son fichas de mantenimiento y quedan fuera, salvo que describan requisitos de cultivo/mantenimiento de un organismo concreto
+- No se acepta «bajo», «alto», «estable» o «moderado» como único dato para un parámetro cuantificable: debe acompañarse de rango, unidad y alcance de evidencia. Si no hay rango fiable, consignar expresamente la laguna; no inventar cifras para aparentar una cobertura completa
+- Distinguir los rangos propios de la especie de los objetivos generales de Veril y de las recomendaciones de grupo; nunca presentar el objetivo del acuario como tolerancia fisiológica de la especie
+- Si las fuentes consultadas no proporcionan un valor numérico defendible, consignar `Sin rango cuantitativo documentado` y la medición que permitiría evaluar la condición local; no inventar litros mínimos, velocidades de corriente, fotoperiodos ni umbrales
+- Marcar los parámetros no aplicables con `No aplica` y justificarlo (por ejemplo, PAR de crecimiento para un organismo no fotosintético)
 
 ## Organización
 
