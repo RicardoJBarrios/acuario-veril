@@ -1,6 +1,6 @@
 # Cesta y tapa BactoFlex Mini: informe de G-code
 
-Regeneración y comprobación del **23 de septiembre de 2026, 15:00 hora local** para probar el encaje y el uso sumergido de la jaula y su tapa deslizante. La [fuente editable](../veril-bactoflex.FCStd) es FreeCAD; los [STL de la jaula](veril-bactoflex-jaula.stl) y [de la tapa](veril-bactoflex-tapa.stl) son derivados geométricos. Los 3MF conservan la preparación para OrcaSlicer y los G-code son salidas regenerables para esta combinación concreta. El paquete se ofrece bajo [MIT](../LICENSE).
+Regeneración y comprobación del **23 de septiembre de 2026, 15:00 hora local** para probar el encaje y el uso sumergido de la jaula y su tapa deslizante. La [fuente editable](../veril-bactoflex.FCStd) es FreeCAD; los [STL de la jaula](veril-bactoflex-jaula.stl) y [de la tapa](veril-bactoflex-tapa.stl) son derivados geométricos. Los 3MF conservan la preparación para OrcaSlicer y los G-code son salidas regenerables para esta combinación concreta. El paquete se ofrece bajo [MIT](../../LICENSE).
 
 ## Procedencia y resultado
 

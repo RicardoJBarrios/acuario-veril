@@ -6,6 +6,7 @@ su función se haya validado en el acuario.
 
 ## Diseños
 
-- [Cesta y tapa para BactoFlex Mini](bactoflex-mini/README.md): fuente FreeCAD,
-  exportaciones 3D, proyectos OrcaSlicer, G-code y criterios pendientes de
-  prueba física. El paquete completo está bajo licencia MIT.
+- [Diseños de cestas BactoFlex Mini](bactoflex-mini/README.md): dos versiones
+  paramétricas organizadas en carpetas separadas, con sus planes y derivados
+  identificados por versión; la modular aún requiere fabricación y pruebas
+  físicas.

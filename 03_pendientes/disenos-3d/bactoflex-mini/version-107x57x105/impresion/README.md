@@ -1,6 +1,6 @@
 # Jaula para BactoFlex Mini: receta de impresión
 
-Este directorio contiene los derivados imprimibles de la jaula y de su tapa deslizante. La fuente editable y paramétrica es [`../veril-bactoflex.FCStd`](../veril-bactoflex.FCStd); ni los STL, ni los proyectos de OrcaSlicer, ni el G-code la sustituyen. Todo el paquete, incluidos estos archivos, se distribuye bajo la licencia [MIT](../LICENSE).
+Este directorio contiene los derivados imprimibles de esta versión de la jaula y de su tapa deslizante. Su fuente editable y paramétrica es [`../veril-bactoflex.FCStd`](../veril-bactoflex.FCStd). Estos archivos no corresponden al modelo modular de [`../../modular-50x50x100/bactoflex-50x50x100.FCStd`](../../modular-50x50x100/bactoflex-50x50x100.FCStd) y no deben usarse para fabricar sus dos módulos. Ni los STL, ni los proyectos de OrcaSlicer, ni el G-code sustituyen su respectiva fuente paramétrica. Todo el paquete, incluidos estos archivos, se distribuye bajo la licencia [MIT](../../LICENSE).
 
 ## Componentes
 
