@@ -114,6 +114,17 @@ Su especialidad es ocupar superficies mediante formas incrustantes, digitadas o 
 
 En Veril una forma digitada o una costra sobre soporte removible conserva más flexibilidad que una placa. Su borde de crecimiento ayuda a seguir la continuidad del desarrollo, pero la colonia no presta un servicio de control químico.
 
+El borde de crecimiento, la base, el color y la continuidad del tejido pueden
+registrarse para comparar la colonia consigo misma. La recesión basal, las
+manchas blancas o el crecimiento lento no identifican una causa concreta ni
+demuestran por sí solos un problema de KH. Si el cambio persiste, revisar
+mediciones y tendencias de KH y Ca, además de nutrientes, PAR, flujo,
+temperatura, salinidad, aclimatación y plagas. Los cambios de color no
+justifican dosificar K, I, Fe u otros trazas sin medición independiente. El
+[plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+mantiene *Montipora* como opción no inicial, no como coral centinela para
+Veril.
+
 ## Aplicación a Veril
 
 La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--sps--montipora).

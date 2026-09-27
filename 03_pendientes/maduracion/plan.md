@@ -8,6 +8,9 @@ Busca observar la colonización, la sucesión biológica, la estabilidad químic
 
 La maduración no tiene una duración fija. Se avanza según condiciones observables y no por una fecha.
 
+La observación de corales, cuando se incorporen por decisión independiente, se
+desarrolla en el [plan de observación biológica](plan-indicadores-visuales-corales.md).
+
 ## Condiciones de partida
 
 Antes de iniciar esta fase:

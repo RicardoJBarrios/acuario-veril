@@ -8,4 +8,4 @@ La explicación general del proceso está en la [ficha de maduración](../../01_
 
 La maduración no tiene una duración fija ni constituye una segunda prueba de ciclado. Se avanza mediante condiciones observables, ventanas de seguimiento y decisiones registradas.
 
-Los módulos específicos de incorporación se documentan dentro de esta fase; el de microfauna está en el [plan de incorporación de microfauna](plan-microfauna.md).
+Los módulos específicos de incorporación y observación se documentan dentro de esta fase: [plan de incorporación de microfauna](plan-microfauna.md) y [plan de observación biológica de corales](plan-indicadores-visuales-corales.md).

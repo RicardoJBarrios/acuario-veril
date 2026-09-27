@@ -121,6 +121,16 @@ Señales de estrés:
 - Desaparición de pólipos
 - Mordidas o depredación por peces o invertebrados
 
+La proporción de pólipos abiertos durante el fotoperiodo y el aspecto de la
+colonia pueden servir como aviso visual general si se comparan con el patrón
+habitual de esa misma pieza. El cierre persistente justifica revisar, entre
+otras posibilidades, temperatura, salinidad, luz medida, flujo, detrito,
+química y plagas; no permite identificar por sí solo una carencia de KH, Ca,
+Mg, NO3, PO4 o trazas. En Veril no se fija todavía un porcentaje de apertura
+ni una duración umbral: se definirían tras establecer la referencia local. El
+[plan de observación biológica de corales](../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+describe el registro pendiente.
+
 Para el acuarista, la seguridad es obligatoria. La palitoxina se asocia sobre todo a *Palythoa*, pero no es posible determinar visualmente el riesgo de cada colonia de zoántidos. Por prudencia:
 
 - Usar guantes de nitrilo al manipular

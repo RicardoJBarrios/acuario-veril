@@ -107,6 +107,14 @@ Señales de estrés:
 - Zonas de tejido muerto
 - Sedimento acumulado entre pólipos
 
+El cierre persistente o la menor extensión pueden usarse como aviso general
+para revisar el estado de la colonia y las condiciones del acuario. No señalan
+una deficiencia específica. En particular, el GSP no forma esqueleto calcáreo,
+por lo que su apertura no es un indicador de consumo de KH, Ca o Mg. Para
+Veril, la observación debe compararse con el patrón local y considerar luz,
+flujo, detrito, temperatura, salinidad, irritación y plagas. El método
+propuesto está en el [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md).
+
 ## Aplicación a Veril
 
 La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--blandos--gsp).

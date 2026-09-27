@@ -6,6 +6,7 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 
 - [Ciclado](ciclado/README.md): Fase previa, receta, prueba nitrificante y criterios de cierre
 - [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
+- [Observación biológica de corales](maduracion/plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
 - [Plan transversal de medición y tests](operacion-recurrente/medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
 - [Diseños 3D](disenos-3d/README.md): modelos y archivos de fabricación cuya validación física sigue pendiente

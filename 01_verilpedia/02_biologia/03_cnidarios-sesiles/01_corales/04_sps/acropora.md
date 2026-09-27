@@ -74,6 +74,16 @@ Su especialidad es construir con rapidez ramas, mesas o matorrales calcáreos ba
 
 En Veril esa función debe mantenerse a escala de fragmento: el crecimiento aumenta sombra, resistencia al flujo y consumo mineral. No limpia ni estabiliza el agua; su respuesta refleja la constancia del sistema, pero no diagnostica por sí sola qué parámetro falla.
 
+El seguimiento del borde apical, las puntas y la continuidad del tejido puede
+servir para detectar un cambio respecto a la propia colonia. Una punta blanca,
+una recesión o una ralentización no demuestran por sí solas una alteración de
+KH o Ca. Ante una señal persistente se revisarán sus mediciones y tendencias,
+junto con nutrientes, PAR, flujo, temperatura, salinidad, aclimatación y
+plagas. La expresión «punta quemada» es descriptiva y no confirma un
+diagnóstico de alcalinidad. El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+mantiene a *Acropora* como opción no inicial, no como coral centinela para
+Veril.
+
 ## Aplicación a Veril
 
 La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--sps--acropora).

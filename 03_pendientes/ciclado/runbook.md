@@ -88,7 +88,7 @@ Esta fase no cuenta como inicio del ciclado y no se dosificará amonio ni bacter
 1. Comprobar la temperatura del agua frente al régimen adoptado de Veril: preferida **25–26 °C**, óptima **24,5–26,5 °C** y aceptable **24–27,5 °C**. No perseguir exactamente 25,0 °C
 2. Reponer la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta aproximar la salinidad a `S_P = 35`, sin superar el nivel de trabajo del sistema
 3. Repetir las lecturas de salinidad con el refractómetro según el método del plan
-4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier reposición. La automatización térmica de Home Assistant sigue deshabilitada y pendiente de validación; no reactivarla como parte de este paso. Consultar el [régimen térmico vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de observación del 24 de septiembre](../../04_operaciones/2026/09/2026-09-24-revision-observacion-control-termico.md)
+4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier reposición. El piloto térmico de Home Assistant está activo; no modificarlo como parte de este paso. Consultar el [régimen térmico vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md)
 5. Continuar únicamente cuando ambas variables permanezcan estables y dentro de objetivo
 
 Esta fase no activa el AF Bio Sand ni inicia el ciclado. Si no se alcanza la salinidad objetivo mediante reposición de evaporación sin superar el nivel de trabajo, se pausará y se definirá una corrección de agua registrada antes de continuar.

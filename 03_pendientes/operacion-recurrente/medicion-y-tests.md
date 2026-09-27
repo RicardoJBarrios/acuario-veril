@@ -27,7 +27,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert Ammonia NH3 Profi Test | Gotas colorimétricas | Ciclado e incidencias de biofiltración | **Disponible**; **10/2027** | ~10 € | Método de referencia inicial; mide nitrógeno amoniacal total, no NH3 libre aislado. |
+| [Salifert Ammonia NH3 Profi Test](../../01_verilpedia/05_productos/12_salifert-ammonia-nh3/salifert-ammonia-nh3.md) | Gotas colorimétricas | Ciclado e incidencias de biofiltración | **Disponible**; **10/2027** | ~10 € | Método de referencia inicial; mide nitrógeno amoniacal total, no NH3 libre aislado. |
 | Hanna HI784 | Fotómetro marino | Solo si se necesitan tendencias muy bajas o mayor repetibilidad | Pendiente | ~80 € | Quita subjetividad visual y entrega un valor numérico. No cambia el criterio de aceptación del ciclado, por lo que no compensa ahora. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Solo si se consolida un programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade siete parámetros más, no mejora por sí mismo la interpretación de TAN. |
 
@@ -35,7 +35,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert NO2 Profi Test | Gotas colorimétricas | Ciclado; después diagnóstico puntual | **Disponible**; **06/2029** | ~8 € | Suficiente para seguir la desaparición de nitrito y comprobar cero operativo. |
+| [Salifert NO2 Profi Test](../../01_verilpedia/05_productos/13_salifert-no2/salifert-no2.md) | Gotas colorimétricas | Ciclado; después diagnóstico puntual | **Disponible**; **06/2029** | ~8 € | Suficiente para seguir la desaparición de nitrito y comprobar cero operativo. |
 | Hanna HI764 | Fotómetro marino ULR | Diagnóstico de trazas cuando exista una razón concreta | Pendiente | ~71 € | Aporta sensibilidad y lectura digital, pero no una decisión distinta al cierre del ciclado de Veril. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Centraliza esta lectura con otros tests; no elimina reactivos ni la necesidad de interpretar el contexto. |
 
@@ -43,7 +43,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert Nitrate Profi Test | Gotas colorimétricas | Final del ciclado, maduración y control rutinario | Pendiente | ~10 € | Opción inicial razonable para una cadencia baja. |
+| [Salifert Nitrate Profi Test](../../01_verilpedia/05_productos/15_salifert-nitrate/salifert-nitrate.md) | Gotas colorimétricas | Final del ciclado, maduración y control rutinario | Pendiente | ~10 € | Opción inicial razonable para una cadencia baja. |
 | Hanna HI782 | Fotómetro marino, rango alto 0,0–75,0 ppm | Si se ajustan nutrientes o se quieren comparar series semanales | Pendiente | ~71 € | Convierte tonos en tendencias numéricas repetibles; es la mejora útil si NO3 se convierte en parámetro de ajuste frecuente. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Integra los rangos bajo y alto de nitrato con otros análisis; sigue requiriendo reactivo. |
 
@@ -51,15 +51,15 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert Phosphate Profi Test | Gotas colorimétricas | Orientación inicial y comprobaciones poco frecuentes | Pendiente | ~13 € | Referencia económica, pero la lectura visual es limitada en concentraciones bajas. |
-| Hanna HI774 | Fotómetro marino ULR, 0,00–0,90 ppm | Maduración y control de nutrientes antes de modificar alimentación o adsorbentes | Pendiente | ~71 € | **La mejora Hanna prioritaria:** resuelve con más repetibilidad el rango bajo de PO4 donde la carta de color aporta poca discriminación. |
+| [Salifert Phosphate Profi Test](../../01_verilpedia/05_productos/16_salifert-phosphate/salifert-phosphate.md) | Gotas colorimétricas | Orientación inicial y comprobaciones poco frecuentes | Pendiente | ~13 € | Referencia económica, pero la lectura visual es limitada en concentraciones bajas. |
+| [Hanna HI774](../../01_verilpedia/05_productos/21_hanna-hi774/hanna-hi774.md) | Fotómetro marino ULR, 0,00–0,90 ppm | Maduración y control de nutrientes antes de modificar alimentación o adsorbentes | Pendiente | ~71 € | **La mejora Hanna prioritaria:** resuelve con más repetibilidad el rango bajo de PO4 donde la carta de color aporta poca discriminación. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade los demás análisis; para PO4 no ofrece una razón clara para sustituir al HI774 aislado. |
 
 ### [Alcalinidad / KH](../../01_verilpedia/03_parametros/alcalinidad.md)
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert KH/Alk Profi Test | Titulación | **Antes de ciclar**, durante el ciclado y con corales | Candidato pendiente de compra | ~9 € | Método de partida con resolución útil y coste bajo. |
+| [Salifert KH/Alk Profi Test](../../01_verilpedia/05_productos/17_salifert-kh-alk/salifert-kh-alk.md) | Titulación | **Antes de ciclar**, durante el ciclado y con corales | Candidato pendiente de compra | ~9 € | Método de partida con resolución útil y coste bajo. |
 | Hanna HI772 | Fotómetro marino, 0,0–20,0 dKH | Si se mide con mucha frecuencia, hay consumo o dosificación | Pendiente | ~71 € | Acelera series y mejora comparabilidad; no es necesario mientras Salifert cubra una rutina poco frecuente. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade química de nutrientes y elementos; no sustituye la disciplina de medir antes de dosificar. |
 
@@ -67,7 +67,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert pH Profi Test | Gotas colorimétricas | **Antes de ciclar** e investigación de oscilaciones | Candidato pendiente de compra | ~8 € | Línea base suficiente para una comprobación puntual, con pasos aproximados de 0,2 pH. |
+| [Salifert pH Profi Test](../../01_verilpedia/05_productos/18_salifert-ph/salifert-ph.md) | Gotas colorimétricas | **Antes de ciclar** e investigación de oscilaciones | Candidato pendiente de compra | ~8 € | Línea base suficiente para una comprobación puntual, con pasos aproximados de 0,2 pH. |
 | Hanna HI780 | Fotómetro marino, 6,3–8,6 pH | Si se quiere eliminar la lectura visual en muestras puntuales | Pendiente | ~71 € | Da número digital, pero su resolución 0,1 y precisión declarada ±0,2 pH no cambian materialmente el uso inicial. |
 | Hanna HI981520-02 | Monitor de pH, salinidad y temperatura | Seguimiento continuo que justifique calibración y mantenimiento | Pendiente | ~355 € | Aporta evolución temporal de las tres magnitudes; no mide nutrientes ni alcalinidad. |
 | Hanna HI98194 | Multiparámetro con pH, ORP, CE, TDS, salinidad, OD y temperatura | Diagnóstico profesional o validación avanzada de agua | Pendiente | ~1.850 € sin IVA | Suma oxígeno disuelto y medidas electroquímicas; es sobredimensionado para Veril hoy. |
@@ -77,7 +77,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert Calcium Profi Test | Titulación | Antes de dosificar y con consumo calcificador | Pendiente | ~15 € | Suficiente para la frecuencia baja prevista inicialmente. |
+| [Salifert Calcium Profi Test](../../01_verilpedia/05_productos/19_salifert-calcium/salifert-calcium.md) | Titulación | Antes de dosificar y con consumo calcificador | Pendiente | ~15 € | Suficiente para la frecuencia baja prevista inicialmente. |
 | Hanna HI758 | Fotómetro marino, 200–600 ppm | Series frecuentes o necesidad de reducir el punto final visual | Pendiente | ~71 € | Resultado numérico repetible, pero aún exige técnica cuidadosa y reactivos; retorno limitado al principio. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Centraliza calcio con KH/Mg/nutrientes; no es una mejora proporcional para la cadencia inicial. |
 
@@ -85,7 +85,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| Salifert Magnesium Profi Test | Titulación | Antes de dosificar y con consumo calcificador sostenido | Pendiente | ~15 € | Opción razonable porque Mg suele variar lentamente. |
+| [Salifert Magnesium Profi Test](../../01_verilpedia/05_productos/20_salifert-magnesium/salifert-magnesium.md) | Titulación | Antes de dosificar y con consumo calcificador sostenido | Pendiente | ~15 € | Opción razonable porque Mg suele variar lentamente. |
 | Hanna HI783 | Fotómetro marino | Si se requiere mayor cadencia o seguimiento numérico continuo | Pendiente | ~80 € | Reduce subjetividad, pero el valor práctico es pequeño mientras no haya consumo rápido. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade siete magnitudes, sin evitar consumibles ni confirmar una desviación aislada. |
 
@@ -226,6 +226,92 @@ enumera los 39 resultados del análisis, pero no separa qué analitos se
 informan en la muestra de RO; se comprobará el informe/instrucción vigente
 antes de basar una decisión en esa cobertura concreta.
 
+#### Comparación y selección: Aquaforest ICP Test 2 y [TRITON ICP-OES](../../01_verilpedia/05_productos/22_triton-icp-oes/triton-icp-oes.md)
+
+**Selección actual para los tres ICP previstos: TRITON ICP-OES**, por decisión
+del propietario tras revisar un caso de uso en Tenerife y comentarios sobre
+envío de agua RO. El análisis sigue pendiente de adquisición y no supone que
+Veril vaya a adoptar el método de mantenimiento TRITON ni a aplicar sus dosis.
+La viabilidad concreta del envío desde Veril y la admisión de una muestra RO
+siguen por confirmar.
+
+Aquaforest Test 2 mantenía ventajas prácticas sobre el papel: declara un vial
+de acuario, otro de RO, KH y NO3, y comparte marca con la sal Aquaforest Reef
+Salt adoptada en Veril. La experiencia local y los comentarios revisados
+inclinan ahora la elección hacia TRITON, independiente del fabricante de la
+sal. Esa independencia evita que el mismo fabricante de la sal analice su
+propio producto, pero **no demuestra por sí sola mayor exactitud ni neutralidad
+comercial**: TRITON también vende suplementos y da recomendaciones de sus
+productos. No se ha encontrado aquí una comparación interlaboratorio
+independiente que cuantifique qué laboratorio representa mejor el valor real.
+
+| Criterio | Aquaforest ICP Test 2 | TRITON ICP-OES |
+| --- | --- | --- |
+| Método declarado | ICP-OES | ICP-OES |
+| Muestras anunciadas | Dos viales: agua marina del acuario y agua RO | La tienda europea anuncia dos viales; la página general actual de TRITON describe tres. Confirmar la presentación regional antes de comprar. |
+| Panel útil para Veril | Declara 39 parámetros: elementos, fósforo/fosfato y, además, salinidad, KH y NO3 | La tienda europea enumera elementos, salinidad, P y PO4; no declara KH ni NO3 en la lista del producto. Incluye cloruro y fluoruro. |
+| Agua RO/DI | El Test 2 se anuncia expresamente para agua marina y RO. La página no aclara si cada parámetro del panel se informa para ambos viales; comprobarlo en las instrucciones o en un informe de muestra vigente. | Dos comentarios del vídeo de Michael Reef Tenerife afirman que enviaron o que se puede enviar agua de ósmosis, uno aconseja declararla sin sal y registrarla como acuario aparte. Las páginas oficiales consultadas describen agua de acuario, pero no publican ese procedimiento RO. Confirmar si la aceptan, cómo registrarla y si requiere otro vial/código. |
+| Informe | Resultados en la plataforma y estrategia de suplementación sugerida con productos Aquaforest. Es una recomendación del proveedor, no una pauta adoptada automáticamente por Veril. | Informe con rangos, seguimiento de tendencias y recomendaciones personalizadas por tipo de acuario; TRITON afirma compararlo con su base de más de 500.000 análisis. Es una prestación declarada por el proveedor, no una validación independiente de exactitud. |
+| Precio de referencia | 29,90 € de precio recomendado | 34,99 € en la tienda europea consultada |
+
+Los precios son referencias oficiales consultadas el **27 de septiembre de
+2026**. No incluyen necesariamente transporte, devolución, recargos ni
+condiciones aduaneras para Canarias. A precio de catálogo, tres unidades del
+Test 2 serían 89,70 €, frente a 104,97 € para tres TRITON, antes de esos costes.
+Esta multiplicación no es un presupuesto de compra. TRITON indica que el porte
+de devolución prepagado depende de la región; una experiencia enviada desde
+Tenerife no confirma las condiciones actuales para cada futuro kit.
+
+Las cifras de cobertura requieren cautela: Aquaforest comercializa hoy el Test
+2 como análisis de 39 parámetros, mientras que su guía de producto de 2024
+hablaba de 38 parámetros más salinidad y KH. TRITON anuncia 45 parámetros en
+su página general, 41+ en preguntas frecuentes y la tienda europea enumera 39
+resultados. Sus fuentes públicas también difieren en el número de viales y en
+si la alcalinidad aparece incluida. La ficha europea enumera salinidad, P y
+PO4, pero no KH ni NO3; la FAQ inglesa actual menciona alcalinidad y no
+describe el método. Por tanto, para Veril el KH seguirá midiéndose con el
+método doméstico y no se contará TRITON como sustituto de KH o NO3 hasta que el
+informe específico del kit confirme alcance y método. Las cifras de panel no
+prueban por sí solas una diferencia de calidad.
+
+**Experiencia local revisada:** en el vídeo *Acuario marino, Triton ICP,
+Fluor o Potasio o quizás Iodine. Qué pasa en mi acuario. Acropora muerto*,
+publicado el 14 de marzo de 2026 por el canal Michael Reef Tenerife, el autor
+enseña un informe TRITON, dice que tardó aproximadamente **13 días** y comenta
+varios resultados. No desglosa el plazo entre preparación, tránsito de ida,
+análisis y retorno, así que sirve como precedente de una experiencia completa,
+no como plazo garantizado ni prueba de que todas las expediciones actuales
+desde Tenerife sean viables. En el mismo vídeo atribuye tentativamente el
+crecimiento/coloración a un déficit de fluoruro; varios comentarios cuestionan
+esa causa y apuntan a biología, estabilidad u otros parámetros. Ese diagnóstico
+no se adopta para Veril.
+
+Se recuperaron **21 comentarios visibles** durante la revisión. Dos usuarios
+afirman que TRITON acepta agua de ósmosis; uno aconseja etiquetarla como RO sin
+sal y crear un perfil separado. Es evidencia comunitaria útil para formular la
+consulta al laboratorio, no una instrucción oficial ni una validación analítica
+del procedimiento. El vídeo y sus comentarios no permiten concluir qué
+proporción de referentes de acuariofilia usa TRITON ni medir la popularidad
+relativa de los laboratorios.
+
+**Encaje con el calendario de Veril:** ICP-01, ICP-02 e ICP-03 son hitos
+previstos, pero el laboratorio no queda seleccionado de antemano. Cuando se
+aproxime cada hito se elegirá el análisis más adecuado a la pregunta, el panel y
+método disponibles, la logística y el coste. Mantener la misma familia de
+análisis puede facilitar la comparación de tendencias, pero no se impondrá si
+deja de ser la opción más adecuada. La primera muestra responderá a la línea
+base del acuario. Si se acepta analizar RO/DI, se considerará enviarla como
+muestra/perfil separado solo después de confirmar por escrito el procedimiento,
+el código, el coste y el alcance de resultados. Veril conserva Aquaforest Reef
+Salt para los cambios previstos; usar un laboratorio independiente puede
+ayudar a contrastar la mezcla sin convertir su recomendación comercial en pauta.
+
+Ninguno sustituye los tests de rutina ni los criterios de ciclado: ICP-01 no
+demuestra capacidad nitrificante; KH y NO3 se seguirán según los procedimientos
+de Veril; ni un valor aislado ni la recomendación comercial de dosificación
+justifican corregir el agua sin revisar método, límites, tendencia y fuente
+plausible.
+
 #### Modern Reef Reef Water Analysis Pro Dúo
 
 Elite describe el dúo como una muestra **Reef Pro** y otra **RO/DI Pro**.
@@ -269,14 +355,18 @@ diagnóstico.
 | Hito | Acción ICP prevista | Pregunta que responde | No decide por sí solo |
 | --- | --- | --- | --- |
 | Cierre del ciclado sin peces | Tomar **ICP-01** de acuario; añadir muestra RO/DI si la variante seleccionada la incluye. | Línea base elemental y posible contaminación del agua de aporte antes de aumentar complejidad. | La capacidad nitrificante: esta queda cerrada únicamente por las dos cargas de NH3/NH4 y NO2. |
-| Cierre de la maduración inicial, antes de una primera carga calcificadora o de dosificación | Tomar **ICP-02** con la misma familia de laboratorio y, si procede, RO/DI. | Evolución de elementos, contaminantes y agua de aporte tras la sucesión inicial. | Que el sistema sea apto para cualquier especie o que haya que corregir un elemento aislado. |
+| Cierre de la maduración inicial, antes de una primera carga calcificadora o de dosificación | Tomar **ICP-02**; elegir el laboratorio cuando se aproxime el hito. Si continúa siendo adecuado, mantener la familia de análisis de ICP-01; añadir RO/DI solo si procede y está admitido. | Evolución de elementos, contaminantes y agua de aporte tras la sucesión inicial. | Que el sistema sea apto para cualquier especie o que haya que corregir un elemento aislado. |
 | Cambio a operación con consumo calcificador o cambio relevante de sal, aporte o dosificación | Tomar **ICP-03** antes de empezar la pauta y repetir solo después de un periodo estable o ante una incidencia razonada. | Línea base para atribuir consumos y contrastar Ca/Mg/trazas. | La dosis diaria: KH y los tests de rutina siguen guiando el ajuste. |
 | Incidencia compatible con contaminación o desviación de elementos | Solicitar una muestra dirigida, tras verificar primero las medidas domésticas. | Si existe una señal elemental que justifique investigar fuente y confirmar. | Una causa única o una intervención inmediata sin revisar muestra y contexto. |
 
-El modelo candidato no está adquirido. Antes de ICP-01 se elegirá una variante
-con instrucciones de Canarias viables y se mantendrá, si es posible, la misma
-familia de análisis para comparar las tres muestras. Cambiar de laboratorio o
-de método no invalida una muestra, pero limita la comparación directa.
+TRITON ICP-OES es una opción investigada, no una selección cerrada para el plan;
+no se ha adquirido ni probado en Veril. Antes de cada hito se valorarán las
+opciones disponibles y se confirmarán el vendedor, el coste total, el porte de
+devolución desde Canarias, el número de viales y códigos, el plazo realista y
+el panel del informe. La posibilidad de enviar RO se tratará como pendiente
+hasta recibir confirmación del laboratorio o distribuidor. Mantener laboratorio
+y método facilitaría comparar tendencias; cambiar de laboratorio o método no
+invalida una muestra, pero limita su comparación directa.
 
 ### Procedimiento recurrente de ICP
 
@@ -350,7 +440,13 @@ dosificación o cuando se observe un consumo que justifique su seguimiento.
 - [Fauna Marin Reef ICP](https://www.faunamarin.de/reef-icp/): alcance declarado de la variante básica.
 - [Sets Fauna Marin Reef ICP (catálogo 2022)](https://www.faunamarin.de/FM_Katalog_22_web_180522.pdf): correspondencia de los formatos M (2) y L (3+1) de la nomenclatura de Elite.
 - [Fauna Marin Reef ICP Total](https://www.faunamarin.de/en/reef-icp-test-total/): panel distinto de más de 90 valores; se incluye para evitar confundirlo con el Reef ICP básico.
-- [AquaForest ICP Tests](https://aquaforest.eu/en/products_/lab/icp-tests/): variantes de muestra marina y RO/DI.
+- [AquaForest Lab ICP Test 2](https://aquaforestlab.com/product/icp-test-2): panel, contenido del kit y protocolo de muestreo acuario/RO.
+- [TRITON ICP-OES, tienda europea](https://shop.triton.de/triton-icp-oes.html): panel y contenido de kit declarados para esa tienda.
+- [TRITON ICP testing](https://www.triton.de/en/icp-testing): panel general, tipo de informe y prestaciones declaradas por el laboratorio.
+- [TRITON FAQ sobre envío, plazos y uso opcional del ICP](https://www.triton.de/en/faq): devolución prepagada según región, resultados tras recepción y confirmación de que el ICP se puede usar sin adoptar el método completo.
+- [TRITON: límites de detección y calibración ICP, versión 1.1](https://www.triton-lab.de/fileadmin/triton-lab/triton_lod.pdf): límites declarados, calibración y representación de valores bajo/sobre LOD.
+- [Michael Reef Tenerife: experiencia con TRITON ICP](https://www.youtube.com/watch?v=r9trBAU4ei0&t=263s), publicado el 14 de marzo de 2026; vídeo y comentarios revisados el 27 de septiembre de 2026.
+- [Guía de productos Aquaforest 2024](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf): nomenclatura y recuento histórico del panel ICP.
 - [Modern Reef Reef Water Analysis Pro Duo](https://www.modernreef.com.br/icppro.php): métodos y parámetros declarados por el laboratorio.
 - [TRITON N-DOC](https://www.triton.de/en/n-doc): alcance declarado de TIC, TOC y TNb, complementario del ICP.
 - [Análisis ICP de agua marina](../../01_verilpedia/06_procesos/10_analisis-icp.md): método, límites e interpretación.

@@ -18,6 +18,14 @@ Estas fichas son una recopilación personal de información sobre productos util
 - [12 — Salifert Ammonia NH3 Profi Test](12_salifert-ammonia-nh3/salifert-ammonia-nh3.md)
 - [13 — Salifert NO2 Profi Test](13_salifert-no2/salifert-no2.md)
 - [14 — Tetra Test 7 en 1](14_tetra-test-7-en-1/tetra-test-7-en-1.md)
+- [15 — Salifert Nitrate Profi Test](15_salifert-nitrate/salifert-nitrate.md)
+- [16 — Salifert Phosphate Profi Test](16_salifert-phosphate/salifert-phosphate.md)
+- [17 — Salifert KH/Alk Profi Test](17_salifert-kh-alk/salifert-kh-alk.md)
+- [18 — Salifert pH Profi Test](18_salifert-ph/salifert-ph.md)
+- [19 — Salifert Calcium Profi Test](19_salifert-calcium/salifert-calcium.md)
+- [20 — Salifert Magnesium Profi Test](20_salifert-magnesium/salifert-magnesium.md)
+- [21 — Hanna HI774 Marine Phosphate ULR Checker](21_hanna-hi774/hanna-hi774.md)
+- [22 — TRITON ICP-OES](22_triton-icp-oes/triton-icp-oes.md)
 
 ## Criterio común
 

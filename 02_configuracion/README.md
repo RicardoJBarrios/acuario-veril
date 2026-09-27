@@ -86,6 +86,11 @@ Una decisión prevista no debe redactarse como una propiedad demostrada. El esta
 
 ## Régimen térmico adoptado
 
+La lógica vigente del controlador del Rowenta y sus guardarraíles se documentan
+en [Control térmico de Veril](control-termico.md). Las mediciones y actuaciones
+fechadas se conservan en el [registro de puesta en servicio y mediciones del
+27 de septiembre](../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md).
+
 El agua de Veril tiene como zona preferida **25–26 °C**, con 25 °C como centro orientativo, no como consigna puntual que deba perseguirse. El rango óptimo operativo acordado es **24,5–26,5 °C** y se considera **aceptable entre 24 y 27,5 °C**, interpretando duración y tendencia. Estos intervalos son criterios de gestión de Veril, no umbrales fisiológicos universales.
 
 | Estado | Temperatura del agua | Interpretación operativa |
@@ -109,7 +114,7 @@ Las normales ambientales no demuestran por sí mismas la temperatura del acuario
 
 La telemetría de temperatura del agua procede de `off-sns-05`, con la sonda sumergida en la cámara Skimmer. Es una lectura del agua del sistema, no una comprobación metrológica independiente; la ubicación y las observaciones fechadas constan en los [registros del 20 y 23 de septiembre](../04_operaciones/2026/09/2026-09-20-medicion-manual-salinidad-y-quimica.md) y en la [revisión del 24 de septiembre](../04_operaciones/2026/09/2026-09-24-revision-observacion-control-termico.md).
 
-El objetivo biológico no determina por sí solo los umbrales ni la lógica de Home Assistant. La automatización se encuentra en revisión: antes de reactivarla deben completarse la caracterización de la cadencia de `off-sns-05` y la validación de las señales de tendencia. El registro del [24 de septiembre de 2026](../04_operaciones/2026/09/2026-09-24-revision-observacion-control-termico.md) detalla qué está configurado y qué queda pendiente.
+El objetivo biológico no determina por sí solo los umbrales ni la lógica de Home Assistant. El 27 de septiembre de 2026 se instaló y habilitó como piloto un único controlador térmico con la envolvente adoptada, sensores ambientales, previsión horaria y protección ante pérdida de telemetría. En la consulta de las 17:11 WEST, Home Assistant mostró 28,8 °C en `off-sns-05`, antigüedad de comunicación de 0 min y estado `protection`; el propietario confirmó físicamente el Rowenta encendido en frío, a 24 °C y con ventilador alto. La sesión quedó sincronizada y transferida al control automático. Al salir de `protection`, el piloto baja la consigna a 25 °C si el agua permanece por debajo de 27,5 °C durante 15 min, y apaga al permanecer en 26,5 °C o menos durante 15 min. Estos umbrales son lógica de control, no cambios a la envolvente biológica ni evidencia de eficacia térmica. La configuración y sus límites se describen en el [registro de puesta en servicio del 27 de septiembre](../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md); la [revisión del 24 de septiembre](../04_operaciones/2026/09/2026-09-24-revision-observacion-control-termico.md) conserva el estado histórico de aquella fecha.
 
 Este régimen es vinculante como criterio de compatibilidad para las decisiones posteriores de Veril:
 
