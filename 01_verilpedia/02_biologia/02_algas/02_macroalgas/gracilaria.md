@@ -43,7 +43,7 @@ Otras especies vendidas como ogo, como *G. parvispora* o *G. tikvahiae*, pueden 
 
 | Parámetro | Valor cuantitativo o estado del dato | Unidad / escala | Alcance y método |
 | --- | --- | --- | --- |
-| Temperatura | 25–26 preferida; 24–27,5 como envolvente aceptable de Veril | °C | Criba de compatibilidad del sistema, no tolerancia demostrada de esta especie; buscar rango específico en fuentes |
+| Temperatura | 25–26 preferida; 24,5–26,5 objetivo operativo normal; 24–24,5 fresca; 23–24 excursión fría (investigar si persiste); <23 fuera del objetivo; <22 revisión prioritaria; 26,5–27,5 banda cálida local vigente | °C | Criba de compatibilidad del sistema, no tolerancia demostrada de esta especie; buscar rango específico en fuentes |
 | Salinidad | Objetivo operativo de Veril: 35 | `S_P` | No confundir con ppt, g/kg ni gravedad específica; no es un rango específico de la especie |
 | pH | 8,0–8,4 | unidades de pH | Referencia general de arrecife de Veril; no atribuir a la especie sin fuente |
 | Luz / PAR | Sin intervalo cuantitativo específico localizado para esta ficha | PAR: µmol fotones m⁻² s⁻¹ | Medir con DanoPlus DP-414 bajo el agua en la ubicación prevista; el valor local no define por sí solo un óptimo de especie |

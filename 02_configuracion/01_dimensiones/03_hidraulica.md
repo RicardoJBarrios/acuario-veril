@@ -81,6 +81,20 @@ La aceptación hidráulica requerirá comprobar el movimiento en superficie, el 
 
 ## Nivel, retorno y seguridad
 
+### Alimentación y protección eléctrica del retorno
+
+La Sicce Micra Plus 600 está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-act-02`, integrado mediante Zigbee2MQTT. La configuración local vigente del enchufe es:
+
+- `inching_control`: `DISABLE`; `inching_mode`: `OFF`.
+- Protección de la toma (`outlet_control_protect`): activada.
+- Protección por máximo de potencia: activada, **20 W**.
+- Protección por máximo de corriente: activada, **0,3 A**.
+- Límites mínimos de potencia/corriente y límites de tensión mínimo/máximo: desactivados.
+
+Estos máximos son guardarraíles iniciales elegidos a partir del histórico de esta bomba en Veril, no especificaciones del fabricante ni umbrales universalmente seguros: se observaron 6,50 W de potencia mediana, 7,27 W de máximo y 0,05–0,06 A en las muestras positivas de corriente. No se ha probado deliberadamente el disparo de la protección. La protección eléctrica tampoco confirma caudal, nivel, cebado o funcionamiento hidráulico.
+
+La configuración fue aplicada y leída de vuelta en Zigbee2MQTT el 29/09/2026; en esa lectura el enchufe aparecía `OFF`, 0 W y 0 A. El registro describe el momento, la telemetría y sus límites: [ajuste de protección del enchufe del retorno](../../04_operaciones/2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md). La correspondencia física de la etiqueta sigue pendiente, según el inventario de `off-act-02`.
+
 El display tendrá un margen libre suficiente para admitir el movimiento del agua sin salpicaduras ni desbordamientos. La evaporación se compensará en la cámara de retorno mediante el ATO.
 
 Cuando la bomba de retorno se detenga, el agua ocupará parcialmente el compartimento técnico. La instalación deberá conservar un margen seguro para el volumen de retrosifonado y permitir el reinicio de la bomba sin aspiración de aire persistente.

@@ -16,7 +16,7 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 | Volumen de referencia del display | Aproximadamente 60 L redondeados (cálculo detallado: 61,69 L con 2 cm de arena, 2 cm de margen superior y 2,339 L de desplazamiento inferido) |
 | Volumen nominal adoptado del sistema completo | 75 L, incluido el sump; base simplificada vigente para los cálculos y las dosis de Veril |
 | Volumen geométrico estimado | Aproximadamente 96 L; referencia de control, no volumen final de dosificación |
-| Temperatura del sistema | Zona preferida 25–26 °C; rango óptimo 24,5–26,5 °C; aceptable 24–27,5 °C. 25 °C es una referencia central, no una consigna puntual. |
+| Temperatura del sistema | Preferida 25–26 °C; objetivo operativo normal 24,5–26,5 °C. Por debajo: 24–24,5 °C fresca; 23–24 °C excursión fría a revisar si persiste; <23 °C fuera del objetivo; <22 °C revisión prioritaria. |
 | Salinidad | `S_P = 35`, verificada por medición del agua de mar filtrada con UV |
 | Agua introducida antes del ciclado | Volumen acumulado desconocido. El 5 de septiembre se usaron recipientes con capacidades nominales de 30, 30 y 20 L, pero seguramente se trasvasó menos; el 6 de septiembre se estimaron unos 7 L adicionales |
 | Agua posterior para cambios | Agua de ósmosis RO/DI con la sal seleccionada para Veril; sistema RO/DI pendiente |
@@ -85,7 +85,7 @@ Esta fase no cuenta como inicio del ciclado y no se dosificará amonio ni bacter
 
 ### T−: estabilizar temperatura y salinidad
 
-1. Comprobar la temperatura del agua frente al régimen adoptado de Veril: preferida **25–26 °C**, óptima **24,5–26,5 °C** y aceptable **24–27,5 °C**. No perseguir exactamente 25,0 °C
+1. Comprobar la temperatura frente al régimen de Veril: preferida **25–26 °C** y objetivo operativo normal **24,5–26,5 °C**. Interpretar cualquier valor inferior con las bandas frías y sin perseguir exactamente 25,0 °C
 2. Reponer la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta aproximar la salinidad a `S_P = 35`, sin superar el nivel de trabajo del sistema
 3. Repetir las lecturas de salinidad con el refractómetro según el método del plan
 4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier reposición. El piloto térmico de Home Assistant está activo; no modificarlo como parte de este paso. Consultar el [régimen térmico vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md)
@@ -111,7 +111,7 @@ La arena activada se incorporará al display después de la inspección y limpie
 1. Confirmar que la roca y las superficies que permanecerán durante la prueba siguen estables; añadir el sustrato activado como cama definitiva
 2. Completar el sistema hasta sus niveles de trabajo previstos con agua de mar filtrada con UV; para los cálculos se aplicará el volumen nominal adoptado de 75 L
 3. Registrar el volumen, el método y cualquier incertidumbre
-4. Confirmar, a partir de la línea base, que la temperatura está dentro de la envolvente aceptable (**24–27,5 °C**), procurando la zona preferida (**25–26 °C**), y que la salinidad permanece en `S_P = 35`; no exigir una lectura fija de 25,0 °C
+4. Confirmar, a partir de la línea base, que la temperatura está en el objetivo operativo normal (**24,5–26,5 °C**), procurando la zona preferida (**25–26 °C**); si se encuentra por debajo, interpretar duración y tendencia conforme a las bandas frías. Confirmar además que la salinidad permanece en `S_P = 35`; no exigir una lectura fija de 25,0 °C
 5. Activar retorno, circulación y agitación superficial
 6. Registrar línea base de nitrógeno amoniacal, nitrito, pH, alcalinidad, salinidad y temperatura; nitrato y fosfato serán opcionales de apoyo
 7. Verificar lote, caducidad y conservación de FritzZyme 9, registrar su pauta de dosificación y confirmar que hay cantidad suficiente

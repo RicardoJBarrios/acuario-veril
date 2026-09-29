@@ -39,7 +39,7 @@ Como mínimo se habilitarán:
 - Disponibilidad Zigbee
 - Comportamiento tras recuperar la alimentación
 
-Se medirá el consumo con la bomba en espera operativa y con la tubería, altura y regulación definitivas. Los umbrales se establecerán después de comprobar varios rearranques y no se copiarán directamente de los 6,5 W declarados.
+El consumo se caracterizó con el histórico disponible de la bomba conectada: la potencia observada tuvo una mediana de 6,50 W y un máximo de 7,27 W; las muestras positivas de corriente estuvieron entre 0,05 y 0,06 A. Como guardarraíles iniciales locales, el 29/09/2026 se activaron en `off-act-02` los máximos de 20 W y 0,3 A. No son valores nominales del fabricante ni una protección hidráulica, y su disparo no se ha probado deliberadamente. La [configuración hidráulica vigente de Veril](../../../02_configuracion/01_dimensiones/03_hidraulica.md#alimentación-y-protección-eléctrica-del-retorno) y la [operación fechada](../../../04_operaciones/2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md) mantienen la configuración y su evidencia local.
 
 ## Funcionamiento normal y alarmas
 
@@ -114,4 +114,3 @@ Home Assistant no sustituye:
 - [Ficha del SONOFF S60ZBTPF](../sonoff-s60zbtpf/sonoff-iplug-s60zbtpf.md)
 - [SONOFF S60ZBTPF en Zigbee2MQTT](https://www.zigbee2mqtt.io/devices/S60ZBTPF.html)
 - [Integración de Zigbee2MQTT con Home Assistant](https://www.zigbee2mqtt.io/guide/usage/integrations/home_assistant.html)
-

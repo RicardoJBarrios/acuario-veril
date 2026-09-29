@@ -46,7 +46,7 @@ Las especies comerciales no tienen el mismo comportamiento espacial. *T. peltata
 
 | Parámetro | Rango o condición cuantificada | Unidad / escala | Alcance y evidencia |
 | --- | --- | --- | --- |
-| Temperatura | 24–26 como referencia práctica de las fichas; envolvente Veril 24–27,5, preferida 25–26 | °C | El dato de Veril es criba de compatibilidad, no tolerancia demostrada de especie |
+| Temperatura | 24–26 como referencia práctica de las fichas; envolvente Veril: preferida 25–26, objetivo operativo normal 24,5–26,5, fresca 24–24,5, excursión fría 23–24 (investigar si persiste), <23 fuera del objetivo, <22 revisión prioritaria y banda cálida 26,5–27,5 | °C | El dato de Veril es criba de compatibilidad, no tolerancia demostrada de especie |
 | Salinidad | 35 (objetivo operativo local; la ficha también cita gravedad específica 1.024–1.026 sin temperatura de referencia ni instrumento, por lo que no se convierte) | `S_P`; gravedad específica original sin referencia | No convertir escalas sin temperatura/instrumento de referencia |
 | pH | 8,0–8,4 | unidades de pH | Referencia general de arrecife; específica solo si la fuente de ficha lo confirma |
 | PAR | 50–150 µmol fotones m⁻² s⁻¹ como referencia inicial de grupo; comprobar rango de especie y morfo | µmol fotones m⁻² s⁻¹ si fotosintético; no aplica si no fotosintético | Si hay rango, referencia de grupo/ficha, no universal; medir con DanoPlus DP-414 bajo el agua, altura y orientación reales |

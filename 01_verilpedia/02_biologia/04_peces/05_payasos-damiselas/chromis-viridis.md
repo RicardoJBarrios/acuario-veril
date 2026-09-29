@@ -67,7 +67,7 @@ La evaluación específica y el estado de esta especie en Veril se documentan en
 
 | Parámetro | Valor cuantitativo o estado del dato | Unidad / escala | Alcance y método |
 | --- | --- | --- | --- |
-| Temperatura | 25–26 preferida; 24–27,5 como envolvente aceptable de Veril | °C | Criba de compatibilidad del sistema, no tolerancia demostrada de esta especie; buscar rango específico en fuentes |
+| Temperatura | 25–26 preferida; 24,5–26,5 objetivo operativo normal; 24–24,5 fresca; 23–24 excursión fría (investigar si persiste); <23 fuera del objetivo; <22 revisión prioritaria; 26,5–27,5 banda cálida local vigente | °C | Criba de compatibilidad del sistema, no tolerancia demostrada de esta especie; buscar rango específico en fuentes |
 | Salinidad | Objetivo operativo de Veril: 35 | `S_P` | No confundir con ppt, g/kg ni gravedad específica; no es un rango específico de la especie |
 | pH | 8,0–8,4 | unidades de pH | Referencia general de arrecife de Veril; no atribuir a la especie sin fuente |
 | Luz / PAR | No aplica como requisito de mantenimiento (no es fotosintético) | No aplica | No medir PAR como parámetro de mantenimiento |

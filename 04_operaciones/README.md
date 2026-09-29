@@ -33,6 +33,9 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [26 de septiembre: Reposición manual y lectura de salinidad](2026/09/2026-09-26-reposicion-manual-y-lectura-de-salinidad.md)
 - [27 de septiembre: Prueba del DanoPlus, PAR ambiental y nivel de C3](2026/09/2026-09-27-prueba-danoplus-nivel-c3-y-par.md)
 - [27 de septiembre: Puesta en servicio del control térmico inicial y mediciones disponibles](2026/09/2026-09-27-puesta-en-servicio-control-termico.md)
+- [28 de septiembre: Vaciado del remanente del barril y nivel de C3](2026/09/2026-09-28-vaciado-remanente-barril-y-nivel-c3.md)
+- [29 de septiembre: Ajuste de la protección del enchufe del retorno](2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md)
+- [29 de septiembre: Revisión del extremo frío y actualización del panel térmico](2026/09/2026-09-29-revision-frio-y-gauge-termico.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.
