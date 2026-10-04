@@ -37,5 +37,9 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [29 de septiembre: Ajuste de la protección del enchufe del retorno](2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md)
 - [29 de septiembre: Revisión del extremo frío y actualización del panel térmico](2026/09/2026-09-29-revision-frio-y-gauge-termico.md)
 
+### Octubre de 2026
+
+- [3 de octubre: Sustitución de agua y lectura manual de salinidad](2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md)
+
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

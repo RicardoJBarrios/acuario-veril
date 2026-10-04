@@ -26,6 +26,7 @@ Estas fichas son una recopilación personal de información sobre productos util
 - [20 — Salifert Magnesium Profi Test](20_salifert-magnesium/salifert-magnesium.md)
 - [21 — Hanna HI774 Marine Phosphate ULR Checker](21_hanna-hi774/hanna-hi774.md)
 - [22 — TRITON ICP-OES](22_triton-icp-oes/triton-icp-oes.md)
+- [23 — UNEX-NEUTREX Agua desionizada](23_unex-neutrex-agua-desionizada/unex-neutrex-agua-desionizada.md)
 
 ## Criterio común
 

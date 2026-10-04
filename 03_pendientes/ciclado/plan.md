@@ -50,11 +50,11 @@ El refractómetro se limpiará, se verificará a cero con agua RO/DI o agua pura
 
 ## Estabilización previa a T0
 
-Antes de activar el AF Bio Sand o añadir FritzZyme 9, se estabilizarán dos condiciones de partida. Esta fase sigue pendiente de ejecución y no forma parte del ciclado.
+Antes de activar el AF Bio Sand o añadir FritzZyme 9, se estabilizarán dos condiciones de partida. La fase todavía está pendiente de cierre y no forma parte del ciclado: la temperatura y la línea base requieren seguimiento.
 
 - La temperatura de partida deberá estar en el objetivo operativo normal de Veril, **24,5–26,5 °C**, procurando la zona preferida **25–26 °C**. Las categorías por debajo del objetivo distinguen 24,0–24,5 °C (fresca), 23,0–24,0 °C (excursión fría a investigar si persiste), <23,0 °C (fuera del objetivo) y <22,0 °C (revisión prioritaria). Se observará una línea base de 24–48 horas para valorar estabilidad, duración y tendencia, sin exigir que el agua alcance exactamente 25,0 °C.
 - El piloto de control térmico de Home Assistant está activo desde el 27/09/2026. No se modificará como requisito de esta fase de ciclado; se conservará su configuración vigente y se registrarán por separado sus efectos observados. Consultar el [régimen térmico](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md).
-- Se reducirá la salinidad mediante reposición medida de la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta alcanzar `S_P = 35`. Se repetirán las lecturas con el refractómetro y no se superará el nivel de trabajo del sistema.
+- **Salinidad — ajuste realizado el 3 de octubre de 2026:** se sustituyeron 15 L de agua salada por agua desionizada, incluidos 2 L añadidos al completar el volumen total. La lectura manual posterior quedó en torno a **35 ppt**, próxima al objetivo `S_P = 35`. La actuación sustituyó el método previsto de reducir la salinidad mediante reposición de evaporación. Mantener pendiente la confirmación de estabilidad durante la línea base de 24–48 horas. Véase la [operación del 3 de octubre](../../04_operaciones/2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md).
 
 No se iniciará T0 mientras una de las dos condiciones siga fuera de objetivo o presente variaciones que impidan interpretar la línea base.
 
