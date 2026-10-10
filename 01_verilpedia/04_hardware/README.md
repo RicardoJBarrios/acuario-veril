@@ -37,6 +37,7 @@ y aceptación pertenecen a `02_configuracion/`, a los planes y a las operaciones
 - [SONOFF SNZB-02LD](sonoff-snzb-02ld/sonoff-snzb-02ld.md)
 - [SONOFF SNZB-05P](sonoff-snzb-05p/sonoff-snzb-05p.md)
 - [Excellux ZG-109TDS](zigbee-7-en-1-monitor-calidad-agua/excellux-zg-109tds.md)
+- [Termómetro de cristal ICA KA21](termometro-cristal-ica-ka21/termometro-cristal-ica-ka21.md)
 
 ## Integraciones
 

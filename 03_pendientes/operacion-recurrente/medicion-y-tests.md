@@ -7,9 +7,10 @@ estado documentado en Veril; no confirma por sí solo que el método esté
 contrastado. Las compras pendientes son propuestas, no pedidos realizados. El
 Salifert KH/Alk recibido el 9 de octubre de 2026 está registrado en el
 [registro de compra](../../04_operaciones/2026/10/2026-10-09-compra-elitereef.md);
-su caducidad comunicada es **02/2031**. El Tetra Test 7 en 1 se mantiene como referencia
-orientativa, pero no consta aquí como método disponible, de aceptación ni como
-compra pendiente.
+su caducidad comunicada es **02/2031**. El propietario confirma que el Tetra
+Test 7 en 1 está disponible y ya se ha usado. No se han comunicado la fecha ni
+las lecturas de ese uso. Se mantiene como referencia orientativa, no como
+método de aceptación ni como compra pendiente.
 
 | Magnitud / uso | Ya comprado | Pendiente de compra | Cuándo hace falta |
 | --- | --- | --- | --- |
@@ -22,7 +23,7 @@ compra pendiente.
 | Calcio (Ca) | — | Salifert Calcium Profi Test, aprox. **15 €**. | Antes de introducir carga calcificadora o iniciar dosificación. |
 | Magnesio (Mg) | — | Salifert Magnesium Profi Test, aprox. **15 €**. | Antes de introducir carga calcificadora o iniciar dosificación. |
 | Salinidad | Refractómetro óptico D-D AQPR001. | Hanna HI98319, aprox. **100 €** | Antes, durante y después del ciclado; también al preparar o corregir agua. |
-| Temperatura | Sonda `off-sns-05` (telemetría). | Hanna HI98319, aprox. **100 €** | Seguimiento continuo; contrastar la lectura antes de una corrección relevante. |
+| Temperatura | Sonda `off-sns-05` (telemetría); termómetro de cristal ICA KA21 para comprobación manual ([compra comunicada el 10/10/2026](../../04_operaciones/2026/10/2026-10-10-compra-material-acuario.md)). | — | Seguimiento continuo; contrastar la lectura antes de una corrección relevante. |
 | PAR / PPFD | Medidor cuántico DanoPlus DP-414, según confirmación registrada. | Nada para la línea base actual. | Al crear o revisar el mapa de luz; Apogee queda como compra condicional. |
 | TDS del agua RO/DI | Medidor TDS de 3 etapas. | HM Digital (TDS-3), aprox. **20 €** | Cuando instales el RO/DI; especialmente para vigilar salida de membrana y agotamiento de la resina DI. |
 
@@ -72,8 +73,10 @@ Los precios son orientativos para España, consultados el **20 de septiembre de
 cubetas, patrones, sondas o soluciones de mantenimiento se compran aparte.
 Los equipos multiparámetro aparecen solo en las magnitudes que cubren.
 
-El Tetra Test 7 en 1 se conserva como referencia inicial orientativa, pero no
-es un método de aceptación para pH, KH, nitrógeno o nutrientes. Las imágenes
+El Tetra Test 7 en 1 está disponible y el propietario confirma que ya se ha
+usado; no se aportaron fecha ni resultados para registrar una ejecución
+concreta. Se conserva como referencia inicial orientativa, pero no es un método
+de aceptación para pH, KH, nitrógeno o nutrientes. Las imágenes
 comunicadas el 20 de septiembre identificaron como candidatos concretos el
 Salifert KH/Alk Profi Test y el Salifert pH Profi Test. El KH/Alk ya se recibió:
 su caducidad comunicada es **02/2031** y la compra consta en el registro enlazado

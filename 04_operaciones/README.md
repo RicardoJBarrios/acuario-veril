@@ -41,6 +41,7 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 
 - [3 de octubre: Sustitución de agua y lectura manual de salinidad](2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md)
 - [9 de octubre: Compra en EliteReef y medidas de las biobolas Mantis](2026/10/2026-10-09-compra-elitereef.md)
+- [10 de octubre: Compra de material para el acuario](2026/10/2026-10-10-compra-material-acuario.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

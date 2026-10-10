@@ -28,6 +28,9 @@ Estas fichas son una recopilación personal de información sobre productos util
 - [22 — TRITON ICP-OES](22_triton-icp-oes/triton-icp-oes.md)
 - [23 — UNEX-NEUTREX Agua desionizada](23_unex-neutrex-agua-desionizada/unex-neutrex-agua-desionizada.md)
 - [24 — Mantis Bio-Filter Spheres](24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md)
+- [25 — Easy-Life AquaMaker](25_easy-life-aquamaker/easy-life-aquamaker.md)
+- [26 — JBL Symec](26_jbl-symec/jbl-symec.md)
+- [27 — Cueva decorativa de loto marino púrpura (anuncio de AliExpress)](27_cueva-loto-marino-purpura/cueva-loto-marino-purpura.md)
 
 ## Criterio común
 

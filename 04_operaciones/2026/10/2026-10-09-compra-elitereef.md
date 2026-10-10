@@ -9,7 +9,7 @@ El propietario comunica que acaba de regresar de EliteReef con los cinco product
 | [Salifert KH/Alk Profi Test](../../../01_verilpedia/05_productos/17_salifert-kh-alk/salifert-kh-alk.md) | Una caja | Caducidad **02/2031**; lote y fecha de apertura no comunicados |
 | [AI Prime 16HD Reef negra](../../../01_verilpedia/04_hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md) | Una luminaria | Referencia **HYD16HDB-EU**; número de serie **C399764B99R1BF** |
 | [AI Prime Hanging Kit Black](../../../01_verilpedia/04_hardware/ai-prime-hanging-kit/ai-prime-hanging-kit.md) | Un kit | Item **112-00072**; denominación comunicada en el envase: «PRIME HNGING KIT BLACK» |
-| [Mantis Bio-Filter Spheres](../../../01_verilpedia/05_productos/24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md) | **Media caja, 1 kg**, según el propietario | No se ha comunicado lote ni recuento de piezas; no consta pesaje independiente |
+| [Mantis Bio-Filter Spheres](../../../01_verilpedia/05_productos/24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md) | **40 piezas, aproximadamente 1 kg**; peso orientativo de **25 g por pieza**, según el propietario | No se ha comunicado lote; el recuento y los pesos son datos comunicados, no un conteo o pesaje independiente |
 | [D-D Universal Media Bags](../../../01_verilpedia/04_hardware/dd-universal-media-bags-rmb001/dd-universal-media-bags-rmb001.md) | Compra comunicada, sin recuento del contenido | Product code **RMB001**; el fabricante describe el formato comercial como un paquete de dos bolsas |
 
 ## Medidas comunicadas de las biobolas
@@ -19,8 +19,10 @@ El propietario comunica que acaba de regresar de EliteReef con los cinco product
 | Diámetro exterior | **31 mm** |
 | Altura, de arriba a abajo | **26 mm** |
 | Diámetro del orificio que atraviesa la pieza de arriba a abajo | **10,5 mm** |
+| Peso orientativo por pieza | **25 g**, según el propietario |
+| Cantidad recibida comunicada | **40 piezas**, aproximadamente **1 kg** en total |
 
-Son medidas aportadas por el propietario como referencia de las piezas recibidas. No se han comunicado instrumento, número de piezas medidas ni dispersión. No constituyen tolerancias de fabricación ni una especificación dimensional del fabricante.
+Son medidas y cantidades aportadas por el propietario como referencia de las piezas recibidas. No se han comunicado instrumento, dispersión dimensional ni pesaje independiente. No constituyen tolerancias de fabricación ni una especificación dimensional del fabricante.
 
 ## Resultado y alcance
 
