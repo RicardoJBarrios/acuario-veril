@@ -42,7 +42,7 @@ una opción digital adicional, no una necesidad inmediata.
 
 ### Sistemas a comprobar en un futuro
 
-- **Hanna HI97115C Marine Master**, versión con maletín (≈600 €). Reúne fotómetro y pruebas para los nueve parámetros marinos que yo comprobaré normalmente.
+- **Hanna HI97115C Marine Master**, versión con maletín (≈600 €). Reúne fotómetro y pruebas para los nueve parámetros marinos que yo comprobaré normalmente. Esto sustituye a todo el testo de tests.
 
 ## Ya comprado
 
