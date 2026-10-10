@@ -24,6 +24,7 @@ compra pendiente.
 | Salinidad | Refractómetro óptico D-D AQPR001. | Hanna HI98319, aprox. **100 €** | Antes, durante y después del ciclado; también al preparar o corregir agua. |
 | Temperatura | Sonda `off-sns-05` (telemetría). | Hanna HI98319, aprox. **100 €** | Seguimiento continuo; contrastar la lectura antes de una corrección relevante. |
 | PAR / PPFD | Medidor cuántico DanoPlus DP-414, según confirmación registrada. | Nada para la línea base actual. | Al crear o revisar el mapa de luz; Apogee queda como compra condicional. |
+| TDS del agua RO/DI | Medidor TDS de 3 etapas. | HM Digital (TDS-3), aprox. **20 €** | Cuando instales el RO/DI; especialmente para vigilar salida de membrana y agotamiento de la resina DI. |
 
 ### Alternativas MarineLab revisadas
 
