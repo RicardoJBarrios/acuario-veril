@@ -1,5 +1,7 @@
 # Plan de ciclado de Veril
 
+> **Revisión abierta el 9 de octubre de 2026:** El propietario confirma Mantis Bio-Filter Spheres como material adicional; quedan pendientes cantidad y disposición. Para FritzZyme 9, el objetivo es favorecer la colonización de la roca durante la espera, sin iniciar ahora las pruebas del ciclado completo. La pauta ya se ha consultado a Elite Reef y está pendiente de respuesta. Este documento conserva la receta completa anterior; no debe interpretarse como pauta de esa inoculación previa. Véase el [consejo y su alcance](decisiones/referencia-elite-reef-e-inoculacion-previa.md).
+
 ## Objetivo y alcance
 
 Veril aplicará la [variante de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md) para demostrar una capacidad nitrificante bajo condiciones definidas. La definición del proceso, lo que debe demostrar y sus límites de interpretación están en la [ficha de ciclado biológico](../../01_verilpedia/06_procesos/01_ciclado.md).

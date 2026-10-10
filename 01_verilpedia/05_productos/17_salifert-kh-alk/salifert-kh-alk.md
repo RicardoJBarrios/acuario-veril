@@ -6,7 +6,7 @@
 | --- | --- |
 | Marca y producto | Salifert KH/Alk Profi Test |
 | Método | Titulación con cambio de color |
-| Estado en Veril | Candidato pendiente de compra |
+| Trazabilidad en Veril | [Compra comunicada el 9 de octubre de 2026](../../../04_operaciones/2026/10/2026-10-09-compra-elitereef.md) |
 | Capacidad orientativa | El fabricante/comercios indican unas 100–200 determinaciones, según resolución y consumo de reactivo |
 
 ## Qué mide, unidades y rango de lectura

@@ -10,11 +10,13 @@ Las superficies que sostienen esta implementación se concretan en la [dimensió
 
 El [Sicce Shark Skimmer 300](../../01_verilpedia/04_hardware/sicce-shark-skimmer-300/sicce-shark-skimmer-300.md) se instalará en la cámara técnica correspondiente. La [técnica de la urna](../../01_verilpedia/04_hardware/urna/tecnica.md) documenta su ubicación junto al calentador, el recorrido de las cámaras y el retorno.
 
-No se instalará filtración mecánica permanente como parte de la configuración base. La posible incorporación de medios biológicos adicionales, filtración mecánica temporal u otros complementos será una decisión independiente y deberá justificarse por una función concreta.
+No se instalará filtración mecánica permanente como parte de la configuración base. Las Mantis Bio-Filter Spheres quedan seleccionadas como material biológico adicional para aportar superficie colonizable. Se alojarán en C1 (Entrada), según confirma el propietario. Su cantidad, disposición y mantenimiento se definirán conjuntamente antes de incorporarlas. La filtración mecánica temporal u otros complementos requerirán una decisión independiente.
 
 ## Estado de la decisión
 
-**Adoptado:** El método Berlín es la arquitectura de procesamiento de referencia. El Sicce Shark Skimmer 300 es el skimmer seleccionado y no se prevé filtración mecánica permanente en la configuración base.
+**Referencia práctica elegida el 9 de octubre de 2026:** el propietario quiere seguir el método de su persona de referencia de Elite Reef. Esta recomienda Mantis Bio-Filter Spheres frente a otros medios y adelantar la inoculación con FritzZyme 9. El [consejo y sus puntos pendientes](../../03_pendientes/ciclado/decisiones/referencia-elite-reef-e-inoculacion-previa.md) se conservan por separado: no se ha comunicado instalación, cantidad a colocar ni pauta de dosificación. La elección del referente no demuestra que un medio sea universalmente más acorde con el Berlín.
+
+**Adoptado:** El método Berlín es la arquitectura de procesamiento de referencia. El 9 de octubre de 2026 el propietario confirma las [Mantis Bio-Filter Spheres](../../01_verilpedia/05_productos/24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md) como material biológico adicional elegido frente a las alternativas anteriores. La ubicación confirmada es C1 (Entrada). La cantidad, contención y fecha de instalación están pendientes; no consta su incorporación al acuario. El Sicce Shark Skimmer 300 es el skimmer seleccionado y no se prevé filtración mecánica permanente en la configuración base.
 
 **Previsto:** El skimmer se alojará en la cámara técnica indicada por la ficha de la urna, con las superficies de roca y sustrato como soportes colonizables y con retirada física de detritos como tarea de mantenimiento.
 

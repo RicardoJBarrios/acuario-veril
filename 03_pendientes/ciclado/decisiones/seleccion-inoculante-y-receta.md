@@ -1,5 +1,7 @@
 # Receta combinada Fritz–Aquaforest para ciclado sin peces
 
+> **Revisión abierta el 9 de octubre de 2026:** El propietario confirma Mantis Bio-Filter Spheres como material adicional; quedan pendientes cantidad y disposición. Para FritzZyme 9, el objetivo es favorecer la colonización de la roca durante la espera, sin iniciar ahora las pruebas del ciclado completo. La pauta ya se ha consultado a Elite Reef y está pendiente de respuesta. Este documento conserva la receta completa anterior; no debe interpretarse como pauta de esa inoculación previa. Véase el [consejo y su alcance](referencia-elite-reef-e-inoculacion-previa.md).
+
 ## Decisión
 
 La receta elegida para el ciclado es:
@@ -35,7 +37,7 @@ La receta contiene dos aportaciones microbiológicas deliberadas: la asociada a 
 
 ## Productos fuera de la receta
 
-Quedan fuera de la receta base Bio S, Pro Bio S, -NP Pro, AF Life Bio Fil, AF Life Source, One & Only, otros cultivos, carbono, carbón activo, UV, ozono y medios biológicos adicionales.
+Quedan fuera de la receta base Bio S, Pro Bio S, -NP Pro, AF Life Bio Fil, AF Life Source, One & Only, otros cultivos, carbono, carbón activo, UV, ozono y otros medios biológicos adicionales. Las Mantis Bio-Filter Spheres quedan exceptuadas de esta exclusión por la elección confirmada del propietario el 9 de octubre de 2026; cantidad y momento de incorporación pendientes.
 
 Esta exclusión mantiene la prueba interpretable y no demuestra que los productos sean ineficaces. Podrán reconsiderarse posteriormente si aparece una necesidad documentada y como decisiones independientes.
 

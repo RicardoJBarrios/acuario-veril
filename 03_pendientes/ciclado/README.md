@@ -16,9 +16,10 @@ La variante general de ciclado sin peces está documentada en [la ficha de proce
 
 ### Decisiones
 
+- [Referencia de Elite Reef e inoculación previa](decisiones/referencia-elite-reef-e-inoculacion-previa.md): Mantis confirmado como material adicional, con cantidad y disposición pendientes; inoculación previa con FritzZyme 9 para favorecer la colonización, a la espera de la pauta consultada a Elite Reef.
 - [Receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md)
 
-Este documento fija la receta elegida, sus condiciones, exclusiones y pendientes.
+La receta combinada conserva el plan completo anterior. La elección de Mantis como material adicional está confirmada. La inoculación previa busca favorecer la colonización de la roca durante la espera; su pauta está pendiente de respuesta de Elite Reef. Ninguna de estas decisiones acredita una actuación realizada.
 
 ### Plan
 

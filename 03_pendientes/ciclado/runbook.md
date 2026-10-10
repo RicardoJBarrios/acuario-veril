@@ -1,5 +1,7 @@
 # Runbook de ciclado sin peces de Veril
 
+> **Revisión abierta el 9 de octubre de 2026:** El propietario confirma Mantis Bio-Filter Spheres como material adicional; quedan pendientes cantidad y disposición. Para FritzZyme 9, el objetivo es favorecer la colonización de la roca durante la espera, sin iniciar ahora las pruebas del ciclado completo. La pauta ya se ha consultado a Elite Reef y está pendiente de respuesta. Este documento conserva la receta completa anterior; no debe interpretarse como pauta de esa inoculación previa. Véase el [consejo y su alcance](decisiones/referencia-elite-reef-e-inoculacion-previa.md).
+
 ## Propósito
 
 Este runbook ejecuta el [plan de ciclado](plan.md) con la receta adoptada para Veril. Convierte el plan en una secuencia reproducible de preparación, dosificación, medición, decisión y registro.

@@ -37,6 +37,43 @@ Aquaforest publica **390 g por 10 L** como cantidad inicial aproximada para **33
 
 El cálculo de sal corresponde únicamente a los **10 L de agua nueva**, no a todo el sistema de 75 L. Los 415 g son un punto de partida: se medirán la salinidad y la temperatura después de disolver, y se ajustará gradualmente hasta `S_P = 35`. La lectura medida prevalece sobre las referencias publicadas. Tras preparar una primera mezcla, la masa realmente necesaria para ese lote y ese método podrá sustituir la estimación en las preparaciones posteriores.
 
+## Compra y conservación de la sal
+
+La previsión de compra usa como base provisional **415 g por cada 10 L**. No fija una frecuencia de cambio: la frecuencia y el volumen ejecutados se registrarán por separado.
+
+| Escenario de planificación | Consumo calculado | Duración aproximada de 10 kg |
+| --- | ---: | ---: |
+| 10 L cada dos semanas | 10,8 kg/año | 11 meses |
+| 8 L cada semana | 17,3 kg/año | 7 meses |
+
+El cálculo futuro de 8 L semanales es una comparación de compra, no una modificación de la pauta actualmente adoptada de 10 L. A 415 g por preparación, 10 kg permiten aproximadamente 24 cambios de 10 L o 30 cambios de 8 L.
+
+Como referencia comercial puntual, el **5 de octubre de 2026** Urban Natura mostraba Aquaforest Reef Salt de 10 kg a **32,98 € y en stock**, el formato de 22 kg a **69,48 € y bajo pedido**, y la caja de 25 kg a **65,17 € y bajo pedido**. El precio por kilogramo de esas ofertas era aproximadamente 3,30 €, 3,16 € y 2,61 €, respectivamente. No se ha confirmado el coste ni la disponibilidad de envío a Tenerife; los precios pueden cambiar. La caja de 25 kg tenía el menor coste unitario anunciado, pero su disponibilidad pendiente y el mayor tiempo de almacenamiento reducen la utilidad de esa comparación. Para el inicio se considera más proporcionado el formato de **10 kg** si se mantiene disponible a un coste de envío aceptable. Cuando se confirme el ritmo semanal, se volverá a comparar el coste total entregado de 10, 22 y 25 kg; no se dará por adoptado un proveedor por esta consulta.
+
+Aquaforest recomienda guardar la sal seca y en lugar oscuro. Su guía de productos advierte que las sales pueden separarse por tamaño de grano durante el transporte y recomienda rodar el cubo después del envío. Antes de usar un lote recién transportado, se homogeneizará el contenido seco dentro del envase cerrado cuando su formato lo permita, sin abrirlo en un lugar húmedo. Después de cada uso se cerrará de nuevo y se evitará la entrada de agua. El agua ya disuelta se utilizará dentro de los tres días indicados por el fabricante; la sal seca sobrante no se confundirá con agua preparada ni se le asignará una caducidad que la documentación consultada no establece.
+
+## Revisión futura de Aquaforest Reef Salt+
+
+La madurez del tanque por sí sola no activa un cambio de sal. La Reef Salt actual sigue siendo la elección de partida. Se revisará Reef Salt+ cuando haya una población de corales calcificadores establecida y las mediciones repetidas de alcalinidad, calcio y magnesio documenten un consumo que los cambios de agua deban ayudar a cubrir. Se registrarán también los parámetros del agua nueva preparada con el lote actual y la tendencia del acuario; cualquier suplementación se decidirá según consumo medido, no solo por la edad del sistema.
+
+Una estrategia futura posible es **aumentar progresivamente la proporción de Reef Salt+ en el agua de cambio**, mezclando agua preparada con Reef Salt y agua preparada con Reef Salt+. Así se podría cubrir parte del consumo mediante los cambios y reducir la dosificación externa si el balance observado lo permite. La estrategia no garantiza que pueda eliminarse la dosificación: dependerá de la carga de corales, del consumo y del volumen/frecuencia de los cambios. Veril aún no tiene una proporción objetivo ni una secuencia de transición adoptadas.
+
+Aquaforest describe Reef Salt+ como una sal con niveles elevados y equilibrados de alcalinidad, calcio y magnesio, orientada a acuarios con población completa de corales LPS o SPS. La guía de productos de 2025 publica, a 35 ppt, aproximadamente **11,5–12,1 dKH**, **450–470 mg/L de calcio** y **1365–1440 mg/L de magnesio** para Reef Salt+. La tabla de Reef Salt conserva para 35 ppt **7,7–8,3 dKH**, **440–460 mg/L de calcio** y **1360–1420 mg/L de magnesio**. Son valores declarados por el fabricante, no mediciones de Veril ni una garantía del lote adquirido.
+
+Por la diferencia de alcalinidad, no se hará una sustitución sin medir y comparar el agua nueva con el acuario. Como ilustración, si el sistema estuviera a 8 dKH y el agua Reef Salt+ a 11,8 dKH, sustituir 10 L de los 75 L nominales produciría, antes de consumo y otras variaciones, un cambio de equilibrio aproximado de **+0,5 dKH**; con 8 L sería de unos **+0,4 dKH**. Una mezcla de ambas sales permitiría graduar la composición del agua nueva, pero la respuesta del acuario deberá comprobarse tras cada cambio. No son predicciones de una operación real: el volumen efectivo, las mediciones y el momento de mezcla pueden cambiar el resultado.
+
+Cuando las mediciones justifiquen probar esta estrategia:
+
+1. Establecer una línea de referencia con mediciones repetidas de alcalinidad, calcio y magnesio del acuario y de agua nueva preparada solo con Reef Salt, junto con el intervalo entre cambios y cualquier dosis aplicada
+2. Preparar por separado agua con cada sal hasta `S_P = 35` y medir sus parámetros; mezclar volúmenes medidos de ambas aguas para obtener la proporción de prueba, evitando fijar la mezcla seca como receta antes de comprobar la homogeneidad del lote
+3. Registrar lote, proporción por volumen, mediciones del agua resultante y fecha del cambio; usar el agua preparada dentro del plazo indicado por el fabricante
+4. Aumentar la proporción de Reef Salt+ solo en etapas que permitan medir la respuesta del sistema antes de la siguiente modificación; no se fija ahora el tamaño ni la duración de esas etapas
+5. Comparar la tendencia de alcalinidad, calcio y magnesio y el consumo/dosificación con la línea de referencia; conservar la proporción, ajustarla o volver a Reef Salt según el resultado
+
+La proporción y las mediciones del agua nueva son necesarias para atribuir cualquier cambio observado. Si el consumo supera el aporte de los cambios, se mantendrá la suplementación calculada a partir de mediciones y consumo real.
+
+**Estado:** Reef Salt está adoptada para los cambios. Reef Salt+ queda como alternativa futura condicionada a población, consumo y mediciones; no está seleccionada ni se ha validado en Veril.
+
 ## Preparación del agua nueva
 
 La preparación seguirá la [ficha del producto](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md) y conservará la trazabilidad de la mezcla:
@@ -172,6 +209,9 @@ La interpretación general de la dilución, la sustitución y sus límites se co
 
 - [Cambios de agua en un acuario marino](../../01_verilpedia/06_procesos/06_cambios-agua.md): definición general, efectos, límites y balance simplificado de mezcla
 - [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md): composición declarada, preparación, conservación y análisis por lote
+- [Aquaforest Reef Salt+](https://aquaforest.eu/en/products/seawater/marine-salts/reef-salt-plus/): descripción del fabricante y pauta de preparación
+- [Guía de productos Aquaforest 2025](https://aquaforest.eu/wp-content/uploads/2025/03/Aquaforest_catalog_2025-WEB.pdf): composición declarada de Reef Salt+ a 35 ppt
+- [Urban Natura: formatos de sales Aquaforest](https://www.urbannatura.com/es/35-aquaforest-para-acuario): consulta puntual de formatos, disponibilidad y precios del 5 de octubre de 2026
 - [FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md): dosis, condiciones de uso y conservación del producto
 - [Química de Veril](../../02_configuracion/01_dimensiones/05_quimica.md): decisión de utilizar RO/DI y Aquaforest Reef Salt
 - [Fichas de parámetros](../../01_verilpedia/03_parametros/README.md): interpretación de salinidad, temperatura, alcalinidad, calcio, magnesio y demás variables

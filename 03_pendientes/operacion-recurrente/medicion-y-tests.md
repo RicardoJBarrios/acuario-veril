@@ -1,5 +1,59 @@
 # Plan transversal de medición y selección de tests
 
+## Resumen de disponibilidad y compras pendientes
+
+Esta tabla resume los métodos contemplados en el plan. «Disponible» refleja el
+estado documentado en Veril; no confirma por sí solo que el método esté
+contrastado. Las compras pendientes son propuestas, no pedidos realizados. El
+Salifert KH/Alk recibido el 9 de octubre de 2026 está registrado en el
+[registro de compra](../../04_operaciones/2026/10/2026-10-09-compra-elitereef.md);
+su caducidad comunicada es **02/2031**. El Tetra Test 7 en 1 se mantiene como referencia
+orientativa, pero no consta aquí como método disponible, de aceptación ni como
+compra pendiente.
+
+| Magnitud / uso | Ya comprado | Pendiente de compra | Cuándo hace falta |
+| --- | --- | --- | --- |
+| Nitrógeno amoniacal (NH₃/NH₄) | Salifert Ammonia NH₃ Profi Test; caducidad registrada **10/2027**. | Nada para la línea base actual. | Durante el ciclado y ante incidencias de biofiltración. |
+| Nitrito (NO₂) | Salifert NO₂ Profi Test; caducidad registrada **06/2029**. | Nada para la línea base actual. | Durante el ciclado; después, para diagnóstico puntual. |
+| Nitrato (NO₃) | — | Salifert Nitrate Profi Test, aprox. **10 €**. | Al cierre del ciclado y durante la maduración, cuando aporte contexto útil. |
+| Fosfato (PO₄) | — | Hanna HI774, aprox. **71 €** | Durante la maduración y antes de decidir cambios de alimentación o adsorbentes. |
+| Alcalinidad (KH) | Salifert KH/Alk Profi Test; caducidad **02/2031**. | Hanna HI772, aprox. **71 €** | **Antes de iniciar el ciclado**; después, según fase y consumo. |
+| pH | — | Salifert pH Profi Test, aprox. **8 €**. | **Antes de iniciar el ciclado** y para investigar oscilaciones. |
+| Calcio (Ca) | — | Salifert Calcium Profi Test, aprox. **15 €**. | Antes de introducir carga calcificadora o iniciar dosificación. |
+| Magnesio (Mg) | — | Salifert Magnesium Profi Test, aprox. **15 €**. | Antes de introducir carga calcificadora o iniciar dosificación. |
+| Salinidad | Refractómetro óptico D-D AQPR001. | Hanna HI98319, aprox. **100 €** | Antes, durante y después del ciclado; también al preparar o corregir agua. |
+| Temperatura | Sonda `off-sns-05` (telemetría). | Hanna HI98319, aprox. **100 €** | Seguimiento continuo; contrastar la lectura antes de una corrección relevante. |
+| PAR / PPFD | Medidor cuántico DanoPlus DP-414, según confirmación registrada. | Nada para la línea base actual. | Al crear o revisar el mapa de luz; Apogee queda como compra condicional. |
+
+### Alternativas MarineLab revisadas
+
+Los kits MarineLab de NTLABS no están seleccionados como compra para Veril;
+son alternativas que se han comparado con los métodos anteriores. El **Marine
+Multi-Test** (amonio, nitrito, nitrato y pH) aparece a **54,50 €** en Acuática;
+duplicaría los tests de amonio y nitrito ya disponibles. El **Reef Multi-Test**
+(KH, Mg, Ca y PO₄) aparece entre **57,40 y 67,70 €** en tiendas españolas y
+podría sustituir como conjunto a las compras previstas para esos cuatro
+parámetros. Antes de elegir Reef hay que confirmar la unidad y la escala de su
+fosfato y valorar si su lectura visual sirve para la necesidad de PO₄ bajo de
+Veril. Precios consultados el **7 de octubre de 2026**, sin portes; pueden
+variar y no equivalen a una compra ni a disponibilidad confirmada con ICA.
+[Precio MarineLab normal en Acuática](https://acuariosyestanquesacuatica.com/densimetros-termometros-test-medicion-agua-acuario-marino/1558-ntlabs-marinelab-multitest-acuario-marino.html),
+[MarineLab Reef en Lospeces](https://lospeces.es/collections/analisis-del-acuario) y
+[MarineLab Reef en Acuática](https://acuariosyestanquesacuatica.com/50-densimetros-termometros-test-medicion-agua-acuario-marino).
+
+Con los precios orientativos del plan, las seis compras previstas suman unos
+**128 €**: KH, pH, NO₃, HI774, Ca y Mg. Si se eligiera Reef en lugar de los
+métodos previstos para KH, Ca, Mg y PO₄, esas cuatro compras (unos **110 €**)
+pasarían a ser una sola de **57,40–67,70 €**. El ahorro inicial estimado sería
+de **42,30–52,60 €**, antes de portes. Es una comparación de desembolso inicial:
+no equipara número de pruebas, resolución, consumibles posteriores ni
+desempeño analítico.
+
+Las cifras de compra son orientativas y se refieren al precio inicial indicado
+en las tablas siguientes; reactivos, cubetas, patrones y mantenimiento de
+instrumentos se consideran aparte cuando corresponda. El plan completo por
+parámetro, sus criterios y límites figuran a continuación.
+
 ## Decisión de método
 
 Veril utilizará métodos diferenciados según la fase y el parámetro. Los tests
@@ -19,9 +73,11 @@ Los equipos multiparámetro aparecen solo en las magnitudes que cubren.
 
 El Tetra Test 7 en 1 se conserva como referencia inicial orientativa, pero no
 es un método de aceptación para pH, KH, nitrógeno o nutrientes. Las imágenes
-comunicadas el 20 de septiembre identifican como candidatos concretos el
-Salifert KH/Alk Profi Test y el Salifert pH Profi Test; al recibirlos se
-registrarán lote, caducidad, escala e instrucciones.
+comunicadas el 20 de septiembre identificaron como candidatos concretos el
+Salifert KH/Alk Profi Test y el Salifert pH Profi Test. El KH/Alk ya se recibió:
+su caducidad comunicada es **02/2031** y la compra consta en el registro enlazado
+arriba. Siguen pendientes de documentar el lote, la escala e instrucciones del
+ejemplar. El Salifert pH sigue como candidato pendiente de compra.
 
 ### [Nitrógeno amoniacal (TAN)](../../01_verilpedia/03_parametros/amonio.md)
 
@@ -59,7 +115,7 @@ registrarán lote, caducidad, escala e instrucciones.
 
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
-| [Salifert KH/Alk Profi Test](../../01_verilpedia/05_productos/17_salifert-kh-alk/salifert-kh-alk.md) | Titulación | **Antes de ciclar**, durante el ciclado y con corales | Candidato pendiente de compra | ~9 € | Método de partida con resolución útil y coste bajo. |
+| [Salifert KH/Alk Profi Test](../../01_verilpedia/05_productos/17_salifert-kh-alk/salifert-kh-alk.md) | Titulación | **Antes de ciclar**, durante el ciclado y con corales | Disponible; recibido el 09/10/2026; caducidad 02/2031 | Compra comunicada en el [registro de EliteReef](../../04_operaciones/2026/10/2026-10-09-compra-elitereef.md) | Método de partida con resolución útil y coste bajo. |
 | Hanna HI772 | Fotómetro marino, 0,0–20,0 dKH | Si se mide con mucha frecuencia, hay consumo o dosificación | Pendiente | ~71 € | Acelera series y mejora comparabilidad; no es necesario mientras Salifert cubra una rutina poco frecuente. |
 | Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade química de nutrientes y elementos; no sustituye la disciplina de medir antes de dosificar. |
 
@@ -389,11 +445,12 @@ invalida una muestra, pero limita su comparación directa.
 
 ## Orden de adquisición
 
-1. **KH/Alk y pH Salifert:** bloquean la línea base exigida antes de iniciar el ciclado.
-2. **NO3 Salifert:** siguiente compra útil al cerrar el ciclado y durante la maduración.
-3. **Hanna HI774 PO4:** primera inversión Hanna con retorno claro para el control de nutrientes.
-4. **Ca y Mg Salifert:** antes de introducir carga calcificadora o dosificar.
-5. Los demás Hanna solo se reconsiderarán si aumenta la frecuencia de medida o aparece una necesidad de diagnóstico concreta.
+1. **KH/Alk Salifert:** disponible; debe medirse en la línea base antes del ciclado.
+2. **pH Salifert:** sigue pendiente; el plan exige una lectura de línea base antes del ciclado.
+3. **NO3 Salifert:** siguiente compra útil al cerrar el ciclado y durante la maduración.
+4. **Hanna HI774 PO4:** primera inversión Hanna con retorno claro para el control de nutrientes.
+5. **Ca y Mg Salifert:** antes de introducir carga calcificadora o dosificar.
+6. Los demás Hanna solo se reconsiderarán si aumenta la frecuencia de medida o aparece una necesidad de diagnóstico concreta.
 
 ## Aplicación por fases
 

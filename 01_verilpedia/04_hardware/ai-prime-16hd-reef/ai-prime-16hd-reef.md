@@ -12,6 +12,7 @@ La Prime combina una banda azul-violeta dominante con aportes más pequeños de 
 | --- | --- |
 | Producto | AI Prime™ 16HD Reef |
 | Fabricante | AquaIllumination® |
+| Variante identificada por el propietario | Negra, referencia HYD16HDB-EU |
 | Dimensiones | 12,4 × 12,4 × 3,4 cm |
 | Peso | 0,43 kg |
 | Consumo publicado | 55 W en la descripción y 59 W a plena potencia en la tabla técnica |
@@ -22,6 +23,8 @@ La Prime combina una banda azul-violeta dominante con aportes más pequeños de 
 | Protección declarada de la fuente | UL, CE y RoHS |
 
 La luminaria incorpora **cuatro LED Cool White, cuatro Blue, cuatro Royal Blue, un Photo Red, un Green, un Violet, un UV y un Moonlight**. El número de emisores no indica por sí solo la proporción de luz de cada color: la corriente, la eficiencia, el control térmico y la redistribución HD determinan la salida real.
+
+La identificación de la variante procede de los datos aportados por el propietario. La serie y la recepción de la unidad se conservan en el [registro de compra del 9 de octubre de 2026](../../../04_operaciones/2026/10/2026-10-09-compra-elitereef.md). El accesorio dispone de una ficha propia: [AI Prime Hanging Kit Black, Item 112-00072](../ai-prime-hanging-kit/ai-prime-hanging-kit.md). La compra no acredita instalación o puesta en servicio; las previsiones de montaje siguientes mantienen ese carácter.
 
 ## Distribución física y espectro
 

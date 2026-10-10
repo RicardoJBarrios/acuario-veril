@@ -20,6 +20,8 @@ y aceptación pertenecen a `02_configuracion/`, a los planes y a las operaciones
 - [Sicce Micra Plus 600](sicce-micra-plus-600/sicce-micra-plus-600.md)
 - [Mantis Tourbon 60](mantis-tourbon-60/mantis-tourbon-60.md)
 - [AI Prime 16HD Reef](ai-prime-16hd-reef/ai-prime-16hd-reef.md)
+- [AI Prime Hanging Kit](ai-prime-hanging-kit/ai-prime-hanging-kit.md): accesorio de suspensión de la familia Prime
+- [D-D Universal Media Bags — RMB001](dd-universal-media-bags-rmb001/dd-universal-media-bags-rmb001.md): bolsas para medios filtrantes
 
 ## Limpieza y mantenimiento manual
 
