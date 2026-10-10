@@ -28,6 +28,13 @@ una opción digital adicional, no una necesidad inmediata.
 - **Bomba sumergible barata** (≈10-15 €) para mezclar la sal y boba de apoyo.
 - **Calentador** (≈10-15 €), 50W con termostato, para calentar la mezcla de sal (10-15 L).
 
+### Microfauna viva
+
+**IMPORTANTE: Esto suele estar refrigerado y usarse sobre la marcha. No se puede almacenar.**
+
+- **Copépodos:** Power Aquaculture Apocalypse Mix, 250 ml (≈10 €) o Lunaqua Copépodos Tisbe sp., 200 ml (≈7 €).
+- **Fitoplacton para microfauna:** Power Aquaculture Fito Mix Pod Boom, 250 ml (≈ 7 €) o Lunaqua Fitoplancton Microfauna 250 mL (≈5 €).
+
 ### Opciones secundarias
 
 - **Hanna HI98319 Marine Salinity Tester** (≈100 €). Lectura digital de salinidad y temperatura
