@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "modulo",
+    "windows": "modulo-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "inserto",
+    "windows": "inserto-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  }
+]

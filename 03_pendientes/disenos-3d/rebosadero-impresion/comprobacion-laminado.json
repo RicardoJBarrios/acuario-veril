@@ -1,0 +1,861 @@
+{
+  "checked_at": "2026-10-11T17:19:57.466612+01:00",
+  "cad_source": {
+    "path": "../rebosadero.FCStd",
+    "sha256": "a0c90e9a4263cb936375364b718d4e38531292b1da552bc16e32fa8e777ffd8b"
+  },
+  "method": "OrcaSlicer 2.4.2 CLI --datadir aislado --slice 0 con perfiles embebidos; sin --no-check",
+  "physical_print": "pendiente",
+  "pieces": [
+    {
+      "identity": {
+        "slug": "estructura",
+        "object": "Body",
+        "gcode": "VRREBO.GCO",
+        "rotation_x_deg": 180,
+        "dimensions_mm": [
+          139.0,
+          25.200000000025618,
+          178.39999999999998
+        ],
+        "cad_volume_mm3": 78678.32081425842
+      },
+      "project": {
+        "path": "estructura--kp3-winkle-petg.3mf",
+        "bytes": 11170,
+        "sha256": "5f0b891795ae8144565b8949b7eda5679e3949fe13c130ae5397020dbce0304d"
+      },
+      "sliced_project": {
+        "path": "laminados/estructura/estructura-laminado.3mf",
+        "bytes": 155833,
+        "sha256": "cd06f2733627c93e6691e22909fc6f2d105d653a69fa3a493b6facc0ffd0a31c"
+      },
+      "stl": {
+        "path": "modelos/estructura.stl",
+        "bytes": 19084,
+        "sha256": "6f386d0675f883c6e75fb62b628c13b5ba7d3065b3791784dbcbcfcef70ff1cf"
+      },
+      "gcode": {
+        "path": "VRREBO.GCO",
+        "bytes": 2881723,
+        "sha256": "7b90319454dff180d619fde28d1cc2f9b533f4d88ad65c6b83df19b6217614e4"
+      },
+      "generated_header": "OrcaSlicer 2.4.2 on 2026-10-11 at 17:09:06",
+      "project_settings": {
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "printer_model": "Generic Marlin Printer",
+        "printable_area": [
+          "0x0",
+          "180x0",
+          "180x180",
+          "0x180"
+        ],
+        "printable_height": "180",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": [
+          "0.4"
+        ],
+        "filament_settings_id": [
+          "Winkle PETG Jet Black 1.75 mm"
+        ],
+        "filament_type": [
+          "PETG"
+        ],
+        "filament_diameter": [
+          "1.75"
+        ],
+        "filament_density": [
+          "1.23"
+        ],
+        "print_settings_id": "Veril rebosadero estructura KP3 PETG",
+        "layer_height": "0.2",
+        "initial_layer_print_height": "0.24",
+        "nozzle_temperature": [
+          "230"
+        ],
+        "nozzle_temperature_initial_layer": [
+          "230"
+        ],
+        "hot_plate_temp": [
+          "70"
+        ],
+        "hot_plate_temp_initial_layer": [
+          "70"
+        ],
+        "filament_flow_ratio": [
+          "1"
+        ],
+        "filament_max_volumetric_speed": [
+          "8"
+        ],
+        "retraction_length": [
+          "0.8"
+        ],
+        "retraction_speed": [
+          "30"
+        ],
+        "deretraction_speed": [
+          "0"
+        ],
+        "z_hop": [
+          "0.4"
+        ],
+        "enable_pressure_advance": [
+          "0"
+        ],
+        "pressure_advance": [
+          "0.02"
+        ],
+        "fan_min_speed": [
+          "100"
+        ],
+        "fan_max_speed": [
+          "100"
+        ],
+        "close_fan_the_first_x_layers": [
+          "1"
+        ],
+        "full_fan_speed_layer": [
+          "2"
+        ],
+        "slow_down_layer_time": [
+          "5"
+        ],
+        "slow_down_min_speed": [
+          "10"
+        ],
+        "wall_loops": "5",
+        "top_shell_layers": "5",
+        "bottom_shell_layers": "6",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_density": "30%",
+        "initial_layer_speed": "20",
+        "initial_layer_infill_speed": "20",
+        "outer_wall_speed": "35",
+        "inner_wall_speed": "45",
+        "sparse_infill_speed": "45",
+        "internal_solid_infill_speed": "40",
+        "top_surface_speed": "30",
+        "bridge_speed": "20",
+        "travel_speed": "120",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "outer_wall_acceleration": "800",
+        "inner_wall_acceleration": "1000",
+        "travel_acceleration": "1000",
+        "bridge_acceleration": "50%",
+        "outer_wall_line_width": "0.42",
+        "inner_wall_line_width": "0.45",
+        "sparse_infill_line_width": "0.45",
+        "internal_solid_infill_line_width": "0.42",
+        "top_surface_line_width": "0.42",
+        "enable_support": "0",
+        "support_type": "tree(auto)",
+        "support_style": "default",
+        "support_on_build_plate_only": "1",
+        "support_top_z_distance": "0.2",
+        "support_bottom_z_distance": "0.2",
+        "support_object_xy_distance": "0.35",
+        "support_interface_top_layers": "2",
+        "support_interface_bottom_layers": "2",
+        "support_base_pattern_spacing": "2.5",
+        "support_interface_spacing": "0.5",
+        "brim_type": "outer_only",
+        "brim_width": "5",
+        "brim_object_gap": "0.1",
+        "raft_layers": "0",
+        "skirt_loops": "1",
+        "skirt_distance": "2",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "elefant_foot_compensation": "0",
+        "print_sequence": "by layer",
+        "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM104 S[first_layer_temperature] ; set nozzle temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all axes\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for nozzle temp\nG92 E0\nG1 Z0.3 F1200\nG1 X5 Y5 F3000\nG1 X170 Y5 E12 F1000\nG92 E0",
+        "machine_end_gcode": "G91 ; relative positioning\nG1 E-1 F2100\nG90 ; absolute positioning\nG1 Z179.2 F1200 ; bounded final clearance below 180 mm\nG1 X0 Y179 F3000\nM104 S0 ; turn off hotend\nM140 S0 ; turn off bed\nM107 ; turn off fan\nM84 ; disable motors"
+      },
+      "effective_gcode_settings": {
+        "bottom_shell_layers": "6",
+        "bridge_acceleration": "50%",
+        "bridge_speed": "20",
+        "brim_object_gap": "0.1",
+        "brim_type": "outer_only",
+        "brim_width": "5",
+        "close_fan_the_first_x_layers": "1",
+        "default_acceleration": "1000",
+        "deretraction_speed": "0",
+        "elefant_foot_compensation": "0",
+        "enable_pressure_advance": "0",
+        "enable_support": "0",
+        "fan_max_speed": "100",
+        "fan_min_speed": "100",
+        "filament_density": "1.23",
+        "filament_diameter": "1.75",
+        "filament_flow_ratio": "1",
+        "filament_max_volumetric_speed": "8",
+        "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+        "filament_type": "PETG",
+        "full_fan_speed_layer": "2",
+        "gcode_flavor": "marlin",
+        "hot_plate_temp": "70",
+        "hot_plate_temp_initial_layer": "70",
+        "initial_layer_acceleration": "500",
+        "initial_layer_infill_speed": "20",
+        "initial_layer_print_height": "0.24",
+        "initial_layer_speed": "20",
+        "inner_wall_acceleration": "1000",
+        "inner_wall_line_width": "0.45",
+        "inner_wall_speed": "45",
+        "internal_solid_infill_line_width": "0.42",
+        "internal_solid_infill_speed": "40",
+        "layer_height": "0.2",
+        "machine_end_gcode": "G91 ; relative positioning\\nG1 E-1 F2100\\nG90 ; absolute positioning\\nG1 Z179.2 F1200 ; bounded final clearance below 180 mm\\nG1 X0 Y179 F3000\\nM104 S0 ; turn off hotend\\nM140 S0 ; turn off bed\\nM107 ; turn off fan\\nM84 ; disable motors",
+        "machine_start_gcode": "G90 ; use absolute coordinates\\nM83 ; extruder relative mode\\nM104 S[first_layer_temperature] ; set nozzle temp\\nM140 S[first_layer_bed_temperature] ; set bed temp\\nG28 ; home all axes\\nM190 S[first_layer_bed_temperature] ; wait for bed temp\\nM109 S[first_layer_temperature] ; wait for nozzle temp\\nG92 E0\\nG1 Z0.3 F1200\\nG1 X5 Y5 F3000\\nG1 X170 Y5 E12 F1000\\nG92 E0",
+        "nozzle_diameter": "0.4",
+        "nozzle_temperature": "230",
+        "nozzle_temperature_initial_layer": "230",
+        "outer_wall_acceleration": "800",
+        "outer_wall_line_width": "0.42",
+        "outer_wall_speed": "35",
+        "pressure_advance": "0.02",
+        "print_sequence": "by layer",
+        "print_settings_id": "Veril rebosadero estructura KP3 PETG",
+        "printable_area": "0x0,180x0,180x180,0x180",
+        "printable_height": "180",
+        "printer_model": "Generic Marlin Printer",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "raft_layers": "0",
+        "retraction_length": "0.8",
+        "retraction_speed": "30",
+        "skirt_distance": "2",
+        "skirt_loops": "1",
+        "slow_down_layer_time": "5",
+        "slow_down_min_speed": "10",
+        "sparse_infill_density": "30%",
+        "sparse_infill_line_width": "0.45",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_speed": "45",
+        "support_base_pattern_spacing": "2.5",
+        "support_bottom_z_distance": "0.2",
+        "support_interface_bottom_layers": "2",
+        "support_interface_spacing": "0.5",
+        "support_interface_top_layers": "2",
+        "support_object_xy_distance": "0.35",
+        "support_on_build_plate_only": "1",
+        "support_style": "default",
+        "support_top_z_distance": "0.2",
+        "support_type": "tree(auto)",
+        "top_shell_layers": "5",
+        "top_surface_line_width": "0.42",
+        "top_surface_speed": "30",
+        "travel_acceleration": "1000",
+        "travel_speed": "120",
+        "wall_loops": "5",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "z_hop": "0.4"
+      },
+      "layers": 892,
+      "maximum_layer_z_mm": 178.44,
+      "estimated_time": "7h 41m 20s",
+      "estimated_time_seconds": 27680,
+      "estimated_mass_g": 94.01,
+      "movement_bounds_mm": {
+        "min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.24
+        },
+        "max": {
+          "X": 170.0,
+          "Y": 179.0,
+          "Z": 179.2
+        }
+      },
+      "movement_violations": [],
+      "extrusion_features": {
+        "Custom": 1,
+        "Skirt": 42,
+        "Brim": 874,
+        "Inner wall": 36999,
+        "Outer wall": 16339,
+        "Bottom surface": 564,
+        "Internal solid infill": 4566,
+        "Sparse infill": 2190,
+        "Internal Bridge": 184,
+        "Top surface": 291
+      },
+      "support_used": "false",
+      "outside": "false",
+      "preview": {
+        "path": "laminados/estructura/vista-previa.png",
+        "method": "reconstruccion de segmentos de extrusion del G-code; revision visual por el agente"
+      },
+      "cli_log": "laminados/estructura/orca-cli.log"
+    },
+    {
+      "identity": {
+        "slug": "placa-20mm",
+        "object": "GatePlate",
+        "gcode": "VRPL20.GCO",
+        "rotation_x_deg": 90,
+        "dimensions_mm": [
+          133.6,
+          20.000000000000004,
+          2.400000000000003
+        ],
+        "cad_volume_mm3": 6412.8
+      },
+      "project": {
+        "path": "placa-20mm--kp3-winkle-petg.3mf",
+        "bytes": 7923,
+        "sha256": "ad8ea96bf88a3c99127f9fb7898eadc89d140c2212903110585b7457c6d56bd4"
+      },
+      "sliced_project": {
+        "path": "laminados/placa-20mm/placa-20mm-laminado.3mf",
+        "bytes": 53704,
+        "sha256": "ee7092e3c164ff4ceaa9a3839d4ce2cc1e96fc87c63629f7ddfe2ccfb81ba469"
+      },
+      "stl": {
+        "path": "modelos/placa-20mm.stl",
+        "bytes": 684,
+        "sha256": "3c91f7e2bd2467b2d0a5a4e092a1c6fd9c60375e966fdad6dc02f8a913b79cbe"
+      },
+      "gcode": {
+        "path": "VRPL20.GCO",
+        "bytes": 231767,
+        "sha256": "2704e0ebc48ee75dfcb8e330a6c16375351c2d2698a3599fae1e10847ac17c57"
+      },
+      "generated_header": "OrcaSlicer 2.4.2 on 2026-10-11 at 17:09:06",
+      "project_settings": {
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "printer_model": "Generic Marlin Printer",
+        "printable_area": [
+          "0x0",
+          "180x0",
+          "180x180",
+          "0x180"
+        ],
+        "printable_height": "180",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": [
+          "0.4"
+        ],
+        "filament_settings_id": [
+          "Winkle PETG Jet Black 1.75 mm"
+        ],
+        "filament_type": [
+          "PETG"
+        ],
+        "filament_diameter": [
+          "1.75"
+        ],
+        "filament_density": [
+          "1.23"
+        ],
+        "print_settings_id": "Veril rebosadero placa-20mm KP3 PETG",
+        "layer_height": "0.2",
+        "initial_layer_print_height": "0.24",
+        "nozzle_temperature": [
+          "230"
+        ],
+        "nozzle_temperature_initial_layer": [
+          "230"
+        ],
+        "hot_plate_temp": [
+          "70"
+        ],
+        "hot_plate_temp_initial_layer": [
+          "70"
+        ],
+        "filament_flow_ratio": [
+          "1"
+        ],
+        "filament_max_volumetric_speed": [
+          "8"
+        ],
+        "retraction_length": [
+          "0.8"
+        ],
+        "retraction_speed": [
+          "30"
+        ],
+        "deretraction_speed": [
+          "0"
+        ],
+        "z_hop": [
+          "0.4"
+        ],
+        "enable_pressure_advance": [
+          "0"
+        ],
+        "pressure_advance": [
+          "0.02"
+        ],
+        "fan_min_speed": [
+          "100"
+        ],
+        "fan_max_speed": [
+          "100"
+        ],
+        "close_fan_the_first_x_layers": [
+          "1"
+        ],
+        "full_fan_speed_layer": [
+          "2"
+        ],
+        "slow_down_layer_time": [
+          "5"
+        ],
+        "slow_down_min_speed": [
+          "10"
+        ],
+        "wall_loops": "5",
+        "top_shell_layers": "5",
+        "bottom_shell_layers": "6",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_density": "100%",
+        "initial_layer_speed": "20",
+        "initial_layer_infill_speed": "20",
+        "outer_wall_speed": "35",
+        "inner_wall_speed": "45",
+        "sparse_infill_speed": "45",
+        "internal_solid_infill_speed": "40",
+        "top_surface_speed": "30",
+        "bridge_speed": "20",
+        "travel_speed": "120",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "outer_wall_acceleration": "800",
+        "inner_wall_acceleration": "1000",
+        "travel_acceleration": "1000",
+        "bridge_acceleration": "50%",
+        "outer_wall_line_width": "0.42",
+        "inner_wall_line_width": "0.45",
+        "sparse_infill_line_width": "0.45",
+        "internal_solid_infill_line_width": "0.42",
+        "top_surface_line_width": "0.42",
+        "enable_support": "0",
+        "support_type": "tree(auto)",
+        "support_style": "default",
+        "support_on_build_plate_only": "1",
+        "support_top_z_distance": "0.2",
+        "support_bottom_z_distance": "0.2",
+        "support_object_xy_distance": "0.35",
+        "support_interface_top_layers": "2",
+        "support_interface_bottom_layers": "2",
+        "support_base_pattern_spacing": "2.5",
+        "support_interface_spacing": "0.5",
+        "brim_type": "outer_only",
+        "brim_width": "3",
+        "brim_object_gap": "0.1",
+        "raft_layers": "0",
+        "skirt_loops": "1",
+        "skirt_distance": "2",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "elefant_foot_compensation": "0",
+        "print_sequence": "by layer",
+        "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM104 S[first_layer_temperature] ; set nozzle temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all axes\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for nozzle temp\nG92 E0\nG1 Z0.3 F1200\nG1 X5 Y5 F3000\nG1 X170 Y5 E12 F1000\nG92 E0",
+        "machine_end_gcode": "G91 ; relative positioning\nG1 E-1 F2100\nG1 Z5 F1200\nG90 ; absolute positioning\nG1 X0 Y179 F3000\nM104 S0 ; turn off hotend\nM140 S0 ; turn off bed\nM107 ; turn off fan\nM84 ; disable motors"
+      },
+      "effective_gcode_settings": {
+        "bottom_shell_layers": "6",
+        "bridge_acceleration": "50%",
+        "bridge_speed": "20",
+        "brim_object_gap": "0.1",
+        "brim_type": "outer_only",
+        "brim_width": "3",
+        "close_fan_the_first_x_layers": "1",
+        "default_acceleration": "1000",
+        "deretraction_speed": "0",
+        "elefant_foot_compensation": "0",
+        "enable_pressure_advance": "0",
+        "enable_support": "0",
+        "fan_max_speed": "100",
+        "fan_min_speed": "100",
+        "filament_density": "1.23",
+        "filament_diameter": "1.75",
+        "filament_flow_ratio": "1",
+        "filament_max_volumetric_speed": "8",
+        "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+        "filament_type": "PETG",
+        "full_fan_speed_layer": "2",
+        "gcode_flavor": "marlin",
+        "hot_plate_temp": "70",
+        "hot_plate_temp_initial_layer": "70",
+        "initial_layer_acceleration": "500",
+        "initial_layer_infill_speed": "20",
+        "initial_layer_print_height": "0.24",
+        "initial_layer_speed": "20",
+        "inner_wall_acceleration": "1000",
+        "inner_wall_line_width": "0.45",
+        "inner_wall_speed": "45",
+        "internal_solid_infill_line_width": "0.42",
+        "internal_solid_infill_speed": "40",
+        "layer_height": "0.2",
+        "machine_end_gcode": "G91 ; relative positioning\\nG1 E-1 F2100\\nG1 Z5 F1200\\nG90 ; absolute positioning\\nG1 X0 Y179 F3000\\nM104 S0 ; turn off hotend\\nM140 S0 ; turn off bed\\nM107 ; turn off fan\\nM84 ; disable motors",
+        "machine_start_gcode": "G90 ; use absolute coordinates\\nM83 ; extruder relative mode\\nM104 S[first_layer_temperature] ; set nozzle temp\\nM140 S[first_layer_bed_temperature] ; set bed temp\\nG28 ; home all axes\\nM190 S[first_layer_bed_temperature] ; wait for bed temp\\nM109 S[first_layer_temperature] ; wait for nozzle temp\\nG92 E0\\nG1 Z0.3 F1200\\nG1 X5 Y5 F3000\\nG1 X170 Y5 E12 F1000\\nG92 E0",
+        "nozzle_diameter": "0.4",
+        "nozzle_temperature": "230",
+        "nozzle_temperature_initial_layer": "230",
+        "outer_wall_acceleration": "800",
+        "outer_wall_line_width": "0.42",
+        "outer_wall_speed": "35",
+        "pressure_advance": "0.02",
+        "print_sequence": "by layer",
+        "print_settings_id": "Veril rebosadero placa-20mm KP3 PETG",
+        "printable_area": "0x0,180x0,180x180,0x180",
+        "printable_height": "180",
+        "printer_model": "Generic Marlin Printer",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "raft_layers": "0",
+        "retraction_length": "0.8",
+        "retraction_speed": "30",
+        "skirt_distance": "2",
+        "skirt_loops": "1",
+        "slow_down_layer_time": "5",
+        "slow_down_min_speed": "10",
+        "sparse_infill_density": "100%",
+        "sparse_infill_line_width": "0.45",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_speed": "45",
+        "support_base_pattern_spacing": "2.5",
+        "support_bottom_z_distance": "0.2",
+        "support_interface_bottom_layers": "2",
+        "support_interface_spacing": "0.5",
+        "support_interface_top_layers": "2",
+        "support_object_xy_distance": "0.35",
+        "support_on_build_plate_only": "1",
+        "support_style": "default",
+        "support_top_z_distance": "0.2",
+        "support_type": "tree(auto)",
+        "top_shell_layers": "5",
+        "top_surface_line_width": "0.42",
+        "top_surface_speed": "30",
+        "travel_acceleration": "1000",
+        "travel_speed": "120",
+        "wall_loops": "5",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "z_hop": "0.4"
+      },
+      "layers": 12,
+      "maximum_layer_z_mm": 2.44,
+      "estimated_time": "42m 43s",
+      "estimated_time_seconds": 2563,
+      "estimated_mass_g": 8.33,
+      "movement_bounds_mm": {
+        "min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.24
+        },
+        "max": {
+          "X": 170.0,
+          "Y": 179.0,
+          "Z": 7.4399999999999995
+        }
+      },
+      "movement_violations": [],
+      "extrusion_features": {
+        "Custom": 1,
+        "Skirt": 36,
+        "Brim": 181,
+        "Inner wall": 192,
+        "Outer wall": 48,
+        "Bottom surface": 556,
+        "Internal solid infill": 5430,
+        "Top surface": 271
+      },
+      "support_used": "false",
+      "outside": "false",
+      "preview": {
+        "path": "laminados/placa-20mm/vista-previa.png",
+        "method": "reconstruccion de segmentos de extrusion del G-code; revision visual por el agente"
+      },
+      "cli_log": "laminados/placa-20mm/orca-cli.log"
+    },
+    {
+      "identity": {
+        "slug": "probeta-silicona",
+        "object": "SiliconeCoupon",
+        "gcode": "VRPSIL.GCO",
+        "rotation_x_deg": 180,
+        "dimensions_mm": [
+          9.500000000000007,
+          10.800000000000008,
+          31.0
+        ],
+        "cad_volume_mm3": 1032.2247993077253
+      },
+      "project": {
+        "path": "probeta-silicona--kp3-winkle-petg.3mf",
+        "bytes": 8368,
+        "sha256": "e0fcf448afcadce382e29a1c7474b72cf615a3273d4535ee5e91e749685d3d15"
+      },
+      "sliced_project": {
+        "path": "laminados/probeta-silicona/probeta-silicona-laminado.3mf",
+        "bytes": 33611,
+        "sha256": "4aba6ea2e79d02866cdcfcf804b601226c9602e1cccc4dd4edfacbbf57466bb7"
+      },
+      "stl": {
+        "path": "modelos/probeta-silicona.stl",
+        "bytes": 3084,
+        "sha256": "8a4628909c0c62b44fe6ba78215f1d76e95d3b155a2a7975ca802231408a0bf9"
+      },
+      "gcode": {
+        "path": "VRPSIL.GCO",
+        "bytes": 272222,
+        "sha256": "dddb079eddd310ae3a115ed5189740972bc2737f4fb5c8a96d17a1a651dfc10b"
+      },
+      "generated_header": "OrcaSlicer 2.4.2 on 2026-10-11 at 17:09:07",
+      "project_settings": {
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "printer_model": "Generic Marlin Printer",
+        "printable_area": [
+          "0x0",
+          "180x0",
+          "180x180",
+          "0x180"
+        ],
+        "printable_height": "180",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": [
+          "0.4"
+        ],
+        "filament_settings_id": [
+          "Winkle PETG Jet Black 1.75 mm"
+        ],
+        "filament_type": [
+          "PETG"
+        ],
+        "filament_diameter": [
+          "1.75"
+        ],
+        "filament_density": [
+          "1.23"
+        ],
+        "print_settings_id": "Veril rebosadero probeta-silicona KP3 PETG",
+        "layer_height": "0.2",
+        "initial_layer_print_height": "0.24",
+        "nozzle_temperature": [
+          "230"
+        ],
+        "nozzle_temperature_initial_layer": [
+          "230"
+        ],
+        "hot_plate_temp": [
+          "70"
+        ],
+        "hot_plate_temp_initial_layer": [
+          "70"
+        ],
+        "filament_flow_ratio": [
+          "1"
+        ],
+        "filament_max_volumetric_speed": [
+          "8"
+        ],
+        "retraction_length": [
+          "0.8"
+        ],
+        "retraction_speed": [
+          "30"
+        ],
+        "deretraction_speed": [
+          "0"
+        ],
+        "z_hop": [
+          "0.4"
+        ],
+        "enable_pressure_advance": [
+          "0"
+        ],
+        "pressure_advance": [
+          "0.02"
+        ],
+        "fan_min_speed": [
+          "100"
+        ],
+        "fan_max_speed": [
+          "100"
+        ],
+        "close_fan_the_first_x_layers": [
+          "1"
+        ],
+        "full_fan_speed_layer": [
+          "2"
+        ],
+        "slow_down_layer_time": [
+          "5"
+        ],
+        "slow_down_min_speed": [
+          "10"
+        ],
+        "wall_loops": "5",
+        "top_shell_layers": "5",
+        "bottom_shell_layers": "6",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_density": "30%",
+        "initial_layer_speed": "20",
+        "initial_layer_infill_speed": "20",
+        "outer_wall_speed": "35",
+        "inner_wall_speed": "45",
+        "sparse_infill_speed": "45",
+        "internal_solid_infill_speed": "40",
+        "top_surface_speed": "30",
+        "bridge_speed": "20",
+        "travel_speed": "120",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "outer_wall_acceleration": "800",
+        "inner_wall_acceleration": "1000",
+        "travel_acceleration": "1000",
+        "bridge_acceleration": "50%",
+        "outer_wall_line_width": "0.42",
+        "inner_wall_line_width": "0.45",
+        "sparse_infill_line_width": "0.45",
+        "internal_solid_infill_line_width": "0.42",
+        "top_surface_line_width": "0.42",
+        "enable_support": "0",
+        "support_type": "tree(auto)",
+        "support_style": "default",
+        "support_on_build_plate_only": "1",
+        "support_top_z_distance": "0.2",
+        "support_bottom_z_distance": "0.2",
+        "support_object_xy_distance": "0.35",
+        "support_interface_top_layers": "2",
+        "support_interface_bottom_layers": "2",
+        "support_base_pattern_spacing": "2.5",
+        "support_interface_spacing": "0.5",
+        "brim_type": "outer_only",
+        "brim_width": "3",
+        "brim_object_gap": "0.1",
+        "raft_layers": "0",
+        "skirt_loops": "1",
+        "skirt_distance": "2",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "elefant_foot_compensation": "0",
+        "print_sequence": "by layer",
+        "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM104 S[first_layer_temperature] ; set nozzle temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all axes\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for nozzle temp\nG92 E0\nG1 Z0.3 F1200\nG1 X5 Y5 F3000\nG1 X170 Y5 E12 F1000\nG92 E0",
+        "machine_end_gcode": "G91 ; relative positioning\nG1 E-1 F2100\nG1 Z5 F1200\nG90 ; absolute positioning\nG1 X0 Y179 F3000\nM104 S0 ; turn off hotend\nM140 S0 ; turn off bed\nM107 ; turn off fan\nM84 ; disable motors"
+      },
+      "effective_gcode_settings": {
+        "bottom_shell_layers": "6",
+        "bridge_acceleration": "50%",
+        "bridge_speed": "20",
+        "brim_object_gap": "0.1",
+        "brim_type": "outer_only",
+        "brim_width": "3",
+        "close_fan_the_first_x_layers": "1",
+        "default_acceleration": "1000",
+        "deretraction_speed": "0",
+        "elefant_foot_compensation": "0",
+        "enable_pressure_advance": "0",
+        "enable_support": "0",
+        "fan_max_speed": "100",
+        "fan_min_speed": "100",
+        "filament_density": "1.23",
+        "filament_diameter": "1.75",
+        "filament_flow_ratio": "1",
+        "filament_max_volumetric_speed": "8",
+        "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+        "filament_type": "PETG",
+        "full_fan_speed_layer": "2",
+        "gcode_flavor": "marlin",
+        "hot_plate_temp": "70",
+        "hot_plate_temp_initial_layer": "70",
+        "initial_layer_acceleration": "500",
+        "initial_layer_infill_speed": "20",
+        "initial_layer_print_height": "0.24",
+        "initial_layer_speed": "20",
+        "inner_wall_acceleration": "1000",
+        "inner_wall_line_width": "0.45",
+        "inner_wall_speed": "45",
+        "internal_solid_infill_line_width": "0.42",
+        "internal_solid_infill_speed": "40",
+        "layer_height": "0.2",
+        "machine_end_gcode": "G91 ; relative positioning\\nG1 E-1 F2100\\nG1 Z5 F1200\\nG90 ; absolute positioning\\nG1 X0 Y179 F3000\\nM104 S0 ; turn off hotend\\nM140 S0 ; turn off bed\\nM107 ; turn off fan\\nM84 ; disable motors",
+        "machine_start_gcode": "G90 ; use absolute coordinates\\nM83 ; extruder relative mode\\nM104 S[first_layer_temperature] ; set nozzle temp\\nM140 S[first_layer_bed_temperature] ; set bed temp\\nG28 ; home all axes\\nM190 S[first_layer_bed_temperature] ; wait for bed temp\\nM109 S[first_layer_temperature] ; wait for nozzle temp\\nG92 E0\\nG1 Z0.3 F1200\\nG1 X5 Y5 F3000\\nG1 X170 Y5 E12 F1000\\nG92 E0",
+        "nozzle_diameter": "0.4",
+        "nozzle_temperature": "230",
+        "nozzle_temperature_initial_layer": "230",
+        "outer_wall_acceleration": "800",
+        "outer_wall_line_width": "0.42",
+        "outer_wall_speed": "35",
+        "pressure_advance": "0.02",
+        "print_sequence": "by layer",
+        "print_settings_id": "Veril rebosadero probeta-silicona KP3 PETG",
+        "printable_area": "0x0,180x0,180x180,0x180",
+        "printable_height": "180",
+        "printer_model": "Generic Marlin Printer",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "raft_layers": "0",
+        "retraction_length": "0.8",
+        "retraction_speed": "30",
+        "skirt_distance": "2",
+        "skirt_loops": "1",
+        "slow_down_layer_time": "5",
+        "slow_down_min_speed": "10",
+        "sparse_infill_density": "30%",
+        "sparse_infill_line_width": "0.45",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_speed": "45",
+        "support_base_pattern_spacing": "2.5",
+        "support_bottom_z_distance": "0.2",
+        "support_interface_bottom_layers": "2",
+        "support_interface_spacing": "0.5",
+        "support_interface_top_layers": "2",
+        "support_object_xy_distance": "0.35",
+        "support_on_build_plate_only": "1",
+        "support_style": "default",
+        "support_top_z_distance": "0.2",
+        "support_type": "tree(auto)",
+        "top_shell_layers": "5",
+        "top_surface_line_width": "0.42",
+        "top_surface_speed": "30",
+        "travel_acceleration": "1000",
+        "travel_speed": "120",
+        "wall_loops": "5",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "z_hop": "0.4"
+      },
+      "layers": 155,
+      "maximum_layer_z_mm": 31.04,
+      "estimated_time": "15m 1s",
+      "estimated_time_seconds": 901,
+      "estimated_mass_g": 1.29,
+      "movement_bounds_mm": {
+        "min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.24
+        },
+        "max": {
+          "X": 170.0,
+          "Y": 179.0,
+          "Z": 36.04
+        }
+      },
+      "movement_violations": [],
+      "extrusion_features": {
+        "Custom": 1,
+        "Skirt": 33,
+        "Brim": 279,
+        "Inner wall": 3463,
+        "Outer wall": 1352,
+        "Internal solid infill": 83,
+        "Top surface": 8
+      },
+      "support_used": "false",
+      "outside": "false",
+      "preview": {
+        "path": "laminados/probeta-silicona/vista-previa.png",
+        "method": "reconstruccion de segmentos de extrusion del G-code; revision visual por el agente"
+      },
+      "cli_log": "laminados/probeta-silicona/orca-cli.log"
+    }
+  ]
+}

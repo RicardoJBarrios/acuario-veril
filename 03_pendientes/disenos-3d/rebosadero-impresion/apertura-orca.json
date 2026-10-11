@@ -1,0 +1,35 @@
+[
+  {
+    "project": "estructura--kp3-winkle-petg.3mf",
+    "datadir": "/var/folders/s2/yc4_tj_j3dscy8fzvs6dhs040000gn/T/veril-rebosadero-orca-gui-52v232md",
+    "dialogs": "{\"status\": \"ok\", \"app_seen\": true, \"dismissed\": [\"Perfil Personalizado\"]}",
+    "windows": "Asistente de Configuraci\u00f3n, estructura--kp3-winkle-petg",
+    "window_error": "",
+    "opened": false,
+    "note": "Arranque inicial mostr\u00f3 asistente; no se complet\u00f3 ni se modific\u00f3 configuraci\u00f3n global."
+  },
+  {
+    "project": "laminados/estructura/estructura-laminado.3mf",
+    "datadir": "/var/folders/s2/yc4_tj_j3dscy8fzvs6dhs040000gn/T/veril-rebosadero-orca-gui-inicializado-__wkwil5",
+    "dialogs": "{\"status\": \"ok\", \"app_seen\": true, \"dismissed\": [\"Perfil Personalizado\"]}",
+    "pid": 42060,
+    "windows": "estructura-laminado",
+    "opened": true
+  },
+  {
+    "project": "laminados/placa-20mm/placa-20mm-laminado.3mf",
+    "datadir": "/var/folders/s2/yc4_tj_j3dscy8fzvs6dhs040000gn/T/veril-rebosadero-orca-gui-inicializado-a7yxefqz",
+    "pid": 43579,
+    "dialogs": "{\"status\": \"ok\", \"app_seen\": true, \"dismissed\": [\"Perfil Personalizado\"]}",
+    "windows": "placa-20mm-laminado",
+    "opened": true
+  },
+  {
+    "project": "laminados/probeta-silicona/probeta-silicona-laminado.3mf",
+    "datadir": "/var/folders/s2/yc4_tj_j3dscy8fzvs6dhs040000gn/T/veril-rebosadero-orca-gui-inicializado-75ru12ep",
+    "pid": 43675,
+    "dialogs": "{\"status\": \"ok\", \"app_seen\": true, \"dismissed\": [\"Perfil Personalizado\"]}",
+    "windows": "probeta-silicona-laminado",
+    "opened": true
+  }
+]

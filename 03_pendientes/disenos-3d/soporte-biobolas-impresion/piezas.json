@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "modulo",
+    "gcode": "VBMOD.GCO",
+    "object": "SupportModule",
+    "count": 2
+  },
+  {
+    "slug": "tapa",
+    "gcode": "VBTAPA.GCO",
+    "object": "LidAssembly",
+    "count": 1
+  },
+  {
+    "slug": "inserto",
+    "gcode": "VBINS.GCO",
+    "object": "MicrofaunaInsert",
+    "count": 2
+  },
+  {
+    "slug": "probeta-mastil",
+    "gcode": "VBMAST.GCO",
+    "object": "CouponMastX",
+    "count": 1
+  },
+  {
+    "slug": "probeta-agujero",
+    "gcode": "VBHOLE.GCO",
+    "object": "CouponHoleGauge",
+    "count": 1
+  },
+  {
+    "slug": "probeta-gancho",
+    "gcode": "VBHOOK.GCO",
+    "object": "CouponSnapMale",
+    "count": 1
+  },
+  {
+    "slug": "probeta-receptor",
+    "gcode": "VBRCVR.GCO",
+    "object": "CouponSnapReceiver",
+    "count": 1
+  },
+  {
+    "slug": "probeta-cristal",
+    "gcode": "VBCGLS.GCO",
+    "object": "GlassFitCut03",
+    "count": 1
+  },
+  {
+    "slug": "probeta-cristal-ajuste",
+    "gcode": "VBCGL2.GCO",
+    "object": "GlassFitTightCut03",
+    "count": 1
+  }
+]

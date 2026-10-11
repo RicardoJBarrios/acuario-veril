@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "modulo",
+    "windows": "Open, tapa-laminado",
+    "dialogs": [],
+    "opened": false
+  },
+  {
+    "slug": "tapa",
+    "windows": "tapa-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "inserto",
+    "windows": "inserto-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "probeta-mastil",
+    "windows": "probeta-mastil-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "probeta-agujero",
+    "windows": "probeta-agujero-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "probeta-gancho",
+    "windows": "probeta-gancho-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "probeta-receptor",
+    "windows": "probeta-receptor-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "modulo",
+    "windows": "modulo-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "tapa",
+    "windows": "tapa-laminado",
+    "dialogs": [
+      "Perfil Personalizado"
+    ],
+    "opened": true
+  },
+  {
+    "slug": "probeta-cristal",
+    "windows": "probeta-cristal--kp3-winkle-petg",
+    "dialogs": [],
+    "opened": true
+  },
+  {
+    "slug": "probeta-cristal-ajuste-laminado",
+    "windows": "probeta-cristal-ajuste-laminado",
+    "dialogs": [],
+    "opened": true
+  },
+  {
+    "slug": "probeta-cristal-ajuste",
+    "windows": "probeta-cristal-ajuste--kp3-winkle-petg",
+    "dialogs": [],
+    "opened": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "estructura",
+    "object": "Body",
+    "gcode": "VRREBO.GCO",
+    "rotation_x_deg": 180,
+    "dimensions_mm": [
+      139.0,
+      25.200000000025618,
+      178.39999999999998
+    ],
+    "cad_volume_mm3": 78678.32081425842
+  },
+  {
+    "slug": "placa-20mm",
+    "object": "GatePlate",
+    "gcode": "VRPL20.GCO",
+    "rotation_x_deg": 90,
+    "dimensions_mm": [
+      133.6,
+      20.000000000000004,
+      2.400000000000003
+    ],
+    "cad_volume_mm3": 6412.8
+  },
+  {
+    "slug": "probeta-silicona",
+    "object": "SiliconeCoupon",
+    "gcode": "VRPSIL.GCO",
+    "rotation_x_deg": 180,
+    "dimensions_mm": [
+      9.500000000000007,
+      10.800000000000008,
+      31.0
+    ],
+    "cad_volume_mm3": 1032.2247993077253
+  }
+]
