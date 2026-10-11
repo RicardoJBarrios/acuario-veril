@@ -17,7 +17,7 @@ una opción digital adicional, no una necesidad inmediata.
 
 ### Consumibles y equipo que tengo que completar
 
-- **Calentador:** (≈35 €). Aquael Ultra Heater 75w
+- **Calentador:** (≈35 €). Aquael Ultra Heater 75w ó 100w (cualquiera vale)
 - **Aquaforest Reef Salt 10 kg** (≈35 €). Consumible que volveré a necesitar.
 - **XEPTA RODI RESIN, 1.000 ml** (≈20 €). Resina para el sisrema RO-DI (purificación de agua)
 
@@ -31,7 +31,7 @@ una opción digital adicional, no una necesidad inmediata.
 
 - **Líquido calibrador refractómetro** (≈10 €), patrón de **35 ppt**.
 - **Bomba sumergible barata** (≈10-15 €) para mezclar la sal y boba de apoyo.
-- **Calentador** (≈10-15 €), 50W con termostato, para calentar la mezcla de sal (10-15 L).
+- **Calentador barato** (≈10-15 €), 50W con termostato, para calentar la mezcla de sal (10-15 L).
 
 ### Microfauna viva
 
