@@ -20,6 +20,11 @@ una opción digital adicional, no una necesidad inmediata.
 - **Calentador:** (≈35 €). Aquael Ultra Heater 75w
 - **Aquaforest Reef Salt 10 kg** (≈35 €). Consumible que volveré a necesitar.
 - **XEPTA RODI RESIN, 1.000 ml** (≈20 €). Resina para el sisrema RO-DI (purificación de agua)
+
+**Equipo:**
+
+- **Tapa acuario:** D-D Jumpguard PRO DIY Aquarium Cover 75x75 (≈42 €)
+- **Comedero tapa:** D-D Jumpguard Feeding Portal (≈7 €)
 - **Base múltiple LEGRAND de 6 enchufes con SAI de 800 VA** (≈120 €) en Leroy Merlin.
 
 ### Preparación y control del agua

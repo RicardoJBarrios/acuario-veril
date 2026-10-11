@@ -1,17 +1,19 @@
 # Soporte modular de biobolas y tapa de suspensión
 
 Revisión CAD y laminado del 11 de octubre de 2026. Estado: **probetas impresas;
-encajes individuales comprobados cualitativamente; conjunto funcional y prueba
-de carga pendientes**. Este diseño
-permanece en pendientes y no representa una instalación validada en Veril.
+el primer prototipo de tapa se rompió al retirar sus soportes; la variante
+base-en-cama está laminada y pendiente de impresión y prueba de carga**. El
+conjunto funcional no está aceptado ni representa una instalación validada en
+Veril.
 
 ## Objetivo y referencias
 
 Cada módulo es una pieza monolítica para 20 biobolas Mantis, distribuidas en
 cuatro mástiles X con cinco bolas por mástil. Dos módulos idénticos e
-intercambiables reúnen las 40 bolas adquiridas. La tapa de suspensión se
-diseña como prototipo CAD a partir de esta interfaz; aún no está impresa ni
-validada en el acuario.
+intercambiables reúnen las 40 bolas adquiridas. El primer prototipo de tapa se
+imprimió, pero se rompió durante la retirada de los soportes, según comunica el
+propietario. Se conserva el laminado fallido y se ha preparado una variante
+paramétrica separada para imprimir con la base sobre la cama y sin soportes.
 
 Se conservan la altura de bola de 29 mm elegida por el propietario, el diámetro
 exterior de 31 mm y el paso lateral de 36,5 mm. El peso declarado es de unos
@@ -257,15 +259,42 @@ referencia del acolchado y quedan separados del cuerpo imprimible.
 | Envolvente de la tapa | 94,5 × 81 × 74 mm |
 
 El grosor nominal de 6 mm y el canto a Z=390 mm proceden del modelo de C1. La
-probeta de 6 mm ha encajado en el vidrio real con margen estrecho, pero no se ha
-medido su grosor exacto ni se ha probado la silla con el acolchado previsto.
-Antes de usar la tapa hay que confirmar el espacio exterior, el acolchado y el
-recorrido de extracción. Las recetas están preparadas y las probetas impresas;
-la tapa funcional y su ensayo de carga siguen pendientes. La comprobación del
-CAD no determina la
-resistencia del vidrio ni la del PETG impreso, su fluencia o la distribución
-real entre los cuatro cierres. La prueba debe incluir el conjunto completo
-fuera del acuario, con la carga real y los contactos que reaccionan al giro.
+probeta de 6 mm ha entrado en el vidrio real con margen muy estrecho, pero no se
+midió el espesor con instrumento de precisión. La nueva abertura de 6,5 mm no
+se ha probado todavía en la silla de la tapa. El primer prototipo se imprimió,
+pero se rompió al retirar sus soportes; la variante actual aún debe imprimirse.
+Después habrá que revisar el contacto con el vidrio y ensayar el conjunto
+completo fuera del acuario con la carga real y las reacciones al giro. El CAD no
+determina la resistencia del vidrio ni del PETG impreso, su fluencia o cómo se
+reparte la carga entre los cuatro cierres.
+
+### Variante paramétrica para imprimir la tapa sin soportes
+
+El propietario comunicó una abertura interior de 9 mm en el gancho sobre el
+cristal. Confirmó que no instalará almohadillas y pidió dejar 6,5 mm para el
+vidrio nominal de 6 mm. El archivo original
+[soporte-biobolas.FCStd](soporte-biobolas.FCStd) queda intacto. El derivado
+[soporte-biobolas-tapa-fdm.FCStd](soporte-biobolas-tapa-fdm.FCStd) modifica la
+hoja `LidParameters` y elimina del duplicado los volúmenes de referencia de
+acolchado:
+
+| Parámetro de la variante | Valor |
+| --- | ---: |
+| Grosor nominal de vidrio | 6 mm |
+| Almohadilla | 0 mm; sin acolchado |
+| Holgura por cara | 0,25 mm |
+| Abertura interior resultante | 6,5 mm |
+| Grosor de la pared exterior del gancho | 3,2 mm, antes 6 mm |
+| Borde inferior de las cartelas | 325 mm, alineado con `seatZ` |
+| Envolvente de la pieza | 90,45 × 81 × 73 mm |
+
+La pared de 3,2 mm es una primera reducción candidata, todavía sin ensayo de
+carga. Alinear el borde inferior de las cartelas con el plano de la base hace
+que esa zona apoye en la cama y evita el puente inferior de unos 73 mm presente
+en la primera prueba de orientación. El laminado final desactiva soportes, pero
+mantiene un puente de hasta aproximadamente 55 mm en la silla del cristal. Su
+acabado y la abertura de 6,5 mm requieren prueba física; el cálculo CAD no
+valida el ajuste ni la resistencia.
 
 ## Insertos desmontables para microfauna
 
@@ -354,7 +383,8 @@ retirarse si dificulta el mantenimiento o el paso de agua.
 - [Sección de la unión](soporte-biobolas-union-seccion.png): vista de inspección,
   sin incorporar sus recortes temporales al FCStd ni a los STL
 
-Los STL, incluido el calibre de cristal, se regeneran desde esta revisión del FCStd.
+Los STL originales, incluido el calibre de cristal, se regeneran desde la revisión
+original del FCStd. El derivado FDM de la tapa y su malla se conservan aparte.
 Los STL no contienen perfiles de laminado ni constituyen evidencia de una impresión
 o una prueba de carga.
 La tapa, los insertos y ambas series de la probeta de cristal disponen de mallas y laminados en
@@ -363,12 +393,13 @@ La tapa, los insertos y ambas series de la probeta de cristal disponen de mallas
 ## Laminado candidato
 
 El [informe y los archivos de impresión](soporte-biobolas-impresion/README.md)
-contienen nueve proyectos independientes: módulo, tapa, inserto, cuatro tipos
+contienen diez proyectos independientes: módulo, dos versiones de tapa, inserto, cuatro tipos
 de probeta de unión y dos variantes de probeta de cristal. Cada archivo imprime
 una unidad. Para el conjunto se necesitan
 dos módulos, una tapa y dos insertos. La entrega usa Kingroon KP3
 `KP3-3DP180`, boquilla de 0,4 mm y Winkle PETG Jet Black de 1,75 mm, con recetas
 candidatas de OrcaSlicer 2.4.2. El informe conserva los perfiles efectivos,
 orientaciones, soportes, estimaciones, sumas y límites. Las probetas se han
-impreso y sus encajes individuales se han comprobado; las piezas funcionales,
-la carga y el uso en húmedo siguen pendientes.
+impreso y sus encajes individuales se han comprobado. La primera tapa falló al
+retirar los soportes; la nueva variante aún debe imprimirse y probarse antes de
+evaluar la carga y el uso en húmedo.

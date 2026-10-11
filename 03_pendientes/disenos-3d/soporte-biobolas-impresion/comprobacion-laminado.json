@@ -1991,6 +1991,232 @@
       },
       "gcode_header_generated_at": "2026-10-11 at 10:22:39",
       "source_fcstd_sha256": "dcad9e51075f0557c13f14d363be6fb3ff2534c6526cc75a21f5a71011551390"
+    },
+    {
+      "slug": "tapa-base-cama",
+      "gcode": "VBTAPB.GCO",
+      "object": "LidAssembly",
+      "count": 1,
+      "time": "5h 36m 33s",
+      "grams": 60.66,
+      "layers": 365,
+      "xyz_min": [
+        0.0,
+        5.0,
+        0.3
+      ],
+      "xyz_max": [
+        170.0,
+        179.0,
+        73.44
+      ],
+      "arc_moves": 0,
+      "types": [
+        "Bottom surface",
+        "Bridge",
+        "Brim",
+        "Custom",
+        "Inner wall",
+        "Internal Bridge",
+        "Internal solid infill",
+        "Outer wall",
+        "Overhang wall",
+        "Skirt",
+        "Sparse infill",
+        "Top surface"
+      ],
+      "gcode_bytes": 8439120,
+      "gcode_sha256": "12b01eca4eda821e864014e660f727c9985fea1ace660f2304a6a8631973a202",
+      "project": "laminados/tapa-base-cama/tapa-base-cama-laminado.3mf",
+      "project_sha256": "7279e6c6d3b7107a083b46bc8b4582bf7f1da7c5bfc748be3f74ab6dc77820ad",
+      "input_project": "tapa-base-cama--kp3-winkle-petg.3mf",
+      "input_sha256": "fb9c7c64e7bb2498c7f37ac975e95ea6a8b95f18383dc171c8fafdb65fdda975",
+      "stl_sha256": "215414b098116d94ab8c50a767d3a8874a3414b1037d9a32823362f18c3b43a3",
+      "settings": {
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "printer_model": "Generic Marlin Printer",
+        "filament_settings_id": [
+          "Winkle PETG Jet Black 1.75 mm"
+        ],
+        "print_settings_id": "Veril tapa base en cama 6.5 mm KP3 PETG candidato sin soportes",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": [
+          "0.4"
+        ],
+        "filament_diameter": [
+          "1.75"
+        ],
+        "filament_density": [
+          "1.23"
+        ],
+        "filament_flow_ratio": [
+          "1"
+        ],
+        "filament_max_volumetric_speed": [
+          "8"
+        ],
+        "nozzle_temperature": [
+          "230"
+        ],
+        "nozzle_temperature_initial_layer": [
+          "230"
+        ],
+        "hot_plate_temp": [
+          "70"
+        ],
+        "hot_plate_temp_initial_layer": [
+          "70"
+        ],
+        "layer_height": "0.2",
+        "initial_layer_print_height": "0.24",
+        "wall_loops": "6",
+        "top_shell_layers": "5",
+        "bottom_shell_layers": "6",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_density": "40%",
+        "initial_layer_speed": "20",
+        "initial_layer_infill_speed": "20",
+        "outer_wall_speed": "35",
+        "inner_wall_speed": "45",
+        "internal_solid_infill_speed": "40",
+        "sparse_infill_speed": "45",
+        "top_surface_speed": "30",
+        "bridge_speed": "20",
+        "travel_speed": "120",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "outer_wall_acceleration": "800",
+        "inner_wall_acceleration": "1000",
+        "travel_acceleration": "1000",
+        "bridge_acceleration": "50%",
+        "retraction_length": [
+          "0.8"
+        ],
+        "retraction_speed": [
+          "30"
+        ],
+        "deretraction_speed": [
+          "0"
+        ],
+        "enable_pressure_advance": [
+          "0"
+        ],
+        "pressure_advance": [
+          "0.02"
+        ],
+        "fan_min_speed": [
+          "100"
+        ],
+        "fan_max_speed": [
+          "100"
+        ],
+        "close_fan_the_first_x_layers": [
+          "1"
+        ],
+        "full_fan_speed_layer": [
+          "2"
+        ],
+        "enable_support": "0",
+        "support_type": "normal(auto)",
+        "support_style": "snug",
+        "support_on_build_plate_only": "0",
+        "support_top_z_distance": "0.2",
+        "support_bottom_z_distance": "0.2",
+        "support_interface_top_layers": "2",
+        "support_base_pattern_spacing": "2.5",
+        "support_interface_spacing": "0.5",
+        "support_object_xy_distance": "0.35",
+        "brim_type": "outer_only",
+        "brim_width": "5",
+        "brim_object_gap": "0.1",
+        "elefant_foot_compensation": "0",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0",
+        "print_sequence": "by layer",
+        "line_width": "0.42",
+        "outer_wall_line_width": "0.42",
+        "inner_wall_line_width": "0.45",
+        "printable_area": [
+          "0x0",
+          "180x0",
+          "180x180",
+          "0x180"
+        ],
+        "printable_height": "180"
+      },
+      "effective_gcode_settings": {
+        "bottom_shell_layers": "6",
+        "bridge_acceleration": "50%",
+        "bridge_speed": "20",
+        "brim_object_gap": "0.1",
+        "brim_type": "outer_only",
+        "brim_width": "5",
+        "close_fan_the_first_x_layers": "1",
+        "default_acceleration": "1000",
+        "deretraction_speed": "0",
+        "elefant_foot_compensation": "0",
+        "enable_pressure_advance": "0",
+        "enable_support": "0",
+        "fan_max_speed": "100",
+        "fan_min_speed": "100",
+        "filament_density": "1.23",
+        "filament_diameter": "1.75",
+        "filament_flow_ratio": "1",
+        "filament_max_volumetric_speed": "8",
+        "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+        "full_fan_speed_layer": "2",
+        "gcode_flavor": "marlin",
+        "hot_plate_temp": "70",
+        "hot_plate_temp_initial_layer": "70",
+        "initial_layer_acceleration": "500",
+        "initial_layer_infill_speed": "20",
+        "initial_layer_print_height": "0.24",
+        "initial_layer_speed": "20",
+        "inner_wall_acceleration": "1000",
+        "inner_wall_line_width": "0.45",
+        "inner_wall_speed": "45",
+        "internal_solid_infill_speed": "40",
+        "layer_height": "0.2",
+        "line_width": "0.42",
+        "nozzle_diameter": "0.4",
+        "nozzle_temperature": "230",
+        "nozzle_temperature_initial_layer": "230",
+        "outer_wall_acceleration": "800",
+        "outer_wall_line_width": "0.42",
+        "outer_wall_speed": "35",
+        "pressure_advance": "0.02",
+        "print_sequence": "by layer",
+        "print_settings_id": "Veril tapa base en cama 6.5 mm KP3 PETG candidato sin soportes",
+        "printable_area": "0x0,180x0,180x180,0x180",
+        "printable_height": "180",
+        "printer_model": "Generic Marlin Printer",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "retraction_length": "0.8",
+        "retraction_speed": "30",
+        "sparse_infill_density": "40%",
+        "sparse_infill_pattern": "gyroid",
+        "sparse_infill_speed": "45",
+        "support_base_pattern_spacing": "2.5",
+        "support_bottom_z_distance": "0.2",
+        "support_interface_spacing": "0.5",
+        "support_interface_top_layers": "2",
+        "support_object_xy_distance": "0.35",
+        "support_on_build_plate_only": "0",
+        "support_style": "snug",
+        "support_top_z_distance": "0.2",
+        "support_type": "normal(auto)",
+        "top_shell_layers": "5",
+        "top_surface_speed": "30",
+        "travel_acceleration": "1000",
+        "travel_speed": "120",
+        "wall_loops": "6",
+        "xy_contour_compensation": "0",
+        "xy_hole_compensation": "0"
+      },
+      "gcode_header_generated_at": "2026-10-11 at 20:40:56",
+      "source_fcstd": "../soporte-biobolas-tapa-fdm.FCStd",
+      "source_fcstd_sha256": "b7c05bc6e259637ee972fc346ae444f109d5d5204fa52e668dda0f27aa6bf34a",
+      "status": "candidato sin soportes; pendiente de impresión física"
     }
   ],
   "current_source_fcstd_sha256": "dcad9e51075f0557c13f14d363be6fb3ff2534c6526cc75a21f5a71011551390"

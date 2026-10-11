@@ -43,6 +43,7 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [9 de octubre: Compra en EliteReef y medidas de las biobolas Mantis](2026/10/2026-10-09-compra-elitereef.md)
 - [10 de octubre: Compra de material para el acuario](2026/10/2026-10-10-compra-material-acuario.md)
 - [11 de octubre: Activación del AF Bio Sand](2026/10/2026-10-11-activacion-af-bio-sand.md)
+- [11 de octubre: Rotura de la tapa al retirar soportes](2026/10/2026-10-11-rotura-tapa-soporte-biobolas.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

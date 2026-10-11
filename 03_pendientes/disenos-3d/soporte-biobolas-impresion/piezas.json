@@ -12,6 +12,12 @@
     "count": 1
   },
   {
+    "slug": "tapa-base-cama",
+    "gcode": "VBTAPB.GCO",
+    "object": "LidAssembly",
+    "count": 1
+  },
+  {
     "slug": "inserto",
     "gcode": "VBINS.GCO",
     "object": "MicrofaunaInsert",
