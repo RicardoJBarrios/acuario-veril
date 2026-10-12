@@ -16,10 +16,10 @@ La variante general de ciclado sin peces está documentada en [la ficha de proce
 
 ### Decisiones
 
-- [Referencia de Elite Reef e inoculación previa](decisiones/referencia-elite-reef-e-inoculacion-previa.md): Mantis confirmado como material adicional, con cantidad y disposición pendientes; inoculación previa con FritzZyme 9 para favorecer la colonización, a la espera de la pauta consultada a Elite Reef.
+- [Referencia de Elite Reef e inoculación previa](decisiones/referencia-elite-reef-e-inoculacion-previa.md): Mantis confirmado como material adicional; las 40 piezas están temporalmente en bolsas D-D en C1 hasta que los soportes estén operativos. La pauta de inoculación previa con FritzZyme 9 sigue documentada por separado de la receta completa.
 - [Receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md)
 
-La receta combinada conserva el plan completo anterior. La elección de Mantis como material adicional está confirmada. La inoculación previa busca favorecer la colonización de la roca durante la espera; su pauta está pendiente de respuesta de Elite Reef. Ninguna de estas decisiones acredita una actuación realizada.
+La receta combinada conserva el plan completo anterior e incorpora Mantis como medio adicional en C1. Su disposición actual en bolsas está comunicada como temporal; no acredita por sí sola colonización o capacidad nitrificante. La inoculación previa busca favorecer la colonización de la roca durante la espera y se mantiene separada de la dosificación del ciclado.
 
 ### Plan
 
@@ -36,3 +36,7 @@ La ruta vigente mantiene la roca sin arena durante una fase previa de limpieza y
 El ciclado demuestra una capacidad nitrificante frente a una carga conocida. La maduración posterior observa la estabilidad del sistema, la colonización, la sucesión biológica y la respuesta a incorporaciones pequeñas.
 
 Ninguna lectura aislada, fecha o apariencia visual sustituye la separación entre ambas fases.
+
+## Estado de la fase inicial
+
+La incorporación de AF Bio Sand y el inicio de la inoculación se realizaron el 12 de octubre de 2026. Las cantidades, lecturas y desviación del orden previsto están registradas en la [operación del 12 de octubre](../../04_operaciones/2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md). El seguimiento continúa conforme al runbook.

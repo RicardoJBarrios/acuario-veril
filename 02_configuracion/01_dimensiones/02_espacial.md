@@ -10,9 +10,9 @@ La composición combinará estructura rocosa, espacio negativo y sustrato libre 
 
 **Adoptado:** La aplicación espacial de Veril utiliza la composición instalada en la [operación del 5 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md), con masa principal posterior derecha, terraza, paso central, islas, futura playa y espacio negativo funcional.
 
-**Previsto:** La profundidad del sustrato y la distribución de las superficies se ajustarán sobre la composición instalada, sin utilizar la arena como apoyo estructural.
+**Adoptado:** Cama regular de AF Bio Sand con una profundidad objetivo aproximada de 3 cm, sin utilizar la arena como apoyo estructural.
 
-**Pendiente:** Aún deben comprobarse la estabilidad final, los apoyos, la accesibilidad, la profundidad real del sustrato y la conservación de las rutas, playas, canales y espacios negativos.
+**Pendiente:** Tras el asentamiento, repartir y comprobar la profundidad uniforme. También deben comprobarse la estabilidad final, los apoyos, la accesibilidad y la conservación de las rutas, playas, canales y espacios negativos.
 
 La formación rocosa tendrá su mayor altura y complejidad en la zona posterior derecha, junto al compartimento técnico, y descenderá y se fragmentará hacia el centro y la izquierda. Se organizará mediante:
 
@@ -107,7 +107,7 @@ La altura de la estructura se medirá desde la cara superior del fondo de vidrio
 | Islas | 70–130 mm |
 | Límite excepcional de la estructura | Aproximadamente 260 mm |
 
-Con una capa general de arena de **20–30 mm**, la masa principal quedará aproximadamente **190–220 mm por encima del sustrato** y conservará unos **150–170 mm hasta la superficie** en su punto más alto. La masa principal descenderá hacia el centro y la izquierda; no se buscará una altura uniforme ni una estructura que alcance el borde superior.
+Con la cama adoptada de aproximadamente **30 mm**, la masa principal queda unos **180 mm por encima del sustrato** y conserva aproximadamente **160 mm hasta la superficie** en su punto más alto. La masa principal desciende hacia el centro y la izquierda; no se busca una altura uniforme ni una estructura que alcance el borde superior.
 
 Estos valores son objetivos de diseño y no una regla universal de colocación de corales. Se han elegido para dejar reserva para el crecimiento, el movimiento del agua, la observación y el mantenimiento. La altura final se revisará cuando se conozca la comunidad concreta y se realice la prueba con las piezas disponibles.
 
@@ -120,16 +120,16 @@ El volumen del display se estima separando la columna de agua de la arena y del 
 | Largo interior | 594 mm |
 | Ancho interior | 308 mm |
 | Altura desde el fondo de vidrio hasta el borde | 390 mm |
-| Capa de arena prevista | 20 mm |
+| Capa de arena adoptada | 30 mm |
 | Margen superior sin agua | 20 mm |
-| Altura de columna de agua calculada | 350 mm |
-| Volumen de agua antes de colocar la roca | 64,03 L |
+| Altura de columna de agua calculada | 340 mm |
+| Volumen geométrico de agua antes de colocar la roca | 62,20 L |
 
 La operación es:
 
 ```text
-Altura de agua = 390 − 20 − 20 = 350 mm
-Volumen bruto de agua del display = 594 × 308 × 350 / 1.000.000 = 64,03 L
+Altura de agua = 390 − 30 − 20 = 340 mm
+Volumen bruto de agua del display = 594 × 308 × 340 / 1.000.000 = 62,20 L
 ```
 
 El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026**, al retirar la roca, bajó 12 mm el nivel del display y el propietario confirmó después el mismo descenso en Entrada; Skimmer no bajó. Con áreas interiores de 594 × 308 mm y 139 × 86 mm, el desplazamiento inferido es **2,339 L**. El cálculo excluye la cámara Skimmer, que no cambió de nivel, y omite el orificio circular Display–Entrada por no tener una medida volumétrica exacta. El resultado sustituye la estimación anterior de 4–5 L basada en el peso. Sigue condicionado a que durante la comparación no hubiera reposición ni transferencia neta de agua con Retorno. Véase el [registro de la operación](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
@@ -137,10 +137,10 @@ El peso de la roca no permite deducir por sí solo el volumen exterior desplazad
 Con el desplazamiento medido como aproximación, resulta:
 
 ```text
-Volumen calculado del display = 64,03 − 2,339 = aproximadamente 61,69 L
+Volumen calculado del display = 62,20 − 2,339 = aproximadamente 59,86 L
 ```
 
-El valor detallado de 61,69 L es una estimación geométrica para un escenario de diseño, no una medición de litros incorporados. La convención simplificada de Veril redondea el display con arena a **60 L** y el sistema completo, incluidas las cámaras técnicas, a **75 L**. El cálculo del sistema consta en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md); sus límites —incluido el nivel objetivo de Retorno aún no comprobado con ATO y el desplazamiento pendiente de tubo y otros elementos— se conservan como contexto, sin alterar los valores nominales adoptados. No deben confundirse con los **96 L geométricos brutos** ni con el volumen realmente introducido durante el llenado, que no se midió.
+El valor detallado de 59,86 L es una estimación geométrica para un escenario de diseño con 30 mm de arena y 20 mm de margen superior, no una medición de litros incorporados. La convención simplificada de Veril redondea el display con arena a **60 L** y el sistema completo, incluidas las cámaras técnicas, a **75 L**. El cálculo del sistema consta en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md); sus límites —incluido el nivel objetivo de Retorno aún no comprobado con ATO y el desplazamiento pendiente de tubo y otros elementos— se conservan como contexto, sin alterar los valores nominales adoptados. No deben confundirse con los **96 L geométricos brutos** ni con el volumen realmente introducido durante el llenado, que no se midió.
 
 **Convención nominal vigente:** a todos los efectos prácticos y para simplificar los cálculos de Veril, se hablará de **75 L para el sistema completo** y **60 L para el display**. Se usarán como valores por defecto en referencias, comparaciones y dosificaciones, hasta que el propietario indique expresamente otra base. Son volúmenes aproximados adoptados, no una medición exacta. Los cálculos detallados y sus incertidumbres quedan como respaldo y no sustituyen esta convención. El volumen del display no debe confundirse con el volumen total del sistema.
 
@@ -162,17 +162,21 @@ En la composición montada sobre la plantilla del display se han marcado los má
 | Pata izquierda | 100 mm |
 | Isla independiente | 80 mm |
 
-La capa prevista de arena es de aproximadamente **20 mm**. Por tanto, la altura visible de la base superior será de unos **190 mm sobre el sustrato**, y las de la terraza media, la pata izquierda y la isla serán aproximadamente de **130–80 mm**, **80 mm** y **60 mm**, respectivamente, según la posición final de la arena.
+La capa adoptada de arena es de aproximadamente **30 mm**. Por tanto, la altura visible de la base superior será de unos **180 mm sobre el sustrato**, y las de la terraza media, la pata izquierda y la isla serán aproximadamente de **120–70 mm**, **70 mm** y **50 mm**, respectivamente, según la distribución final de la arena.
 
 Estas medidas de referencia sitúan el punto más alto ligeramente por debajo del rango preferido de 220–240 mm, con una reserva superior amplia. La composición instalada es **compatible con los criterios espaciales observados**. La aceptación operativa queda condicionada a comprobar los márgenes sobre la urna real, la estabilidad sin arena, la base de 2 mm de Basterglass y la circulación con las bombas en funcionamiento.
 
 ## Sustrato integrado en la composición
 
-El sustrato disponible es **Aquaforest AF Bio Sand**, con **7,5 kg** y granulometría de referencia de **1–2 mm**. La información de composición, activación, preparación, límites y riesgos está documentada en la [ficha de AF Bio Sand](../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md).
+El sustrato instalado es **Aquaforest AF Bio Sand**, con aproximadamente **8 kg** incorporados el 12 de octubre y granulometría de referencia de **1–2 mm**. La cantidad no se pesó. La ejecución y la profundidad observada aproximada se registran en la [operación de incorporación](../../04_operaciones/2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md).
 
-La intención es mantener una profundidad general de **2–3 cm**. El formato de **7,5 kg** debería ser suficiente para la capa general y para una zona localizada algo más profunda. La profundidad final podrá adaptarse a la superficie libre que quede después de disponer la estructura. Puede contemplarse una zona localizada de **4–5 cm** si la configuración lo permite y resulta compatible con el procesamiento, el movimiento del agua y los organismos que finalmente se incorporen.
+**Profundidad adoptada:** aproximadamente **3 cm** como cama regular. Aquaforest recomienda esa profundidad en su [guía general de acuariofilia marina](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf). Bulk Reef Supply recomienda **1–2 pulgadas** para la mayoría de los arrecifes, intervalo que incluye 3 cm, y advierte que algunas especies requieren más; véase su [guía de profundidad de cama](https://www.bulkreefsupply.com/reef-calculator/aquarium-sand-bed-calculator). La decisión combina esas referencias con la preferencia del propietario y la intención de ofrecer sustrato para fauna que se entierra. Las fuentes no convierten 3 cm en requisito universal para todas las especies.
 
-El sustrato no se utilizará como apoyo estructural de la roca. Deberá conservar la forma de la playa y del canal, mantenerse fuera de la zona técnica y evitar nubes persistentes, desplazamientos o acumulaciones que alteren la composición.
+La conducta excavadora de *Nassarius* es compatible con una cama de arena: Davenport y Moore (2002), en su estudio de *Nassarius reticulatus*, describen individuos enterrados que emergen al detectar señales de alimento ([artículo](https://doi.org/10.1017/S002531540200646X)). Esto respalda el tipo de uso, pero no demuestra que 3 cm basten para cualquier especie o tamaño. Para gobios de madriguera, incluidos los candidatos condicionales de Veril, 3 cm no se considerarán suficientes por defecto: la profundidad necesaria depende de la especie y de la asociación con gambas, y debe comprobarse antes de seleccionar uno. La guía de BRS indica que algunas especies de gobio requieren camas más profundas, incluso de hasta 6 pulgadas; no establece que ese valor aplique a todas.
+
+La cama de 3 cm no es un diseño de *deep sand bed* destinado a la desnitrificación. No hay base para llamarla una «trampa anóxica» por su profundidad, pero tampoco para asegurar que toda la capa permanezca oxigenada. Revsbech, Sørensen, Blackburn y Lomholt (1980) midieron penetraciones de oxígeno de 3–5 mm en sedimento marino no iluminado y menos de 10 mm en arena homogénea incluso bajo las otras condiciones ensayadas ([estudio](https://doi.org/10.4319/lo.1980.25.3.0403)). La estructura y las condiciones del estudio no modelan el acuario de Veril: muestran que la profundidad por sí sola no garantiza una capa completamente oxigenada, pero no demuestran que la cama local vaya a formar una bolsa peligrosa. La gestión del detrito y la observación del sustrato siguen siendo necesarias.
+
+El sustrato no se utilizará como apoyo estructural de la roca. Deberá conservar la forma de la playa y del canal, mantenerse fuera de la zona técnica y evitar nubes persistentes, desplazamientos o acumulaciones que alteren la composición. La altura se comprobará tras el asentamiento y el reparto uniforme; los aproximadamente 3 cm comunicados el 12 de octubre aún no acreditan una profundidad uniforme en toda la superficie.
 
 La playa conservará una superficie predominantemente libre y no se llenará con material innecesario. La superficie del sustrato deberá permanecer accesible para observación y mantenimiento.
 

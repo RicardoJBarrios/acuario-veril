@@ -2216,8 +2216,355 @@
       "gcode_header_generated_at": "2026-10-11 at 20:40:56",
       "source_fcstd": "../soporte-biobolas-tapa-fdm.FCStd",
       "source_fcstd_sha256": "b7c05bc6e259637ee972fc346ae444f109d5d5204fa52e668dda0f27aa6bf34a",
-      "status": "candidato sin soportes; pendiente de impresión física"
+      "status": "descartado antes de imprimir: silla y asa necesitan soporte; no reutilizar VBTAPB.GCO"
+    },
+    {
+      "slug": "tapa-soporte-local",
+      "gcode": "VBTAPS.GCO",
+      "object": "LidAssembly",
+      "count": 1,
+      "time": "6h 25m 37s",
+      "grams": 73.09,
+      "layers": 483,
+      "xyz_min": [
+        0.0,
+        0.0,
+        0.24
+      ],
+      "xyz_max": [
+        170.0,
+        179.0,
+        73.44
+      ],
+      "arc_moves": 0,
+      "types": [
+        "Bottom surface",
+        "Bridge",
+        "Brim",
+        "Custom",
+        "Inner wall",
+        "Internal Bridge",
+        "Internal solid infill",
+        "Outer wall",
+        "Overhang wall",
+        "Skirt",
+        "Sparse infill",
+        "Support",
+        "Support interface",
+        "Top surface"
+      ],
+      "gcode_bytes": 8851537,
+      "gcode_sha256": "6e93cdeb52f9ee0f6dc0d090c2f5460b0b52806dd1db225d6882ed5defbd1b34",
+      "project": "laminados/tapa-soporte-local/tapa-soporte-local-laminado.3mf",
+      "project_sha256": "b6d3c7052e97fa5dc1ea3ff44a8f933cde67cff191c3f2c6f130cbf88aedb5bb",
+      "input_project": "tapa-soporte-local--kp3-winkle-petg.3mf",
+      "input_sha256": "9f2c59d6516ad1d884c93215a9b1825be64dc212f9241e1a8f41c4ba54bb600f",
+      "stl_sha256": "215414b098116d94ab8c50a767d3a8874a3414b1037d9a32823362f18c3b43a3",
+      "settings": {
+        "nozzle_temperature_initial_layer": [
+          "230"
+        ],
+        "support_critical_regions_only": "0",
+        "support_interface_top_layers": "2",
+        "support_expansion": "0",
+        "support_filament": "0",
+        "filament_diameter": [
+          "1.75"
+        ],
+        "support_style": "snug",
+        "support_angle": "0",
+        "support_object_first_layer_gap": "0.2",
+        "support_chamber_temp_control": "1",
+        "sparse_infill_speed": "45",
+        "printable_height": "180",
+        "bottom_shell_layers": "6",
+        "support_on_build_plate_only": "0",
+        "fan_min_speed": [
+          "100"
+        ],
+        "support_interface_loop_pattern": "0",
+        "printer_model": "Generic Marlin Printer",
+        "inner_wall_speed": "45",
+        "filament_max_volumetric_speed": [
+          "8"
+        ],
+        "support_flow_ratio": "1",
+        "support_ironing": "0",
+        "brim_object_gap": "0.1",
+        "support_threshold_overlap": "50%",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "layer_height": "0.2",
+        "retraction_length": [
+          "0.8"
+        ],
+        "wall_loops": "6",
+        "support_top_z_distance": "0.3",
+        "top_surface_speed": "30",
+        "support_interface_bottom_layers": "2",
+        "inner_wall_acceleration": "1000",
+        "support_base_pattern_spacing": "4",
+        "sparse_infill_pattern": "gyroid",
+        "full_fan_speed_layer": [
+          "2"
+        ],
+        "xy_contour_compensation": "0",
+        "line_width": "0.42",
+        "inner_wall_line_width": "0.45",
+        "print_settings_id": "Veril tapa base en cama 6.5 mm KP3 PETG soporte localizado normal",
+        "support_multi_bed_types": "0",
+        "support_object_xy_distance": "0.5",
+        "bridge_no_support": "0",
+        "outer_wall_speed": "35",
+        "fan_max_speed": [
+          "100"
+        ],
+        "retraction_speed": [
+          "30"
+        ],
+        "support_remove_small_overhang": "1",
+        "support_interface_filament": "0",
+        "filament_settings_id": [
+          "Winkle PETG Jet Black 1.75 mm"
+        ],
+        "elefant_foot_compensation": "0",
+        "brim_type": "outer_only",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "support_interface_flow_ratio": "1",
+        "pressure_advance": [
+          "0.02"
+        ],
+        "support_type": "normal(manual)",
+        "nozzle_temperature": [
+          "230"
+        ],
+        "support_ironing_flow": "10%",
+        "support_interface_spacing": "0.6",
+        "support_interface_speed": "30",
+        "bridge_acceleration": "50%",
+        "support_interface_not_for_body": "1",
+        "support_interface_pattern": "auto",
+        "travel_acceleration": "1000",
+        "support_bottom_z_distance": "0.3",
+        "support_ironing_pattern": "rectilinear",
+        "outer_wall_line_width": "0.42",
+        "support_line_width": "0",
+        "support_speed": "40",
+        "support_air_filtration": "1",
+        "internal_solid_infill_speed": "40",
+        "support_threshold_angle": "30",
+        "support_material_interface_fan_speed": [
+          "-1"
+        ],
+        "outer_wall_acceleration": "800",
+        "enable_support": "1",
+        "brim_width": "5",
+        "support_bottom_interface_spacing": "0.6",
+        "print_sequence": "by layer",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": [
+          "0.4"
+        ],
+        "initial_layer_print_height": "0.24",
+        "top_shell_layers": "5",
+        "filament_flow_ratio": [
+          "1"
+        ],
+        "xy_hole_compensation": "0",
+        "printable_area": [
+          "0x0",
+          "180x0",
+          "180x180",
+          "0x180"
+        ],
+        "support_base_pattern": "default",
+        "filament_density": [
+          "1.23"
+        ],
+        "support_ironing_spacing": "0.1",
+        "travel_speed": "120",
+        "support_parallel_printheads": "0",
+        "support_object_skip_flush": "0",
+        "close_fan_the_first_x_layers": [
+          "1"
+        ],
+        "bridge_speed": "20",
+        "hot_plate_temp_initial_layer": [
+          "70"
+        ],
+        "initial_layer_speed": "20",
+        "deretraction_speed": [
+          "0"
+        ],
+        "initial_layer_infill_speed": "20",
+        "enable_pressure_advance": [
+          "0"
+        ],
+        "hot_plate_temp": [
+          "70"
+        ],
+        "sparse_infill_density": "40%"
+      },
+      "effective_gcode_settings": {
+        "nozzle_temperature_initial_layer": "230",
+        "support_critical_regions_only": "0",
+        "support_interface_top_layers": "2",
+        "support_expansion": "0",
+        "support_filament": "0",
+        "filament_diameter": "1.75",
+        "support_style": "snug",
+        "support_angle": "0",
+        "support_object_first_layer_gap": "0.2",
+        "support_chamber_temp_control": "1",
+        "sparse_infill_speed": "45",
+        "printable_height": "180",
+        "bottom_shell_layers": "6",
+        "support_on_build_plate_only": "0",
+        "fan_min_speed": "100",
+        "support_interface_loop_pattern": "0",
+        "printer_model": "Generic Marlin Printer",
+        "inner_wall_speed": "45",
+        "filament_max_volumetric_speed": "8",
+        "support_flow_ratio": "1",
+        "support_ironing": "0",
+        "brim_object_gap": "0.1",
+        "support_threshold_overlap": "50%",
+        "layer_height": "0.2",
+        "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+        "retraction_length": "0.8",
+        "support_top_z_distance": "0.3",
+        "wall_loops": "6",
+        "top_surface_speed": "30",
+        "support_interface_bottom_layers": "2",
+        "inner_wall_acceleration": "1000",
+        "support_base_pattern_spacing": "4",
+        "full_fan_speed_layer": "2",
+        "sparse_infill_pattern": "gyroid",
+        "inner_wall_line_width": "0.45",
+        "line_width": "0.42",
+        "xy_contour_compensation": "0",
+        "print_settings_id": "Veril tapa base en cama 6.5 mm KP3 PETG soporte localizado normal",
+        "support_multi_bed_types": "0",
+        "support_object_xy_distance": "0.5",
+        "bridge_no_support": "0",
+        "outer_wall_speed": "35",
+        "fan_max_speed": "100",
+        "retraction_speed": "30",
+        "support_remove_small_overhang": "1",
+        "support_interface_filament": "0",
+        "elefant_foot_compensation": "0",
+        "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+        "brim_type": "outer_only",
+        "default_acceleration": "1000",
+        "initial_layer_acceleration": "500",
+        "support_interface_flow_ratio": "1",
+        "pressure_advance": "0.02",
+        "support_type": "normal(manual)",
+        "nozzle_temperature": "230",
+        "support_ironing_flow": "10%",
+        "support_interface_spacing": "0.6",
+        "support_interface_speed": "30",
+        "bridge_acceleration": "50%",
+        "support_interface_not_for_body": "1",
+        "support_interface_pattern": "auto",
+        "support_bottom_z_distance": "0.3",
+        "travel_acceleration": "1000",
+        "support_ironing_pattern": "rectilinear",
+        "outer_wall_line_width": "0.42",
+        "support_line_width": "0",
+        "support_speed": "40",
+        "support_air_filtration": "1",
+        "internal_solid_infill_speed": "40",
+        "support_threshold_angle": "30",
+        "support_material_interface_fan_speed": "-1",
+        "enable_support": "1",
+        "outer_wall_acceleration": "800",
+        "brim_width": "5",
+        "support_bottom_interface_spacing": "0.6",
+        "print_sequence": "by layer",
+        "gcode_flavor": "marlin",
+        "nozzle_diameter": "0.4",
+        "initial_layer_print_height": "0.24",
+        "top_shell_layers": "5",
+        "filament_flow_ratio": "1",
+        "printable_area": "0x0,180x0,180x180,0x180",
+        "xy_hole_compensation": "0",
+        "support_base_pattern": "default",
+        "filament_density": "1.23",
+        "support_ironing_spacing": "0.1",
+        "travel_speed": "120",
+        "support_parallel_printheads": "0",
+        "support_object_skip_flush": "0",
+        "close_fan_the_first_x_layers": "1",
+        "bridge_speed": "20",
+        "hot_plate_temp_initial_layer": "70",
+        "initial_layer_speed": "20",
+        "deretraction_speed": "0",
+        "initial_layer_infill_speed": "20",
+        "enable_pressure_advance": "0",
+        "hot_plate_temp": "70",
+        "sparse_infill_density": "40%"
+      },
+      "gcode_header_generated_at": "2026-10-11 at 21:04:28",
+      "source_fcstd": "../soporte-biobolas-tapa-fdm.FCStd",
+      "source_fcstd_sha256": "b7c05bc6e259637ee972fc346ae444f109d5d5204fa52e668dda0f27aa6bf34a",
+      "status": "candidato con soporte localizado; pendiente de impresión física",
+      "support_selection": {
+        "method": "paint_supports=4 en 24 facetas; normal(manual)",
+        "areas": [
+          "cara inferior de la silla Z=65 mm STL",
+          "cara inferior de la pared exterior Z=53 mm STL",
+          "cara inferior del asa Z=53 mm STL"
+        ],
+        "excluded": "cierres, chaflanes y pequeños voladizos de la base",
+        "removability": "pendiente de prueba física",
+        "geometry_changed": false
+      },
+      "opening": {
+        "observed_window_title": "tapa-soporte-local-laminado",
+        "modal_errors_dismissed": [],
+        "screenshot": "laminados/tapa-soporte-local/apertura-orca.png",
+        "exhaustive_layer_inspection": false
+      },
+      "support_toolpath_analysis": {
+        "style": "normal",
+        "roles": {
+          "Support": 10783,
+          "Support interface": 1617
+        },
+        "support_bounds": {
+          "Support": {
+            "min": [
+              -24.53,
+              -31.79,
+              0.24
+            ],
+            "max": [
+              47.014999999999986,
+              31.790000000000006,
+              63.84
+            ]
+          },
+          "Support interface": {
+            "min": [
+              -24.950000000000003,
+              -30.232,
+              3.54
+            ],
+            "max": [
+              45.037000000000006,
+              30.232,
+              64.74
+            ]
+          }
+        },
+        "bridge_max_segment": 55.01499999999999,
+        "coordinates": "STL normalizado: se restan X=90,Y=90 del G-code",
+        "diagram": "laminados/tapa-soporte-local/trayectorias-soporte.png",
+        "diagram_sha256": "429093905ca5ffe8976b63daa88460a295a0b8c577117726c36f191a3c4c405c"
+      }
     }
   ],
-  "current_source_fcstd_sha256": "dcad9e51075f0557c13f14d363be6fb3ff2534c6526cc75a21f5a71011551390"
+  "current_source_fcstd_sha256": "777b1ced1f36ca4ce111f04a36612f5ec945f47c6d9c14d552818c7f37fcb3b6",
+  "updated_at": "2026-10-11T21:07:08+01:00"
 }

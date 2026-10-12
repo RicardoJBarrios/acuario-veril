@@ -1,0 +1,2873 @@
+{
+  "source_fcstd_sha256": "0d0f8379cbb6bc3c4f82101783c6768a08a9fc6232e5b9b60d392e7c17c8ba1f",
+  "jobs": [
+    {
+      "slug": "base",
+      "project": "base--kp3-winkle-petg.3mf",
+      "project_sha256": "a3357ea85c6f2babc2a7fe99629d0aea9ef6a00475819f460629755aee21bb6e",
+      "gcode": "BASTBASE.GCO",
+      "repeat_count": 2,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "FunctionalBase"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "FunctionalBase",
+          "x_mm": 49.5,
+          "y_mm": 49.5
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 11384376,
+        "sha256": "0084f9d3611b7bd202a087e6a9614886e737e02f460c36a7f484b45f206b287b",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            153.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 4069,
+          "Outer wall": 4062,
+          "Bottom surface": 1,
+          "Internal solid infill": 13,
+          "Top surface": 1,
+          "Overhang wall": 40
+        },
+        "arc_moves": 0,
+        "estimated_time": "5h 42m 56s",
+        "estimated_mass_g": 44.46,
+        "layers": 740,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "2aee6afe6c9fc7e392d1c9829651738087a963d4ab85db31b9fe21aa843f9738",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "panel-a",
+      "project": "panel-a--kp3-winkle-petg.3mf",
+      "project_sha256": "6cba8d624e9a25974431391144fd4fd7618027caf060aa99dfebed1e0a1d01f3",
+      "gcode": "BASTPA.GCO",
+      "repeat_count": 4,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "PanelA"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "PanelA",
+          "x_mm": 55.9,
+          "y_mm": 16.5
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1922249,
+        "sha256": "4d0c94575f30fe64cebbd4759c82cccf71a5fc034881633ba9d5d01052c70001",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.566
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            10.24
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 90,
+          "Outer wall": 90,
+          "Bottom surface": 1,
+          "Internal solid infill": 24,
+          "Top surface": 2
+        },
+        "arc_moves": 0,
+        "estimated_time": "2h 38m 58s",
+        "estimated_mass_g": 30.75,
+        "layers": 26,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "1a8be01566163869982ce27b5dd2139393498bc9feab13bab6a6aaadac876200",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "panel-b",
+      "project": "panel-b--kp3-winkle-petg.3mf",
+      "project_sha256": "82d23ff90d4bc2e16c0f1b995c40ada93cf17cf1c678356dba53967c42b14043",
+      "gcode": "BASTPB.GCO",
+      "repeat_count": 4,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "PanelB"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "PanelB",
+          "x_mm": 55.9,
+          "y_mm": 16.5
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1942135,
+        "sha256": "f5215b28ef2e47225444db813c851abdea808b8c2a66099d2f1953351de96235",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.566
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            10.24
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 90,
+          "Outer wall": 90,
+          "Bottom surface": 1,
+          "Internal solid infill": 24,
+          "Top surface": 3
+        },
+        "arc_moves": 0,
+        "estimated_time": "2h 39m 21s",
+        "estimated_mass_g": 30.73,
+        "layers": 26,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "f19d3d8b9a239e11d2043f37bd82ed601b42178cf943985d591274847b7eb80d",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "marco-superior",
+      "project": "marco-superior--kp3-winkle-petg.3mf",
+      "project_sha256": "696f5c090e100171873c14d091bbd92507b130e58b6df75b825e80e61bd8d174",
+      "gcode": "BASTSUP.GCO",
+      "repeat_count": 2,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "FunctionalUpper"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "FunctionalUpper",
+          "x_mm": 49.49999999999999,
+          "y_mm": 49.49999999999999
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1017303,
+        "sha256": "fad646a5756cf3467c6050b035a18112c0e3abe02ffa61a60cc934bdf5c7d935",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            36.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 990,
+          "Outer wall": 998,
+          "Overhang wall": 40
+        },
+        "arc_moves": 0,
+        "estimated_time": "56m 1s",
+        "estimated_mass_g": 7.64,
+        "layers": 155,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "9d9a9a2e07b8103d8ad68fc6a9a4cabd5ac35e24f503f6f1ca2d460b1e1db67d",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "tapa",
+      "project": "tapa--kp3-winkle-petg.3mf",
+      "project_sha256": "6844871e87f74171c47fe1ba7203c8cf8c6d0a6fcad0e5eae7abec4590cf9e0d",
+      "gcode": "BASTTAPA.GCO",
+      "repeat_count": 1,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "LidFrame"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "LidFrame",
+          "x_mm": 49.5,
+          "y_mm": 49.5
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1974079,
+        "sha256": "2982dc82e8d6f060455344bd6f137863b04e5204a20af35f0b45cf0fd0f998e6",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            13.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 160,
+          "Outer wall": 160,
+          "Bottom surface": 1,
+          "Internal solid infill": 38,
+          "Top surface": 1
+        },
+        "arc_moves": 0,
+        "estimated_time": "3h 12m 11s",
+        "estimated_mass_g": 38.15,
+        "layers": 40,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "e352d4ba52c6d637f533709486f1aa058e9e5213429c8709a3590ee56b81b811",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "escuadra",
+      "project": "escuadra--kp3-winkle-petg.3mf",
+      "project_sha256": "65048a3859d7d207644d0d59f6a98d7a76839ad3f7648d244677f8b35f60f936",
+      "gcode": "BASTCOLG.GCO",
+      "repeat_count": 2,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "HangerPlate"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "HangerPlate",
+          "x_mm": 38.375,
+          "y_mm": 53.5
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1469947,
+        "sha256": "1e5b397f638b9aa5e6cd5a8af213606355b69ef0e46fe014b341b22efc9ee4c9",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            13.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 124,
+          "Outer wall": 140,
+          "Bottom surface": 1,
+          "Internal solid infill": 39,
+          "Top surface": 3,
+          "Overhang wall": 20,
+          "Bridge": 1
+        },
+        "arc_moves": 0,
+        "estimated_time": "2h 44m 6s",
+        "estimated_mass_g": 33.03,
+        "layers": 40,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "24497d376082558f392bb00f1130b94c74214fd173876c229b91c300091aed1f",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "asa",
+      "project": "asa--kp3-winkle-petg.3mf",
+      "project_sha256": "d91b1e5d4d713fba05c055c8c7c98e5f011ae2d80053e2ebdf10a16384a9a00a",
+      "gcode": "BASTASA.GCO",
+      "repeat_count": 1,
+      "brim_mm": 5,
+      "objects": 1,
+      "parts": [
+        "CenteredHandle"
+      ],
+      "purpose": "pieza completa candidata",
+      "placements": [
+        {
+          "name": "CenteredHandle",
+          "x_mm": 58.0,
+          "y_mm": 66.0
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 1,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 857358,
+        "sha256": "83982423cc59d17d39b27abc5c72205229432cc9bbc54a16a0ff781e4be0aa11",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "5",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            13.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 1,
+          "Inner wall": 140,
+          "Outer wall": 124,
+          "Bottom surface": 1,
+          "Internal solid infill": 39,
+          "Top surface": 3,
+          "Overhang wall": 24,
+          "Bridge": 2
+        },
+        "arc_moves": 0,
+        "estimated_time": "1h 14m 2s",
+        "estimated_mass_g": 14.47,
+        "layers": 40,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "302e7db838e65cbaa5b140e2ef14f611a733557894a6c42913f51d268970ae11",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "cierres-panel",
+      "project": "cierres-panel--kp3-winkle-petg.3mf",
+      "project_sha256": "0aacbcd40170d1ffa2612b674dac0ecb7dfb04b8263fb15034e7a99f87c8a033",
+      "gcode": "BASTPIN.GCO",
+      "repeat_count": 1,
+      "brim_mm": 3,
+      "objects": 64,
+      "parts": [
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKey",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper",
+        "PanelKeeper"
+      ],
+      "purpose": "32 pasadores y 32 chavetas de panel",
+      "placements": [
+        {
+          "name": "PanelKey",
+          "x_mm": 6.899999999999977,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 21.099999999999977,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 35.299999999999976,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 49.49999999999997,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 63.699999999999974,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 77.89999999999998,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 92.09999999999998,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 106.29999999999998,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 120.49999999999999,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 134.7,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 148.89999999999998,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 163.09999999999997,
+          "y_mm": 51.4
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 6.899999999999977,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 21.099999999999977,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 35.299999999999976,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 49.49999999999997,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 63.699999999999974,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 77.89999999999998,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 92.09999999999998,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 106.29999999999998,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 120.49999999999999,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 134.7,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 148.89999999999998,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 163.09999999999997,
+          "y_mm": 70.5
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 6.899999999999977,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 21.099999999999977,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 35.299999999999976,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 49.49999999999997,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 63.699999999999974,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 77.89999999999998,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 92.09999999999998,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 106.29999999999998,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 120.49999999999999,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 133.89999999999998,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 147.29999999999998,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 160.7,
+          "y_mm": 89.6
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 6.899999999999977,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 20.299999999999976,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 33.699999999999974,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 47.09999999999997,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 60.49999999999997,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 73.89999999999998,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 87.29999999999998,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 100.69999999999999,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 114.1,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 127.5,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 140.9,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 154.3,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 167.70000000000002,
+          "y_mm": 108.7
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 6.899999999999977,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 20.299999999999976,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 33.699999999999974,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 47.09999999999997,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 60.49999999999997,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 73.89999999999998,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 87.29999999999998,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 100.69999999999999,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 114.1,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 127.5,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 140.9,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 154.3,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 167.70000000000002,
+          "y_mm": 118.0
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 6.899999999999977,
+          "y_mm": 127.30000000000001
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 20.299999999999976,
+          "y_mm": 127.30000000000001
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 64,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1673648,
+        "sha256": "0173725890044e01163eb05ab8351968804e61d3b1f8d6ea3f07f4272c9b0b13",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            9.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 64,
+          "Inner wall": 1080,
+          "Outer wall": 953,
+          "Overhang wall": 256
+        },
+        "arc_moves": 0,
+        "estimated_time": "55m 21s",
+        "estimated_mass_g": 7.89,
+        "layers": 20,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "373fa29b302ec734c9ed3e6eb9dd2a663477fb06bd6f1d4872f0e2dddeed9ab2",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "cierres-estructurales",
+      "project": "cierres-estructurales--kp3-winkle-petg.3mf",
+      "project_sha256": "a0e9e351c4a8906a04c6d380c2c4788479e5da1055adf85df2a7e6bb2025debf",
+      "gcode": "BASTSEG.GCO",
+      "repeat_count": 1,
+      "brim_mm": 3,
+      "objects": 20,
+      "parts": [
+        "StackKey",
+        "StackKey",
+        "StackKey",
+        "StackKey",
+        "LidKey",
+        "LidKey",
+        "LidKey",
+        "LidKey",
+        "HandleKey",
+        "HandleKey",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper",
+        "StructuralKeeper"
+      ],
+      "purpose": "apilamiento, suspensión y asa",
+      "placements": [
+        {
+          "name": "LidKey",
+          "x_mm": 11.600000000000009,
+          "y_mm": 66.15
+        },
+        {
+          "name": "LidKey",
+          "x_mm": 25.20000000000001,
+          "y_mm": 66.15
+        },
+        {
+          "name": "LidKey",
+          "x_mm": 38.80000000000001,
+          "y_mm": 66.15
+        },
+        {
+          "name": "LidKey",
+          "x_mm": 52.40000000000001,
+          "y_mm": 66.15
+        },
+        {
+          "name": "HandleKey",
+          "x_mm": 66.00000000000001,
+          "y_mm": 66.15
+        },
+        {
+          "name": "HandleKey",
+          "x_mm": 79.60000000000001,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StackKey",
+          "x_mm": 93.2,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StackKey",
+          "x_mm": 106.8,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StackKey",
+          "x_mm": 120.39999999999999,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StackKey",
+          "x_mm": 134.0,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 147.59999999999997,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 162.0,
+          "y_mm": 66.15
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 11.600000000000009,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 26.000000000000007,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 40.400000000000006,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 54.800000000000004,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 69.2,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 83.60000000000001,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 98.00000000000001,
+          "y_mm": 109.75
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 112.40000000000002,
+          "y_mm": 109.75
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 20,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 926419,
+        "sha256": "b10c14ec52c9177a7433bab8487c2ddc999a8d25c6ddeb82fae3b52be471daed",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            10.24
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 20,
+          "Inner wall": 617,
+          "Outer wall": 556,
+          "Overhang wall": 90
+        },
+        "arc_moves": 0,
+        "estimated_time": "43m 41s",
+        "estimated_mass_g": 7.02,
+        "layers": 26,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "6d6e6b552cf37c6d5a9d5cb02037ce4af5dc1c719e40c6194751311b20dc689c",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    },
+    {
+      "slug": "probetas",
+      "project": "probetas--kp3-winkle-petg.3mf",
+      "project_sha256": "9f4bc14f157919a4e5884138fd1df5eabf051094d6e66c52acf77b8bfa61d3dd",
+      "gcode": "BASTTEST.GCO",
+      "repeat_count": 1,
+      "brim_mm": 3,
+      "objects": 15,
+      "parts": [
+        "ForkCoupon",
+        "TongueCoupon",
+        "StackUpperCoupon",
+        "StackLowerCoupon",
+        "GlassCoupon",
+        "HangerJointCoupon",
+        "HandleJointCoupon",
+        "SeatRibCoupon",
+        "ForkCouponB",
+        "PanelKey",
+        "PanelKeeper",
+        "StackKey",
+        "LidKey",
+        "HandleKey",
+        "StructuralKeeper"
+      ],
+      "purpose": "imprimir primero: ajuste y ensayo",
+      "placements": [
+        {
+          "name": "SeatRibCoupon",
+          "x_mm": 10.350000000000009,
+          "y_mm": 45.95
+        },
+        {
+          "name": "GlassCoupon",
+          "x_mm": 30.35000000000001,
+          "y_mm": 45.95
+        },
+        {
+          "name": "LidKey",
+          "x_mm": 78.85000000000001,
+          "y_mm": 45.95
+        },
+        {
+          "name": "HandleKey",
+          "x_mm": 92.45,
+          "y_mm": 45.95
+        },
+        {
+          "name": "TongueCoupon",
+          "x_mm": 106.05,
+          "y_mm": 45.95
+        },
+        {
+          "name": "StackKey",
+          "x_mm": 124.05,
+          "y_mm": 45.95
+        },
+        {
+          "name": "HangerJointCoupon",
+          "x_mm": 137.64999999999998,
+          "y_mm": 45.95
+        },
+        {
+          "name": "HandleJointCoupon",
+          "x_mm": 157.64999999999998,
+          "y_mm": 45.95
+        },
+        {
+          "name": "PanelKey",
+          "x_mm": 10.350000000000009,
+          "y_mm": 122.95
+        },
+        {
+          "name": "StackUpperCoupon",
+          "x_mm": 24.550000000000008,
+          "y_mm": 122.95
+        },
+        {
+          "name": "StackLowerCoupon",
+          "x_mm": 42.55000000000001,
+          "y_mm": 122.95
+        },
+        {
+          "name": "ForkCouponB",
+          "x_mm": 60.55000000000001,
+          "y_mm": 122.95
+        },
+        {
+          "name": "ForkCoupon",
+          "x_mm": 78.55000000000001,
+          "y_mm": 122.95
+        },
+        {
+          "name": "StructuralKeeper",
+          "x_mm": 96.55000000000001,
+          "y_mm": 122.95
+        },
+        {
+          "name": "PanelKeeper",
+          "x_mm": 110.95000000000002,
+          "y_mm": 122.95
+        }
+      ],
+      "project_check": {
+        "zip_valid": true,
+        "closed_meshes": true,
+        "objects": 15,
+        "settings": {
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "printer_model": "Generic Marlin Printer",
+          "filament_settings_id": [
+            "Winkle PETG Jet Black 1.75 mm"
+          ],
+          "filament_type": [
+            "PETG"
+          ],
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "printable_area": [
+            "0x0",
+            "180x0",
+            "180x180",
+            "0x180"
+          ],
+          "printable_height": "180",
+          "gcode_flavor": "marlin",
+          "layer_height": "0.2",
+          "initial_layer_print_height": "0.24",
+          "nozzle_temperature": [
+            "230"
+          ],
+          "nozzle_temperature_initial_layer": [
+            "230"
+          ],
+          "hot_plate_temp": [
+            "70"
+          ],
+          "hot_plate_temp_initial_layer": [
+            "70"
+          ],
+          "textured_plate_temp": [
+            "70"
+          ],
+          "textured_plate_temp_initial_layer": [
+            "70"
+          ],
+          "filament_flow_ratio": [
+            "1"
+          ],
+          "filament_max_volumetric_speed": [
+            "8"
+          ],
+          "filament_density": [
+            "1.23"
+          ],
+          "initial_layer_speed": "20",
+          "initial_layer_infill_speed": "20",
+          "outer_wall_speed": "35",
+          "inner_wall_speed": "45",
+          "sparse_infill_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "top_surface_speed": "30",
+          "bridge_speed": "20",
+          "travel_speed": "120",
+          "default_acceleration": "1000",
+          "outer_wall_acceleration": "800",
+          "inner_wall_acceleration": "1000",
+          "initial_layer_acceleration": "500",
+          "retraction_length": [
+            "0.8"
+          ],
+          "retraction_speed": [
+            "30"
+          ],
+          "deretraction_speed": [
+            "0"
+          ],
+          "enable_pressure_advance": [
+            "0"
+          ],
+          "pressure_advance": [
+            "0.02"
+          ],
+          "fan_min_speed": [
+            "100"
+          ],
+          "fan_max_speed": [
+            "100"
+          ],
+          "close_fan_the_first_x_layers": [
+            "1"
+          ],
+          "full_fan_speed_layer": [
+            "2"
+          ],
+          "wall_loops": "6",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "6",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "enable_support": "0",
+          "support_type": "tree(auto)",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "brim_object_gap": "0.1",
+          "raft_layers": "0",
+          "xy_hole_compensation": "0",
+          "xy_contour_compensation": "0",
+          "elefant_foot_compensation": "0",
+          "print_sequence": "by layer"
+        }
+      },
+      "gcode_check": {
+        "bytes": 1971066,
+        "sha256": "d423ff4bef912872b09082236b5b914329dc1d3a765707a5fa151bfa05ee2d3b",
+        "settings": {
+          "bottom_shell_layers": "6",
+          "bridge_speed": "20",
+          "brim_object_gap": "0.1",
+          "brim_type": "outer_only",
+          "brim_width": "3",
+          "close_fan_the_first_x_layers": "1",
+          "default_acceleration": "1000",
+          "deretraction_speed": "0",
+          "elefant_foot_compensation": "0",
+          "enable_pressure_advance": "0",
+          "enable_support": "0",
+          "fan_max_speed": "100",
+          "fan_min_speed": "100",
+          "filament_density": "1.23",
+          "filament_flow_ratio": "1",
+          "filament_max_volumetric_speed": "8",
+          "filament_settings_id": "\"Winkle PETG Jet Black 1.75 mm\"",
+          "filament_type": "PETG",
+          "full_fan_speed_layer": "2",
+          "gcode_flavor": "marlin",
+          "hot_plate_temp": "70",
+          "hot_plate_temp_initial_layer": "70",
+          "initial_layer_acceleration": "500",
+          "initial_layer_infill_speed": "20",
+          "initial_layer_print_height": "0.24",
+          "initial_layer_speed": "20",
+          "inner_wall_acceleration": "1000",
+          "inner_wall_speed": "45",
+          "internal_solid_infill_speed": "40",
+          "layer_height": "0.2",
+          "nozzle_diameter": "0.4",
+          "nozzle_temperature": "230",
+          "nozzle_temperature_initial_layer": "230",
+          "outer_wall_acceleration": "800",
+          "outer_wall_speed": "35",
+          "pressure_advance": "0.02",
+          "print_sequence": "by layer",
+          "printable_area": "0x0,180x0,180x180,0x180",
+          "printable_height": "180",
+          "printer_model": "Generic Marlin Printer",
+          "printer_settings_id": "Kingroon KP3 (KP3-3DP180) 0.4 nozzle",
+          "raft_layers": "0",
+          "retraction_length": "0.8",
+          "retraction_speed": "30",
+          "sparse_infill_density": "100%",
+          "sparse_infill_pattern": "rectilinear",
+          "sparse_infill_speed": "45",
+          "support_type": "tree(auto)",
+          "textured_plate_temp": "70",
+          "textured_plate_temp_initial_layer": "70",
+          "top_shell_layers": "5",
+          "top_surface_speed": "30",
+          "travel_speed": "120",
+          "wall_loops": "6",
+          "xy_contour_compensation": "0",
+          "xy_hole_compensation": "0"
+        },
+        "bounds_mm": {
+          "x": [
+            0.0,
+            170.0
+          ],
+          "y": [
+            0.0,
+            179.0
+          ],
+          "z": [
+            0.24,
+            36.04
+          ]
+        },
+        "supports_generated": false,
+        "feature_types": {
+          "Custom": 2,
+          "Skirt": 1,
+          "Brim": 15,
+          "Inner wall": 989,
+          "Outer wall": 977,
+          "Bottom surface": 7,
+          "Internal solid infill": 145,
+          "Top surface": 9,
+          "Overhang wall": 79,
+          "Bridge": 2
+        },
+        "arc_moves": 0,
+        "estimated_time": "2h 31m 29s",
+        "estimated_mass_g": 26.98,
+        "layers": 155,
+        "physical_print_tested": false
+      },
+      "sliced_project_check": {
+        "sha256": "197e871936f094e07c4f1307176faeb05665b96adf2e624467d3c5ec70307628",
+        "embedded_gcode_matches": true,
+        "support_used": "false",
+        "outside": "false"
+      },
+      "cli_warning_lines": []
+    }
+  ],
+  "stage": "laminado_candidato"
+}

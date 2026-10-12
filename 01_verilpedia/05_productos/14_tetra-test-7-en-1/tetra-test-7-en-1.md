@@ -19,6 +19,19 @@
 | Tiempo publicado | Aproximadamente 1 minuto para leer los valores |
 | Uso declarado | Seguimiento rápido de valores del agua y alerta temprana |
 
+## Escalas y unidades
+
+El manual de Tetra expresa **NO₂⁻, NO₃⁻ y Cl₂ en mg/L**, **KH y GH en °dH**, y
+CO₂ en mg/L; el pH se informa como valor adimensional. Las concentraciones de
+NO₂/NO₃ son las de los iones correspondientes, no las expresadas como
+nitrógeno (NO₂-N/NO₃-N). La tira se lee por comparación visual con la escala
+impresa del envase; se conserva la categoría leída, sin interpolar entre
+colores.
+
+La instrucción de Tetra cita como referencias de actuación para agua dulce
+NO₂ por encima de 1 mg/L durante tiempo prolongado y NO₃ por encima de 50
+mg/L. No son umbrales adoptados para Veril ni rangos de precisión del método.
+
 ## Función documentada
 
 Tiras multiparámetro para una caracterización rápida y orientativa del agua. Tetra indica siete valores: pH, dureza de carbonatos (KH), dureza general (GH), nitrito (NO₂⁻), nitrato (NO₃⁻), cloro (Cl₂) y dióxido de carbono (CO₂). La lectura se realiza comparando los colores con la escala del envase dentro del tiempo indicado.
@@ -40,5 +53,5 @@ Se utilizará para la caracterización inicial del agua y como referencia auxili
 ## Fuentes
 
 - Instrucciones y escala del envase adquirido
-- [Tetra: Test 7in1](https://www.tetra.net/es-es/productos/tetra-test-7in1)
+- [Tetra: Test 7in1](https://www.tetra.net/es-es/productos/tetra-test-7in1) y [manual oficial TH54269_9074](https://www.tetra.net/fileadmin/pictures/TH54269_9074.pdf) — procedimiento, unidades y referencias del fabricante; la categoría cromática se lee en la escala del envase.
 - [Operación de primer llenado](../../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md)

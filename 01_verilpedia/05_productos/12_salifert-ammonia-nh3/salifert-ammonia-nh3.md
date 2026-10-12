@@ -16,7 +16,7 @@ El procedimiento localizado identifica el contenido total de amonio del agua, es
 
 ## Rango y lectura
 
-La carta publicada por un distribuidor para una versión del kit muestra categorías de **<0,25; 0,25; 0,5; 1,0; 1,5 y >2 mg/L de amonio total (NH₃ + NH₄⁺)**. No he podido verificar que esa carta corresponda al envase de Veril; por eso el valor mínimo, intervalos y extremo superior se deben confirmar con la tarjeta física antes de aplicar las cargas del plan. No se adopta una equivalencia TAN↔NH₃-N para dosificar.
+La escala del kit disponible en Veril distingue **0; <0,15; 0,25; 0,5; 1,0; 1,5 y 2 mg/L** de amonio total (NH₃ + NH₄⁺), según la lectura comunicada de su tarjeta. Conservar la categoría literal, especialmente **<0,15 mg/L**, sin convertirla en cero exacto ni en NH₃-N. Para decisiones de dosificación prevalecen la tarjeta y las instrucciones del envase.
 
 ## Función documentada
 
@@ -30,7 +30,7 @@ Será el método principal para seguir el amonio durante la prueba de ciclado, j
 
 ## Encaje previsto en Veril
 
-Es el método disponible para seguir el nitrógeno amoniacal durante la prueba de ciclado; la escala nativa debe verificarse frente a la carga antes de dosificar y se conservará sin conversiones no demostradas. El detalle del criterio de ciclado pertenece al [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y su [runbook](../../../03_pendientes/ciclado/runbook.md); la selección y comparación de métodos, al [plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md). Véase también el parámetro general [amonio](../../03_parametros/amonio.md).
+Es el método disponible para seguir el nitrógeno amoniacal durante la prueba de ciclado; la categoría nativa se registra literalmente y se conserva sin conversiones no demostradas. El detalle del criterio de ciclado pertenece al [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y su [runbook](../../../03_pendientes/ciclado/runbook.md); la selección y comparación de métodos, al [plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md). Véase también el parámetro general [amonio](../../03_parametros/amonio.md).
 
 ## Límites
 
@@ -39,7 +39,7 @@ Es el método disponible para seguir el nitrógeno amoniacal durante la prueba d
 - No se debe comparar con una escala de otra marca sin comprobar unidades y método
 - La lectura de amonio total no permite inferir por sí sola la toxicidad: la fracción NH₃ depende también del pH, la temperatura y la salinidad
 - El color debe compararse con la escala y el fondo indicados por el fabricante; la lectura es visual y no debe convertirse en una cifra más precisa que la escala
-- La carta consultada parece comenzar en 0,25 mg/L y usa saltos amplios; si esa es la tarjeta del lote, no discrimina concentraciones menores con precisión suficiente para convertir cada categoría en cero exacto
+- La categoría <0,15 mg/L no discrimina una concentración exacta por debajo de ese umbral; no equivale a cero absoluto
 
 ## Fuentes
 

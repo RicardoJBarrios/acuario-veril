@@ -12,7 +12,7 @@ La carpeta `rocas/` contiene el inventario visual y descriptivo de las diez piez
 
 La composición fue montada dentro de la urna el **5 de septiembre de 2026**. Durante esa misma operación, las uniones de las rocas se fijaron con **AF Stone Fix**. Por tanto, el hardscape no está únicamente presentado o apilado: se encuentra instalado y fijado, aunque su aceptación mecánica e hidráulica definitiva sigue dependiendo de las comprobaciones indicadas en la operación.
 
-Las fotografías de la operación registran el montaje antes de aplicar el adhesivo y antes de incorporar la cama de arena. Sirven para identificar la geometría y las piezas, pero no deben interpretarse como una prueba de la fijación actual. La cama de arena y la validación completa del conjunto siguen pendientes.
+Las fotografías de la operación registran el montaje antes de aplicar el adhesivo y antes de incorporar la cama de arena. Sirven para identificar la geometría y las piezas, pero no deben interpretarse como una prueba de la fijación actual. La cama de AF Bio Sand se incorporó el 12 de octubre de 2026 a una profundidad aproximada de 3 cm; su asentamiento y reparto uniforme siguen pendientes, según la [operación correspondiente](../../04_operaciones/2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md). La validación mecánica e hidráulica completa del conjunto continúa pendiente.
 
 La fijación con AF Stone Fix no sustituye la comprobación de los apoyos, los márgenes respecto a los cristales, el acceso para mantenimiento ni la circulación con el sistema funcionando. El detalle de lo ejecutado y de los resultados observados está en el [registro de la operación](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md).
 

@@ -1,0 +1,54 @@
+{
+  "status": "cribado_no_aceptacion_mecanica",
+  "service_mass_kg": 2,
+  "wet_balls_hotels_user_kg": 1.2,
+  "petg_full_solid_g": 311.5207905644155,
+  "hardware_mass_allowance_g_unmeasured": 50,
+  "retained_water_allowance_g_unmeasured": 150,
+  "design_force_N": 49.050000000000004,
+  "active_connections_assumption": 2,
+  "force_per_connection_N": 24.525000000000002,
+  "petg_assumed_budget_MPa": 5,
+  "petg_assumed_E_MPa": 600,
+  "petg_nominal_stresses_MPa": {
+    "panel_net_tension": 0.9640330188679247,
+    "panel_hole_bearing": 2.5546875000000004,
+    "boss_hole_bearing": 1.916015625,
+    "upper_panel_end_tearout_shear": 1.9651442307692224,
+    "diagonal_tension": 0.6425855307510193,
+    "handle_top_bending": 3.1907525510204087,
+    "hook_wall_and_top_bending": 4.167333984375,
+    "hanger_foot_beam_screen": 3.701690051020409,
+    "lid_crossbar_net_bending_screen": 4.519831730769231,
+    "base_rib_at_hotel": 4.490492957746478
+  },
+  "within_assumed_petg_budget": true,
+  "diagonal_tension_only": {
+    "length_mm": 148.54521197265163,
+    "force_N": 12.33764219041957,
+    "ideal_axial_extension_mm": 0.15908833979328169,
+    "uniform_pinned_compression_critical_N": 2.4732962907222302,
+    "compression_capacity_not_relied_on": true
+  },
+  "nylon_fastener_demands_not_qualified": {
+    "root_diameter_mm_nominal": 3.1411917000000003,
+    "single_shear_or_tension_nominal_MPa": 3.1646832775244587,
+    "lap_eccentricity_mm": 2.9999999999999956,
+    "lap_moment_upper_screen_Nmm": 73.5749999999999,
+    "lap_bending_nominal_MPa": 24.179485340097806,
+    "wet_material_allowable_unknown": true,
+    "bending_screen_limitation": "El momento completo entre centros es un cribado conservador. Reparto de contacto, apriete, arandelas y flexión requieren ensayo o modelo de unión; no equivale a verificación."
+  },
+  "thread_protrusion_mm": {
+    "panel_M4x15": 4.399999999999999,
+    "stack_M4x20": 4.199999999999999,
+    "suspension_M4x35": 5.199999999999999,
+    "handle_M4x20": 1.1999999999999993
+  },
+  "limitations": [
+    "Materiales sin calificar con humedad, salinidad, lote y orientacion reales.",
+    "No se resuelven concentraciones, flexion de solapes, apriete ni relajacion a largo plazo.",
+    "No es FEM y no acredita rigidez del ensamblaje o carga de vidrio.",
+    "Se requieren pruebas de union con 2.5kg, conjunto 2kg/5kg, lateral10N e inmersion antes de aceptacion."
+  ]
+}

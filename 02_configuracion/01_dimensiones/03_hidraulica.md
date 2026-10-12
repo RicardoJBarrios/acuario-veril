@@ -31,7 +31,7 @@ El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiemb
 
 La salida de la **Sicce Micra Plus 600** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
-Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 61,69 L bajo la hipótesis de 2 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 59,86 L bajo la hipótesis de 3 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
 Con la composición instalada, la trayectoria esperada será:
 
@@ -75,7 +75,7 @@ El ajuste inicial recomendado para la prueba será **40–50 % de la Tourbon**. 
 - La torre derecha puede formar una bolsa de baja renovación en su parte posterior
 - El corredor trasero de 40 mm puede transportar el agua, pero también concentrar detritos si no recibe suficiente velocidad
 - La salida del retorno puede crear un circuito corto hacia la entrada técnica si apunta hacia el separador
-- La Tourbon puede desplazar la arena de 2 cm si apunta directamente al sustrato o a una salida del arco
+- La Tourbon puede desplazar la cama de arena de 3 cm si apunta directamente al sustrato o a una salida del arco
 
 La aceptación hidráulica requerirá comprobar el movimiento en superficie, el paso bajo la terraza, el corredor trasero, la cara posterior de la torre y las zonas alrededor de la isla. Se utilizará una pequeña cantidad de partículas inertes y se observará si quedan suspendidas, avanzan hacia la entrada o se depositan repetidamente en el mismo punto.
 

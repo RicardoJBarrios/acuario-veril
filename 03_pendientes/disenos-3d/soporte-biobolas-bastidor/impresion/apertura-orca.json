@@ -1,0 +1,11 @@
+{
+  "project": "probetas--kp3-winkle-petg.3mf",
+  "sha256": "9f4bc14f157919a4e5884138fd1df5eabf051094d6e66c52acf77b8bfa61d3dd",
+  "method": "orca_slicer.py open --new-instance; AX: ventana probetas--kp3-winkle-petg",
+  "application_seen": true,
+  "document_window_observed": true,
+  "known_dialogs_dismissed": [],
+  "screenshot": "apertura-orca.png",
+  "physical_print": false,
+  "all_layers_visually_reviewed": false
+}

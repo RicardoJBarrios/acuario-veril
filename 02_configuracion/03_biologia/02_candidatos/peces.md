@@ -98,9 +98,9 @@ En Veril puede encajar si se quiere reforzar la lectura de microfauna visible en
 ### Estado y encaje
 
 - **Estado**: Condicional
-- **Motivo**: Requiere diseñar una zona de arena y madriguera, asegurar la roca y reservar el sustrato necesario
+- **Motivo**: Requiere diseñar una zona de arena y madriguera, asegurar la roca y reservar el sustrato necesario; la cama regular adoptada de 3 cm no se considera suficiente por defecto
 
-En Veril solo tendría sentido si se decide explícitamente crear una escena gobio-gamba. No los sumaría a una selección centrada en pared de GSP, LPS bajos y arena frontal ordenada.
+En Veril solo tendría sentido si se decide explícitamente crear una escena gobio-gamba y se verifica la profundidad de sustrato que requiere la especie concreta. La cama regular adoptada de 3 cm no demuestra que exista una madriguera funcional. No los sumaría a una selección centrada en pared de GSP, LPS bajos y arena frontal ordenada.
 
 Si se eligiera esta línea, sería una alternativa a *Stonogobiops*, no una acumulación de gobios de madriguera.
 
@@ -252,7 +252,7 @@ Lo consideraría solo si se quiere una fauna de comportamiento sutil, no si se b
 ### Estado y encaje
 
 - **Estado**: Condicional
-- **Motivo**: Muy interesante por conducta, pero depende de arena, tapa, estabilidad de roca y elección de gamba
+- **Motivo**: Muy interesante por conducta, pero depende de una zona de arena suficiente para la especie, tapa, estabilidad de roca y elección de gamba; la cama regular adoptada es de 3 cm
 
 En Veril lo consideraría solo si se decide reservar una zona baja para madriguera. Si el diseño final prioriza roca compacta, pared de GSP y LPS en arena, este grupo puede competir por el mismo espacio funcional. Si se elige, habría que asumirlo como una escena principal del fondo/arena, no como añadido menor.
 

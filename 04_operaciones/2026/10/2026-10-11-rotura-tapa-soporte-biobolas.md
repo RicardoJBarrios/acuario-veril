@@ -30,9 +30,17 @@ y el archivo [VBTAPB.GCO](../../../03_pendientes/disenos-3d/soporte-biobolas-imp
 con soportes desactivados. Orca estima **5 h 36 min 33 s y 60,66 g**. El
 laminado conserva un puente de hasta unos 55 mm en la silla del cristal.
 
+## Corrección del laminado tras la revisión del propietario
+
+El propietario rechazó la variante totalmente sin soportes y pidió apoyo mínimo, especialmente en la silla del cristal. Se conservaron su CAD y el archivo VBTAPB.GCO como historial, marcándolo como descartado antes de imprimir.
+
+Se preparó [tapa-soporte-local--kp3-winkle-petg.3mf](../../../03_pendientes/disenos-3d/soporte-biobolas-impresion/tapa-soporte-local--kp3-winkle-petg.3mf) con soporte normal snug manual en las caras inferiores de la silla, la pared exterior del gancho y el asa. Se dejaron los cierres y pequeños voladizos de la base sin selección de soporte. El nuevo [VBTAPS.GCO](../../../03_pendientes/disenos-3d/soporte-biobolas-impresion/VBTAPS.GCO) está laminado, con separaciones verticales de 0,30 mm y lateral de 0,50 mm. Orca estima **6 h 25 min 37 s y 73,09 g**. Se comprobó el ZIP, la coincidencia del G-code embebido, la generación de soporte e interfaz y la apertura real en Orca. No se inició una impresión.
+
+La telemetría de Home Assistant no es pertinente para esta modificación de archivos de fabricación. La facilidad de retirada se mantiene como objetivo pendiente de prueba, no como resultado observado.
+
 ## Pendiente
 
-La tapa nueva aún no se ha impreso. Deben comprobarse la calidad del puente, el
+La tapa nueva aún no se ha impreso. Deben comprobarse la retirada del soporte localizado, el acabado de las superficies apoyadas, el
 ajuste de 6,5 mm en el cristal desnudo y la resistencia de la tapa con la carga
 real fuera del acuario. El resultado de la primera impresión no permite
 atribuir la rotura a una zona concreta ni validar por sí solo el nuevo diseño.

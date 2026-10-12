@@ -20,6 +20,7 @@ El sustrato no equivale a roca viva madura, microfauna establecida ni un biofilt
 - Activación indicada: mezcla de los dos preparados con 3 L de agua salada durante 24 horas
 - Temperatura de activación indicada: aproximadamente 25–28 °C
 - Aclarado recomendado: agua RO/DI para reducir el polvo de transporte
+- En su guía general de acuariofilia marina, Aquaforest recomienda una cama regular de aproximadamente **3 cm** y advierte que una cama excesivamente gruesa puede retener materia orgánica. Es una recomendación general de la marca para camas de arena, no una instrucción específica de la ficha comercial de AF Bio Sand.
 
 El fabricante no publica una lista completa de especies bacterianas, concentración viable por lote ni composición detallada del medio nutritivo.
 

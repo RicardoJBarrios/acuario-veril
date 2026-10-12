@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-12",
+  "stage": "CAD inicial, sin cierre portante ni tapa",
+  "source": "soporte-biobolas-bastidor.FCStd",
+  "master_shapes": {
+    "BaseWithGuides": {
+      "valid": true,
+      "solids": 1,
+      "bounds_mm": [
+        81.0,
+        81.0,
+        148.0
+      ],
+      "volume_mm3": 28074.720000000012,
+      "state": [
+        "Up-to-date"
+      ]
+    },
+    "SidePanel": {
+      "valid": true,
+      "solids": 1,
+      "bounds_mm": [
+        75.0,
+        147.0,
+        3.0
+      ],
+      "volume_mm3": 10011.854101105719,
+      "state": [
+        "Up-to-date"
+      ]
+    },
+    "UpperFrame": {
+      "valid": true,
+      "solids": 1,
+      "bounds_mm": [
+        81.0,
+        81.0,
+        3.0
+      ],
+      "volume_mm3": 2916.0,
+      "state": [
+        "Up-to-date"
+      ]
+    }
+  },
+  "sketches": [
+    {
+      "name": "Sketch",
+      "fully_constrained": true
+    },
+    {
+      "name": "BasePerimeterProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "SeatRibProfileXNeg",
+      "fully_constrained": true
+    },
+    {
+      "name": "SeatRibProfileXPos",
+      "fully_constrained": true
+    },
+    {
+      "name": "SeatRibProfileYNeg",
+      "fully_constrained": true
+    },
+    {
+      "name": "SeatRibProfileYPos",
+      "fully_constrained": true
+    },
+    {
+      "name": "PanelSeatsBaseProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfileNNX",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfileNNY",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfileNPX",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfileNPY",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfilePNX",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfilePNY",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfilePPX",
+      "fully_constrained": true
+    },
+    {
+      "name": "MastProfilePPY",
+      "fully_constrained": true
+    },
+    {
+      "name": "PanelFrameProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "PanelDiagonalProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "UpperFrameProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "UpperPanelSeatsProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "PanelCornerReliefProfile",
+      "fully_constrained": true
+    },
+    {
+      "name": "HotelFeetReliefProfile",
+      "fully_constrained": true
+    }
+  ],
+  "checks": [
+    {
+      "a": "BaseModule1",
+      "b": "Array",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "HotelPodsReference",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "Array",
+      "common_mm3": 0.0,
+      "distance_mm": 4.359712303874454
+    },
+    {
+      "a": "TopModule1",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "PanelM1S2",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "Array001",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "UpperHotelPodsReference",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "TopModule2",
+      "b": "Array001",
+      "common_mm3": 0.0,
+      "distance_mm": 4.3597123038744705
+    },
+    {
+      "a": "TopModule2",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "PanelM2S2",
+      "b": "C1Derecha",
+      "common_mm3": 0.0,
+      "distance_mm": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "TopModule1",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "PanelM1S1",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "PanelM1S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "PanelM1S3",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule1",
+      "b": "PanelM1S4",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "PanelM1S1",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "PanelM1S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "PanelM1S3",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "PanelM1S4",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule1",
+      "b": "BaseModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S1",
+      "b": "PanelM1S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S1",
+      "b": "PanelM1S4",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S1",
+      "b": "BaseModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S2",
+      "b": "BaseModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S3",
+      "b": "BaseModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM1S4",
+      "b": "BaseModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "TopModule2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "PanelM2S1",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "PanelM2S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "PanelM2S3",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "BaseModule2",
+      "b": "PanelM2S4",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule2",
+      "b": "PanelM2S1",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule2",
+      "b": "PanelM2S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule2",
+      "b": "PanelM2S3",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "TopModule2",
+      "b": "PanelM2S4",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM2S1",
+      "b": "PanelM2S2",
+      "common_mm3": 0.0
+    },
+    {
+      "a": "PanelM2S1",
+      "b": "PanelM2S4",
+      "common_mm3": 0.0
+    }
+  ],
+  "external_links": [],
+  "ball_counts": {
+    "Array": 20,
+    "Array001": 20
+  },
+  "parameter_test": {
+    "alias": "diagonalWidth",
+    "before_mm": 6,
+    "test_mm": 6.4,
+    "test_valid_single_solid": true,
+    "before_volume_mm3": 10011.854101105719,
+    "test_volume_mm3": 10178.607100383868,
+    "restored_volume_mm3": 10011.854101105719
+  },
+  "hotel_relief": {
+    "clearance_mm": 0.2,
+    "nominal_local_rib_width_mm": 2.6,
+    "physical_fit_tested": false
+  },
+  "source_preservation": {
+    "session_backups": "external local backup; absolute path omitted",
+    "originals_retained": true,
+    "geometry_equal_to_session_backups": true,
+    "note": "Soporte Biobolas y Rebosadero se guardaron al cerrar; respecto a las copias de sesión solo difiere LastModifiedDate. La tapa conserva su SHA-256 anterior."
+  },
+  "document_checks": {
+    "git_diff_check": "passed",
+    "relative_readme_links": "passed",
+    "fcstd_zip": "passed",
+    "construction_script_syntax": "passed",
+    "documents_schema": "fails_on_preexisting_root_entries",
+    "schema_errors": [
+      "00000.log",
+      "662F23 _documentos"
+    ]
+  },
+  "views": [
+    "vista-conjunto.png",
+    "vista-estructura.png",
+    "vista-frontal.png",
+    "vista-superior.png"
+  ]
+}

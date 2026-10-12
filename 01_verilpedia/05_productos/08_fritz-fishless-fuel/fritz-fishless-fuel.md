@@ -13,7 +13,7 @@ Fritz Fishless Fuel es una fuente líquida de nitrógeno amoniacal para realizar
 - Dosis de trabajo indicada por el fabricante: aproximadamente 2–4 ppm de amonio
 - La tienda indica que el envase de 60 ml trata aproximadamente 1.135 L
 
-La [fotografía de la etiqueta del envase de Veril](etiqueta-envase-veril-2026-09-24.jpg), tomada el 24 de septiembre de 2026, confirma la pauta de 5 ml por 94,6 L. En la base nominal de 75 L, equivale a unos **3,96 ml** para la dosis de 2 ppm. La etiqueta recomienda una concentración de 2–4 ppm para el ciclado sin peces y advierte que no se use con animales ni se añadan animales cuando haya amonio o nitrito medibles. La imagen no muestra lote ni caducidad, que deberán comprobarse en el envase antes de utilizarlo.
+La [fotografía de la etiqueta del envase de Veril](etiqueta-envase-veril-2026-09-24.jpg), tomada el 24 de septiembre de 2026, confirma la pauta de 5 ml por 94,6 L. En la base nominal de 75 L, equivale a **3,96 ml** para la dosis de referencia de 2 ppm. En el plan de Veril esta cantidad se redondea operativamente a **4 ml** (diferencia aproximada del 0,9 %). La etiqueta recomienda una concentración de 2–4 ppm para el ciclado sin peces y advierte que no se use con animales ni se añadan animales cuando haya amonio o nitrito medibles. La imagen no muestra lote ni caducidad, que deberán comprobarse en el envase antes de utilizarlo.
 
 ## Composición conocida y discrepancia documental
 

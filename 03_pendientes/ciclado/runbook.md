@@ -1,6 +1,6 @@
 # Runbook de ciclado sin peces de Veril
 
-> **Revisión abierta el 9 de octubre de 2026:** El propietario confirma Mantis Bio-Filter Spheres como material adicional; quedan pendientes cantidad y disposición. Para FritzZyme 9, el objetivo es favorecer la colonización de la roca durante la espera, sin iniciar ahora las pruebas del ciclado completo. La pauta ya se ha consultado a Elite Reef y está pendiente de respuesta. Este documento conserva la receta completa anterior; no debe interpretarse como pauta de esa inoculación previa. Véase el [consejo y su alcance](decisiones/referencia-elite-reef-e-inoculacion-previa.md).
+> **Actualización del 11 de octubre de 2026:** El propietario comunica que las **40 Mantis Bio-Filter Spheres** (aproximadamente **1 kg**) están temporalmente en C1, contenidas en las bolsas D-D hasta que los soportes estén operativos. Incluirlas como medio biológico de la configuración ensayada. Comprobar inmersión y circulación sin bloquear el paso; la colonización y el flujo efectivo a través de las bolsas no se han verificado. Véase la [situación comunicada](../../04_operaciones/2026/10/2026-10-11-activacion-af-bio-sand.md#estado-comunicado-del-medio-biológico-adicional).
 
 ## Propósito
 
@@ -15,7 +15,7 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 
 | Variable | Valor o criterio |
 | --- | --- |
-| Volumen de referencia del display | Aproximadamente 60 L redondeados (cálculo detallado: 61,69 L con 2 cm de arena, 2 cm de margen superior y 2,339 L de desplazamiento inferido) |
+| Volumen de referencia del display | Aproximadamente 60 L redondeados (cálculo detallado: 59,86 L con 3 cm de arena, 2 cm de margen superior y 2,339 L de desplazamiento inferido) |
 | Volumen nominal adoptado del sistema completo | 75 L, incluido el sump; base simplificada vigente para los cálculos y las dosis de Veril |
 | Volumen geométrico estimado | Aproximadamente 96 L; referencia de control, no volumen final de dosificación |
 | Temperatura del sistema | Preferida 25–26 °C; objetivo operativo normal 24,5–26,5 °C. Por debajo: 24–24,5 °C fresca; 23–24 °C excursión fría a revisar si persiste; <23 °C fuera del objetivo; <22 °C revisión prioritaria. |
@@ -32,22 +32,22 @@ El runbook ejecuta la ruta B adoptada: una fase previa con roca y fondo desnudo 
 ### Cantidades de referencia calculadas sobre 75 L
 
 - FritzZyme 9: **465,8 ml (≈466 ml) para 75 L según la etiqueta del envase; el envase disponible contiene 946 ml**
-- Fishless Fuel para la primera carga: **aprox. 3,96 mL** (referencia publicada: 5 mL/94,6 L para 2 ppm)
-- Fishless Fuel para la segunda carga: **aprox. 1,98 mL** (dosis de reto local de aproximadamente 1 ppm, menor que la primera carga)
+- Fishless Fuel para la primera carga: **4 mL** (cálculo: 3,96 mL; redondeo operativo de la referencia 5 mL/94,6 L para 2 ppm)
+- Fishless Fuel para la segunda carga: **2 mL** (cálculo: 1,98 mL; redondeo operativo del reto local de aproximadamente 1 ppm)
 - Aquaforest Reef Salt: No se utilizará para el llenado inicial
 - Activación de AF Bio Sand: **3 L de agua salada durante 24 horas**, preferentemente del agua filtrada con UV suministrada
 
 Los 96 L geométricos se conservan únicamente como comparación de capacidad y no se utilizarán como base de dosificación. La dosis de FritzZyme 9 y cualquier preparación con Reef Salt no aplican al llenado de este ciclado con agua de mar.
 
-La convención por defecto es 60 L para el display y 75 L para el sistema completo. El cálculo detallado del display (61,69 L) y los 96 L geométricos son antecedentes, no sustituyen los valores nominales adoptados. Para las dosis de sistema se utilizará `V_sistema = 75 L`:
+La convención por defecto es 60 L para el display y 75 L para el sistema completo. El cálculo detallado del display (59,86 L) y los 96 L geométricos son respaldos geométricos, no sustituyen los valores nominales adoptados. Para las dosis de sistema se utilizará `V_sistema = 75 L`:
 
 ```text
 FritzZyme 9 (mL) = 75 (L) × 118 / 19 ≈ 465,8 mL
-Fishless Fuel primera referencia (mL) = 75 (L) × 5 (mL) / 94,6 (L) ≈ 3,96 mL
-Fishless Fuel segunda referencia (mL) = aproximadamente la mitad ≈ 1,98 mL; confirmar según test/etiqueta
+Fishless Fuel primera referencia (mL) = 75 (L) × 5 (mL) / 94,6 (L) ≈ 3,96 mL → dosificar 4 mL
+Fishless Fuel segunda carga local (mL) = 75 (L) × 5 (mL) / 94,6 (L) ÷ 2 ≈ 1,98 mL → dosificar 2 mL
 ```
 
-La etiqueta del Fishless Fuel confirma aproximadamente 5 ml por 25 US gal (94,6 L) para 2 ppm y recomienda 2–4 ppm; para 75 L son aproximadamente 3,96 ml. Su FAQ contempla 1 ppm o menos si el amonio llega a cero mientras el nitrito aún está presente. La segunda carga de aproximadamente 1,98 ml del plan de Veril se reserva para una prueba de capacidad después de que ambos parámetros hayan permanecido en cero durante 24 horas, y es una decisión local. La concentración declarada de 40 mg/ml como TAN no basta por sí sola para convertir a la escala del Salifert. Antes de la primera dosis se leerán y documentarán la etiqueta del test disponible y su escala; se registrarán las medidas en la unidad nativa del kit. Si no puede establecerse una comparación válida con la carga prevista, se detiene el procedimiento antes de dosificar.
+La etiqueta del Fishless Fuel confirma aproximadamente 5 ml por 25 US gal (94,6 L) para 2 ppm y recomienda 2–4 ppm; para 75 L el cálculo es 3,96 ml y la cantidad operativa redondeada es **4 ml**. Su FAQ contempla 1 ppm o menos si el amonio llega a cero mientras el nitrito aún está presente. La segunda carga de Veril se calcula en 1,98 ml y se redondea a **2 ml** para la prueba de capacidad después de que ambos parámetros hayan permanecido en cero durante 24 horas; es una decisión local. Estos redondeos volumétricos son aproximadamente un 0,9 % superiores al cálculo y no garantizan por sí solos la concentración medida. La concentración declarada de 40 mg/ml como TAN no basta por sí sola para convertir a la escala del Salifert. Antes de la primera dosis se leerán y documentarán la etiqueta del test disponible y su escala; se registrarán las medidas en la unidad nativa del kit. Si no puede establecerse una comparación válida con la carga prevista, se detiene el procedimiento antes de dosificar.
 
 ## Material y comprobaciones previas
 
@@ -56,6 +56,7 @@ El agua de mar suministrada no se preparará con Reef Salt. Se comprobará con e
 - Agua de mar filtrada con UV suministrada por Elite Reef Kanarias
 - Medidor de salinidad y métodos para temperatura, pH y alcalinidad
 - AF Bio Sand y sus dos preparaciones de activación
+- **40 Mantis Bio-Filter Spheres**, aproximadamente **1 kg**, contenidas temporalmente en bolsas D-D en C1; los soportes definitivos aún no están operativos
 - FritzZyme 9 vigente y trazable; el envase disponible es de **946 ml** y cubre por sí solo la dosis de sistema nuevo para 75 L
 - Fritz Fishless Fuel vigente y trazable
 - [Refractómetro DD The Aquarium Solution **AQPR001**](../../01_verilpedia/05_productos/06_dd-aquarium-solution-aqpr001/dd-aquarium-solution-aqpr001.md), adquirido para medir la salinidad
@@ -68,6 +69,8 @@ El agua de mar suministrada no se preparará con Reef Salt. Se comprobará con e
 - Retorno, circulación y agitación superficial instalados
 - Skimmer apagado o preparado para permanecer apagado; UV apagado durante al menos cinco días tras FritzZyme 9 si hay un esterilizador instalado
 - Registro de fecha, hora, lote, dosis, mediciones e incidencias
+
+Las Mantis son superficies adicionales para colonización dentro de la configuración ensayada. Su cantidad y presencia no certifican biofilm ni capacidad de procesamiento. Registrar cualquier transferencia desde las bolsas a los soportes y evitar cambiar o limpiar el medio durante una carga activa.
 
 No iniciar si hay fugas, niveles inseguros, materia orgánica en descomposición, circulación insuficiente o una lectura de salinidad que no pueda interpretarse.
 
@@ -125,7 +128,7 @@ La arena activada se incorporará al display después de la inspección y limpie
 2. Añadir FritzZyme 9 al sistema con retorno y circulación activos
 3. Mantener el skimmer y cualquier esterilizador UV apagados durante al menos cinco días completos, salvo intervención necesaria por seguridad
 4. Añadir Fishless Fuel en la misma sesión o dentro de las 24 horas siguientes
-5. Utilizar como punto de partida aproximadamente 3,96 ml para los 75 L nominales, referencia volumétrica del fabricante para 2 ppm; comprobar etiqueta, volumen y escala antes de dosificar
+5. Utilizar **4 ml** para los 75 L nominales, redondeo operativo del cálculo de 3,96 ml basado en la referencia volumétrica del fabricante para 2 ppm; comprobar etiqueta, volumen y escala antes de dosificar
 6. Medir tras mezclar el sistema y registrar el resultado en la unidad/escala nativa del test, sin conversión no verificada
 7. No redosificar aunque la lectura sea inferior a la prevista; comprobar primero cálculo, volumen, método y tendencia
 
@@ -148,7 +151,7 @@ Mantener el ATO únicamente con RO/DI. No cambiar agua, limpiar superficies biol
 1. Confirmar que nitrógeno amoniacal y nitrito han alcanzado el límite de aceptación del método
 2. Confirmar que permanecen en ese estado durante 24 horas
 3. Verificar que no hubo una intervención que invalide la interpretación
-4. Añadir la segunda carga de desafío definida por Veril para aproximadamente 1 ppm (aproximadamente 1,98 ml para 75 L) solo si puede interpretarse la escala del test
+4. Añadir **2 ml** como segunda carga de desafío definida por Veril para aproximadamente 1 ppm (cálculo de 1,98 ml para 75 L, redondeado) solo si puede interpretarse la escala del test
 5. Registrar fecha, hora, cálculo y medición inicial
 
 Si la primera carga no cumple en un máximo de cinco días, no añadir la segunda: mantener el sistema, investigar y documentar la desviación.

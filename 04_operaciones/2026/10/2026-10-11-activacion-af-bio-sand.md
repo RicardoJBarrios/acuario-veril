@@ -45,6 +45,17 @@ mantener o comprobar durante la espera.
   la arena al acuario, la temperatura observada y cualquier incidencia o
   resultado.
 
+## Estado comunicado del medio biológico adicional
+
+El propietario comunica el 11 de octubre de 2026 que las **40 Mantis
+Bio-Filter Spheres** adquiridas (aproximadamente **1 kg**) están en C1 dentro
+de las bolsas D-D. Permanecerán en esa disposición provisional hasta que los
+soportes diseñados estén operativos. No se comunicó una comprobación del flujo
+a través de las bolsas ni evidencia de colonización. La presencia del medio
+añade superficies potenciales al biofiltro del ciclado, pero no demuestra
+biofilm establecido ni capacidad para procesar una carga. La instalación y
+respuesta biológica quedan pendientes de comprobación.
+
 Home Assistant no se consultó: sus sensores del acuario no miden las
 condiciones de este recipiente de activación.
 

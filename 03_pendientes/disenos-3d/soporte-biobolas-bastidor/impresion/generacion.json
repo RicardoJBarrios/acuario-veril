@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "base",
+    "gcode": "BASTBASE.GCO",
+    "bytes": 11384376,
+    "sha256": "0084f9d3611b7bd202a087e6a9614886e737e02f460c36a7f484b45f206b287b",
+    "generated_utc": "2026-10-12T14:59:05.434198+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "a3357ea85c6f2babc2a7fe99629d0aea9ef6a00475819f460629755aee21bb6e"
+  },
+  {
+    "slug": "panel-a",
+    "gcode": "BASTPA.GCO",
+    "bytes": 1922249,
+    "sha256": "4d0c94575f30fe64cebbd4759c82cccf71a5fc034881633ba9d5d01052c70001",
+    "generated_utc": "2026-10-12T14:59:05.959928+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "6cba8d624e9a25974431391144fd4fd7618027caf060aa99dfebed1e0a1d01f3"
+  },
+  {
+    "slug": "panel-b",
+    "gcode": "BASTPB.GCO",
+    "bytes": 1942135,
+    "sha256": "f5215b28ef2e47225444db813c851abdea808b8c2a66099d2f1953351de96235",
+    "generated_utc": "2026-10-12T14:59:06.473924+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "82d23ff90d4bc2e16c0f1b995c40ada93cf17cf1c678356dba53967c42b14043"
+  },
+  {
+    "slug": "marco-superior",
+    "gcode": "BASTSUP.GCO",
+    "bytes": 1017303,
+    "sha256": "fad646a5756cf3467c6050b035a18112c0e3abe02ffa61a60cc934bdf5c7d935",
+    "generated_utc": "2026-10-12T14:59:06.906745+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "696f5c090e100171873c14d091bbd92507b130e58b6df75b825e80e61bd8d174"
+  },
+  {
+    "slug": "tapa",
+    "gcode": "BASTTAPA.GCO",
+    "bytes": 1974079,
+    "sha256": "2982dc82e8d6f060455344bd6f137863b04e5204a20af35f0b45cf0fd0f998e6",
+    "generated_utc": "2026-10-12T14:59:07.409156+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "6844871e87f74171c47fe1ba7203c8cf8c6d0a6fcad0e5eae7abec4590cf9e0d"
+  },
+  {
+    "slug": "escuadra",
+    "gcode": "BASTCOLG.GCO",
+    "bytes": 1469947,
+    "sha256": "1e5b397f638b9aa5e6cd5a8af213606355b69ef0e46fe014b341b22efc9ee4c9",
+    "generated_utc": "2026-10-12T14:59:07.790561+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "65048a3859d7d207644d0d59f6a98d7a76839ad3f7648d244677f8b35f60f936"
+  },
+  {
+    "slug": "asa",
+    "gcode": "BASTASA.GCO",
+    "bytes": 857358,
+    "sha256": "83982423cc59d17d39b27abc5c72205229432cc9bbc54a16a0ff781e4be0aa11",
+    "generated_utc": "2026-10-12T14:59:08.090320+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "d91b1e5d4d713fba05c055c8c7c98e5f011ae2d80053e2ebdf10a16384a9a00a"
+  },
+  {
+    "slug": "cierres-panel",
+    "gcode": "BASTPIN.GCO",
+    "bytes": 1673648,
+    "sha256": "0173725890044e01163eb05ab8351968804e61d3b1f8d6ea3f07f4272c9b0b13",
+    "generated_utc": "2026-10-12T14:59:10.222930+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "0aacbcd40170d1ffa2612b674dac0ecb7dfb04b8263fb15034e7a99f87c8a033"
+  },
+  {
+    "slug": "cierres-estructurales",
+    "gcode": "BASTSEG.GCO",
+    "bytes": 926419,
+    "sha256": "b10c14ec52c9177a7433bab8487c2ddc999a8d25c6ddeb82fae3b52be471daed",
+    "generated_utc": "2026-10-12T14:59:10.875756+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "a0e9e351c4a8906a04c6d380c2c4788479e5da1055adf85df2a7e6bb2025debf"
+  },
+  {
+    "slug": "probetas",
+    "gcode": "BASTTEST.GCO",
+    "bytes": 1971066,
+    "sha256": "d423ff4bef912872b09082236b5b914329dc1d3a765707a5fa151bfa05ee2d3b",
+    "generated_utc": "2026-10-12T14:59:11.688451+00:00",
+    "method": "OrcaSlicer 2.4.2 CLI --datadir aislado",
+    "project_sha256": "9f4bc14f157919a4e5884138fd1df5eabf051094d6e66c52acf77b8bfa61d3dd"
+  }
+]

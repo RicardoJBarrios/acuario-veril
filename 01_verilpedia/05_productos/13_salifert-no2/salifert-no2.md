@@ -16,7 +16,7 @@ El kit estima nitrito mediante una reacción colorimétrica y una escala visual.
 
 ## Rango y lectura
 
-Una copia de carta/instrucciones distribuida comercialmente presenta una escala visual con valores de **0,1; 0,25; 0,5; 1; 2 y 4 mg/L como NO₂⁻** en una de las versiones consultadas. Otra documentación del producto puede expresar nitrito como NO₂-N; no convertir ni atribuir este rango a la unidad adquirida hasta revisar su tarjeta.
+La carta/instrucciones consultadas para Salifert NO₂ presentan una escala visual de **0,1; 0,25; 0,5; 1; 2 y 4 mg/L como NO₂⁻**. Registrar el valor con esta forma química cuando corresponda a la tarjeta de la unidad disponible; no convertirlo a NO₂-N.
 
 ## Función documentada
 
@@ -36,7 +36,7 @@ Método disponible para seguir NO₂ durante las cargas de ciclado y confirmar e
 - El resultado depende de la muestra, el procedimiento, la lectura y la caducidad
 - No se deben mezclar unidades o escalas de distintos tests sin documentar la conversión
 - Un resultado bajo o no detectable no demuestra por sí solo ausencia de nitrificación ni capacidad frente a una carga futura
-- La lectura visual debe hacerse dentro del tiempo indicado, con iluminación y orientación prescritas; la escala publicada para algunas versiones llega de 0,1 a 4 mg/L, pero prevalece la tarjeta de la unidad disponible
+- La lectura visual debe hacerse dentro del tiempo indicado, con iluminación y orientación prescritas; la escala publicada para algunas versiones llega de 0,1 a 4 mg/L, y se conserva como mg/L de NO₂⁻ conforme a la escala del test usado
 
 ## Fuentes
 

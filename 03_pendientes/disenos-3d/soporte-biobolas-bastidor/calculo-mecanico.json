@@ -1,0 +1,65 @@
+{
+  "evidence": "analytical_screening_only_not_mechanical_acceptance",
+  "user_wet_balls_and_hotels_kg": 1.2,
+  "full_solid_petg_upper_mass_g": 470.66443770027644,
+  "extra_retained_water_allowance_kg": 0.15,
+  "estimated_combined_kg": 1.8206644377002763,
+  "rounded_service_mass_kg": 2.0,
+  "dynamic_multiplier": 2.5,
+  "vertical_design_force_N": 49.050000000000004,
+  "assumed_active_connections": 2,
+  "force_per_active_connection_N": 24.525000000000002,
+  "unmeasured_stress_budget_MPa": 5.0,
+  "unmeasured_modulus_MPa": 600.0,
+  "nominal_stresses_MPa": {
+    "panel_key_bending": 3.356466346153843,
+    "panel_key_double_shear": 0.7664062500000001,
+    "outer_fork_bearing": 1.7759081196581186,
+    "outer_fork_end_tearout": 1.268505799755799,
+    "panel_net_section": 1.3685825892857146,
+    "vertical_key_net_tension": 3.40625,
+    "structural_keeper_bending": 3.9853125000000005,
+    "structural_keeper_double_shear": 1.021875,
+    "handle_top_bending": 2.5546875000000004,
+    "base_rib_bending_at_hotel_relief": 4.490492957746478,
+    "hook_outer_wall_bending": 3.1255004882812503,
+    "hook_top_bending_screen": 3.1255004882812503,
+    "hanger_base_beam_at_handle_slot": 4.418811035156249,
+    "lid_handle_crossbar_at_key_slot": 3.8136080228365388
+  },
+  "stress_checks_within_assumed_budget": true,
+  "diagonal_unbraced_length_mm": 148.84972287511994,
+  "lateral_screen_force_N": 10.0,
+  "diagonal_axial_demand_N": 12.787776879305834,
+  "buckling_convergence": [
+    {
+      "segments": 20,
+      "critical_N": 28.65287664668093,
+      "iterations": 7
+    },
+    {
+      "segments": 40,
+      "critical_N": 27.838033709950736,
+      "iterations": 7
+    },
+    {
+      "segments": 80,
+      "critical_N": 27.39351328925328,
+      "iterations": 7
+    }
+  ],
+  "buckling_margin_under_assumptions": 2.142163845037332,
+  "hook_moment_each_Nmm": 1066.8375,
+  "hook_horizontal_reaction_each_N": 44.4515625,
+  "module_seat_mass_assumption_kg": 0.8,
+  "most_loaded_column_fraction": 0.3,
+  "rib_width_remaining_at_hotel_mm": 7.100000000000001,
+  "limitations": [
+    "E y presupuesto de tensión sin medición local ni calificación húmeda.",
+    "No se incluyen concentraciones, fluencia, fatiga, adhesión real de capas ni contacto no lineal.",
+    "La viga de pandeo es un modelo unidimensional idealizado; no es FEM del conjunto.",
+    "Las chavetas requieren ensayo específico de migración, giro y extracción en húmedo.",
+    "Mástiles, nervios de asiento, marcos, raíces y vidrio requieren ensayo del conjunto.",
+    "Dos uniones activas es una hipótesis de reparto, no un reparto comprobado."
+  ]
+}

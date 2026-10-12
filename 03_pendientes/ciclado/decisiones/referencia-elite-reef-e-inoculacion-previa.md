@@ -13,7 +13,7 @@ La elección de ese referente queda registrada. El consejo no constituye todaví
 
 ## Alcance de la recomendación
 
-Las [Mantis Bio-Filter Spheres](../../../01_verilpedia/05_productos/24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md) son un soporte cerámico para colonización según su fabricante. El propietario confirma el 9 de octubre de 2026 que serán el material biológico adicional de Veril, en lugar de los otros medios contemplados. La selección queda cerrada; la ubicación confirmada es C1 (Entrada), y faltan cantidad, disposición, forma de contención y momento de incorporación. Su función complementa la roca, el skimmer, la circulación y el mantenimiento. No se interpreta «en vez de cualquier otro método» como una instrucción para retirar esos componentes.
+Las [Mantis Bio-Filter Spheres](../../../01_verilpedia/05_productos/24_mantis-bio-filter-spheres/mantis-bio-filter-spheres.md) son un soporte cerámico poroso para colonización según su fabricante. El propietario confirma el 9 de octubre de 2026 que serán el material biológico adicional de Veril, en lugar de los otros medios contemplados, y que su ubicación será C1 (Entrada). El 11 de octubre comunica que las **40 piezas** (aproximadamente **1 kg**) están en C1 dentro de las bolsas D-D, provisionalmente hasta que los soportes estén operativos. La cantidad y ubicación actual quedan así comunicadas; la disposición definitiva y el montaje en los soportes siguen pendientes. Su función complementa la roca, el skimmer, la circulación y el mantenimiento. No se interpreta «en vez de cualquier otro método» como una instrucción para retirar esos componentes.
 
 La preferencia por seguir una implementación conocida por el referente es un criterio local de elección. No se ha presentado una comparación de rendimiento entre Mantis, Siporax o BactoFlex que permita establecer superioridad universal. La cantidad comprada de 1 kg tampoco equivale a una cantidad de instalación prescrita.
 
@@ -36,9 +36,9 @@ El [plan de ciclado](../plan.md) reserva FritzZyme 9 para después de añadir AF
 | Momento | Se recomienda adelantarlo a la espera actual de la roca |
 | Dosis y frecuencia | Consultadas al referente por el propietario; respuesta pendiente |
 | Fuente de amonio | No concretada en la comunicación |
-| Medio biológico | Mantis Bio-Filter Spheres confirmado como material adicional; ubicación confirmada en C1 (Entrada); cantidad, disposición, contención y momento de incorporación por concretar |
-| Arena | No se ha comunicado una nueva decisión sobre su uso o incorporación |
-| Ejecución | No se ha comunicado ninguna adición de bacterias o instalación de las biobolas |
+| Medio biológico | Las 40 Mantis Bio-Filter Spheres están comunicadas en C1 dentro de bolsas D-D; la disposición en los soportes diseñados sigue pendiente |
+| Arena | AF Bio Sand activado con 3 L de agua salada desde las 18:00 del 11 de octubre; incorporación al acuario pendiente al completar 24 horas, según el [registro de activación](../../../04_operaciones/2026/10/2026-10-11-activacion-af-bio-sand.md) |
+| Ejecución | El 11 de octubre el propietario comunica las 40 Mantis en bolsas D-D en C1; no se ha comunicado aquí una dosis de FritzZyme 9 ni de Fishless Fuel |
 
 Hasta concretar la variante, las dosis y pruebas anteriores siguen siendo la descripción de la receta completa previa, no la traducción automática del nuevo consejo. No se mezclan pequeñas adiciones, una dosis inicial completa posterior y nuevas cargas de amonio sin registrar su relación.
 
@@ -46,7 +46,7 @@ Hasta concretar la variante, las dosis y pruebas anteriores siguen siendo la des
 
 Esperar la respuesta de Elite Reef sobre la cantidad y frecuencia de FritzZyme 9 para favorecer la colonización durante la espera. El objetivo de esta fase ya está definido y no incluye empezar ahora las pruebas de carga del ciclado completo. No se añade Fishless Fuel por inferencia.
 
-Para las Mantis, el propietario confirma C1 (Entrada). La cantidad y disposición se decidirán conjuntamente a partir de la geometría de esa cámara y de las piezas, considerando bolsa o contenedor, circulación y acceso para mantenimiento. El kilogramo comprado es la disponibilidad, no la cantidad decidida para instalar. Las alternativas anteriores no siguen abiertas como selección de material, aunque se conservan sus documentos y diseños como antecedentes.
+Para las Mantis, el propietario confirma C1 (Entrada) y comunica las 40 piezas en bolsas D-D como disposición provisional. Queda pendiente comprobar el flujo en esa ubicación e instalar los soportes cuando estén operativos. La geometría de los soportes puede cambiar la distribución y el acceso para mantenimiento. Las alternativas anteriores no siguen abiertas como selección de material, aunque se conservan sus documentos y diseños como antecedentes.
 
 ## Fuentes y límites
 

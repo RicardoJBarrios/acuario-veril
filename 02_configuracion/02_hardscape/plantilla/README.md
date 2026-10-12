@@ -29,7 +29,7 @@ Las líneas de dos tercios y de proporción áurea se calculan sobre la dimensi�
 
 La zona de seguridad deja un rectángulo interior de **534 × 228 mm** para la huella máxima de las rocas. La medida se toma hasta el saliente más exterior de cada pieza y no incluye una tolerancia adicional para el movimiento de la arena.
 
-En altura, la plantilla representa **400 mm de altura exterior**, de los cuales **10 mm corresponden al cristal inferior**. La altura interior útil de las paredes es, por tanto, de **390 mm**. El rayado superior ocupa los últimos **20 mm interiores**, por lo que la superficie de agua prevista queda aproximadamente a **370 mm sobre la cara superior del cristal inferior**. Con una capa de arena de unos 20 mm, la columna de agua libre sobre la arena será aproximadamente de **350 mm**, antes de considerar menisco, desplazamiento de las rocas y tolerancias constructivas.
+En altura, la plantilla representa **400 mm de altura exterior**, de los cuales **10 mm corresponden al cristal inferior**. La altura interior útil de las paredes es, por tanto, de **390 mm**. El rayado superior ocupa los últimos **20 mm interiores**, por lo que la superficie de agua prevista queda aproximadamente a **370 mm sobre la cara superior del cristal inferior**. Con la cama adoptada de aproximadamente 30 mm, la columna de agua libre sobre la arena será aproximadamente de **340 mm**, antes de considerar menisco, desplazamiento de las rocas y tolerancias constructivas.
 
 Las posiciones áureas se han calculado con φ ≈ 1,618. En cada dimensión, las líneas principales se sitúan aproximadamente al **38,2 % y 61,8 %** de la longitud total. Las líneas discontinuas dividen de nuevo los segmentos menores mediante la misma proporción. Si una medición física de la plantilla difiere algún milímetro por el cartón o por la unión de las paredes, se tomará como válida la posición real marcada y no una reconstrucción teórica.
 
@@ -59,4 +59,4 @@ Las referencias de dos tercios y de proporción áurea son guías de composició
 
 <img src="plantilla-vista-superior.jpg" alt="Vista superior de la plantilla del display" width="500">
 
-La plantilla se utilizará junto con el [inventario de rocas](../rocas/README.md), la [ficha espacial de Veril](../../01_dimensiones/02_espacial.md) y el [registro visual del hardscape](../README.md). Las medidas de la plantilla son la referencia exacta para la posición en planta; las marcas de seguridad se mantendrán también después de añadir la arena de 20 mm.
+La plantilla se utilizará junto con el [inventario de rocas](../rocas/README.md), la [ficha espacial de Veril](../../01_dimensiones/02_espacial.md) y el [registro visual del hardscape](../README.md). Las medidas de la plantilla son la referencia exacta para la posición en planta; las marcas de seguridad se mantendrán también después de añadir la cama adoptada de aproximadamente 30 mm.
