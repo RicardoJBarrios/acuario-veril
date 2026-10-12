@@ -55,6 +55,18 @@ Salifert expresa amonio total en mg/L, NO₂ en mg/L según la escala del kit y 
 en dKH. Se conservan las lecturas en la unidad nativa de cada prueba, sin
 convertirlas ni atribuirles precisión superior a la escala visual.
 
+## Medición posterior a Fishless Fuel
+
+A las **21:48 (hora local, Canarias)**, el propietario comunica una lectura de
+**0,25 mg/L de amonio total (NH₃ + NH₄⁺)** con el test Salifert Ammonia. Es una
+lectura manual posterior a los **4 ml de Fishless Fuel** añadidos a las 18:52;
+la hora corresponde al momento comunicado de la medición. Se conserva la
+categoría de la escala del kit y no se interpreta como NH₃ libre.
+
+A las **21:59 (hora local, Canarias)**, el propietario comunica que midió
+también **NO₂ = 4 mg/L**, con el test Salifert NO₂. Es una lectura manual
+posterior a la inoculación; se conserva en la escala nativa del kit.
+
 ## Telemetría asociada de Home Assistant
 
 No se consultó Home Assistant durante esta operación ni se accionó ningún
@@ -67,16 +79,17 @@ para contrastar sus marcas temporales.
 La arena está incorporada; siguen pendientes su distribución uniforme y el
 asentamiento final. La medición previa a la inoculación ya no puede
 recuperarse. Los **4 ml de Fishless Fuel** se añadieron después de las
-mediciones de la tabla, a las **18:52 (hora local, Canarias)**; todavía no se ha
-comunicado una lectura posterior a su mezcla. Las lecturas iniciales no
-demuestran por sí solas capacidad nitrificante establecida: NO₂ es medible y
-el amonio total está por debajo del límite reportado por el test, no confirmado
-como cero absoluto. Medir NH₃/NH₄ tras mezclar Fishless Fuel y continuar con las
+mediciones de la tabla, a las **18:52 (hora local, Canarias)**. La medición
+posterior de las 21:48 registró **0,25 mg/L de amonio total** con Salifert. Las
+lecturas iniciales no demuestran por sí solas capacidad nitrificante
+establecida: NO₂ era medible y el amonio total estaba por debajo del límite
+reportado por el test, no confirmado como cero absoluto. Continuar con las
 mediciones diarias del runbook; no redosificar por una lectura inferior a la
 prevista. La siguiente carga de desafío sigue sujeta a las puertas de decisión
 del
 [runbook de ciclado](../../../03_pendientes/ciclado/runbook.md).
 
 **Estado:** arena incorporada; 466 ml de FritzZyme 9 añadidos inmediatamente
-antes de las mediciones, y 4 ml de Fishless Fuel añadidos a las 18:52, hora
-local. Pendiente resultado posterior a Fishless Fuel.
+antes de las mediciones, 4 ml de Fishless Fuel a las 18:52 y lectura posterior
+de amonio total de 0,25 mg/L (Salifert) a las 21:48 y NO₂ de 4 mg/L
+(Salifert) a las 21:59, hora local.
