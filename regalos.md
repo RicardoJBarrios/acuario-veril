@@ -23,8 +23,9 @@ una opción digital adicional, no una necesidad inmediata.
 
 **Equipo:**
 
-- **Tapa acuario:** D-D Jumpguard PRO DIY Aquarium Cover 75x75 (≈42 €)
-- **Comedero tapa:** D-D Jumpguard Feeding Portal (≈7 €)
+- **Cortador frag coral:** (≈50 €) Herramientas para cortar coral/hueso (para los frags)
+- **Tapa acuario:** (≈42 €) D-D Jumpguard PRO DIY Aquarium Cover 75x75 
+- **Comedero tapa:** (≈7 €) D-D Jumpguard Feeding Portal 
 - **Base múltiple LEGRAND de 6 enchufes con SAI de 800 VA** (≈120 €) en Leroy Merlin.
 
 ### Preparación y control del agua
