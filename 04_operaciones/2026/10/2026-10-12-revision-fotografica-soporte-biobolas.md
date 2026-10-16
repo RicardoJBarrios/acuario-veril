@@ -63,7 +63,7 @@ rigidez o la retirada de soportes de estas piezas. No se consultó ni accionó
 ningún equipo. Estado: **operación de revisión documentada sin telemetría
 pertinente**, con evidencia física comunicada e inspección de fotografías.
 
-El [plan de rediseño](../../../03_pendientes/disenos-3d/soporte-biobolas.md#replanteamiento-tras-la-impresión-de-v1--12-de-octubre-de-2026)
+El [plan de rediseño](../../../privado/disenos-3d/soporte-biobolas.md#replanteamiento-tras-la-impresión-de-v1--12-de-octubre-de-2026)
 replantea base, elementos portantes, cierres y tapa, conservando inicialmente
 el inserto central. No se ha ejecutado el rediseño ni se han generado nuevos
 archivos de impresión en esta revisión.

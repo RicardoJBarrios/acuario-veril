@@ -9,7 +9,8 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 - [Observación biológica de corales](maduracion/plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
 - [Plan transversal de medición y tests](operacion-recurrente/medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
-- [Diseños 3D](disenos-3d/README.md): modelos y archivos de fabricación cuya validación física sigue pendiente
+- [Diseños 3D públicos](disenos-3d/README.md): ediciones seleccionadas con CAD editable y modelos neutros para laminar
+- [Desarrollo 3D privado](../privado/disenos-3d/README.md): trabajo, antecedentes y fabricación específica de impresora
 - [Recepción y preparación de elementos decorativos](hardscape/preparacion-elementos-decorativos.md): inspección y limpieza pendiente de la pieza anunciada como cueva de loto marino púrpura
 
 Las ejecuciones reales, incluidas las que aplican estos documentos, se registran en [Operaciones](../04_operaciones/README.md).

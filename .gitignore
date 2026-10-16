@@ -35,3 +35,14 @@ temp/
 **/*.mov
 **/*.m4v
 **/*.avi
+
+# Desarrollo 3D privado; sólo se exponen las ediciones expresamente autorizadas
+/03_pendientes/disenos-3d/*
+!/03_pendientes/disenos-3d/README.md
+!/03_pendientes/disenos-3d/soporte-biobolas-cradle/
+/03_pendientes/disenos-3d/soporte-biobolas-cradle/*
+!/03_pendientes/disenos-3d/soporte-biobolas-cradle/README.md
+!/03_pendientes/disenos-3d/soporte-biobolas-cradle/soporte-biobolas.FCStd
+!/03_pendientes/disenos-3d/soporte-biobolas-cradle/*.3mf
+!/03_pendientes/disenos-3d/soporte-biobolas-cradle/modelo-colores.png
+/03_pendientes/reconstruccion-espacial/
