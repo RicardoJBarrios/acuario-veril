@@ -4,21 +4,23 @@
 
 ## Luminaria y soporte
 
-La luminaria prevista es la [AI Prime 16HD Reef](../../01_verilpedia/04_hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md), todavía pendiente de disponibilidad, suspendida mediante su kit para colgar.
+La [AI Prime 16HD Reef](../../01_verilpedia/04_hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md) está colocada desde el **17 de octubre de 2026**, centrada geométricamente sobre el display, y se mantiene apagada según comunica el propietario. Este estima una separación de unos **30 cm respecto al nivel actual del agua** y de aproximadamente **25 cm respecto al borde del acuario**; son distancias aproximadas y no se han precisado los puntos exactos de referencia. La colocación y los límites de esta información constan en el [registro de la actuación](../../04_operaciones/2026/10/2026-10-17-instalacion-luminaria-ai-prime.md). La orientación y la fijación finales tampoco se han documentado.
 
-Se situará ligeramente desplazada hacia la derecha para ofrecer la mejor cobertura posible del hardscape, sin tomar como referencia obligatoria el centro geométrico de los **594 mm** útiles del display.
+La posición de diseño adoptada era ligeramente desplazada hacia la derecha, para ofrecer la mejor cobertura posible del hardscape, sin tomar como referencia obligatoria el centro geométrico de los **594 mm** útiles del display. La colocación física comunicada está centrada geométricamente; la cobertura se comprobará mediante el mapa de PPFD antes de decidir si conviene ajustar la posición.
 
-La referencia actual es de **250 mm** entre la cara inferior de la luminaria y el agua. La altura real se comprobará una vez instalado el conjunto.
+La referencia de diseño es de **250 mm** entre la cara inferior de la luminaria y el agua. La distancia actual comunicada es aproximada y no se ha verificado con una medición directa; se conserva por separado hasta confirmar los puntos de referencia y la altura exacta.
 
 La luminaria contará con un *shade* frontal realizado mediante impresión 3D para reducir el reflejo sobre el cristal delantero y evitar el deslumbramiento. Los laterales y la parte trasera quedarán libres para conservar la ventilación y la dispersión lateral de la luz.
 
 ## Estado de la decisión
 
-**Adoptado:** Veril utilizará una AI Prime 16HD Reef suspendida, ligeramente desplazada hacia la derecha y equipada con un *shade* frontal compatible con la ventilación.
+**Diseño adoptado:** Veril utilizará una AI Prime 16HD Reef suspendida, ligeramente desplazada hacia la derecha y equipada con un *shade* frontal compatible con la ventilación. La luminaria está actualmente centrada; queda pendiente decidir, tras medir el PPFD, si se desplaza para ajustarse a la posición de diseño.
+
+**Estado físico comunicado (17/10/2026):** luminaria centrada geométricamente sobre el display y apagada. Se estima a unos **30 cm del agua actual** (unos **25 cm sobre el borde**). No se han confirmado la altura exacta, la orientación, el método de fijación, el estado del *shade*, la conexión eléctrica ni la programación.
 
 **Previsto:** La luminaria deberá cubrir las masas, las islas y las superficies que se decida ocupar, conservando gradientes y sombras funcionales.
 
-**Pendiente:** Deben comprobarse la altura final, la cobertura efectiva, el mapa de PPFD, la clasificación de zonas y el régimen temporal antes de asignar corales fotosintéticos a posiciones concretas.
+**Pendiente:** Deben confirmarse la altura exacta y los puntos de referencia, y comprobarse la cobertura efectiva, el mapa de PPFD, la clasificación de zonas y el régimen temporal antes de asignar corales fotosintéticos a posiciones concretas.
 
 ## Cobertura prevista
 
