@@ -46,3 +46,18 @@ temp/
 !/03_pendientes/disenos-3d/soporte-biobolas-cradle/*.3mf
 !/03_pendientes/disenos-3d/soporte-biobolas-cradle/modelo-colores.png
 /03_pendientes/reconstruccion-espacial/
+
+# Edición pública del rebosadero autorizada por el propietario
+!/03_pendientes/disenos-3d/rebosadero/
+/03_pendientes/disenos-3d/rebosadero/*
+!/03_pendientes/disenos-3d/rebosadero/README.md
+!/03_pendientes/disenos-3d/rebosadero/rebosadero.FCStd
+!/03_pendientes/disenos-3d/rebosadero/estructura.3mf
+!/03_pendientes/disenos-3d/rebosadero/placa-20mm.3mf
+
+# Edición pública de AI-16 Shade autorizada por el propietario
+!/03_pendientes/disenos-3d/ai-16-shade/
+/03_pendientes/disenos-3d/ai-16-shade/*
+!/03_pendientes/disenos-3d/ai-16-shade/README.md
+!/03_pendientes/disenos-3d/ai-16-shade/ai-16-shade.FCStd
+!/03_pendientes/disenos-3d/ai-16-shade/ai-16-shade.3mf

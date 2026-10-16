@@ -49,6 +49,7 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [14 de octubre: Medición diaria del ciclado](2026/10/2026-10-14-medicion-diaria-ciclado.md)
 - [15 de octubre: Medición diaria del ciclado](2026/10/2026-10-15-medicion-diaria-ciclado.md)
 - [15 de octubre: Impresión de cuatro columnas de biobolas con X temporal](2026/10/2026-10-15-impresion-cuatro-columnas-x-biobolas.md)
+- [16 de octubre: Medición diaria del ciclado](2026/10/2026-10-16-medicion-diaria-ciclado.md)
 
 > [!NOTE]
 > La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.

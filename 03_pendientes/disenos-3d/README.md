@@ -7,5 +7,9 @@ laminar los modelos con su propia máquina y material.
 
 - [Soporte modular para 40 biobolas](soporte-biobolas-cradle/README.md): conjunto completo con hotel inferior de cámaras estriadas, dos módulos de columnas y cierre superior desmontable
 
+- [Rebosadero regulable con pantalla posterior](rebosadero/README.md): estructura para vidrio de 6 mm y placa intercambiable de 20 mm
+
+- [Pantalla para AI Prime 16HD](ai-16-shade/README.md): pieza completa con collar corto, ángulos editables y ventilación
+
 La presencia de un diseño aquí no acredita su validación física completa.
 Los demás proyectos permanecen privados hasta autorización expresa.
