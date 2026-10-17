@@ -50,6 +50,7 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [15 de octubre: Medición diaria del ciclado](2026/10/2026-10-15-medicion-diaria-ciclado.md)
 - [15 de octubre: Impresión de cuatro columnas de biobolas con X temporal](2026/10/2026-10-15-impresion-cuatro-columnas-x-biobolas.md)
 - [16 de octubre: Medición diaria del ciclado](2026/10/2026-10-16-medicion-diaria-ciclado.md)
+- [17 de octubre: Medición diaria del ciclado](2026/10/2026-10-17-medicion-diaria-ciclado.md)
 - [17 de octubre: Colocación de la luminaria](2026/10/2026-10-17-instalacion-luminaria-ai-prime.md)
 
 > [!NOTE]
