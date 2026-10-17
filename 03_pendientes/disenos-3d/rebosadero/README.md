@@ -5,6 +5,11 @@ apoyada sobre el canto del vidrio y una placa intercambiable que eleva la
 cresta de rebose. La pantalla posterior deja un canal de bajada despejado de
 **12 mm**, accesible para limpieza.
 
+![Conjunto montado del rebosadero, con la estructura en gris y la placa reguladora en azul](modelo-colores.png)
+
+Los colores del CAD distinguen la estructura y la placa; no prescriben el
+color del filamento.
+
 ## Archivos
 
 - [FreeCAD completo y editable](rebosadero.FCStd): los dos cuerpos montados, historial nativo y hoja de parámetros

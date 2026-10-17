@@ -6,6 +6,8 @@ Conserva **123 aberturas de ventilación** y la abertura posterior.
 El ajuste físico, la refrigeración y la reducción del deslumbramiento
 siguen pendientes de validación en el montaje real.
 
+![Vista isométrica de la pantalla para AI Prime 16HD, con collar de apoyo, ventilación y abertura posterior](modelo.png)
+
 ## Archivos
 
 - [FreeCAD completo y editable](ai-16-shade.FCStd): referencias originales, operaciones, parámetros y malla final guardada
