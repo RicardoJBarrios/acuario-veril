@@ -1,260 +1,81 @@
 # Plan de ciclado de Veril
 
-> **Actualización del 11 de octubre de 2026:** El propietario comunica que las **40 Mantis Bio-Filter Spheres** (aproximadamente **1 kg**) están en C1, contenidas en las bolsas D-D, de forma provisional hasta que los soportes diseñados estén operativos. Se incluirán como medio biológico presente durante el ciclado; la disposición definitiva sigue pendiente. Esta presencia añade superficies potenciales de colonización, pero no acredita biofilm establecido ni capacidad nitrificante. Véase la [situación temporal registrada](../../04_operaciones/2026/10/2026-10-11.md#estado-comunicado-del-medio-biológico-adicional).
-
-La decisión original sobre Mantis y la inoculación previa con FritzZyme 9 se conserva en el [consejo de Elite Reef y su alcance](decisiones/referencia-elite-reef-e-inoculacion-previa.md). La pauta de inoculación previa no se debe inferir de la receta completa del ciclado.
-
 ## Objetivo y alcance
 
-Veril aplicará la [variante de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md) para demostrar una capacidad nitrificante bajo condiciones definidas. La definición del proceso, lo que debe demostrar y sus límites de interpretación están en la [ficha de ciclado biológico](../../01_verilpedia/06_procesos/01_ciclado.md).
+Comprobar la capacidad nitrificante del sistema mediante una carga inicial y
+una segunda carga de desafío. El arranque se realizó el 12 de octubre; este
+plan conserva las condiciones de la prueba y lo que resta para cerrarla.
+La situación fechada se resume en el [índice](README.md) y los resultados se
+registran en [operaciones](../../04_operaciones/README.md).
 
-La prueba se ejecutará dentro de la arquitectura de procesamiento Berlín adoptada por Veril. El ciclado validará la capacidad nitrificante de las superficies y condiciones del sistema, pero no sustituirá la evaluación posterior de la exportación orgánica, la retirada física ni el mantenimiento propios de esa arquitectura.
+## Base de la prueba
 
-El resultado no autoriza por sí solo la introducción de toda la población. La receta elegida y sus exclusiones están documentadas en la [receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md).
-
-Las condiciones físicas, hidráulicas, químicas y de procesamiento que el plan necesita se definen en las fichas enlazadas al final. Este documento solo establece cómo deben comprobarse durante la prueba.
-
-La [proyección microbiológica del ciclado](proyeccion-microbiologica.md) describe los grupos que podrían establecerse y sus límites de interpretación. No constituye un criterio adicional de cierre.
-
-## Condiciones de partida
-
-La prueba se realizará con:
-
-- Roca inerte, AF Bio Sand y las superficies que vayan a permanecer instaladas
-- Las **40 Mantis Bio-Filter Spheres** en bolsas D-D dentro de C1, según la disposición temporal comunicada el 11 de octubre
-- Agua de mar salada filtrada con UV, suministrada por **Elite Reef Kanarias S.L.**
-- Retorno, circulación y agitación superficial activos
-- Sin animales, equipo de limpieza ni materia orgánica en descomposición
-- Sin productos biológicos adicionales a los definidos en la receta
-
-El volumen geométrico bruto de la urna no se confundirá con el volumen operativo. Para planificar el ciclado se toman como referencias redondeadas **unos 60 L en el display con arena** y **unos 75 L en el sistema completo**, incluido el sump. Son cifras aproximadas basadas en la geometría y en el cálculo por cámaras; no son una medición exacta del agua neta.
-
-El cálculo detallado del display, con la cama adoptada de 3 cm y 2 cm de margen superior, da aproximadamente **59,86 L** (62,20 L geométricos menos 2,339 L inferidos para la roca), que se redondea a 60 L para esta planificación. El cálculo de cámaras da una base de aproximadamente 74,736 L antes de descontar la pared del tubo de retorno y otros elementos, con el nivel de Retorno de 75 mm aún como objetivo, no como ajuste observado. Se adopta **75 L** como volumen nominal de planificación para las dosis orientativas, no como volumen neto medido. El volumen geométrico bruto estimado de la urna es aproximadamente 96 L y se conserva solo como referencia geométrica de control. El método y las incertidumbres constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23.md#pesaje-y-medición-del-desplazamiento-del-hardscape).
-
-El primer llenado y el ajuste posterior están documentados como [operación del 5](../../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado) y [operación del 6 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-06-ajuste-nivel-retorno-y-sensor.md). El 5 de septiembre se utilizaron dos recipientes con capacidad nominal de 30 L y uno de 20 L, pero el propietario indica que seguramente se trasvasó menos que su capacidad conjunta de 80 L; el volumen real no se midió. El 6 de septiembre se estimaron aproximadamente **7 L** adicionales. No se puede determinar ni redondear con rigor el volumen acumulado introducido. Los dos bidones de 15 L permanecen como reserva externa y no forman parte del volumen operativo. Para cálculos de Veril se aplicará la convención nominal vigente: **75 L para el sistema completo** y **60 L para el display**.
-
-Las dosis del plan se calcularán usando **75 L** como volumen nominal del sistema completo, conforme a la convención simplificada vigente de Veril. No se esperará a medir el volumen real para aplicar esta referencia.
-
-## Fase previa: acondicionamiento de la roca sin arena
-
-Antes de iniciar el ciclado biológico se mantendrá el sistema durante unos días con la roca ya colocada, sin arena, sin FritzZyme 9 y sin Fishless Fuel. El objetivo es permitir que la roca libere polvo, partículas y suciedad del montaje, observar cómo se distribuyen, comprobar si aparece alguna anomalía y validar el hardscape en condiciones reales antes de incorporar el sustrato y comenzar la prueba.
-
-Durante esta fase se mantendrán activos el retorno, la circulación y la agitación superficial, siempre que los niveles sean seguros para la bomba. No se considerará que haya comenzado el ciclado ni se interpretará esta etapa como una maduración biológica controlada.
-
-La fase previa solo se mantendrá con retorno y agitación si la bomba permanece completamente sumergida, sin vórtice, aspiración de aire ni microburbujas anómalas. Cualquier pérdida de esas condiciones obligará a detener el retorno y registrar una incidencia. La evaporación se repondrá únicamente con agua RO/DI, nunca con agua de mar.
-
-Durante esta fase se podrán recolocar piezas, revisar los espacios reales, comprobar los márgenes frente a los cristales, valorar si se conservan las dos islas y observar el acceso de limpieza y la circulación alrededor del arco, las terrazas y las masas principales. No se fijará definitivamente ninguna pieza hasta haber terminado esta comprobación.
-
-Al finalizar la fase previa se realizarán los tests disponibles para caracterizar el agua y se inspeccionarán el display, las cámaras, el paso bajo el arco, las estratificaciones y las islas. Si aparece algo anómalo, se decidirá si procede retirar parte del agua, sifonar o corregir la instalación. Si no aparece nada preocupante y el montaje queda validado, se preparará el AF Bio Sand, se añadirá la arena y se iniciará el ciclado según el runbook.
-
-## Aceptación del agua recibida
-
-La [caracterización preliminar del 5 de septiembre](../../04_operaciones/2026/09/2026-09-05.md#caracterización-preliminar-del-agua) es un resultado operativo y no una condición del plan. Antes de comenzar el ciclado se medirán con métodos adecuados la salinidad, el pH, la alcalinidad, el amonio y el nitrito, y se registrarán como una nueva operación de línea base.
-
-El refractómetro se limpiará, se verificará a cero con agua RO/DI o agua pura y se utilizará después de igualar térmicamente muestra e instrumento durante aproximadamente 15–30 segundos. Se repetirán varias lecturas y no se aplicará una corrección manual de temperatura al equipo con compensación automática.
-
-## Estabilización previa a T0
-
-Antes de activar el AF Bio Sand o añadir FritzZyme 9, se estabilizarán dos condiciones de partida. La fase todavía está pendiente de cierre y no forma parte del ciclado: la temperatura y la línea base requieren seguimiento.
-
-- La temperatura de partida deberá estar en el objetivo operativo normal de Veril, **24,5–26,5 °C**, procurando la zona preferida **25–26 °C**. Las categorías por debajo del objetivo distinguen 24,0–24,5 °C (fresca), 23,0–24,0 °C (excursión fría a investigar si persiste), <23,0 °C (fuera del objetivo) y <22,0 °C (revisión prioritaria). Se observará una línea base de 24–48 horas para valorar estabilidad, duración y tendencia, sin exigir que el agua alcance exactamente 25,0 °C.
-- El piloto de control térmico de Home Assistant está activo desde el 27/09/2026. No se modificará como requisito de esta fase de ciclado; se conservará su configuración vigente y se registrarán por separado sus efectos observados. Consultar el [régimen térmico](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27.md#puesta-en-servicio-del-control-térmico-inicial).
-- **Salinidad — ajuste realizado el 3 de octubre de 2026:** se sustituyeron 15 L de agua salada por agua desionizada, incluidos 2 L añadidos al completar el volumen total. La lectura manual posterior quedó en torno a **35 ppt**, próxima al objetivo `S_P = 35`. La actuación sustituyó el método previsto de reducir la salinidad mediante reposición de evaporación. Mantener pendiente la confirmación de estabilidad durante la línea base de 24–48 horas. Véase la [operación del 3 de octubre](../../04_operaciones/2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md).
-
-No se iniciará T0 mientras una de las dos condiciones siga fuera de objetivo o presente variaciones que impidan interpretar la línea base.
-
-## Ruta adoptada: ciclado tras una fase sin arena
-
-La ruta adoptada mantiene el fondo desnudo durante la fase previa de limpieza y observación. La arena se incorporará después, si los tests y la inspección no muestran anomalías, y antes de añadir FritzZyme 9 y Fishless Fuel.
-
-| Ruta | Durante el ciclado | Al comenzar la maduración |
-| --- | --- | --- |
-| A. Arena desde el inicio | No es la ruta vigente | No aplica |
-| B. Fondo desnudo previo | Roca sin arena durante unos días; después AF Bio Sand activado, FritzZyme 9 y Fishless Fuel | Mantener la cama y observar su evolución durante la maduración |
-
-La ruta B permitiría retirar con mayor facilidad el polvo de la roca seca, partículas de manipulación y detritos depositados durante la prueba. También facilitaría observar el flujo bajo el arco, detrás de las estratificaciones y alrededor de la masa derecha. No debe justificarse por una supuesta liberación relevante de sílice del vidrio: el interés está en controlar partículas y residuos del montaje.
-
-El coste principal es añadir una etapa y retrasar unas horas el inicio del ciclado. Durante esta prueba, la roca, el AF Bio Sand activado y las **40 Mantis Bio-Filter Spheres** en C1 serán las superficies deliberadas de colonización; el agua de mar filtrada con UV no se contabilizará como inoculación controlada. Las esferas son cerámica porosa con estructura abierta según el fabricante, pero no se dispone de una medida de superficie específica ni de un ensayo local de colonización. La [ficha de FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md) indica que las bacterias nitrificantes necesitan amonio y nitrito y recomienda mantener flujo o aireación. Si las bolsas reciben agua oxigenada y las cargas previstas, sus superficies mojadas pueden incorporarse a la colonia nitrificante. Su presencia no demuestra que se haya establecido una colonia ni permite atribuirles por separado la conversión observada. La prueba medirá la respuesta conjunta del sistema con esos medios instalados. La ruta B no requiere aumentar la dosis de FritzZyme 9 ni de Fishless Fuel: las cargas se calcularán sobre el volumen nominal de **75 L** y se verificarán analíticamente.
-
-Para la ruta adoptada se aplicarán estas condiciones:
-
-- Activar el AF Bio Sand únicamente después de terminar la inspección y limpieza de la fase previa, para incorporarlo inmediatamente después
-- Mantener la roca estable sobre la placa protectora y no usar la arena como cuña
-- Retirar o sifonar finos y detritos con una rutina registrada, evitando limpiar la roca de forma que se elimine indiscriminadamente el biofilm que se esté formando
-- Cerrar el ciclado únicamente por las dos pruebas de procesamiento de amonio y nitrito
-- Activar el AF Bio Sand con 3 L de agua salada durante 24 horas según su ficha y añadirlo antes de iniciar el ciclado
-- Mantener durante el ciclado las 40 esferas en C1, contenidas en las bolsas D-D hasta que los soportes estén operativos; comprobar que las bolsas quedan sumergidas, no bloquean el paso y reciben circulación. La circulación efectiva dentro de las bolsas no se ha medido
-- Si las esferas se transfieren a los soportes después de comenzar las cargas, registrar fecha, hora y disposición antes de interpretar la siguiente medición. Mantenerlas húmedas y evitar aclararlas o dejarlas secar; la transferencia cambia la configuración del medio y debe quedar separada en el registro de la prueba
-- Mantener la cama regular de arena en torno a los 30 mm y no colocarla debajo de los apoyos estructurales
-- Repetir durante la maduración la observación de circulación y depósitos, porque la arena modifica el comportamiento del flujo
-- Medir amonio y nitrito tras añadir la arena y no introducir animales hasta confirmar que no aparece una alteración relevante
-
-La activación previa a la incorporación permite que el AF Bio Sand forme parte de las superficies presentes durante todo el ciclado. La activación se preparará después de la inspección y retirada de residuos de la fase previa.
-
-### Dosis de referencia y cálculo
-
-Las siguientes cantidades muestran la base nominal adoptada de **75 L** y, para comparación geométrica, **96 L**. En Veril se utilizará 75 L como base de cálculo. Los 96 L no son un volumen operativo ni una alternativa de dosificación:
-
-| Elemento | Cálculo | Referencia para 75 L |
-| --- | --- | ---: |
-| FritzZyme 9 | Dosis de sistema nuevo de la etiqueta: `75 L × 118 ml / 19 L` | 465,8 ml (≈466 ml) |
-| Primera carga de Fishless Fuel, referencia aproximada del fabricante para 2 ppm | `75 L × 5 ml / 94,6 L = 3,96 ml` | 4 ml (redondeo operativo) |
-| Segunda carga de Fishless Fuel, reto de capacidad definido por Veril para aproximadamente 1 ppm | `75 L × 5 ml / 94,6 L ÷ 2 = 1,98 ml` | 2 ml (redondeo operativo) |
-| Aquaforest Reef Salt | Referencia del fabricante: 39 g/L para aproximadamente 33 ppt | 2.925 g |
-
-El agua principal del ciclado no se preparará con Reef Salt: se utilizará agua de mar filtrada con UV, suministrada por Elite Reef Kanarias, y se aceptará únicamente después de medir su salinidad, temperatura, pH y alcalinidad. Las referencias de Reef Salt de la tabla solo conservan el procedimiento posterior y no aplican a este llenado. La activación de AF Bio Sand utilizará los **3 L de agua salada durante 24 horas** indicados por su ficha, preferentemente de la misma agua de mar filtrada con UV. Una vez finalizado el ciclado, los cambios de agua continuarán con agua de ósmosis RO/DI y la sal seleccionada para Veril.
-
-Para los cálculos de Veril se fijará `V_sistema = 75 L` en las fórmulas. El redondeo de la dosis se registrará y no se corregirá añadiendo producto sin volver a calcular.
-
-La etiqueta fotografiada del FritzZyme 9 disponible indica **118 ml por 19 L** para un sistema nuevo. El cálculo adoptado para Veril es `75 L × 118 ml / 19 L = 465,8 ml`, que se redondea a **466 ml**. La web oficial publica la dosis redondeada como 119 ml por 19 L, pero para la receta de Veril prevalece la etiqueta del envase adquirido. La recomendación comercial de media dosis se conserva como antecedente no adoptado. Para Fishless Fuel, la etiqueta del envase indica **5 ml por 25 US gal (94,6 L)** para una referencia aproximada de 2 ppm y recomienda 2–4 ppm. El cálculo para Veril es `75 L × 5 ml / 94,6 L = 3,96 ml`; la cantidad operativa será **4 ml**. El redondeo aumenta la dosis volumétrica teórica aproximadamente un **0,9 %**. Fritz recomienda 1 ppm o menos si el amonio llega a cero mientras el nitrito aún está presente. La segunda carga de Veril se calcula como la mitad de la primera: `75 L × 5 ml / 94,6 L ÷ 2 = 1,98 ml`; la cantidad operativa será **2 ml**, también aproximadamente un **0,9 %** por encima del cálculo. Es un reto local de capacidad, que se aplica después de confirmar ambos parámetros en cero durante 24 horas; no es la misma instrucción del fabricante para el caso en que aún persiste nitrito. Las cantidades siguen siendo referencias volumétricas, no concentraciones garantizadas: se verificará la escala del test Salifert y se registrará el resultado después de mezclar. Si no puede interpretarse la escala o compararse la carga prevista, se pausará la dosificación. Fritz declara 40 mg/ml como TAN, pero no se convertirá esa concentración a la escala del test de Veril sin una base confirmada.
-
-## Criterios de medición
-
-Veril aplicará los criterios de medición de las fichas generales de ciclado, amonio, nitrito, pH, alcalinidad, salinidad y temperatura. Antes de iniciar se registrarán los tests seleccionados, sus escalas, procedimientos y límites de aceptación.
-
-Para esta prueba se utilizarán el [Salifert Ammonia NH3 Profi Test](../../01_verilpedia/05_productos/12_salifert-ammonia-nh3/salifert-ammonia-nh3.md) y el [Salifert NO2 Profi Test](../../01_verilpedia/05_productos/13_salifert-no2/salifert-no2.md), conservando la lectura en la unidad y escala nativas de cada kit. No se etiquetará como **mg/L como N** ni se convertirá entre NH₃, NH₄⁺, TAN o NH₃-N mientras la equivalencia no esté confirmada para el kit concreto. Antes de dosificar se comprobarán y documentarán la etiqueta y escala del test Salifert de amonio disponible. Si no permiten interpretar la carga objetivo, se pausará la dosificación. La selección escalonada de métodos, los candidatos de compra y sus límites de uso se mantienen en el [plan transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md).
-
-El límite local de aceptación será el valor mínimo que el método seleccionado permita distinguir con fiabilidad del cero operativo. El plazo de cada carga será el definido en este plan y no se modificará durante la prueba.
-
-El nitrato se registrará como apoyo interpretativo. El pH y la alcalinidad se utilizarán como controles de estabilidad.
-
-## Preparación
-
-1. Comprobar que la urna, el rebosadero, el retorno y las cámaras funcionan sin fugas ni niveles inseguros
-2. Colocar la roca con apoyos estables y superficies accesibles al flujo
-3. Recibir el agua de mar filtrada con UV de Elite Reef Kanarias y registrar proveedor, fecha, volumen, salinidad, temperatura, pH y alcalinidad
-4. Comprobar la temperatura frente al régimen adoptado de Veril —objetivo normal 24,5–26,5 °C, preferida 25–26 °C— y corregir la salinidad mediante reposición de evaporación con RO/DI hasta alcanzar las condiciones de estabilización previas a T0. Si el agua está por debajo de 24,5 °C, registrar duración y tendencia y consultar las bandas frías; no perseguir una consigna puntual de 25,0 °C ni modificar el piloto térmico como parte de esta preparación. Consultar la [configuración térmica vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio](../../04_operaciones/2026/09/2026-09-27.md#puesta-en-servicio-del-control-térmico-inicial)
-5. Mantener una línea base de observación de 24–48 horas que permita valorar estabilidad térmica y salina dentro de sus criterios respectivos
-6. Preparar e instalar el AF Bio Sand según la documentación del producto, después de la fase previa y antes de comenzar el ciclado biológico
-7. Aplicar la base nominal de 75 L para el sistema completo y registrar las dosis calculadas
-8. Activar retorno, circulación y agitación superficial
-9. Registrar proveedor, tratamiento declarado, fecha, conservación y aspecto del agua, además de la trazabilidad de los productos
-
-No se iniciará el ciclado hasta comprobar los parámetros de aceptación del agua, estabilizar temperatura y salinidad y disponer de agua RO/DI para compensar la evaporación. Para las dosis se utilizará la convención nominal de 75 L.
-
-La línea base incluirá temperatura, salinidad, pH, alcalinidad, nitrógeno amoniacal y nitrito, y, como apoyo, nitrato y fosfato. Se conservará también la lectura en la unidad nativa de cada test.
-
-La prueba no comenzará si existen fugas, niveles inseguros, circulación insuficiente, mala oxigenación o materia orgánica en descomposición.
-
-## Protocolo de mantenimiento durante el ciclado
-
-Durante la prueba se mantendrá una rutina mínima y estable para no introducir variables que dificulten la interpretación:
-
-- Revisar urna, rebosadero, retorno, nivel de la cámara de retorno, circulación y agitación superficial
-- Reponer la evaporación normalmente mediante el ATO seleccionado y únicamente con agua osmotizada de RO/DI; la reposición manual quedará limitada a una contingencia registrada
-- Comprobar salinidad y temperatura y registrar cualquier corrección
-- Retirar detritos solo si obstruyen el flujo, el rebosadero o algún equipo, anotando la intervención
-- Limpiar una entrada, rejilla o rotor únicamente si la acumulación reduce el funcionamiento
-- Mantener las superficies biológicas y el sustrato sin limpiezas rutinarias que alteren la prueba
-- No añadir alimentos, bacterias adicionales a la receta, medios filtrantes, carbono, resinas ni correctores por una lectura aislada
-- No realizar cambios de agua durante la carga activa salvo que exista una condición roja o un riesgo para el sistema
-
-Las muestras se tomarán siempre con el mismo método y se registrarán fecha, hora, parámetros, mantenimiento realizado y cualquier incidencia. El agua de reposición por evaporación no llevará sal.
-
-Si una condición roja obliga a realizar un cambio de agua durante la prueba, se registrarán el volumen retirado, el volumen repuesto, la salinidad antes y después y la causa. La carga en curso se considerará potencialmente alterada y no se utilizará como confirmación sin recalcular la concentración o repetirla.
-
-## Cargas y condiciones específicas de Veril
-
-La ejecución detallada está en el [runbook de ciclado](runbook.md). El plan fija las siguientes condiciones propias de Veril:
-
-- FritzZyme 9 y Fishless Fuel se calcularán sobre el volumen nominal de 75 L adoptado para Veril
-- Fishless Fuel se añadirá en la misma sesión que FritzZyme 9 o dentro de las 24 horas siguientes
-- La primera carga seguirá la referencia volumétrica del fabricante para aproximadamente 2 ppm; después de procesarla y confirmar amonio y nitrito en cero durante 24 horas, Veril aplicará una segunda carga de desafío con objetivo local aproximado de 1 ppm, verificando antes que la escala del test permita interpretar la dosis
-- El skimmer y cualquier esterilizador UV permanecerán apagados durante al menos cinco días después de FritzZyme 9, salvo intervención registrada por seguridad; es el plazo de la web oficial y supera el mínimo de cuatro días posteriores que indica la etiqueta del envase para UV
-- No se redosificará mientras amonio o nitrito permanezcan por encima del límite de aceptación
-- No se añadirán alimentos, otros cultivos, carbono, carbón activo, resinas ni correctores para compensar una lectura aislada
-
-## Seguimiento
-
-| Momento | Registro mínimo |
+| Elemento | Referencia de Veril |
 | --- | --- |
-| Línea base | Nitrógeno amoniacal, nitrito, pH, alcalinidad, salinidad y temperatura |
-| Primera carga | Producto, lote, concentración, cálculo, fecha y hora |
-| Primeras 24 horas | Nitrógeno amoniacal, nitrito, pH y temperatura |
-| Evolución | Nitrógeno amoniacal y nitrito con la frecuencia necesaria para seguir la tendencia; pH, alcalinidad, salinidad y temperatura como controles |
-| Segunda carga | Nueva carga de referencia aproximada de 1 ppm o menos, según la escala verificable del test, cuando la primera se haya procesado |
-| Confirmación | Nitrógeno amoniacal y nitrito hasta alcanzar el límite de aceptación dentro del plazo fijado |
+| Volumen para las dosis | **75 L nominales de sistema**; los 60 L de display son otra referencia, no la base de dosificación |
+| Superficies | Roca, AF Bio Sand y las 40 Mantis Bio-Filter Spheres en C1 |
+| Inoculante y fuente de amonio | FritzZyme 9 y Fritz Fishless Fuel, según la [receta](decisiones/seleccion-inoculante-y-receta.md) |
+| Agua de partida | Agua de mar filtrada con UV de Elite Reef Kanarias, con el ajuste de salinidad registrado el [3 de octubre](../../04_operaciones/2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md) |
+| Reposición de evaporación | Agua RO/DI sin sal |
+| Condiciones de referencia | Salinidad `S_P = 35`; temperatura operativa normal **24,5–26,5 °C** |
+| Métodos principales | Salifert para amonio total y nitrito; lecturas en las unidades y categorías de cada kit |
 
-La primera carga tendrá un plazo operativo máximo de **5 días desde su adición** y la segunda carga tendrá el mismo plazo máximo desde su propia adición. Estos plazos son criterios de aceptación de Veril, no una garantía de resultado del fabricante. Si no se cumplen, no se declarará cerrado el ciclado: se mantendrá el sistema sin animales, se investigará la causa y se documentará cualquier repetición como una nueva prueba o una desviación.
+Las temperaturas y salinidades medidas durante la prueba pertenecen a sus
+registros fechados. La configuración térmica y sus bandas completas están en
+el [régimen térmico de Veril](../../02_configuracion/README.md#régimen-térmico-adoptado).
 
-La segunda carga se añadirá solo después de que la primera haya alcanzado el límite de aceptación de amonio y nitrito y haya mantenido ese estado durante 24 horas sin una intervención que altere la prueba. La confirmación de la segunda carga se seguirá hasta el mismo límite.
+## Cargas y confirmación
+
+En el [arranque del 12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand),
+el nitrito Salifert ya marcaba **4 mg/L antes de añadir Fishless Fuel**.
+La primera lectura posterior comunicada de amonio total fue **0,25 mg/L a las
+21:48**. Estos son los valores del ensayo; la referencia volumétrica de 2 ppm
+de la receta no sustituye las lecturas obtenidas.
+
+Se conservan los criterios locales del plan original:
+
+| Etapa | Condición prevista |
+| --- | --- |
+| Primera carga | Alcanzar el límite de aceptación de amonio y nitrito en un máximo de **5 días** desde la adición |
+| Antes de la segunda | Mantener ambos en el límite de aceptación durante **24 horas**, sin una intervención que altere la comparación |
+| Segunda carga | Aplicar el desafío local previsto en la receta y volver al límite de aceptación en un máximo de **5 días** desde esa nueva dosis |
+
+El resultado se registra según la tarjeta de cada kit. Una categoría
+`<0,15 mg/L` no se sustituye por cero ni se convierte entre escalas sin una
+equivalencia comprobada. El nitrato es un dato de apoyo, no el criterio de cierre.
+
+### Plazo inicial y seguimiento actual
+
+La primera carga se añadió el **12 de octubre a las 18:52**, hora local de
+Canarias. Su plazo original de cinco días se cumplía el **17 a las 18:52**.
+La ronda del 17 conserva NO₂ Salifert **>4 mg/L**. Estos datos no documentan
+el cumplimiento de la primera prueba dentro del plazo previsto.
+
+El procedimiento ya contemplaba continuar el seguimiento si se superaba ese
+plazo, sin añadir automáticamente la segunda carga. Una repetición, un cambio
+de pauta o un nuevo criterio deberán quedar como decisiones expresas; esta
+actualización editorial no los establece.
+
+## Condiciones durante el seguimiento
+
+- Mantener retorno, circulación y agitación superficial con niveles seguros.
+- Conservar las superficies biológicas; registrar cambios de medio, limpieza que afecte al flujo o modificaciones de equipos.
+- Mantener el ensayo sin animales y sin nuevas fuentes de nitrógeno o programas bacterianos añadidos a la receta.
+- Registrar las reposiciones y cualquier cambio de agua. Si una intervención diluye o altera la carga, revisar su comparabilidad antes de usarla como confirmación.
+- Ante una lectura dudosa, comprobar el método antes de cambiar la pauta. Un fallo de circulación, fuga, nivel inseguro, contaminación o deterioro sostenido de pH/alcalinidad requiere atender la incidencia antes de progresar.
+
+El skimmer está encendido desde el [19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#encendido-del-skimmer-para-favorecer-la-oxigenación).
+Para cada aplicación de FritzZyme 9 se conserva la suspensión de skimmer y UV
+durante al menos cinco días indicada en la ficha del producto.
 
 ## Criterio de cierre
 
-Además de los criterios generales de la ficha de ciclado, Veril cerrará esta prueba únicamente cuando:
+Cerrar la prueba requiere las dos cargas procesadas conforme a sus criterios,
+con pH, alcalinidad, salinidad, temperatura y circulación que permitan
+interpretar el resultado. El plazo por sí solo no demuestra capacidad.
 
-- La primera carga, preparada según la referencia volumétrica del fabricante para aproximadamente 2 ppm y registrada en la escala nativa del test, se haya procesado dentro del plazo fijado
-- Una segunda carga independiente de desafío, fijada por Veril en un objetivo aproximado de 1 ppm y registrada en la escala nativa del test, también vuelva al límite de aceptación
-- pH y alcalinidad no presenten un deterioro que invalide la interpretación
-- Salinidad, temperatura, circulación y oxigenación permanezcan estables
-- No haya animales ni materia orgánica en descomposición
-
-La aparición de nitrato apoyará la interpretación, pero no sustituirá las mediciones de amonio y nitrito.
-
-Tras cerrar la prueba se tomará la muestra **ICP-01** definida en el [plan
-transversal de medición y tests](../operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio).
-Su fin es construir la línea base elemental antes de la maduración; el informe
-no altera retrospectivamente el criterio de cierre biológico ni retrasa por sí
-solo la transición a maduración, salvo que revele una condición que justifique
-detener incorporaciones e investigar.
-
-## Puertas de decisión
-
-Se aplicarán las puertas de decisión generales de la [ficha de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md), con estos criterios operativos para Veril:
-
-### Roja — detener
-
-Se detiene la progresión si falla la circulación, la oxigenación es insuficiente, aparece descomposición, se pierde un nivel seguro o pH y alcalinidad se deterioran de forma sostenida.
-
-Se mantiene el sistema sin redosificar, se identifica la causa y se aplica solo la intervención necesaria.
-
-### Amarilla — mantener
-
-Se mantiene la pauta si una lectura no puede interpretarse con seguridad o una intervención menor altera la comparabilidad.
-
-Se repiten las mediciones con el mismo método y no se añaden nuevas variables.
-
-### Verde — cerrar
-
-Se cierra la prueba cuando las dos cargas cumplen los criterios locales, las condiciones físicas son estables y no existen riesgos operativos.
-
-Después se pasa al [plan de maduración](../maduracion/plan.md), no a la introducción inmediata de toda la población.
-
-## Errores que invalidan la interpretación
-
-Además de los límites generales de interpretación descritos en las fichas de proceso, esta prueba de Veril quedará invalidada o deberá repetirse si ocurre lo siguiente:
-
-- Cambiar de inoculante a mitad de la prueba
-- Añadir alimentos u otros productos nitrogenados
-- Redosificar antes de procesar la carga anterior
-- Utilizar el volumen geométrico en lugar del volumen operativo
-- Apagar retorno, circulación o agitación superficial
-- Reactivar o apagar el skimmer sin registrar la intervención y su motivo
-- Interpretar agua clara, ausencia de olor o nitrato aislado como prueba completa
-- Introducir animales durante el ensayo
-
-## Fuentes
-
-- [Variante general de ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md)
-- [Receta combinada Fritz–Aquaforest](decisiones/seleccion-inoculante-y-receta.md)
-- [Ficha de AF Bio Sand](../../01_verilpedia/05_productos/01_af-bio-sand/af-bio-sand.md)
-- [Ficha de FritzZyme 9](../../01_verilpedia/05_productos/09_fritzzyme-9/fritzzyme-9.md)
-- [Ficha de Fishless Fuel](../../01_verilpedia/05_productos/08_fritz-fishless-fuel/fritz-fishless-fuel.md)
-- [Ficha de Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md)
-- [Procedimiento operativo de cambios de agua](../operacion-recurrente/cambios-agua.md)
-- [Runbook de ciclado sin peces](runbook.md)
-
-## Condiciones definidas en otras fichas de Veril
-
-- [Infraestructura](../../02_configuracion/01_dimensiones/01_infraestructura.md)
-- [Hidráulica](../../02_configuracion/01_dimensiones/03_hidraulica.md)
-- [Procesamiento](../../02_configuracion/01_dimensiones/07_procesamiento.md)
-- [Química](../../02_configuracion/01_dimensiones/05_quimica.md)
-- [Amonio](../../01_verilpedia/03_parametros/amonio.md)
-- [Nitrito](../../01_verilpedia/03_parametros/nitrito.md)
-- [Nitrato](../../01_verilpedia/03_parametros/nitrato.md)
-- [Oxígeno](../../01_verilpedia/03_parametros/oxigeno.md)
-- [pH](../../01_verilpedia/03_parametros/ph.md)
-- [Alcalinidad](../../01_verilpedia/03_parametros/alcalinidad.md)
-- [Salinidad](../../01_verilpedia/03_parametros/salinidad.md)
-- [Temperatura](../../01_verilpedia/03_parametros/temperatura.md)
+Tras el cierre quedan previstos la muestra **ICP-01** del
+[plan de medición](../operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio)
+y el paso a [maduración](../maduracion/plan.md). El ICP construye una línea
+base elemental; no sustituye la prueba nitrificante. La incorporación de fauna
+se decide en esa fase posterior.
