@@ -75,7 +75,7 @@ La distribución prevista es:
 | D-D H2Ocean Compact ATO | Adaptador del controlador ATO | `switch.veril_ato_alimentacion` |
 | Sicce Shark SKIMMER 300 | Alimentación del skimmer | `switch.veril_skimmer_alimentacion` |
 | Mantis Tourbon 60 | Adaptador del controlador de la bomba | `switch.veril_mantis_tourbon_60_alimentacion` |
-| Sicce Micra Plus 600 | Alimentación de la bomba de retorno | `switch.veril_micra_plus_600_alimentacion` |
+| Sicce Micra (identificación corregida el 19/10/2026; ID anterior conservado como referencia documental) | Alimentación de la bomba de retorno | `switch.veril_micra_plus_600_alimentacion` |
 | AI Prime 16HD Reef | Adaptador de la luminaria | `switch.veril_ai_prime_16hd_reef_alimentacion` |
 
 Home Assistant y la infraestructura de Zigbee2MQTT no se alimentarán a través de estos enchufes, porque deben permanecer disponibles para supervisarlos y controlarlos.

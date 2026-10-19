@@ -4,6 +4,8 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 
 ## Actuaciones pendientes
 
+- [Sustitución de la bomba de retorno](sustitucion-bomba-retorno-jebao-dc-650.md): Jebao DC-650 pedida a EliteReef Kanarias; recepción e instalación pendientes
+
 - [Ciclado](ciclado/README.md): Fase previa, receta, prueba nitrificante y criterios de cierre
 - [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
 - [Observación biológica de corales](maduracion/plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos

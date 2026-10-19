@@ -64,7 +64,7 @@ una opción digital adicional, no una necesidad inmediata.
 
 - **Urna AIO:** 75 × 32 × 40 cm (75 L); display de 60 × 32 × 40 cm (60 L) y compartimento
   técnico integrado (15 L). No es un sump externo.
-- **Retorno:** Sicce Micra Plus 600.
+- **Retorno:** Sicce Micra y Jebao DC-650
 - **Circulación del display:** Mantis Tourbon 60.
 - **Skimmer:** Sicce Shark Skimmer 300.
 - **Iluminación:** Aqua Illumination Prime 16 HD Reef negra con kit para colgarla.

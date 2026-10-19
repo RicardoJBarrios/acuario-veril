@@ -10,13 +10,19 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 ## Estado de la decisión
 
-**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra Plus 600 para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), definido físicamente en Infraestructura.
+**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), definido físicamente en Infraestructura.
 
 **Previsto:** El campo de flujo deberá rodear, atravesar y pasar por debajo de la composición espacial, manteniendo renovadas las zonas funcionales sin desplazar el sustrato.
 
 **Observado:** La [prueba dinámica del 17 de septiembre](../../04_operaciones/2026/09/2026-09-17-observaciones-flujo-temperatura-y-sustrato.md#prueba-dinámica-de-circulación), con la Tourbon entonces al 40 %, mostró partículas finas en superficie recorriendo un circuito circular alrededor de la roca.
 
 **Pendiente:** La distribución real en huecos, corredor trasero y zonas inferiores, el tiempo de renovación, la respuesta del sustrato, el volumen de retrosifonado y el reinicio tras una parada deben validarse con la composición instalada.
+
+### Identificación y caudal del retorno
+
+El **19 de octubre de 2026** el propietario corrigió la identificación de la bomba instalada: es una **Sicce Micra**, no una Micra Plus. Encontró su filtro bastante obstruido, lo lavó y reinstaló la bomba. Las recogidas manuales en el pico de pato dieron **500 ml en 15 s antes (120 L/h)** y **850 ml en 10 s después (306 L/h)**. Sobre los 60 L nominales del display son **2 y 5,1 veces/h**; sobre los 75 L nominales del sistema completo, **1,6 y 4,08 veces/h**. Son referencias de caudal medidas en esa intervención, sin demostrar renovación uniforme ni estabilidad a largo plazo.
+
+El propietario consideró insuficiente el caudal inicial y ha pedido una **Jebao DC-650 a EliteReef Kanarias** para regular el flujo y utilizarla habitualmente a potencia media. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19-limpieza-y-medicion-caudal-retorno.md) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
 
 ### Disposición y ajuste vigente de la Mantis
 
@@ -29,7 +35,7 @@ La Mantis Tourbon 60 está instalada con esta disposición y ajuste vigente:
 
 El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiembre se cambió el porcentaje al 50 %. Los demás valores de esta lista son los últimos comunicados y no se han vuelto a comprobar durante ese cambio.
 
-La salida de la **Sicce Micra Plus 600** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
+La salida de la **Sicce Micra** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
 Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 59,86 L bajo la hipótesis de 3 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
 
@@ -65,7 +71,7 @@ La Tourbon 60 declara hasta **4.000 L/h**. Como referencia de ajuste, los porcen
 | 80 % | 3.200 L/h | 53 veces por hora |
 | 100 % | 4.000 L/h | 67 veces por hora |
 
-La Sicce Micra Plus 600 añade un caudal de retorno real inferior a su máximo nominal cuando se consideran altura, tubo, curvas y restricciones. La cifra final no se sumará como si todo el caudal atravesara cada punto del display: la Tourbon produce movimiento interno y la Sicce aporta renovación desde el compartimento técnico.
+La Sicce Micra añade un caudal de retorno real inferior a su máximo nominal cuando se consideran altura, tubo, curvas y restricciones. La cifra final no se sumará como si todo el caudal atravesara cada punto del display: la Tourbon produce movimiento interno y la Sicce aporta renovación desde el compartimento técnico.
 
 El ajuste inicial recomendado para la prueba será **40–50 % de la Tourbon**. Se podrá explorar el entorno de **50–60 %** si no se desplaza la arena y las zonas inferiores necesitan más renovación. No se utilizará el 80–100 % como punto de partida.
 
@@ -83,7 +89,7 @@ La aceptación hidráulica requerirá comprobar el movimiento en superficie, el 
 
 ### Alimentación y protección eléctrica del retorno
 
-La Sicce Micra Plus 600 está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-act-02`, integrado mediante Zigbee2MQTT. La configuración local vigente del enchufe es:
+La Sicce Micra está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-act-02`, integrado mediante Zigbee2MQTT. La configuración local vigente del enchufe es:
 
 - `inching_control`: `DISABLE`; `inching_mode`: `OFF`.
 - Protección de la toma (`outlet_control_protect`): activada.
@@ -117,7 +123,7 @@ La continuidad del corredor se comprobará después de colocar la roca y antes d
 
 ## Equipos y configuración
 
-La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) es la bomba principal de movimiento. La [Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md) es la bomba de retorno.
+La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) es la bomba principal de movimiento. La [Sicce Micra](../../01_verilpedia/04_hardware/sicce-micra/sicce-micra.md) es la bomba de retorno instalada.
 
 La bomba de retorno ya dispone de su tubo instalado. El [tubo Eheim adquirido](../../01_verilpedia/05_productos/07_eheim-4005843/eheim-4005843.md), de **3 m y 16/22 mm**, referencia **4005843**, es material auxiliar para llenar el display, trasvasar agua y mover agua entre recipientes o cámaras durante el montaje y el mantenimiento. No forma parte del recorrido hidráulico permanente del retorno.
 
@@ -179,4 +185,6 @@ Durante el montaje y las pruebas se comprobará:
 
 - [Técnica de la urna](../../01_verilpedia/04_hardware/urna/tecnica.md)
 - [Ficha de la Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md)
-- [Ficha de la Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md)
+- [Ficha de la Sicce Micra](../../01_verilpedia/04_hardware/sicce-micra/sicce-micra.md)
+- [Ficha de la Jebao DC-650](../../01_verilpedia/04_hardware/jebao-dc-650/jebao-dc-650.md): sustitución pendiente
+- [Ficha de la Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md): referencia anterior; sus especificaciones no corresponden a la Micra instalada

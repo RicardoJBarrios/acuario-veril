@@ -17,6 +17,8 @@ y aceptación pertenecen a `02_configuracion/`, a los planes y a las operaciones
 - [Sistema DI del RO/DI](di-ro/sistema-di.md): carcasas T33, monitor TDS, tubería y manómetro pedidos para completar el tratamiento
 - [Resina DI recomendada](di-ro/resina-xepta-rodi.md): XEPTA RODI RESIN de 1000 ml, seleccionada como medio pendiente de compra o confirmación
 - [Sicce Shark Skimmer 300](sicce-shark-skimmer-300/sicce-shark-skimmer-300.md)
+- [Sicce Micra](sicce-micra/sicce-micra.md)
+- [Jebao DC-650](jebao-dc-650/jebao-dc-650.md): documentación parcial; manual específico pendiente
 - [Sicce Micra Plus 600](sicce-micra-plus-600/sicce-micra-plus-600.md)
 - [Mantis Tourbon 60](mantis-tourbon-60/mantis-tourbon-60.md)
 - [AI Prime 16HD Reef](ai-prime-16hd-reef/ai-prime-16hd-reef.md)

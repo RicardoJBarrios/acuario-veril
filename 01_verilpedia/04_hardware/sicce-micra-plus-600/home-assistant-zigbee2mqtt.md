@@ -1,5 +1,7 @@
 # Integración de la Sicce Micra Plus 600 con Home Assistant
 
+> **Corrección de identificación (19/10/2026):** el propietario ha identificado la bomba instalada en Veril como **Sicce Micra**, no Micra Plus. Esta ficha conserva la documentación anterior de la Micra Plus; sus especificaciones y las previsiones de aplicación local no acreditan el modelo ni las prestaciones de la unidad instalada. La [configuración hidráulica vigente](../../../02_configuracion/01_dimensiones/03_hidraulica.md) recoge la Micra, el caudal medido tras limpiar el filtro (306 L/h) y la Jebao DC-650 pedida, pendiente de instalación.
+
 ## Alcance
 
 La Sicce Micra Plus 600 se alimentará mediante una unidad independiente del [SONOFF S60ZBTPF](../sonoff-s60zbtpf/sonoff-iplug-s60zbtpf.md), integrada en Home Assistant a través de Zigbee2MQTT.
