@@ -17,7 +17,7 @@ La rutina recuperada usa 4 ml de muestra, dos gotas de KH-Ind y titulación con 
 
 ## Encaje previsto en Veril
 
-El plan exige una línea base antes del ciclado y seguimiento durante el ciclado y con corales. Durante nitrificación puede consumirse alcalinidad; una lectura de KH no confirma por sí sola el proceso. Para dosificación futura se necesitarán mediciones comparables que demuestren consumo, no una sola diferencia. La explicación general está en [alcalinidad](../../03_parametros/alcalinidad.md); la aplicación concreta, en el [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y el [plan de ciclado](../../../03_pendientes/ciclado/plan.md).
+El plan exige una línea base antes del ciclado y seguimiento durante el ciclado y con corales. Durante nitrificación puede consumirse alcalinidad; una lectura de KH no confirma por sí sola el proceso. Para dosificación futura se necesitarán mediciones comparables que demuestren consumo, no una sola diferencia. La explicación general está en [alcalinidad](../../03_parametros/alcalinidad.md); la aplicación concreta, en el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y el [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md).
 
 ## Buenas prácticas y límites
 
@@ -32,7 +32,7 @@ El plan exige una línea base antes del ciclado y seguimiento durante el ciclado
 ## Enlaces de trabajo
 
 - Parámetro: [Alcalinidad](../../03_parametros/alcalinidad.md) y [pH](../../03_parametros/ph.md).
-- Aplicación: [plan de medición y selección de tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md), [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+- Aplicación: [plan de medición y selección de tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md), [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Fuentes
 

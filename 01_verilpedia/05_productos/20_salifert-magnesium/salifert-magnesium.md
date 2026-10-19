@@ -17,7 +17,7 @@ El procedimiento: 2 ml de muestra, cinco gotas de Mg-1 y mezcla suave; una cucha
 
 ## Encaje previsto en Veril
 
-El plan lo reserva para antes de iniciar dosificación o cuando haya consumo calcificador sostenido, pues no es una magnitud prioritaria del ciclado y suele interesar por su relación con calcio y alcalinidad. No existe decisión de dosificación vigente por esta ficha. Véase [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md), [magnesio](../../03_parametros/magnesio.md), [calcio](../../03_parametros/calcio.md) y [alcalinidad](../../03_parametros/alcalinidad.md).
+El plan lo reserva para antes de iniciar dosificación o cuando haya consumo calcificador sostenido, pues no es una magnitud prioritaria del ciclado y suele interesar por su relación con calcio y alcalinidad. No existe decisión de dosificación vigente por esta ficha. Véase [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md), [magnesio](../../03_parametros/magnesio.md), [calcio](../../03_parametros/calcio.md) y [alcalinidad](../../03_parametros/alcalinidad.md).
 
 ## Buenas prácticas y límites
 
@@ -31,7 +31,7 @@ El plan lo reserva para antes de iniciar dosificación o cuando haya consumo cal
 ## Enlaces de trabajo
 
 - Parámetro: [Magnesio](../../03_parametros/magnesio.md), [calcio](../../03_parametros/calcio.md) y [alcalinidad](../../03_parametros/alcalinidad.md).
-- Aplicación: [plan de medición y tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y [procedimiento recurrente](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+- Aplicación: [plan de medición y tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y [procedimiento recurrente](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Fuentes
 

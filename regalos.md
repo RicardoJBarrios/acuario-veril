@@ -7,8 +7,6 @@ He agrupado primero lo que todavía me vendría bien y, al final, lo que ya he c
 ### Tests de agua
 
 - **Hanna HI774 Marine Phosphate ULR Checker** (≈70 €).
-- **Salifert pH Profi Test** (≈8 €).
-- **Salifert NO₃ Profi Test** (≈10 €).
 - **Salifert Ca Profi Test** (≈15 €).
 - **Salifert Mg Profi Test** (≈15 €).
 
@@ -19,7 +17,6 @@ una opción digital adicional, no una necesidad inmediata.
 
 - **Calentador:** (≈35 €). Aquael Ultra Heater 75w ó 100w (cualquiera vale)
 - **Aquaforest Reef Salt 10 kg** (≈35 €). Consumible que volveré a necesitar.
-- **XEPTA RODI RESIN, 1.000 ml** (≈20 €). Resina para el sisrema RO-DI (purificación de agua)
 
 **Equipo:**
 
@@ -64,14 +61,15 @@ una opción digital adicional, no una necesidad inmediata.
 
 - **Urna AIO:** 75 × 32 × 40 cm (75 L); display de 60 × 32 × 40 cm (60 L) y compartimento
   técnico integrado (15 L). No es un sump externo.
-- **Retorno:** Sicce Micra y Jebao DC-650
+- **Retorno:** Sicce Micra; Jebao DC-650 comprada, sustitución pendiente.
 - **Circulación del display:** Mantis Tourbon 60.
 - **Skimmer:** Sicce Shark Skimmer 300.
 - **Iluminación:** Aqua Illumination Prime 16 HD Reef negra con kit para colgarla.
-- **ATO:** D-D H2Ocean Compact ATO.
+- **ATO:** D-D H2Ocean Compact ATO Gen 2 (DDATO2), compra comunicada.
 - **Temperatura:** sensor Sonoff SNZB-02LD y termómetro de cristal ICA KA21.
 - **Medición de luz:** DanoPlus DP-414 para medir PAR/PPFD bajo el agua.
 - **Ósmosis:** equipo RO6CB y 2 etapas DI con monitor de TDS HM Digital TRM-3
+- **RO/DI:** XEPTA RODI Resin (presentación indicada: 1 kg) y ARKA myAQUA In-Line TDS (TDSIL), compras comunicadas.
 
 ### Roca, arena y filtración
 
@@ -82,8 +80,9 @@ una opción digital adicional, no una necesidad inmediata.
 
 ### Tests y ciclado
 
-- **Tests de gotas:** Salifert NO₂ Profi Test, Salifert NH₃ Profi Test y
-  Salifert KH/Alk Profi Test.
+- **Tests de gotas:** Salifert NO₂ Profi Test, Salifert NH₃ Profi Test,
+  Salifert KH/Alk Profi Test, Salifert Nitrate (caducidad indicada 09/2028) y
+  Salifert pH (caducidad indicada 12/2028).
 - **Tiras:** Tetra Test 7 en 1
 - **Ciclado sin peces:** FritzZyme 9 (946 ml) y Fritz Fishless Fuel (59 ml).
 

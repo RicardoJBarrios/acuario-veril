@@ -68,7 +68,7 @@ El riesgo no es solo que sean delicados, sino que un deterioro puede comprometer
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--equinodermos--pepinos-de-mar).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--equinodermos--pepinos-de-mar).
 
 ## Variantes comerciales observadas
 

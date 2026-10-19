@@ -80,13 +80,13 @@ una recesión o una ralentización no demuestran por sí solas una alteración d
 KH o Ca. Ante una señal persistente se revisarán sus mediciones y tendencias,
 junto con nutrientes, PAR, flujo, temperatura, salinidad, aclimatación y
 plagas. La expresión «punta quemada» es descriptiva y no confirma un
-diagnóstico de alcalinidad. El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+diagnóstico de alcalinidad. El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md)
 mantiene a *Acropora* como opción no inicial, no como coral centinela para
 Veril.
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--sps--acropora).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--sps--acropora).
 
 ## Pendiente de verificación
 

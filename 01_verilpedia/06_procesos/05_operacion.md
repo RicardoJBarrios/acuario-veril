@@ -20,7 +20,7 @@ La operación no sustituye a las fichas propietarias de equipos, parámetros u o
 
 El mantenimiento y el seguimiento comienzan durante el montaje y el ciclado, continúan durante la maduración y permanecen durante la operación estable. La diferencia entre fases es el estado predominante del sistema, no la desaparición de las actividades de operación.
 
-El [ciclado](../../03_pendientes/ciclado/plan.md) y la [maduración](../../03_pendientes/maduracion/plan.md) contienen sus propios procedimientos de fase. Los procedimientos recurrentes de Veril se documentan en [planes de operación recurrente](../../03_pendientes/operacion-recurrente/README.md).
+El [ciclado](../../03_pendientes/ciclado/01_plan.md) y la [maduración](../../03_pendientes/maduracion/01_plan.md) contienen sus propios procedimientos de fase. Los procedimientos recurrentes de Veril se documentan en [planes de operación recurrente](../../03_pendientes/operacion-recurrente/README.md).
 
 ## Límites
 

@@ -25,9 +25,9 @@ La cámara **Entrada** concentra la entrada y el acceso a la rejilla. Su altura 
 ## Equipo técnico
 
 - [Sicce Shark SKIMMER 300](../sicce-shark-skimmer-300/sicce-shark-skimmer-300.md): Skimmer de la cámara Skimmer
-- Sicce Micra: bomba de retorno instalada, identificada por el propietario el 19/10/2026; sustituye la identificación anterior como Micra Plus. Jebao DC-650 pedida, sin instalación comunicada. Véase la [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md)
+- Sicce Micra: bomba de retorno instalada, identificada por el propietario el 19/10/2026; sustituye la identificación anterior como Micra Plus. Compra de Jebao DC-650 comunicada ese día; instalación sin comunicar. Véase la [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md)
 - [Mantis Tourbon 60](../mantis-tourbon-60/mantis-tourbon-60.md): Bomba de movimiento del display
-- [D-D H2Ocean Compact ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md): Reposición automática de la cámara Retorno
+- [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md): equipo de reposición automática adquirido; aplicación prevista en la cámara Retorno
 - [Barril GRAF de 15 l](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md): Depósito de agua RO/DI para el ATO
 
 El compartimento conserva acceso para retirar y mantener el skimmer, el calentador, las bombas, el sensor del ATO, los sensores de temperatura y la rejilla de entrada.

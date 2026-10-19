@@ -37,7 +37,7 @@ Los corales deben reforzar la idea de un arrecife compacto, estable y legible de
 Los puntos que deben guiar la selección son:
 
 - Madurez biológica suficiente antes de introducir piezas sensibles
-- Demanda de luz compatible con la **ICA Coral LED PRO II 60 cm** y con la ausencia de mapas PAR propios
+- Demanda de luz compatible con la **AI Prime 16HD Reef** instalada y con el mapa de PPFD que se mida en Veril
 - Flujo compatible con la **Mantis Tourbon 60 Wave Maker** y con su ajuste actual documentado; cualquier modo variable futuro deberá evaluarse antes de usarlo como criterio de incorporación
 - Crecimiento previsible dentro de un display de **60 × 32 cm**
 - Distancia suficiente entre piezas con riesgo de contacto o competencia
@@ -90,6 +90,8 @@ La selección de corales se considerará bien planteada cuando:
 - Mantener cristales y arena accesibles
 - Evitar limpiezas o recolocaciones masivas que alteren varias piezas a la vez
 - Registrar cambios de luz, flujo, nutrientes y respuesta coralina
+
+La **ICA Coral LED PRO II de 60 cm** era la referencia de iluminación anterior. La [configuración de iluminación](../../01_dimensiones/04_iluminacion.md) documenta la AI Prime actualmente colocada y los mapas aún previstos.
 
 ## Observaciones profesionales incorporadas
 

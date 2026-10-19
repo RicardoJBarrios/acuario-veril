@@ -220,9 +220,9 @@ ni salud general fuera de las condiciones y especies ensayadas. Para Veril,
 esta posibilidad no modifica el estado de candidato ni justifica añadir Xenia
 solo como organismo centinela. Si se incorporase por una decisión
 independiente, cualquier cambio persistente se interpretaría como aviso para
-medir, siguiendo el [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md).
+medir, siguiendo el [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md).
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--blandos--xenia-anthelia).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--blandos--xenia-anthelia).
 
 ## Pendiente de verificación
 

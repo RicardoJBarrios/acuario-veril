@@ -14,18 +14,18 @@ La elección concreta de especies, cantidades, fechas y parámetros pertenece a 
 
 **Previsto:** Las primeras incorporaciones serán principalmente corales y organismos coraliformes fotosintéticos, siempre después de disponer de condiciones físicas, lumínicas, hidráulicas y químicas interpretables.
 
-**Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en las fichas generales y en los planes correspondientes, sin convertir esta ficha en un catálogo ni en un protocolo. La pared viva y los medios biológicos adicionales siguen siendo decisiones sujetas a viabilidad.
+**Pendiente:** La lista concreta de especies, cantidades, posiciones, fechas y secuencia de incorporación se definirá en las fichas generales y en los planes correspondientes, sin convertir esta ficha en un catálogo ni en un protocolo. La pared viva sigue sujeta a viabilidad. La selección de Mantis como medio adicional se documenta en [Procesamiento](07_procesamiento.md).
 
 ## Arranque biológico adoptado
 
-El arranque de Veril se validará mediante un ciclado sin peces basado en:
+El arranque iniciado el [12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand) sigue una prueba de ciclado sin peces basada en:
 
 - AF Bio Sand activado como sustrato, superficie inicial y aportación microbiológica asociada
 - FritzZyme 9 como inoculación bacteriana adicional
 - Fritz Fishless Fuel como fuente controlada de nitrógeno amoniacal
 - Agua de mar filtrada con UV suministrada por Elite Reef Kanarias y verificada hasta `S_P = 35`
 
-Se espera demostrar una capacidad nitrificante frente a dos cargas conocidas, no obtener por ese procedimiento una comunidad madura, una microfauna establecida ni una capacidad general para toda la población futura. La preparación, las dosis calculadas sobre el volumen nominal adoptado de **75 L** y los criterios de cierre están en el [plan de ciclado](../../03_pendientes/ciclado/plan.md) y su ejecución paso a paso en el [runbook](../../03_pendientes/ciclado/runbook.md).
+Se espera demostrar una capacidad nitrificante frente a dos cargas conocidas, no obtener por ese procedimiento una comunidad madura, una microfauna establecida ni una capacidad general para toda la población futura. La preparación, las dosis calculadas sobre el volumen nominal adoptado de **75 L** y los criterios de cierre están en el [plan de ciclado](../../03_pendientes/ciclado/01_plan.md) y su ejecución paso a paso en el [runbook](../../03_pendientes/ciclado/02_runbook.md).
 
 ## Relación entre comunidad y aquascape
 
@@ -45,7 +45,7 @@ La microfauna se considera una comunidad potencial de organismos asociados a bio
 
 Su presencia no se considerará un equipo de limpieza, un mecanismo autónomo de exportación ni una prueba suficiente de madurez. La ausencia de organismos visibles durante una observación puntual tampoco demostrará que no exista microfauna en zonas protegidas.
 
-Esta ficha no define especies, cultivos, proveedores, fechas, inoculación, alimentación ni procedimientos de incorporación. La información general pertenece a las [fichas de biología](../../01_verilpedia/02_biologia/README.md), y cualquier incorporación concreta se decide en el [plan de microfauna de maduración](../../03_pendientes/maduracion/plan-microfauna.md).
+Esta ficha no define especies, cultivos, proveedores, fechas, inoculación, alimentación ni procedimientos de incorporación. La información general pertenece a las [fichas de biología](../../01_verilpedia/02_biologia/README.md), y cualquier incorporación concreta se decide en el [plan de microfauna de maduración](../../03_pendientes/maduracion/03_plan-microfauna.md).
 
 ## Capacidad biológica y medios complementarios
 
@@ -150,4 +150,4 @@ Si el crecimiento altera de forma relevante el espacio disponible, la carga biol
 - [Ficha de algas coralinas](../../01_verilpedia/02_biologia/02_algas/01_algas-coralinas.md)
 - [Ficha general de copépodos marinos](../../01_verilpedia/02_biologia/01_microorganismos/02_microfauna/copepodos-marinos.md)
 - [Ficha general de microinvertebrados marinos](../../01_verilpedia/02_biologia/01_microorganismos/02_microfauna/microinvertebrados-marinos.md)
-- [Plan de incorporación de microfauna](../../03_pendientes/maduracion/plan-microfauna.md)
+- [Plan de incorporación de microfauna](../../03_pendientes/maduracion/03_plan-microfauna.md)

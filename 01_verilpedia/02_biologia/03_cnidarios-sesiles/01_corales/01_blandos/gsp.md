@@ -113,11 +113,11 @@ una deficiencia específica. En particular, el GSP no forma esqueleto calcáreo,
 por lo que su apertura no es un indicador de consumo de KH, Ca o Mg. Para
 Veril, la observación debe compararse con el patrón local y considerar luz,
 flujo, detrito, temperatura, salinidad, irritación y plagas. El método
-propuesto está en el [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md).
+propuesto está en el [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md).
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--blandos--gsp).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--blandos--gsp).
 
 ## Lecciones de las paredes observadas
 

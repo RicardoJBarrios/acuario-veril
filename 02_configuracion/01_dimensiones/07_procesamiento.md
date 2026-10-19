@@ -14,7 +14,7 @@ No se instalará filtración mecánica permanente como parte de la configuració
 
 ## Estado de la decisión
 
-**Referencia práctica:** el propietario eligió seguir a su referente de Elite Reef el 9 de octubre. El [consejo recibido](../../03_pendientes/ciclado/decisiones/referencia-elite-reef-e-inoculacion-previa.md) se conserva como antecedente del arranque.
+**Referencia práctica:** el propietario eligió seguir a su referente de Elite Reef el 9 de octubre. El [consejo recibido](../../03_pendientes/ciclado/decisiones/02_referencia-elite-reef-e-inoculacion-previa.md) se conserva como antecedente del arranque.
 
 **Adoptado:** método Berlín, Mantis Bio-Filter Spheres como medio adicional en C1 y Sicce Shark Skimmer 300 como skimmer. La configuración base no incluye filtración mecánica permanente.
 
@@ -35,7 +35,7 @@ La capacidad de procesamiento dependerá de:
 - La carga de materia introducida por alimentación, organismos y mantenimiento
 - La estabilidad química y la continuidad de las condiciones de trabajo
 
-El ciclado comprobará una capacidad nitrificante frente a una carga conocida. La maduración observará la respuesta del conjunto y no será sustituida por esta ficha. Los protocolos se mantienen en el [plan de ciclado](../../03_pendientes/ciclado/plan.md) y el [plan de maduración](../../03_pendientes/maduracion/plan.md).
+El ciclado comprobará una capacidad nitrificante frente a una carga conocida. La maduración observará la respuesta del conjunto y no será sustituida por esta ficha. Los protocolos se mantienen en el [plan de ciclado](../../03_pendientes/ciclado/01_plan.md) y el [plan de maduración](../../03_pendientes/maduracion/01_plan.md).
 
 ## Criterios de aceptación
 

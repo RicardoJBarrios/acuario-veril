@@ -1,11 +1,18 @@
 # Maduración de Veril
 
-## Propósito
+## Estado al 19 de octubre de 2026
 
-Esta carpeta documenta la fase posterior al ciclado, durante la que se observa el desarrollo de la comunidad biológica, la sucesión, la estabilidad del sistema y la respuesta a incorporaciones graduales.
+Esta fase está prevista después del cierre del ciclado. El
+[seguimiento actual](../ciclado/README.md) continúa en la primera carga; los
+planes de esta carpeta no describen incorporaciones ya ejecutadas.
 
-La explicación general del proceso está en la [ficha de maduración](../../01_verilpedia/06_procesos/03_maduracion.md) y el protocolo específico de Veril está en el [plan de maduración](plan.md).
+## Documentos
 
-La maduración no tiene una duración fija ni constituye una segunda prueba de ciclado. Se avanza mediante condiciones observables, ventanas de seguimiento y decisiones registradas.
+- [Plan de maduración](01_plan.md): entrada en la fase, seguimiento y condiciones para avanzar.
+- [Equipo de limpieza](02_plan-equipo-limpieza.md): secuencia por recurso, capacidad de consumo, recepción y alimentación posterior.
+- [Microfauna](03_plan-microfauna.md): primera inoculación proyectada, alternativas y observación.
+- [Observación de corales](04_plan-indicadores-visuales-corales.md): cambios visuales que pueden motivar una comprobación cuando existan colonias incorporadas por una decisión independiente.
 
-Los módulos específicos de incorporación y observación se documentan dentro de esta fase: [plan de incorporación de microfauna](plan-microfauna.md) y [plan de observación biológica de corales](plan-indicadores-visuales-corales.md).
+La explicación general está en la [ficha de maduración](../../01_verilpedia/06_procesos/03_maduracion.md).
+Las actuaciones y mediciones se registran en el documento de operaciones de
+cada día. No se fija una duración universal para esta fase.

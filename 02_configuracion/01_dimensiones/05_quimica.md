@@ -6,21 +6,25 @@
 
 La química de Veril se seguirá mediante las [fichas de parámetros](../../01_verilpedia/03_parametros/README.md), con atención a la relación entre salinidad, temperatura, pH, alcalinidad, compuestos nitrogenados, nitrato, fosfato y oxígeno cuando corresponda a la fase del sistema.
 
-La configuración integrada adopta como zona preferida del agua **25–26 °C** y como objetivo operativo normal **24,5–26,5 °C**. Entre 24,0 y 24,5 °C se considera fresca pero razonablemente normal; 23,0–24,0 °C es una excursión fría a investigar si persiste; por debajo de 23,0 °C está fuera del objetivo y por debajo de 22,0 °C requiere revisión prioritaria. Son categorías locales, no umbrales fisiológicos universales; la interpretación completa está en [Régimen térmico adoptado](../README.md#régimen-térmico-adoptado). Esta ficha conserva la interpretación de la temperatura como variable química y contexto de medición.
+El agua tiene como zona preferida **25–26 °C** y como objetivo normal **24,5–26,5 °C**. Las bandas y respuestas operativas están en [Régimen térmico adoptado](../README.md#régimen-térmico-adoptado). Aquí la temperatura se interpreta como variable química y contexto de medición.
 
-El agua de reposición por evaporación será agua RO/DI mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), sin añadir sal: la evaporación retira agua, no sal. El llenado inicial del ciclado utilizará agua de mar filtrada con UV de Elite Reef Kanarias. El agua nueva para los cambios posteriores se preparará con RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md), según el [procedimiento operativo de cambios de agua](../../03_pendientes/operacion-recurrente/cambios-agua.md), hasta alcanzar una salinidad objetivo de `S_P = 35`.
+El agua de reposición por evaporación será agua RO/DI mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), sin añadir sal: la evaporación retira agua, no sal. El llenado inicial del ciclado utilizó agua de mar filtrada con UV de Elite Reef Kanarias. El agua nueva para los cambios posteriores se preparará con RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md), según el [procedimiento operativo de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md), hasta alcanzar una salinidad objetivo de `S_P = 35`.
 
-Para los cálculos de cambios de agua de Veril se toma como base nominal **75 L para el sistema completo** y **60 L para el display**. Se adopta un cambio nominal de **10 L**, aproximadamente el 13,3 % del sistema. Para prepararlo a `S_P = 35`, se parte de **unos 415 g de Reef Salt** como referencia empírica de usuarios. No es una cantidad oficial garantizada para todos los lotes; se ajustará midiendo la salinidad del agua preparada. El [procedimiento de cambios de agua](../../03_pendientes/operacion-recurrente/cambios-agua.md) atribuye las referencias y conserva sus límites.
+Para los cálculos de cambios de agua de Veril se toma como base nominal **75 L para el sistema completo** y **60 L para el display**. Se adopta un cambio nominal de **10 L**, aproximadamente el 13,3 % del sistema. Para prepararlo a `S_P = 35`, se parte de **unos 415 g de Reef Salt** como referencia empírica de usuarios. No es una cantidad oficial garantizada para todos los lotes; se ajustará midiendo la salinidad del agua preparada. El [procedimiento de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md) atribuye las referencias y conserva sus límites.
 
 Para la salinidad se dispone de un [refractómetro D-D The Aquarium Solution AQPR001](../../01_verilpedia/05_productos/06_dd-aquarium-solution-aqpr001/dd-aquarium-solution-aqpr001.md). Su calibración y el método de medición se registrarán antes de aceptar el agua de mar.
 
 No se fija en esta ficha una tabla independiente de valores objetivo. Los rangos, métodos, unidades, frecuencia y límites de interpretación pertenecen a las fichas de parámetros y a los planes operativos que los utilicen.
 
+## Métodos disponibles
+
+También están disponibles para la caracterización y el ciclado el [Salifert Ammonia NH3 Profi Test](../../01_verilpedia/05_productos/12_salifert-ammonia-nh3/salifert-ammonia-nh3.md), presentación de 50 tests y caducidad **10/2027**, el [Salifert NO2 Profi Test](../../01_verilpedia/05_productos/13_salifert-no2/salifert-no2.md), presentación de 50 tests y caducidad **06/2029**, y un [Tetra Test 7 en 1](../../01_verilpedia/05_productos/14_tetra-test-7-en-1/tetra-test-7-en-1.md), presentación de 50 tiras, para pH, KH, GH, NO2, NO3, Cl2 y CO2. Los Salifert de amonio y nitrito serán los métodos principales para seguir el ciclado; las tiras Tetra se utilizarán únicamente como referencia inicial y caracterización orientativa.
+
 ## Agua del arranque biológico
 
-El llenado inicial utilizó agua de mar filtrada con UV suministrada por Elite Reef Kanarias, pero el volumen efectivamente introducido no quedó medido. El registro del 5 de septiembre confundió inicialmente las capacidades nominales de dos recipientes de 30 L y uno de 20 L con el volumen trasvasado; el propietario indica que seguramente se introdujo menos. El 6 de septiembre se estimaron aproximadamente 7 L adicionales, pero no puede calcularse el total acumulado sin conocer el volumen inicial real. Estas cantidades no deben confundirse con el volumen operativo estimado de unos 75 L. Los dos bidones de 15 L —uno lleno y otro con una pequeña cantidad— permanecían fuera del sistema y no forman parte del volumen operativo. Antes de iniciar el ciclado se comprobarán la salinidad, la temperatura, el pH y la alcalinidad, y el agua se aceptará únicamente si resulta compatible con el objetivo `S_P = 35`. El propietario comunica que el equipo RO6CB llegó el 24 de septiembre de 2026; la etiqueta de la caja está documentada, pero el contenido no se ha inventariado y la unidad no se ha instalado ni aceptado. La recepción e instalación de los componentes DI, la carga de resina y la aceptación del sistema RO/DI completo siguen pendientes. El conjunto se necesitará para la reposición por evaporación y los cambios posteriores. Véase el [registro de recepción](../../04_operaciones/2026/09/2026-09-24.md#recepción-del-equipo-ro6cb).
+El llenado se hizo con agua de mar filtrada con UV de Elite Reef Kanarias. Los recipientes, la corrección sobre el volumen y la recepción del RO6CB se conservan en [Material y estado documentados](01_infraestructura.md#material-y-estado-documentados). La base nominal de cálculo sigue siendo **75 L**; el agua se contrasta con el objetivo `S_P = 35` mediante salinidad, temperatura, pH y alcalinidad.
 
-Antes de añadir FritzZyme 9 y Fishless Fuel, se procurará partir del objetivo operativo normal de **24,5–26,5 °C**, preferentemente 25–26 °C. Si el agua está en excursión fría (23–24 °C) o por debajo del objetivo (<23 °C), se registrarán duración y tendencia y se comprobará estabilidad antes de iniciar. El detalle de activación del AF Bio Sand, las dosis de los productos y la secuencia temporal pertenecen al [plan de ciclado](../../03_pendientes/ciclado/plan.md) y al [runbook de ciclado](../../03_pendientes/ciclado/runbook.md).
+El ciclado empezó el [12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand). La preparación previa tomaba como referencia **24,5–26,5 °C**, preferentemente **25–26 °C**; ahora las cargas, dosis y seguimiento se consultan en el [plan](../../03_pendientes/ciclado/01_plan.md) y su [procedimiento](../../03_pendientes/ciclado/02_runbook.md).
 
 El agua de mar suministrada prepara la matriz salina, pero no inocula bacterias ni sustituye a FritzZyme 9. El agua RO/DI de reposición del ATO tampoco contiene sal y no se utilizará para preparar las cargas de Fishless Fuel.
 
@@ -44,7 +48,7 @@ La masa de sal no define por sí sola el resultado. Aquaforest publica aproximad
 
 ## Estado de la decisión
 
-**Adoptado:** La reposición por evaporación utilizará agua RO/DI mediante el ATO. El llenado inicial del ciclado utilizará agua de mar filtrada con UV suministrada por Elite Reef Kanarias y se comprobará hasta `S_P = 35`. Una vez finalizado el ciclado, el agua nueva para cambios posteriores se preparará con agua de ósmosis RO/DI y Aquaforest Reef Salt, salvo decisión documentada distinta.
+**Adoptado:** La reposición por evaporación utilizará agua RO/DI mediante el ATO. El llenado inicial del ciclado utilizó agua de mar filtrada con UV suministrada por Elite Reef Kanarias y se comprobará hasta `S_P = 35`. Una vez finalizado el ciclado, el agua nueva para cambios posteriores se preparará con agua de ósmosis RO/DI y Aquaforest Reef Salt, salvo decisión documentada distinta.
 
 **Previsto:** La química se interpretará mediante parámetros individuales, relaciones entre variables y tendencias temporales, teniendo en cuenta la fase del sistema y la carga existente.
 
@@ -64,11 +68,11 @@ La interpretación química deberá relacionarse con:
 
 Una lectura puntual no cerrará por sí sola una decisión. Se registrarán el método, la fecha, la hora, la intervención previa y la tendencia necesaria para interpretar la respuesta del sistema.
 
-La preparación, ejecución y trazabilidad de los cambios de agua pertenecen al [procedimiento operativo correspondiente](../../03_pendientes/operacion-recurrente/cambios-agua.md).
+La preparación, ejecución y trazabilidad de los cambios de agua pertenecen al [procedimiento operativo correspondiente](../../03_pendientes/operacion-recurrente/01_cambios-agua.md).
 
 ## Aplicación durante las fases operativas
 
-El [ciclado](../../03_pendientes/ciclado/plan.md) y la [maduración](../../03_pendientes/maduracion/plan.md) mantienen sus propios protocolos. Esta ficha solo define qué relación debe conservarse entre la química medida y la configuración de Veril.
+El [ciclado](../../03_pendientes/ciclado/01_plan.md) y la [maduración](../../03_pendientes/maduracion/01_plan.md) mantienen sus propios protocolos. Esta ficha solo define qué relación debe conservarse entre la química medida y la configuración de Veril.
 
 Antes de nuevas incorporaciones se comprobará que las tendencias químicas sean interpretables para la carga prevista. Una corrección química no se aplicará únicamente para perseguir una cifra aislada ni sustituirá la identificación de entradas, consumos, procesamiento o mantenimiento.
 

@@ -102,7 +102,7 @@ En especial, *Mespilia globulus* puede consumirla durante su pastoreo. Esto no e
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../02_configuracion/03_biologia/02_candidatos/algas.md#algas--algas-coralinas).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../02_configuracion/03_biologia/02_candidatos/01_algas.md#algas--algas-coralinas).
 
 ## Pendiente de verificación
 
@@ -122,4 +122,4 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 - Tebben et al., [Chemical mediation of coral larval settlement by crustose coralline algae](https://pmc.ncbi.nlm.nih.gov/articles/PMC4650656/), sobre señales asociadas al asentamiento de larvas
 - [Coralline Algae, What Is It And How To Grow It](https://reefbuilders.com/2017/01/26/coralline-algae-the-best-ways-to-grow-it/), orientación práctica sobre inoculación y crecimiento en acuario
 - Bulk Reef Supply, [Top 5 Questions on Dry Live Rock for Reef Aquariums](https://www.bulkreefsupply.com/top-5-questions-on-dry-live-rock-for-reef-aquariums), sobre inoculación desde roca, plugs y soportes colonizados
-- Criterios internos de Veril en el [plan de maduración](../../../03_pendientes/maduracion/plan.md)
+- Criterios internos de Veril en el [plan de maduración](../../../03_pendientes/maduracion/01_plan.md)

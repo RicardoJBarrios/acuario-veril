@@ -99,7 +99,7 @@ La extracción de crustáceos del medio marino entra en el ámbito del marisqueo
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--gambas-camarones--gnathophyllum-elegans).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--gambas-camarones--gnathophyllum-elegans).
 
 ## Pendiente de verificación
 

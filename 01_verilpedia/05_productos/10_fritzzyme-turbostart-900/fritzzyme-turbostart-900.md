@@ -45,4 +45,4 @@ No demuestra por sí mismo que un sistema procese una carga determinada. La veri
 - [Fritz: TurboStart 900 Saltwater](https://fritzaquatics.com/products/fritzzyme-turbostart-900-saltwater)
 - [Fritz: guía de ciclado marino](https://fritzaquatics.com/resources/articles/fritzzyme-user-guide-sw)
 - [Elite Reef Kanarias: categoría de bacterias](https://www.elitereefkanarias.es/es/93-bacterias)
-- [Selección del inoculante y evaluación de la receta](../../../03_pendientes/ciclado/decisiones/seleccion-inoculante-y-receta.md)
+- [Selección del inoculante y evaluación de la receta](../../../03_pendientes/ciclado/decisiones/01_seleccion-inoculante-y-receta.md)

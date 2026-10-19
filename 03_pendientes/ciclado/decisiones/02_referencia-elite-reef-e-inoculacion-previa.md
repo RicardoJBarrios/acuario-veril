@@ -18,8 +18,8 @@ el consejo recibido, no prescribe pequeñas dosis ni una inoculación adicional.
 - El [12 de octubre](../../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand) se incorporó la arena y se añadieron FritzZyme 9 y la primera carga de Fishless Fuel.
 
 Por ello, la espera anterior al arranque ya no describe la fase actual.
-La [receta adoptada](seleccion-inoculante-y-receta.md) conserva las dosis y el
-[plan](../plan.md) establece cómo se comprueba el ciclado.
+La [receta adoptada](01_seleccion-inoculante-y-receta.md) conserva las dosis y el
+[plan](../01_plan.md) establece cómo se comprueba el ciclado.
 
 La recomendación sobre las Mantis se mantiene atribuida al referente y a la
 elección del propietario; no es una comparación experimental entre medios.

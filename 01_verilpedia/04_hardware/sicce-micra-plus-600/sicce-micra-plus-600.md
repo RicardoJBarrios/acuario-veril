@@ -1,6 +1,6 @@
 # Sicce Micra Plus 600
 
-> **Corrección de identificación (19/10/2026):** el propietario ha identificado la bomba instalada en Veril como **Sicce Micra**, no Micra Plus. Esta ficha conserva la documentación anterior de la Micra Plus; sus especificaciones y las previsiones de aplicación local no acreditan el modelo ni las prestaciones de la unidad instalada. La [configuración hidráulica vigente](../../../02_configuracion/01_dimensiones/03_hidraulica.md) recoge la Micra, el caudal medido tras limpiar el filtro (306 L/h) y la Jebao DC-650 pedida, pendiente de instalación.
+> **Corrección de identificación (19/10/2026):** el propietario ha identificado la bomba instalada en Veril como **Sicce Micra**, no Micra Plus. Esta ficha conserva la documentación anterior de la Micra Plus; sus especificaciones y las previsiones de aplicación local no acreditan el modelo ni las prestaciones de la unidad instalada. La [configuración hidráulica vigente](../../../02_configuracion/01_dimensiones/03_hidraulica.md) recoge la Micra, el caudal medido tras limpiar el filtro (306 L/h) y la compra comunicada de una Jebao DC-650, pendiente de instalación.
 
 ## Identificación y función en Veril
 

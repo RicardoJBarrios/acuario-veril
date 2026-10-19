@@ -33,7 +33,7 @@ convierten automáticamente entre TAN, NH₃-N y amonio total.
 
 La segunda carga es una prueba local tras la confirmación de ambos parámetros,
 no una pauta de alimentación mientras persiste nitrito. Los criterios y plazos
-pertenecen al [plan](../plan.md#cargas-y-confirmación).
+pertenecen al [plan](../01_plan.md#cargas-y-confirmación).
 
 ## Ejecución y fuentes
 

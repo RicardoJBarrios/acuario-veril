@@ -113,7 +113,7 @@ En Veril puede aprovechar un soporte removible y ofrecer una transición prudent
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--sps--psammocora).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--sps--psammocora).
 
 ## Variantes comerciales observadas
 

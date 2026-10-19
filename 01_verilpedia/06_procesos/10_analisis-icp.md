@@ -94,7 +94,7 @@ se contrastarán con la configuración, la biología y el historial local.
 
 La cadencia por fases, los kits candidatos y el procedimiento de registro de
 Veril se definen en el [plan transversal de medición y
-tests](../../03_pendientes/operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio).
+tests](../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#análisis-icp-de-laboratorio).
 Esta ficha no decide una frecuencia universal ni una marca concreta.
 
 ## Fuentes

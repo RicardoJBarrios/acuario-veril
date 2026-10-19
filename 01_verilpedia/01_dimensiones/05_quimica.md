@@ -298,7 +298,7 @@ La dimensión química:
 
 ## Función durante el ciclado, la maduración y las transiciones
 
-La dimensión química no sustituye a los planes de [ciclado](../../03_pendientes/ciclado/plan.md) y [maduración](../../03_pendientes/maduracion/plan.md), pero define qué cambios químicos deben poder medirse e interpretarse durante esas fases.
+La dimensión química no sustituye a los planes de [ciclado](../../03_pendientes/ciclado/01_plan.md) y [maduración](../../03_pendientes/maduracion/01_plan.md), pero define qué cambios químicos deben poder medirse e interpretarse durante esas fases.
 
 ### Ciclado
 

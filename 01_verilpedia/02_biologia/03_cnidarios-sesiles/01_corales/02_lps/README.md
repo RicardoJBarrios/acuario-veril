@@ -10,4 +10,4 @@ menos inflada puede servir como aviso para revisar el entorno, pero no señala
 por sí sola una alteración de KH, salinidad o nutrientes. Comparar la pieza
 consigo misma y revisar flujo, detrito, contacto, temperatura, salinidad y
 mediciones del agua antes de atribuir una causa. Véase el [plan de observación
-biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md).
+biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md).

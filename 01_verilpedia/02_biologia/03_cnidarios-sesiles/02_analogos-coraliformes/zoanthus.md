@@ -128,7 +128,7 @@ otras posibilidades, temperatura, salinidad, luz medida, flujo, detrito,
 química y plagas; no permite identificar por sí solo una carencia de KH, Ca,
 Mg, NO3, PO4 o trazas. En Veril no se fija todavía un porcentaje de apertura
 ni una duración umbral: se definirían tras establecer la referencia local. El
-[plan de observación biológica de corales](../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+[plan de observación biológica de corales](../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md)
 describe el registro pendiente.
 
 Para el acuarista, la seguridad es obligatoria. La palitoxina se asocia sobre todo a *Palythoa*, pero no es posible determinar visualmente el riesgo de cada colonia de zoántidos. Por prudencia:
@@ -143,7 +143,7 @@ Para el acuarista, la seguridad es obligatoria. La palitoxina se asocia sobre to
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--analogos-coraliformes--zoanthus).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--analogos-coraliformes--zoanthus).
 
 ## Bioma canario
 

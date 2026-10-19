@@ -1,13 +1,13 @@
 # Candidatos de algas
 
+Antes de elegir un ejemplar, la decisión se contrasta con **Elite Reef Kanarias**. Los requisitos particulares se indican como «Comprobación específica» en cada apartado; el estado de candidato no cierra una compra ni acredita una incorporación.
+
 > Este documento agrupa la aplicación específica a Veril de las fichas biológicas del mismo tipo. El estado es una decisión de proyecto; la incorporación real debe registrarse en una operación y, cuando corresponda, en un plan.
 
 <a id="algas--macroalgas--gracilaria"></a>
 ## *Gracilaria*
 
 **Ficha enciclopédica:** [*Gracilaria*](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/gracilaria.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Puede ser la macroalga ornamental más proporcionada, pero exige una mata pequeña, separable y una decisión previa sobre su ubicación
@@ -21,8 +21,6 @@ En el sump solo tendría sentido si existe un compartimento realmente iluminable
 
 **Ficha enciclopédica:** [Algas coralinas](../../../01_verilpedia/02_biologia/02_algas/01_algas-coralinas.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Puede colonizar la roca y aportar cobertura sin ocupar un volumen relevante, pero requiere estabilidad, espacio limpiable y aceptación de su consumo mineral y expansión sobre superficies
 
@@ -34,8 +32,6 @@ La cobertura no debe bloquear la limpieza de cristales, bombas, sensores, rebosa
 ## Botryocladia botryoides
 
 **Ficha enciclopédica:** [Botryocladia botryoides](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/botryocladia-botryoides.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere una zona controlada del display y manejo de desprendimientos y expansión
@@ -49,35 +45,29 @@ La ubicación más prudente sería una roca satélite o soporte separable, lejos
 
 **Ficha enciclopédica:** [Caulerpa prolifera](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/caulerpa-prolifera.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere contención real, poda frecuente y vigilancia de su expansión por el display
 
 En Veril solo la valoraría si se decide conscientemente crear una zona ornamental de macroalga contenida. No la usaría como exportación principal ni la pondría en la roca estructural.
 
-La decisión debe validarse con **Elite Reef Kanarias** según forma de fijación, tamaño de porción y posibilidad real de retirada.
+**Comprobación específica:** forma de fijación, tamaño de porción y posibilidad real de retirada.
 
 <a id="algas--macroalgas--chaetomorpha"></a>
 ## Chaetomorpha
 
 **Ficha enciclopédica:** [Chaetomorpha](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/chaetomorpha.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Es la macroalga más lógica para exportación futura, pero solo si el sump permite un refugio real
 
 En Veril no la introduciría al arranque. Primero conviene ver cómo se comportan nutrientes con roca, skimmer, alimentación y cambios de agua. Si más adelante hay nitrato/fosfato persistentemente altos y espacio técnico libre, *Chaetomorpha* sería la primera macroalga a valorar.
 
-La decisión debe validarse con **Elite Reef Kanarias** según espacio real de cámara, luz, flujo y acceso de poda.
+**Comprobación específica:** espacio real de cámara, luz, flujo y acceso de poda.
 
 <a id="algas--macroalgas--codium-taylorii"></a>
 ## Codium taylorii
 
 **Ficha enciclopédica:** [Codium taylorii](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/codium-taylorii.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere confirmar talla, fijación y capacidad de contención en el display
@@ -89,8 +79,6 @@ En Veril solo la valoraría como pieza tardía, con soporte separable y una func
 
 **Ficha enciclopédica:** [Halimeda discoidea](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/halimeda-discoidea.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere espacio propio y asumir su consumo de calcio, KH y magnesio
 
@@ -101,21 +89,17 @@ Solo la valoraría cuando Veril ya tenga consumo mineral medido y rutina estable
 
 **Ficha enciclopédica:** [Halymenia](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/halymenia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere fijación estable, zona controlada y seguimiento de desprendimiento o deterioro
 
 En Veril la consideraría solo si el acuario ya está estable y se quiere una pieza vegetal controlada en el display. No la usaría como refugio ni como método principal de exportación.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, tamaño de porción, forma de fijación y estado del tejido.
+**Comprobación específica:** identificación, tamaño de porción, forma de fijación y estado del tejido.
 
 <a id="algas--macroalgas--padina-pavonica"></a>
 ## Padina pavonica
 
 **Ficha enciclopédica:** [Padina pavonica](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/padina-pavonica.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere contención, poda y confirmación de que su crecimiento resulta manejable
@@ -126,8 +110,6 @@ En Veril solo tendría sentido si se decide reforzar un guiño de bioma canario 
 ## Ulva
 
 **Ficha enciclopédica:** [Ulva](../../../01_verilpedia/02_biologia/02_algas/02_macroalgas/ulva.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere contención y poda frecuente para evitar fragmentos y crecimiento desordenado

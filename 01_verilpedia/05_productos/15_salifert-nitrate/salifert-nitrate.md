@@ -6,7 +6,7 @@
 | --- | --- |
 | Marca y producto | Salifert Nitrate Profi Test (NO₃) |
 | Método | Reactivos y comparación visual de color en dos escalas |
-| Estado en Veril | Pendiente de adquisición según el plan de medición |
+| Estado en Veril | Compra comunicada el 19/10/2026; caducidad indicada: 09/2028 |
 | Presentación | El fabricante indica aproximadamente 60 mediciones; comprobar el envase/lote |
 
 ## Qué mide y rango
@@ -17,7 +17,7 @@ El procedimiento ofrece una lectura de rango medio mirando desde arriba y una le
 
 ## Encaje previsto en Veril
 
-Se propone al final del ciclado, durante la maduración y para controles puntuales cuando haya una pregunta sobre nutrientes, biofilm, alimentación o exportación. No sustituye las pruebas de carga con amonio y nitrito ni demuestra por sí solo la madurez. Los criterios y la cadencia pertenecen al [plan de medición y selección de tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md), al [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y al [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+Se propone al final del ciclado, durante la maduración y para controles puntuales cuando haya una pregunta sobre nutrientes, biofilm, alimentación o exportación. No sustituye las pruebas de carga con amonio y nitrito ni demuestra por sí solo la madurez. Los criterios y la cadencia pertenecen al [plan de medición y selección de tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md), al [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md) y al [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Buenas prácticas y límites
 
@@ -33,8 +33,8 @@ Se propone al final del ciclado, durante la maduración y para controles puntual
 ## Enlaces de trabajo
 
 - Parámetro: [Nitrato](../../03_parametros/nitrato.md).
-- Aplicación prevista: [plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y [plan de ciclado](../../../03_pendientes/ciclado/plan.md).
-- Procedimiento comparable: [medición y tests recurrentes](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+- Aplicación prevista: [plan transversal de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md).
+- Procedimiento comparable: [medición y tests recurrentes](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Fuentes
 

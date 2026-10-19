@@ -17,7 +17,7 @@ La instrucción recuperada requiere 10 ml de muestra y reactivos PO₄-1/PO₄-2
 
 ## Encaje previsto en Veril
 
-El plan lo coloca como lectura visual de orientación y comprobación poco frecuente durante la maduración. El candidato Hanna HI774 se considera la inversión prioritaria si la decisión depende de discriminar mejor el rango bajo. El test Salifert no define por sí solo cambios de alimentación, adsorbentes ni dosificación. Consultar el [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y el [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+El plan lo coloca como lectura visual de orientación y comprobación poco frecuente durante la maduración. El candidato Hanna HI774 se considera la inversión prioritaria si la decisión depende de discriminar mejor el rango bajo. El test Salifert no define por sí solo cambios de alimentación, adsorbentes ni dosificación. Consultar el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y el [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Buenas prácticas y límites
 
@@ -34,7 +34,7 @@ El plan lo coloca como lectura visual de orientación y comprobación poco frecu
 
 - Parámetro: [Fosfato](../../03_parametros/fosfato.md).
 - Alternativa prevista: [Hanna HI774](../21_hanna-hi774/hanna-hi774.md).
-- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md), [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md), [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Fuentes
 

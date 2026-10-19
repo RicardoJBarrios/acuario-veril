@@ -66,7 +66,7 @@ Suelen ser pacíficos, pero pueden pasar hambre en sistemas muy limpios. En Veri
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--filtradores--plumeros).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--filtradores--plumeros).
 
 ## Bioma canario
 

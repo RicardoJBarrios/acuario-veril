@@ -60,7 +60,7 @@ y la compatibilidad con los peces ya presentes.
 ## Aplicación a Veril
 
 La evaluación específica y el estado de esta especie en Veril se documentan en
-[su ficha de candidato](../../../../02_configuracion/03_biologia/02_candidatos/peces.md#peces--payasos-damiselas--chromis-viridis).
+[su ficha de candidato](../../../../02_configuracion/03_biologia/02_candidatos/03_peces.md#peces--payasos-damiselas--chromis-viridis).
 
 
 ## Parámetros de mantenimiento medibles

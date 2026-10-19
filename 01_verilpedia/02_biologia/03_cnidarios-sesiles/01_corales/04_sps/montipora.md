@@ -121,13 +121,13 @@ demuestran por sí solos un problema de KH. Si el cambio persiste, revisar
 mediciones y tendencias de KH y Ca, además de nutrientes, PAR, flujo,
 temperatura, salinidad, aclimatación y plagas. Los cambios de color no
 justifican dosificar K, I, Fe u otros trazas sin medición independiente. El
-[plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+[plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md)
 mantiene *Montipora* como opción no inicial, no como coral centinela para
 Veril.
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--sps--montipora).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--sps--montipora).
 
 ## Variantes comerciales observadas
 

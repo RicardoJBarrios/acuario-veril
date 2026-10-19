@@ -1,6 +1,6 @@
 # Proyección microbiológica del ciclado de Veril
 
-Esta es una expectativa funcional de la [receta adoptada](decisiones/seleccion-inoculante-y-receta.md),
+Esta es una expectativa funcional de la [receta adoptada](decisiones/01_seleccion-inoculante-y-receta.md),
 no una identificación de los organismos presentes en el acuario.
 
 ## Entradas y función esperada
@@ -25,11 +25,11 @@ dependerá también de sus vías de entrada; la receta inicial no garantiza
 copépodos, anfípodos u otros organismos bentónicos.
 
 Una posible incorporación de roca viva o cultivos pertenece al
-[plan de maduración](../maduracion/plan.md), como decisión independiente.
+[plan de maduración](../maduracion/01_plan.md), como decisión independiente.
 
 ## Alcance
 
-El resultado del ciclado se comprueba con las cargas del [plan](plan.md), no por
+El resultado del ciclado se comprueba con las cargas del [plan](01_plan.md), no por
 una lista supuesta de microorganismos, la claridad del agua o la apariencia
 del biofilm. La diversidad, la desnitrificación y la madurez ecológica no se
 deducen de esa prueba.

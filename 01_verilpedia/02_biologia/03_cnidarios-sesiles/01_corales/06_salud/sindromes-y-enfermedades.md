@@ -35,7 +35,7 @@ su patrón local puede ser un aviso general. Conviene revisar fotoperiodo,
 flujo, detrito, temperatura, salinidad, luz y química, además de posibles
 plagas o enfermedad. No permite asignar una causa por sí sola.
 
-El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md)
 define un método pendiente para registrar y comparar esas señales en Veril.
 
 ## Control proporcional

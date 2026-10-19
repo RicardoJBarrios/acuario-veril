@@ -74,7 +74,7 @@ No conviene mezclarla sin plan con *Lysmata amboinensis*, *Lysmata debelius* o *
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--gambas-camarones--thor-amboinensis).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--gambas-camarones--thor-amboinensis).
 
 ## Bioma canario
 

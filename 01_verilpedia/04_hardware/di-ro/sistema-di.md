@@ -2,15 +2,16 @@
 
 ## Estado documental
 
-Este conjunto forma parte del sistema RO/DI previsto para Veril. El propietario comunica que el equipo RO6CB llegó el 24 de septiembre de 2026; la etiqueta de su caja se transcribe en el [registro de recepción](../../../04_operaciones/2026/09/2026-09-24.md#recepción-del-equipo-ro6cb). Esa recepción no confirma el contenido ni la instalación. La recepción e inventario de las piezas DI, la carga de resina, el montaje y la aceptación mediante mediciones siguen pendientes.
+Este conjunto forma parte del sistema RO/DI previsto para Veril. El propietario comunica que el equipo RO6CB llegó el 24 de septiembre de 2026; la etiqueta de su caja se transcribe en el [registro de recepción](../../../04_operaciones/2026/09/2026-09-24.md#recepción-del-equipo-ro6cb). Esa recepción no confirma el contenido ni la instalación. La compra de resina XEPTA RODI de 1 kg y del monitor ARKA TDSIL se comunicó el 19/10/2026; la carga de resina, el montaje y la aceptación mediante mediciones no se documentan como ejecutados.
 
-Las carcasas no incluyen, según la información disponible, una resina desionizadora identificada. La resina recomendada se documenta por separado y aún debe comprarse o confirmarse como parte del pedido. Por tanto, este conjunto no demuestra todavía que exista una etapa DI completa ni que produzca agua utilizable para el acuario.
+Las carcasas no incluyen, según la información disponible, una resina desionizadora identificada. La compra de la resina XEPTA RODI se comunicó el 19/10/2026; el registro no documenta su carga. Por tanto, este conjunto no demuestra todavía que exista una etapa DI completa ni que produzca agua utilizable para el acuario.
 
 ## Composición comunicada
 
 - [Carcasas T33](carcasas-t33.md): Dos carcasas transparentes con conexiones rápidas de 1/4 pulgadas, destinadas a alojar medios filtrantes
-- [Resina XEPTA RODI](resina-xepta-rodi.md): Medio DI recomendado para completar las carcasas, todavía no documentado como recibido ni cargado
-- [Procedimiento pendiente de rellenado DI](../../../03_pendientes/operacion-recurrente/rellenado-resina-di.md): carga, enjuague, comprobación y registro antes de aceptar agua para Veril
+- [Resina XEPTA RODI](resina-xepta-rodi.md): compra de una presentación identificada como 1 kg comunicada el 19/10/2026; la carga de las carcasas no se documenta aquí
+- [ARKA myAQUA In-Line TDS Meter (TDSIL)](../arka-myaqua-in-line-tds/arka-myaqua-in-line-tds.md): medidor TDS en línea; compra comunicada el 19/10/2026
+- [Procedimiento pendiente de rellenado DI](../../../03_pendientes/operacion-recurrente/03_rellenado-resina-di.md): carga, enjuague, comprobación y registro antes de aceptar agua para Veril
 - [Monitor TDS HM Digital TRM-1](monitor-tds-hm-digital-trm-1.md): Medición en tres puntos del circuito RO/DI
 - [Kit de tubo y conexiones HUAZIZ](tubo-conexiones-huaziz.md): Diez metros de tubo blanco de 1/4 pulgadas y conexiones rápidas
 - [Manómetro The Water Filter Men](manometro-the-water-filter-men.md): Indicador de presión con conexión para tubo de 1/4 pulgadas

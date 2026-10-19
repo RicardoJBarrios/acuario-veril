@@ -75,7 +75,7 @@ El montaje no se considerará aceptado por el mero hecho de que la bomba arranqu
 
 ## Relación con la configuración
 
-El agua RO/DI se utilizará para la reposición por evaporación y para preparar agua salada en los cambios posteriores. La configuración concreta del ATO y su depósito se documenta en el [D-D H2Ocean Compact ATO](../dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md) y en el [barril GRAF de 15 l](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md).
+El agua RO/DI se utilizará para la reposición por evaporación y para preparar agua salada en los cambios posteriores. La configuración prevista del ATO adquirido se documenta en el [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md) y en el [barril GRAF de 15 l](../dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md).
 
 La llegada del paquete RO6CB no acredita todavía que Veril disponga de agua RO/DI utilizable. Esa condición quedará cubierta cuando se inventarie y compruebe la unidad, se complete el sistema DI, se instale el conjunto y se acepten sus mediciones.
 
@@ -83,4 +83,4 @@ La llegada del paquete RO6CB no acredita todavía que Veril disponga de agua RO/
 
 - [Ficha del equipo RO6CB](ro6cb.md)
 - [Configuración química de Veril](../../../02_configuracion/01_dimensiones/05_quimica.md)
-- [Procedimiento de cambios de agua](../../../03_pendientes/operacion-recurrente/cambios-agua.md)
+- [Procedimiento de cambios de agua](../../../03_pendientes/operacion-recurrente/01_cambios-agua.md)

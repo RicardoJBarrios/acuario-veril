@@ -34,7 +34,7 @@ patrón.
 
 El propietario ha comunicado la compra de un KA21 para disponer de una
 comprobación manual de temperatura frente a la sonda `off-sns-05`. Esta función
-de contraste está recogida en el [plan de medición y tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+de contraste está recogida en el [plan de medición y tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 No se ha comunicado una lectura comparativa ni se ha validado la exactitud de
 ninguno de los dos métodos. La compra y la identificación están en el [diario
 del 10 de octubre de 2026](../../../04_operaciones/2026/10/2026-10-10-compra-material-acuario.md).

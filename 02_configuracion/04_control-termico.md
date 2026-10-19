@@ -4,7 +4,7 @@
 
 Esta ficha describe el plan térmico vigente y su implementación piloto en Home Assistant. La temperatura que se intenta proteger es la del agua, medida por `off-sns-05`, cuya sonda está sumergida en la cámara del skimmer. El Rowenta climatiza el despacho; sus 24 o 25 °C son consignas del aire acondicionado, no objetivos directos del agua.
 
-El régimen bajo del agua distingue 25–26 °C como zona preferida, 24,5–26,5 °C como objetivo operativo normal, 24–24,5 °C como fresco todavía razonablemente normal, 23–24 °C como excursión fría tolerable que se investiga si persiste, <23 °C como fuera del objetivo y <22 °C como prioridad local de revisión. Los límites de 23 y 22 °C son escalones operativos, no umbrales universales de lesión. En la parte alta, desde 28 °C se entra en protección; 28,5, 29 y 30 °C corresponden a aviso, crítico y emergencia. Son bandas de gestión de Veril. La definición completa está en [Configuración integrada, régimen térmico](README.md#régimen-térmico-adoptado).
+El objetivo normal del agua es **24,5–26,5 °C**, con zona preferida **25–26 °C**. Las bandas completas y sus consecuencias están en [Régimen térmico adoptado](README.md#régimen-térmico-adoptado).
 
 ## Diseño del controlador
 
@@ -28,7 +28,7 @@ En esta tabla, **ventilador `high` se refiere al ventilador interno del Rowenta*
 
 ## Extremo frío y preparación de calefacción
 
-La parte baja se organiza por función, no como espejo biológico de la banda alta: **24,0–24,5 °C** es fresca pero razonablemente normal; **23,0–24,0 °C** es excursión fría tolerable y debe investigarse si persiste; **22,0–23,0 °C** queda por debajo del objetivo operativo; **<22,0 °C** exige revisión prioritaria. La categoría de 22 °C es un guardarraíl local, no un umbral fisiológico publicado ni una afirmación de daño inmediato.
+Las bandas frías se consultan en el régimen adoptado. La comprobación de lecturas y el diseño de calefacción se detallan a continuación.
 
 Si se observa menos de 24,0 °C se valorarán estabilidad, duración y tendencia; en 23,0–24,0 °C se investigará especialmente si la excursión persiste. Por debajo de 23,0 °C se validarán la antigüedad de la telemetría de `off-sns-05` (máximo operativo actual: 20 min) y, si es posible, una medición independiente. Por debajo de 22,0 °C la comprobación será prioritaria. Después se valorarán temperatura ambiente y los mínimos propios de la fauna presente. **No hay alarma ni acción automática de calentamiento instalada.** El plan superior de refrigeración no se altera por esta revisión.
 
@@ -57,7 +57,7 @@ Para una calefacción futura, el principio de diseño es no esperar a <23 °C: e
 
 ## Estado de validación
 
-El piloto se instaló el 27 de septiembre de 2026 y la comprobación de configuración de Home Assistant no devolvió errores. En el último estado de HA registrado en la operación, a las 17:28 WEST, el agua estaba en 28,8 °C, el controlador en `protection` y la alarma en `warning`; el último valor numérico de agua se había actualizado a las 17:11 WEST. Después, el propietario confirmó que el Rowenta estaba en frío, a 24 °C y con ventilador alto. La integración no proporciona confirmación física de retorno.
+El piloto se instaló el 27 de septiembre de 2026 y la comprobación de configuración de Home Assistant no devolvió errores. A las **17:11 WEST**, HA mostró **28,8 °C**, comunicación de **0 min** de antigüedad y estado `protection`. A las **17:28 WEST**, el agua estaba en 28,8 °C, el controlador en `protection` y la alarma en `warning`; el último valor numérico de agua se había actualizado a las 17:11 WEST. Después, el propietario confirmó que el Rowenta estaba en frío, a 24 °C y con ventilador alto. La integración no proporciona confirmación física de retorno.
 
 La automatización está en servicio como piloto, no validada como control eficaz. La transición automática a 25 °C y el apagado a ≤26,5 °C durante 15 min todavía no se han observado. El descenso aislado de 28,9 a 28,8 °C no demuestra un efecto causal del Rowenta. Las series anteriores y los límites de interpretación están en el [registro de puesta en servicio y mediciones](../04_operaciones/2026/09/2026-09-27.md#puesta-en-servicio-del-control-térmico-inicial).
 

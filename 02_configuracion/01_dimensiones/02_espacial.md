@@ -30,7 +30,7 @@ La composición no deberá convertirse en una montaña compacta ni en un conjunt
 
 ### Registro visual de la composición instalada
 
-Las fotografías de la [operación de montaje](../../04_operaciones/2026/09/2026-09-05.md#registro-detallado-del-hardscape-instalado) muestran la estructura colocada dentro de la urna y con agua. Se interpretan como registro visual del estado instalado, no como una medición fotogramétrica ni como una prueba completa de estabilidad o circulación.
+El registro de la [operación de montaje](../../04_operaciones/2026/09/2026-09-05.md#registro-detallado-del-hardscape-instalado) describe la estructura colocada dentro de la urna y con agua. Estas observaciones se conservan como descripción del estado instalado, no como una medición fotogramétrica ni como una prueba completa de estabilidad o circulación.
 
 En el estado documentado se distinguen:
 
@@ -40,7 +40,7 @@ En el estado documentado se distinguen:
 - Una masa o isla independiente en la zona frontal izquierda
 - Una playa y espacios negativos alrededor de las masas
 
-Las fotografías deben interpretarse junto con las medidas registradas más abajo y con la ficha específica de la composición final. La fijación ya realizada no sustituye la comprobación de la placa protectora, la arena, la posición definitiva de las bombas ni el acceso de mantenimiento.
+Las observaciones del montaje deben interpretarse junto con las medidas registradas más abajo y con la ficha específica de la composición final. La fijación ya realizada no sustituye la comprobación de la placa protectora, la arena, la posición definitiva de las bombas ni el acceso de mantenimiento.
 
 Las vistas conceptuales anteriores son una representación aproximada de las masas y los vacíos, no un modelo tridimensional ni un plano de fabricación de las piezas.
 
@@ -50,7 +50,7 @@ Las imágenes son diagramas de la idea general y no deben calcarse. La capa de c
 - **Amarillo:** Masa secundaria separada, que equilibra el volumen principal desde la zona abierta
 - **Verde:** Islas separadas, de menor volumen y distribuidas en el espacio frontal o lateral
 
-Los colores no representan especies, materiales, piezas concretas ni límites exactos. Esta ficha no fija medidas ni porcentajes.
+Los colores no representan especies, materiales, piezas concretas ni límites exactos. Los diagramas conceptuales no fijan medidas ni porcentajes.
 
 ## Geometría funcional
 
@@ -182,9 +182,11 @@ La playa conservará una superficie predominantemente libre y no se llenará con
 
 ## Auditoría de errores de aquascaping
 
+La tabla conserva la revisión de diseño y montaje, incluidos estados de etapas anteriores. La instalación, la fijación y el estado posterior se describen en la [operación del 5 de septiembre](../../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado), el [inventario de rocas](../02_hardscape/rocas/README.md) y el apartado de sustrato de esta ficha.
+
 El vídeo [Aquascaping Regret Is Real! Don’t Do What We Did...Avoid These Top Aquascaping Mistakes](https://www.youtube.com/watch?v=A_k6EDHvrWc), publicado por BRStv el 31 de marzo de 2020, reúne 23 errores y advertencias basados en la experiencia del canal. Se utiliza como fuente de criterios de revisión, no como validación independiente de cada recomendación.
 
-| Criterio extraído del vídeo | Estado en Veril |
+| Criterio extraído del vídeo | Estado consignado en la revisión |
 | --- | --- |
 | Diseñar la circulación junto con la roca y evitar zonas muertas | Cubierto como objetivo en la ficha hidráulica; pendiente de prueba con la estructura real |
 | No formar una pared continua contra el cristal trasero | Cubierto en la composición instalada; se han marcado 40 mm de separación frontal y trasera |
@@ -212,6 +214,8 @@ El vídeo [Aquascaping Regret Is Real! Don’t Do What We Did...Avoid These Top 
 
 ### Resultado de la auditoría
 
+El resultado siguiente corresponde a esa revisión; las comprobaciones posteriores se registran en las operaciones enlazadas.
+
 La composición instalada **no presenta en las fotografías un incumplimiento evidente** de los criterios revisados. Sí conserva riesgos abiertos que no pueden resolverse solo mediante imágenes:
 
 - La masa principal debe quedar separada del cristal trasero y permitir limpieza y renovación del agua
@@ -234,7 +238,7 @@ La elección del producto no sustituye la comprobación de la geometría. Las un
 
 ## Material y selección de piezas
 
-La roca registrada inicialmente pesa **7,25 kg** y se considera inicialmente inerte. Se han adquirido piezas adicionales para las islas y para fragmentar durante la composición, por lo que el peso total y la selección final quedan pendientes del inventario fotográfico. La marca y composición mineral concreta de la roca no están identificadas; presenta una coloración violeta que simula visualmente una superficie con coralina.
+El inventario inicial registró **7,25 kg** de roca y después se adquirieron piezas adicionales para islas y fragmentación. La masa instalada se adoptó como **unos 7,5 kg** tras el pesaje. La identificación posterior es **D-D Marco Coralline Rock**, según el [inventario descriptivo](../02_hardscape/rocas/README.md#identificación-del-material), que sustituye la descripción inicial sin marca ni composición identificadas. La roca se considera inicialmente inerte y presenta coloración violeta.
 
 La selección de las piezas dependerá de:
 

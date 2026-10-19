@@ -76,7 +76,7 @@ Se considera compatible con corales e invertebrados ornamentales. El riesgo prin
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/peces.md#peces--gobios-blenios--discordipinna-griessingeri).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/03_peces.md#peces--gobios-blenios--discordipinna-griessingeri).
 
 ## Pendiente de verificación
 

@@ -110,7 +110,7 @@ En Veril ayuda a conservar flexibilidad de diseño porque una colonia pequeña p
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--lps--caulastrea).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--lps--caulastrea).
 
 ## Variantes comerciales observadas
 

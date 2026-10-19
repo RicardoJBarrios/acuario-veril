@@ -27,7 +27,7 @@ El ciclado demuestra una capacidad biológica bajo las condiciones de una arquit
 
 El ciclado no es exclusivo del método Berlín ni constituye una variante del mismo. Cuando un sistema adopta Berlín como arquitectura de procesamiento, la prueba debe interpretarse dentro de esa implementación: evalúa la capacidad de las superficies colonizables y de las condiciones que las mantienen activas, sin sustituir la evaluación posterior de la transformación, la exportación y el mantenimiento propios de dicha arquitectura.
 
-En Veril, esta relación se concreta en la [dimensión de procesamiento](../01_dimensiones/07_procesamiento.md) y en su [ficha de aplicación](../../02_configuracion/01_dimensiones/07_procesamiento.md), donde se documenta el método Berlín adoptado. El plan específico y el [runbook de ciclado](../../03_pendientes/ciclado/runbook.md) definen la ejecución y los criterios locales.
+En Veril, esta relación se concreta en la [dimensión de procesamiento](../01_dimensiones/07_procesamiento.md) y en su [ficha de aplicación](../../02_configuracion/01_dimensiones/07_procesamiento.md), donde se documenta el método Berlín adoptado. El plan específico y el [runbook de ciclado](../../03_pendientes/ciclado/02_runbook.md) definen la ejecución y los criterios locales.
 
 ## Superficies y comunidad biológica
 

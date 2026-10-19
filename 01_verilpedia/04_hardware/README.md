@@ -13,9 +13,11 @@ y aceptación pertenecen a `02_configuracion/`, a los planes y a las operaciones
 ## Equipos principales
 
 - [D-D H2Ocean Compact ATO](dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md)
+- [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md): variante identificada en la compra comunicada el 19/10/2026
 - [Equipo de ósmosis inversa RO6CB](ro6cb/ro6cb.md): equipo RO con bomba de refuerzo, depósito y filtros
-- [Sistema DI del RO/DI](di-ro/sistema-di.md): carcasas T33, monitor TDS, tubería y manómetro pedidos para completar el tratamiento
-- [Resina DI recomendada](di-ro/resina-xepta-rodi.md): XEPTA RODI RESIN de 1000 ml, seleccionada como medio pendiente de compra o confirmación
+- [Sistema DI del RO/DI](di-ro/sistema-di.md): carcasas T33, monitor TDS, tubería y manómetro para completar el tratamiento
+- [Resina DI](di-ro/resina-xepta-rodi.md): XEPTA RODI RESIN; compra de presentación de 1 kg comunicada el 19/10/2026
+- [ARKA myAQUA In-Line TDS Meter (TDSIL)](arka-myaqua-in-line-tds/arka-myaqua-in-line-tds.md): medidor en línea para circuitos RO
 - [Sicce Shark Skimmer 300](sicce-shark-skimmer-300/sicce-shark-skimmer-300.md)
 - [Sicce Micra](sicce-micra/sicce-micra.md)
 - [Jebao DC-650](jebao-dc-650/jebao-dc-650.md): documentación parcial; manual específico pendiente

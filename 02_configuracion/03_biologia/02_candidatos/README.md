@@ -6,10 +6,10 @@ Este directorio aplica a Veril las fichas generales de la [Verilpedia biológica
 
 Las agrupaciones aparecen por tipo. Dentro de cada una, los organismos se ordenan por estado, desde los más plausibles hasta los descartados provisionalmente:
 
-1. [Algas](algas.md)
-2. [Corales y análogos coraliformes](corales-y-analogos.md)
-3. [Peces](peces.md)
-4. [Invertebrados](invertebrados.md)
+1. [Algas](01_algas.md)
+2. [Corales y análogos coraliformes](02_corales-y-analogos.md)
+3. [Peces](03_peces.md)
+4. [Invertebrados](04_invertebrados.md)
 
 El orden de cada ficha es `Candidato`, `Condicional`, `No inicial` y `No propuesto`. Estos estados describen la aplicación a Veril, no la calidad general del organismo ni una incorporación ejecutada.
 

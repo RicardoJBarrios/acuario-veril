@@ -4,15 +4,15 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 
 ## Actuaciones pendientes
 
-- [Sustitución de la bomba de retorno](sustitucion-bomba-retorno-jebao-dc-650.md): Jebao DC-650 pedida a EliteReef Kanarias; recepción e instalación pendientes
+- [Sustitución de la bomba de retorno](01_sustitucion-bomba-retorno-jebao-dc-650.md): compra de la Jebao DC-650 comunicada el 19/10/2026; recepción e instalación pendientes
 
 - [Ciclado](ciclado/README.md): Fase previa, receta, prueba nitrificante y criterios de cierre
 - [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
-- [Observación biológica de corales](maduracion/plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos
+- [Observación biológica de corales](maduracion/04_plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
-- [Plan transversal de medición y tests](operacion-recurrente/medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
+- [Plan transversal de medición y tests](operacion-recurrente/02_medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
 - [Diseños 3D públicos](disenos-3d/README.md): ediciones seleccionadas con CAD editable y modelos neutros para laminar
 - [Desarrollo 3D privado](../privado/disenos-3d/README.md): trabajo, antecedentes y fabricación específica de impresora
-- [Recepción y preparación de elementos decorativos](hardscape/preparacion-elementos-decorativos.md): inspección y limpieza pendiente de la pieza anunciada como cueva de loto marino púrpura
+- [Recepción y preparación de elementos decorativos](hardscape/01_preparacion-elementos-decorativos.md): inspección y limpieza pendiente de la pieza anunciada como cueva de loto marino púrpura
 
 Las ejecuciones reales, incluidas las que aplican estos documentos, se registran en [Operaciones](../04_operaciones/README.md).

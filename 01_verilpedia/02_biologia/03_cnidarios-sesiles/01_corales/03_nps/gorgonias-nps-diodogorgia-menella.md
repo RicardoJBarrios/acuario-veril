@@ -87,7 +87,7 @@ En Veril podrían hacer visible la distribución del flujo y ocupar el plano ver
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/corales-y-analogos.md#cnidarios-sesiles--corales--nps--gorgonias-nps-diodogorgia-menella).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../../02_configuracion/03_biologia/02_candidatos/02_corales-y-analogos.md#cnidarios-sesiles--corales--nps--gorgonias-nps-diodogorgia-menella).
 
 ## Variante comercial: gorgonia roja
 

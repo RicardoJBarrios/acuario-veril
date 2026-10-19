@@ -28,7 +28,7 @@ Será el método principal para seguir el nitrito durante la prueba de ciclado, 
 
 ## Encaje previsto en Veril
 
-Método disponible para seguir NO₂ durante las cargas de ciclado y confirmar el criterio de aceptación junto con amonio. El test no constituye por sí solo una prueba de capacidad. Aplicación: [plan de ciclado](../../../03_pendientes/ciclado/plan.md), [runbook](../../../03_pendientes/ciclado/runbook.md) y [plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md). Contexto del parámetro: [nitrito](../../03_parametros/nitrito.md).
+Método disponible para seguir NO₂ durante las cargas de ciclado y confirmar el criterio de aceptación junto con amonio. El test no constituye por sí solo una prueba de capacidad. Aplicación: [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md), [runbook](../../../03_pendientes/ciclado/02_runbook.md) y [plan transversal de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md). Contexto del parámetro: [nitrito](../../03_parametros/nitrito.md).
 
 ## Límites
 
@@ -45,5 +45,5 @@ Método disponible para seguir NO₂ durante las cargas de ciclado y confirmar e
 - [Manual Salifert NO₂ en PDF reproducido por distribuidor](https://www.shop-meeresaquaristik.de/downloads/1369_2_salifert_profitest_nitrit.pdf) — revisar forma química/unidad y carta del lote.
 - [Instrucciones Salifert NO₂ (distribuidor)](https://www.deaquatic.com/products/salifert-nitrite-no2-profi-test) — confirmar procedimiento y escala contra el envase.
 - [Parámetro nitrito](../../03_parametros/nitrito.md)
-- [Plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md)
-- [Runbook de ciclado](../../../03_pendientes/ciclado/runbook.md)
+- [Plan transversal de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md)
+- [Runbook de ciclado](../../../03_pendientes/ciclado/02_runbook.md)

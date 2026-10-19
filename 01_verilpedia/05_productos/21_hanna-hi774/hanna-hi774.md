@@ -25,7 +25,7 @@ El manual advierte interferencias por iones antimonioso, áurico, bismuto, cloro
 
 ## Encaje previsto en Veril
 
-El plan propone usarlo durante la maduración y antes de decisiones sobre alimentación o adsorbentes si se necesita mejor discriminación en PO₄ bajo que una carta visual. Es un medidor puntual: no registra de forma continua ni elimina la preparación de muestra, la necesidad de reactivos o el juicio sobre el contexto. No implica que esté adquirido. Comparar con [Salifert Phosphate](../16_salifert-phosphate/salifert-phosphate.md) y consultar [fosfato](../../03_parametros/fosfato.md), así como el [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+El plan propone usarlo durante la maduración y antes de decisiones sobre alimentación o adsorbentes si se necesita mejor discriminación en PO₄ bajo que una carta visual. Es un medidor puntual: no registra de forma continua ni elimina la preparación de muestra, la necesidad de reactivos o el juicio sobre el contexto. No implica que esté adquirido. Comparar con [Salifert Phosphate](../16_salifert-phosphate/salifert-phosphate.md) y consultar [fosfato](../../03_parametros/fosfato.md), así como el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Buenas prácticas, límites y debilidades
 
@@ -43,7 +43,7 @@ El plan propone usarlo durante la maduración y antes de decisiones sobre alimen
 
 - Parámetro: [Fosfato](../../03_parametros/fosfato.md).
 - Método visual comparado: [Salifert Phosphate Profi Test](../16_salifert-phosphate/salifert-phosphate.md).
-- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Fuentes
 

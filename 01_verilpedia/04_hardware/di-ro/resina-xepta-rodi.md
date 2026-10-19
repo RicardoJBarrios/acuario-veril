@@ -2,7 +2,7 @@
 
 ## Estado de selección para Veril
 
-La opción seleccionada para el sistema DI previsto es **XEPTA RODI RESIN de 1000 ml**.
+La opción seleccionada para el sistema DI previsto es **XEPTA RODI RESIN**. El propietario comunicó el 19/10/2026 la compra de una presentación identificada como **1 kg**. La ficha comercial consultada anteriormente describe un formato de 1000 ml; no se convierten ni equiparan aquí masa y volumen.
 
 Se adopta como resina de lecho mixto para cargar las dos carcasas T33 en serie, siempre que su capacidad útil real lo permita. El volumen de 1000 ml ofrece margen frente a una presentación de 300 ml, pero no se afirma que deba utilizarse todo el envase ni que una carga concreta produzca una cantidad determinada de agua.
 
@@ -67,4 +67,4 @@ La selección no constituye una prueba de superioridad química frente a las alt
 - [Página oficial de XEPTA RODI Resin](https://shop.xepta-reef.com/es/resinas/86-xepta-po4-out-resin.html)
 - [Descripción comercial adicional de XEPTA RODI Resin](https://todozoas.es/products/xepta-rodi-resin)
 
-La URL oficial conserva el slug y una imagen con el nombre `po4-out-resin`, pero el título, los metadatos estructurados y la descripción del contenido identifican el producto como XEPTA RODI Resin. Las fichas consultadas no sustituyen a la etiqueta, la ficha técnica ni las instrucciones del envase que llegue a Veril. La resina queda seleccionada para el diseño, no confirmada como comprada, recibida, cargada ni validada en funcionamiento.
+La URL oficial conserva el slug y una imagen con el nombre `po4-out-resin`, pero el título, los metadatos estructurados y la descripción del contenido identifican el producto como XEPTA RODI Resin. La compra comunicada se limita a la identificación y presentación indicadas por el propietario; no documenta recepción, carga ni validación en funcionamiento. La etiqueta y las instrucciones del envase adquirido prevalecen para esos detalles.

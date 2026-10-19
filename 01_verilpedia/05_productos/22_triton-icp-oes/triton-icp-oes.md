@@ -254,7 +254,7 @@ amonio y nitrito. Tampoco identifica por sí solo la causa de una desviación.
 La muestra RO queda pendiente de aceptación expresa y del procedimiento del
 laboratorio.
 
-El plan y el procedimiento general son [plan transversal de medición y tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md)
+El plan y el procedimiento general son [plan transversal de medición y tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md)
 y [análisis ICP de agua marina](../../06_procesos/10_analisis-icp.md).
 
 ## Fuentes

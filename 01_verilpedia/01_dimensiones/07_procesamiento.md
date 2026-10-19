@@ -141,7 +141,7 @@ Su rendimiento depende, entre otros factores, de:
 
 El tamaño nominal del skimmer es una característica del equipo y no una garantía de rendimiento en cualquier instalación. La cantidad o el color del skimmate tampoco constituyen por sí solos una medida de la calidad del agua.
 
-Durante el ciclado, el uso del skimmer y de otros mecanismos de exportación debe seguir el plan operativo y las instrucciones del producto utilizado. Esta dimensión solo distingue qué función de procesamiento queda activa o temporalmente limitada; la secuencia concreta pertenece al [plan de ciclado](../../03_pendientes/ciclado/plan.md) y al [plan de maduración](../../03_pendientes/maduracion/plan.md).
+Durante el ciclado, el uso del skimmer y de otros mecanismos de exportación debe seguir el plan operativo y las instrucciones del producto utilizado. Esta dimensión solo distingue qué función de procesamiento queda activa o temporalmente limitada; la secuencia concreta pertenece al [plan de ciclado](../../03_pendientes/ciclado/01_plan.md) y al [plan de maduración](../../03_pendientes/maduracion/01_plan.md).
 
 ## Exportación y mantenimiento
 
@@ -411,7 +411,7 @@ Sobre todo, el Berlín describe cómo se organiza el sistema; no demuestra por s
 
 ## Función del Berlín durante el ciclado y la maduración
 
-El método Berlín y el ciclado responden a preguntas diferentes. El Berlín define las funciones de procesamiento y exportación; el [plan de ciclado](../../03_pendientes/ciclado/plan.md) y el [plan de maduración](../../03_pendientes/maduracion/plan.md) comprueban cómo se desarrolla y responde la capacidad biológica del sistema.
+El método Berlín y el ciclado responden a preguntas diferentes. El Berlín define las funciones de procesamiento y exportación; el [plan de ciclado](../../03_pendientes/ciclado/01_plan.md) y el [plan de maduración](../../03_pendientes/maduracion/01_plan.md) comprueban cómo se desarrolla y responde la capacidad biológica del sistema.
 
 Durante esas fases deben quedar identificadas las superficies que actuarán como soporte de transformación, los mecanismos de exportación activos y los cambios que puedan alterar su función. La evolución de biofilms, comunidades y microfauna pertenece a la [dimensión biológica](06_biologica.md), mientras que la composición resultante se interpreta en la [dimensión química](05_quimica.md).
 

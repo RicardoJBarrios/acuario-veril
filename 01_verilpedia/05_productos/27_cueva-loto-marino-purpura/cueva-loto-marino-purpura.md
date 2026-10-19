@@ -26,7 +26,7 @@ Todas las afirmaciones de composición y seguridad anteriores son declaraciones 
 
 ## Aplicación prevista en Veril
 
-El propietario prevé usar estas piezas como decoración y refugio dentro del display. No constan recibidas, instaladas ni aceptadas como parte del hardscape. Antes de introducirlas se seguirá el [plan pendiente de recepción, inspección y preparación](../../../03_pendientes/hardscape/preparacion-elementos-decorativos.md).
+El propietario prevé usar estas piezas como decoración y refugio dentro del display. No constan recibidas, instaladas ni aceptadas como parte del hardscape. Antes de introducirlas se seguirá el [plan pendiente de recepción, inspección y preparación](../../../03_pendientes/hardscape/01_preparacion-elementos-decorativos.md).
 
 La limpieza con agua RO y el uso de lejía o AquaMaker no demuestran que un material de composición o recubrimiento desconocidos sea seguro. En particular, AquaMaker está documentado por su fabricante como acondicionador que elimina cloro del agua; su dosis normal publicada es **10 ml por 50 L**. Esta indicación no certifica que neutralice otros compuestos que pudieran liberar tintes, adhesivos, resinas o recubrimientos.
 

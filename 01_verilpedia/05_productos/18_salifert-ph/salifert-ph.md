@@ -6,7 +6,7 @@
 | --- | --- |
 | Marca y producto | Salifert pH Profi Test |
 | Método | Indicador colorimétrico y carta visual de alta gama |
-| Estado en Veril | Candidato pendiente de compra |
+| Estado en Veril | Compra comunicada el 19/10/2026; caducidad indicada: 12/2028 |
 | Capacidad | Aproximadamente 50 pruebas según fabricante |
 
 ## Rango y lectura
@@ -15,7 +15,7 @@ El fabricante declara **pH 7,4–8,6** y que el kit permite seguir fluctuaciones
 
 ## Encaje previsto en Veril
 
-Se propone para la línea base antes del ciclado e investigar oscilaciones mediante muestras puntuales. No ofrece seguimiento continuo ni registra el ciclo diario. Para interpretar una lectura deben considerarse hora, aireación/intercambio gaseoso, temperatura y alcalinidad; consultar la ficha de [pH](../../03_parametros/ph.md) y el [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+Se propone para la línea base antes del ciclado e investigar oscilaciones mediante muestras puntuales. No ofrece seguimiento continuo ni registra el ciclo diario. Para interpretar una lectura deben considerarse hora, aireación/intercambio gaseoso, temperatura y alcalinidad; consultar la ficha de [pH](../../03_parametros/ph.md) y el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Buenas prácticas y límites
 
@@ -29,7 +29,7 @@ Se propone para la línea base antes del ciclado e investigar oscilaciones media
 ## Enlaces de trabajo
 
 - Parámetro: [pH](../../03_parametros/ph.md), [alcalinidad](../../03_parametros/alcalinidad.md).
-- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md); práctica general: [medición y tests recurrentes](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md).
+- Aplicación: [plan de medición y selección](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md); práctica general: [medición y tests recurrentes](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Fuentes
 

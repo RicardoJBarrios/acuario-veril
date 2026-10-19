@@ -1,5 +1,7 @@
 # Candidatos de invertebrados
 
+Antes de elegir un ejemplar, la decisión se contrasta con **Elite Reef Kanarias**. Los requisitos particulares se indican como «Comprobación específica» en cada apartado; el estado de candidato no cierra una compra ni acredita una incorporación.
+
 > Este documento agrupa la aplicación específica a Veril de las fichas biológicas del mismo tipo. El estado es una decisión de proyecto; la incorporación real debe registrarse en una operación y, cuando corresponda, en un plan.
 
 <a id="invertebrados--caracoles-pastadores--astraea"></a>
@@ -7,21 +9,17 @@
 
 **Ficha enciclopédica:** [Astraea](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/astraea.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Pastador pequeño y útil si se introduce cuando ya hay biofilm real
 
-En Veril empezaría con muy pocos caracoles de este tipo y ampliaría solo si las superficies muestran alimento. No lo usaría como respuesta a una explosión de algas sin revisar luz, nutrientes y maduración.
+En Veril se dimensiona según el biofilm accesible, la talla y el consumo observado. La preferencia personal de TFP por *Astraea* no fija su número ni lo convierte en la única opción. Ante una proliferación se revisan también luz, nutrientes y maduración.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, tamaño real y estado del animal.
+**Comprobación específica:** identificación, tamaño real y estado del animal.
 
 <a id="invertebrados--caracoles-pastadores--bittium"></a>
 ## Bittium
 
 **Ficha enciclopédica:** [Bittium](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/bittium.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Compatible por escala como parte de la microfauna si la identificación y el alimento disponible son adecuados
@@ -31,21 +29,17 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación, 
 
 **Ficha enciclopédica:** [Cerithium](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/cerithium.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Complementa a caracoles de roca si la talla es adecuada y hay alimento real
 
 En Veril lo valoraría después de ver cómo madura la arena. Un ejemplar pequeño puede aportar variedad funcional; una talla XXL no sería mi primera elección.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación y talla real.
+**Comprobación específica:** identificación y talla real.
 
 <a id="invertebrados--caracoles-pastadores--columbella-adansoni"></a>
 ## Columbella adansoni
 
 **Ficha enciclopédica:** [Columbella adansoni](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/columbella-adansoni.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Compatible por escala si se confirman dieta, identificación y función real
@@ -55,8 +49,6 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación y
 
 **Ficha enciclopédica:** [Microofiuras](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/amphipholis-squamata.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Encaja como biodiversidad de roca si llega en condiciones seguras y encuentra detrito y refugio
 
@@ -65,8 +57,6 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación y
 
 **Ficha enciclopédica:** [Quitones canarios](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/quitones-canarios.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Posibles por función y escala si se confirma una especie pequeña y hay biofilm suficiente
 
@@ -74,8 +64,6 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación y
 ## Stomatella
 
 **Ficha enciclopédica:** [Stomatella](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/stomatella.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Buen pastador pequeño si llega como microfauna adaptada o si se introduce con mucho cuidado
@@ -87,21 +75,17 @@ En Veril las aceptaría como fauna útil si aparecen en roca o frags revisados. 
 
 **Ficha enciclopédica:** [Tectus](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/tectus.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Pastador proporcionado para el volumen si se introduce con alimento visible
 
-En Veril lo consideraría junto a *Astraea*, sin duplicar demasiados caracoles de la misma función. Un número bajo y observado es preferible a un equipo de limpieza sobredimensionado.
+En Veril se compara con *Astraea* por función, talla y recurso disponible. La capacidad conjunta debe ser útil y sostenible; un número bajo no garantiza por sí solo que compense la proliferación.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, talla y estado.
+**Comprobación específica:** identificación, talla y estado.
 
 <a id="invertebrados--caracoles-pastadores--tricolia-pullus"></a>
 ## Tricolia pullus
 
 **Ficha enciclopédica:** [Tricolia pullus](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/tricolia-pullus.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Compatible por talla como pastador pequeño si hay biofilm suficiente
@@ -111,21 +95,17 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación, 
 
 **Ficha enciclopédica:** [Trochus](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/trochus.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Pastador proporcionado para roca y cristal si se introduce cuando hay biofilm real
 
-En Veril sería una de las opciones más razonables del equipo de limpieza temprano, junto a *Astraea* o *Tectus*, pero sin duplicar demasiado la misma función. No lo usaría como excusa para meter muchos caracoles de golpe.
+En Veril es una alternativa temprana a *Astraea* o *Tectus* cuando exista biofilm. El número se valora por talla, acceso y consumo frente al recurso, mediante una incorporación escalonada.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, talla y disponibilidad real.
+**Comprobación específica:** identificación, talla y disponibilidad real.
 
 <a id="invertebrados--gambas-camarones--alpheus-randalli"></a>
 ## Alpheus randalli
 
 **Ficha enciclopédica:** [Alpheus randalli](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/alpheus-randalli.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere diseñar arena y roca para la madriguera y, si procede, elegir un gobio simbionte compatible
@@ -137,8 +117,6 @@ En Veril solo tendría sentido si se decide explícitamente crear una escena gob
 
 **Ficha enciclopédica:** [Asterina canaria](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/asterina-canaria.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere identificación prudente y seguimiento de población y comportamiento
 
@@ -147,8 +125,6 @@ En Veril solo tendría sentido si se decide explícitamente crear una escena gob
 
 **Ficha enciclopédica:** [Brachycarpus biunguiculatus](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/brachycarpus-biunguiculatus.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere identificación fiable, dieta aceptada en cautividad, refugios y compañeros tranquilos
 
@@ -156,8 +132,6 @@ En Veril solo tendría sentido si se decide explícitamente crear una escena gob
 ## Camarón de lunares (*Gnathophyllum elegans*)
 
 **Ficha enciclopédica:** [Camarón de lunares (*Gnathophyllum elegans*)](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/gnathophyllum-elegans.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Encaja por talla y vínculo canario, pero faltan garantías sobre dieta, compatibilidad, temperatura y procedencia legal
@@ -171,8 +145,6 @@ Solo se consideraría un ejemplar identificado, trazable, adaptado a la temperat
 
 **Ficha enciclopédica:** [Cangrejilla de tubo (*Calcinus tubularis*)](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/calcinus-tubularis.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: La escala y el origen canario encajan, pero deben resolverse procedencia legal, identificación, temperatura y tipo de refugio
 
@@ -185,8 +157,6 @@ Se valoraría un solo ejemplar. Antes habría que saber si ocupa concha móvil o
 
 **Ficha enciclopédica:** [Cangrejo pomponero (*Lybia tessellata*)](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/lybia-tessellata.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: La talla encaja, pero exige alimentación dirigida, refugios visibles y una comunidad sin depredadores
 
@@ -197,21 +167,17 @@ Puede tener sentido como único cangrejo ornamental si se busca una conducta esp
 
 **Ficha enciclopédica:** [Cangrejos mitrácidos pastadores](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/mithrax-sculptus.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Solo tiene sentido ante un problema concreto de algas y con vigilancia de su conducta oportunista
 
 En Veril no lo pondría de inicio. Si aparece valonia, primero revisaría nutrientes, retirada manual y causa del problema. Solo después consideraría un ejemplar pequeño.
 
-La decisión debe validarse con **Elite Reef Kanarias** según talla, identificación y motivo real de entrada.
+**Comprobación específica:** talla, identificación y motivo real de entrada.
 
 <a id="invertebrados--gambas-camarones--cinetorhynchus-rigens"></a>
 ## Cinetorhynchus rigens
 
 **Ficha enciclopédica:** [Cinetorhynchus rigens](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/cinetorhynchus-rigens.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere refugios, alimentación fina dirigida y compañeros compatibles con su conducta nocturna
@@ -223,8 +189,6 @@ En Veril solo tendría sentido si se decide una comunidad muy tranquila, con poc
 
 **Ficha enciclopédica:** [Ermitaños pequeños](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/ermitanos-pequenos.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Pueden aportar actividad y consumo de restos, pero el riesgo para caracoles es real
 
@@ -232,16 +196,14 @@ En Veril priorizaría caracoles. Si se decide incluir ermitaños, sería en núm
 
 Para un único ejemplar conviene ofrecer varias conchas naturales, limpias, sin pintura ni barniz y con aberturas compatibles en tallas progresivas. No basta con añadir conchas grandes al azar: el ermitaño debe poder sujetarlas y ocuparlas.
 
-La ficha de Verilpedia distingue las denominaciones comerciales y las tallas. Los patas azules, habitualmente asociados a *Calcinus elegans*, son la línea más prudente si se confirma que el ejemplar es pequeño. Los patas rojas pueden corresponder a ermitaños pigmeos relativamente manejables o a especies grandes con más fuerza y alcance. «Ermitaño arcoíris» tampoco identifica por sí solo una especie: antes de valorarlo hay que confirmar especie, talla y comportamiento. Los rojos grandes y las variantes tipo Halloween quedan fuera de la opción prudente para Veril.
+La composición recuperada por el propietario toma como referencia un *Clibanarius tricolor*, según la [selección del plan de limpieza](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#ermitaño-recuperar-clibanarius-tricolor). «Patas azules» puede designar tanto esta especie como *Calcinus elegans*; el segundo se conserva como alternativa, sin sustituir al primero por su color. La ficha de Verilpedia amplía las denominaciones comerciales y tallas. Los patas rojas pueden corresponder a ermitaños pigmeos relativamente manejables o a especies grandes con más fuerza y alcance. «Ermitaño arcoíris» tampoco identifica por sí solo una especie: antes de valorarlo hay que confirmar especie, talla y comportamiento. Los rojos grandes y las variantes tipo Halloween quedan fuera de la opción prudente para Veril.
 
-La decisión debe validarse con **Elite Reef Kanarias** según especie, talla y comportamiento.
+**Comprobación específica:** especie, talla y comportamiento.
 
 <a id="invertebrados--caracoles-arena-restos--euprotomus-bulla"></a>
 ## Euprotomus bulla
 
 **Ficha enciclopédica:** [Euprotomus bulla](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/euprotomus-bulla.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere confirmar talla adulta, superficie útil de arena y alimento suficiente
@@ -253,21 +215,17 @@ En Veril puede incorporarse cuando la arena demuestre alimento suficiente y la s
 
 **Ficha enciclopédica:** [Lysmata amboinensis](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/lysmata-amboinensis.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Animal visible y robusto, pero no imprescindible y con impacto sobre la alimentación de corales
 
-En Veril la valoraría si se busca un invertebrado protagonista. No la añadiría para "limpiar" peces ni para solucionar mantenimiento. Si hay LPS alimentados, conviene dar comida a la gamba antes de alimentar corales.
+La composición de referencia recuperada por el propietario incluye una *Lysmata amboinensis* como gamba protagonista, según el [plan de limpieza](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#lysmata-mantener-amboinensis). Su función limpiadora no sustituye el mantenimiento ni un tratamiento sanitario. Requiere alimento propio; si hay LPS alimentados, conviene dar comida a la gamba antes de alimentar corales.
 
-La decisión debe validarse con **Elite Reef Kanarias** según talla, salud y compatibilidad con peces elegidos.
+**Comprobación específica:** talla, salud y compatibilidad con peces elegidos.
 
 <a id="invertebrados--gambas-camarones--lysmata-debelius"></a>
 ## Lysmata debelius
 
 **Ficha enciclopédica:** [Lysmata debelius](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/lysmata-debelius.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Gamba ornamental posible si se acepta visibilidad variable y se aclimata con cuidado
@@ -279,8 +237,6 @@ Puede ser alternativa a *Lysmata amboinensis*, no necesariamente compañera. Si 
 
 **Ficha enciclopédica:** [Lysmata seticaudata](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/lysmata-seticaudata.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Gamba pequeña y funcional, pero no imprescindible y dependiente de compatibilidad real
 
@@ -291,49 +247,41 @@ En Veril puede tener sentido si se elige una línea de gambas *Lysmata* y se evi
 
 **Ficha enciclopédica:** [Lysmata wurdemanni](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/lysmata-wurdemanni.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Útil como herramienta puntual si aparece aiptasia, pero no necesaria como invertebrado estable inicial
 
 En Veril no la metería preventivamente. La valoraría si aparece aiptasia y se confirma bien la especie. Si el objetivo es una gamba visible, *L. amboinensis* encaja mejor.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, tamaño y motivo real de entrada.
+**Comprobación específica:** identificación, tamaño y motivo real de entrada.
 
 <a id="invertebrados--caracoles-arena-restos--nassarius"></a>
 ## Nassarius
 
 **Ficha enciclopédica:** [Nassarius](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/nassarius.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Útil si hay arena y restos reales, pero no debe sobredimensionarse
 
-En Veril empezaría, como mucho, con muy pocos ejemplares pequeños cuando ya exista rutina de alimentación. Si no hay restos o la arena se mantiene muy limpia, no hacen falta.
+La especie de referencia es *Nassarius vibex*, actualmente *Phrontis vibex*, conforme a la [selección del plan](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#nassarius-preferir-phrontis-vibex). En Veril se valora cuando la arena y la rutina de alimentación justifiquen su función. El número depende de talla y comida accesible; si después faltan restos, se aporta alimentación específica adecuada. No se elige para una primera película de diatomeas.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación, talla y número.
+**Comprobación específica:** identificación, talla y número.
 
 <a id="invertebrados--cangrejos-ermitanos--neopetrolisthes"></a>
 ## Neopetrolisthes
 
 **Ficha enciclopédica:** [Neopetrolisthes](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/neopetrolisthes.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere hospedador compatible y una rutina sostenible de alimentación fina
 
 En Veril lo valoraría solo en fase madura, con flujo bien entendido y sin forzar anémonas. Si se busca equipo de limpieza inicial, hay mejores opciones.
 
-La decisión debe validarse con **Elite Reef Kanarias** según especie exacta, tamaño y conducta.
+**Comprobación específica:** especie exacta, tamaño y conducta.
 
 <a id="invertebrados--caracoles-pastadores--nerita"></a>
 ## Nerita
 
 **Ficha enciclopédica:** [Nerita](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/nerita.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Puede complementar el pastoreo, pero solo con identificación y salinidad de origen claras
@@ -345,8 +293,6 @@ En Veril no sería la primera opción frente a *Trochus* o *Astraea*. La conside
 
 **Ficha enciclopédica:** [Smaragdia viridis](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/smaragdia-viridis.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere alimento vegetal específico, adecuado y estable
 
@@ -354,8 +300,6 @@ En Veril no sería la primera opción frente a *Trochus* o *Astraea*. La conside
 ## Stenopus / coral banded shrimp
 
 **Ficha enciclopédica:** [Stenopus / coral banded shrimp](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/stenopus.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere reservar territorio y elegir compañeros compatibles con su conducta defensiva y oportunista
@@ -366,8 +310,6 @@ No la pondría en Veril salvo identificación exacta, tamaño reducido y decisi�
 ## Thor amboinensis
 
 **Ficha enciclopédica:** [Thor amboinensis](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/thor-amboinensis.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere grupo proporcionado, refugios y alimentación dirigida accesible
@@ -381,21 +323,17 @@ Puede entrar en la selección si se prepara un grupo proporcionado, refugios y a
 
 **Ficha enciclopédica:** [Turbo](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/turbo.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Útil solo si hay algas que justifiquen un pastador fuerte y la roca está bien fijada
 
 En Veril preferiría empezar con caracoles más pequeños. *Turbo* quedaría como refuerzo puntual si el sistema muestra crecimiento de algas sostenido y hay alimento para mantenerlo.
 
-La decisión debe validarse con **Elite Reef Kanarias** según identificación y talla.
+**Comprobación específica:** identificación y talla.
 
 <a id="invertebrados--filtradores--ascidias-coloniales"></a>
 ## Ascidias coloniales
 
 **Ficha enciclopédica:** [Ascidias coloniales](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/ascidias-coloniales.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Requieren un sistema maduro, alimento fino sostenido y una identificación que permita valorar sus necesidades
@@ -404,8 +342,6 @@ La decisión debe validarse con **Elite Reef Kanarias** según identificación y
 ## Cangrejos porcelana libres (*Petrolisthes*)
 
 **Ficha enciclopédica:** [Cangrejos porcelana libres (*Petrolisthes*)](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/petrolisthes.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: La escala es adecuada, pero necesita madurez, corriente útil y alimentación particulada estable
@@ -417,8 +353,6 @@ Puede valorarse en una fase madura como alternativa a plumeros o filtradores má
 
 **Ficha enciclopédica:** [Esponjas](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/esponjas.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Requieren madurez, alimento suspendido adecuado y manipulación sin exposición al aire
 
@@ -427,14 +361,12 @@ Puede valorarse en una fase madura como alternativa a plumeros o filtradores má
 
 **Ficha enciclopédica:** [Mespilia globulus](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/mespilia-globulus.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Buen candidato posterior, pero solo con roca madura, alimento y frags fijados
 
 En Veril lo valoraría cuando el acuario lleve meses estable. Si se busca un equipo de limpieza inicial, empezaría con caracoles y no con un erizo.
 
-La decisión debe validarse con **Elite Reef Kanarias** según talla y estado.
+**Comprobación específica:** talla y estado.
 
 No se asumirá que todos los ejemplares disponibles son necesariamente de captura. *M. globulus* se ha reproducido y criado experimentalmente fuera del medio natural; la procedencia concreta debe preguntarse al proveedor.
 
@@ -442,8 +374,6 @@ No se asumirá que todos los ejemplares disponibles son necesariamente de captur
 ## Plumeros
 
 **Ficha enciclopédica:** [Plumeros](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/plumeros.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Requieren un sistema maduro y una disponibilidad sostenible de alimento fino
@@ -453,21 +383,17 @@ No se asumirá que todos los ejemplares disponibles son necesariamente de captur
 
 **Ficha enciclopédica:** [Strombus luhuanus](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/strombus-luhuanus.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Necesita arena madura, superficie suficiente de forrajeo y alimento natural sostenido
 
-En Veril lo dejaría para una fase posterior y solo si la arena muestra alimento suficiente. Antes preferiría caracoles más pequeños y ajustables.
+Se mantiene como opción no inicial para esta especie. La preferencia de TFP por estrombidos en la fase de diatomeas queda como alternativa por evaluar para una especie y talla concretas con Elite Reef Kanarias, sin sustituir el inicio previsto con Trochus; no se extiende esta restricción a todo el grupo. La superficie de arena y el alimento sostenido se revisan según el [plan de limpieza](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#composición-y-orden-previstos-para-veril).
 
-La decisión debe validarse con **Elite Reef Kanarias** según talla real y madurez del sistema.
+**Comprobación específica:** talla real y madurez del sistema.
 
 <a id="invertebrados--gambas-camarones--alpheus-armatus"></a>
 ## Alpheus armatus
 
 **Ficha enciclopédica:** [Alpheus armatus](../../../01_verilpedia/02_biologia/05_invertebrados/01_gambas-camarones/alpheus-armatus.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: No equivale a la escena gobio-gamba prudente para Veril y requeriría otro planteamiento
@@ -479,8 +405,6 @@ Para una escena gobio-gamba se mantiene como referencia [*Alpheus randalli*](../
 
 **Ficha enciclopédica:** [Babylonia](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/babylonia.md)
 
-### Estado y encaje
-
 - **Estado**: No propuesto
 - **Motivo**: No cumple la función buscada para el equipo de limpieza prudente de Veril
 
@@ -491,8 +415,6 @@ Si se necesita animal de arena, primero se valoran *Nassarius* pequeños y solo 
 
 **Ficha enciclopédica:** [Camposcia retusa](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/camposcia-retusa.md)
 
-### Estado y encaje
-
 - **Estado**: No propuesto
 - **Motivo**: Conducta decoradora incompatible con el objetivo de frags estables y controlados
 
@@ -500,8 +422,6 @@ Si se necesita animal de arena, primero se valoran *Nassarius* pequeños y solo 
 ## Dolabella
 
 **Ficha enciclopédica:** [Dolabella](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/dolabella.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: Escala y dieta incompatibles con el margen de un nano estable
@@ -513,8 +433,6 @@ En Veril no la usaría ni como prevención ni como respuesta ordinaria a algas. 
 
 **Ficha enciclopédica:** [Engina mendicaria](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/engina-mendicaria.md)
 
-### Estado y encaje
-
 - **Estado**: No propuesto
 - **Motivo**: No forma parte del equipo de limpieza base y no debe usarse como solución general a vermétidos
 
@@ -524,8 +442,6 @@ Si aparecen vermétidos, antes conviene revisar entrada de corales, retirada man
 ## Estrellas delicadas: Nardoa, Fromia y Linckia
 
 **Ficha enciclopédica:** [Estrellas delicadas: Nardoa, Fromia y Linckia](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/estrellas-delicadas.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: Dieta y aclimatación demasiado delicadas para el margen del montaje
@@ -539,8 +455,6 @@ El umbral de unos 100 L citado para *Fromia* no se adopta. El volumen nominal no
 
 **Ficha enciclopédica:** [Pepinos de mar: Holothuria y Colochirus](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/pepinos-de-mar.md)
 
-### Estado y encaje
-
 - **Estado**: No propuesto
 - **Motivo**: Riesgo, dieta y sensibilidad demasiado altos para el margen de Veril
 
@@ -550,8 +464,6 @@ No los usaría como parte del equipo de limpieza ni como filtradores ornamentale
 ## Stenorhynchus seticornis
 
 **Ficha enciclopédica:** [Stenorhynchus seticornis](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/stenorhynchus-seticornis.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: Demasiado oportunista para una selección corta y tranquila

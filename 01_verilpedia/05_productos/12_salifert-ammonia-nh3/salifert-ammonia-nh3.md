@@ -30,7 +30,7 @@ Será el método principal para seguir el amonio durante la prueba de ciclado, j
 
 ## Encaje previsto en Veril
 
-Es el método disponible para seguir el nitrógeno amoniacal durante la prueba de ciclado; la categoría nativa se registra literalmente y se conserva sin conversiones no demostradas. El detalle del criterio de ciclado pertenece al [plan de ciclado](../../../03_pendientes/ciclado/plan.md) y su [runbook](../../../03_pendientes/ciclado/runbook.md); la selección y comparación de métodos, al [plan transversal de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md). Véase también el parámetro general [amonio](../../03_parametros/amonio.md).
+Es el método disponible para seguir el nitrógeno amoniacal durante la prueba de ciclado; la categoría nativa se registra literalmente y se conserva sin conversiones no demostradas. El detalle del criterio de ciclado pertenece al [plan de ciclado](../../../03_pendientes/ciclado/01_plan.md) y su [runbook](../../../03_pendientes/ciclado/02_runbook.md); la selección y comparación de métodos, al [plan transversal de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md). Véase también el parámetro general [amonio](../../03_parametros/amonio.md).
 
 ## Límites
 
@@ -48,5 +48,5 @@ Es el método disponible para seguir el nitrógeno amoniacal durante la prueba d
 - [Salifert Ammonia / Ammonia Profi Test, procedimiento y presentación](https://www.shop-meeresaquaristik.de/Water-tests/Salifert/Salifert-Profi-Test-Ammonium-Ammoniak-NH3%3A%3A1370.html?language=en)
 - [Salifert Ammonia NH3 Profi Test: manual reproducido por distribuidor](https://www.shop-meeresaquaristik.de/Water-tests/Salifert/Salifert-Profi-Test-Ammonium-Ammoniak-NH3%3A%3A1370.html?language=en) — confirma 2 ml de muestra, adición fraccionada del reactivo, 3 min y lectura de NH3+NH4; seguir el lote adquirido.
 - [Parámetro amonio](../../03_parametros/amonio.md)
-- [Plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md)
-- [Runbook de ciclado](../../../03_pendientes/ciclado/runbook.md)
+- [Plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md)
+- [Runbook de ciclado](../../../03_pendientes/ciclado/02_runbook.md)

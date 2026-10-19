@@ -57,7 +57,7 @@ El riesgo principal es introducir una especie poco habitual sin confirmar que co
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--gambas-camarones--brachycarpus-biunguiculatus).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--gambas-camarones--brachycarpus-biunguiculatus).
 
 ## Bioma canario
 

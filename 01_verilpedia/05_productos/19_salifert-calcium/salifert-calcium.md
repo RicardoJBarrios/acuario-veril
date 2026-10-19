@@ -17,7 +17,7 @@ Procedimiento localizado: 2 ml de muestra, una cucharilla rasa de Ca-1 (no mezcl
 
 ## Encaje previsto en Veril
 
-El plan prevé medir antes de dosificar y cuando exista consumo calcificador; no es una prioridad durante el ciclado. Ca debe interpretarse junto a KH, Mg, salinidad y cambios de agua. El criterio operativo está en el [plan de medición](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md); contexto general en [calcio](../../03_parametros/calcio.md).
+El plan prevé medir antes de dosificar y cuando exista consumo calcificador; no es una prioridad durante el ciclado. Ca debe interpretarse junto a KH, Mg, salinidad y cambios de agua. El criterio operativo está en el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md); contexto general en [calcio](../../03_parametros/calcio.md).
 
 ## Buenas prácticas y límites
 
@@ -32,7 +32,7 @@ El plan prevé medir antes de dosificar y cuando exista consumo calcificador; no
 ## Enlaces de trabajo
 
 - Parámetro: [Calcio](../../03_parametros/calcio.md), [alcalinidad](../../03_parametros/alcalinidad.md), [magnesio](../../03_parametros/magnesio.md).
-- Aplicación: [plan de medición y tests](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/medicion-y-tests.md#criterios-de-calidad-de-medida).
+- Aplicación: [plan de medición y tests](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md) y [criterios de calidad de medida](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md#criterios-de-calidad-de-medida).
 
 ## Fuentes
 

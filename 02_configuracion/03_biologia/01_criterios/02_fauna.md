@@ -62,16 +62,15 @@ Puntos a validar antes de cerrar candidatos:
 
 **Equipo de limpieza**
 
-El equipo de limpieza también queda pendiente. Conviene elegirlo por función real y alimento disponible, no como lista fija ni como solución a problemas de mantenimiento.
+Se selecciona por recurso, función, talla y capacidad de consumo. El aprendizaje
+del directo de Tropical Fish & Products del 18/10/2026 se aplica en el
+[plan específico](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md):
+secuencia, dimensionamiento, recepción y alimentación posterior. La selección
+no se reduce a un número mínimo permanente ni a una lista fija por litros.
 
-Funciones posibles según necesidad:
-
-- Pastoreo de biofilm y algas superficiales
-- Movilización o consumo de detrito accesible, sin confundirlos con su exportación
-- Consumo puntual de restos de alimento
-- Apoyo a la limpieza de arena y roca sin desestabilizar el montaje
-
-El equipo de limpieza debería crecer por observación: primero pocos ejemplares, después ampliación solo si hay alimento, función clara y compatibilidad.
+Las funciones posibles siguen siendo pastoreo de biofilm y algas, consumo o
+movilización de materia accesible, consumo de restos y actividad en arena o
+roca compatible con el montaje. El consumo no sustituye la retirada física.
 
 **Funciones y especialización**
 
@@ -110,7 +109,7 @@ La fauna se considerará bien planteada cuando:
 - La selección sea compatible entre sí y con corales futuros
 - La carga biológica no obligue a correcciones agresivas
 - El comportamiento sea observable y no muestre estrés persistente
-- El equipo de limpieza tenga alimento real y no dependa de sobrealimentar
+- El equipo de limpieza disponga del recurso que consume o de alimentación específica adecuada, sin depender de exceso de alimento
 - No se introduzca ningún animal para compensar un problema de diseño o mantenimiento
 - Las funciones especialistas estén justificadas, limitadas y respaldadas por alimento disponible
 
@@ -148,6 +147,6 @@ La fauna se considerará bien planteada cuando:
 - [Índice de invertebrados](../../../01_verilpedia/02_biologia/05_invertebrados/README.md)
 - [Índice de algas](../../../01_verilpedia/02_biologia/02_algas/README.md)
 - [Criterios de corales](01_corales.md)
-- [Plan de maduración](../../../03_pendientes/maduracion/plan.md)
+- [Plan de maduración](../../../03_pendientes/maduracion/01_plan.md)
 - [Prácticas de cuarentena y hospital](../../../01_verilpedia/08_practicas/02_cuarentena-y-hospital.md)
 - [Escenario unificado de Veril](../03_escenarios/01_escenario-unificado-veril.md)

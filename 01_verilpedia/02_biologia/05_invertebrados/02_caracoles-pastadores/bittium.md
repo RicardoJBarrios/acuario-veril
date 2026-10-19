@@ -55,7 +55,7 @@ El riesgo es bajo si aparece en número moderado. Si se introduce como fauna de 
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/invertebrados.md#invertebrados--caracoles-pastadores--bittium).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/04_invertebrados.md#invertebrados--caracoles-pastadores--bittium).
 
 ## Bioma canario
 

@@ -54,7 +54,7 @@ En Veril pueden ocupar demasiado territorio y condicionar toda la selección pos
 
 ## Aplicación a Veril
 
-La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/peces.md#peces--payasos-damiselas--damiselas-territoriales).
+La selección y el estado de este organismo para Veril se documentan en [su ficha de aplicación en el proyecto](../../../../02_configuracion/03_biologia/02_candidatos/03_peces.md#peces--payasos-damiselas--damiselas-territoriales).
 
 ## Variantes comerciales observadas
 

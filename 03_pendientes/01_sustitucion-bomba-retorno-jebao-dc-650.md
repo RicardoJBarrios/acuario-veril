@@ -2,7 +2,7 @@
 
 ## Decisión y estado
 
-El **19 de octubre de 2026** el propietario comunica que ha pedido una **Jebao DC-650** a **EliteReef Kanarias** para sustituir la **Sicce Micra** instalada. Quiere disponer de regulación de flujo y utilizarla a potencia media la mayor parte del tiempo. La regulación se recoge según su comunicación, pendiente de contrastar con el equipo y manual recibidos.
+El **19 de octubre de 2026** el propietario comunicó la compra de una **Jebao DC Pump Marine Aqua DC-650**. El 19 de octubre también había comunicado que pidió una Jebao DC-650 a EliteReef Kanarias para sustituir la Sicce Micra instalada y que quería disponer de regulación del flujo y utilizarla a potencia media la mayor parte del tiempo. La recepción, instalación y ajuste no se documentan como ejecutados.
 
 El pedido está comunicado; la recepción, instalación y puesta en servicio no constan ejecutadas. La Sicce Micra continúa instalada tras lavar su filtro, que estaba bastante obstruido. En el pico de pato se recogieron 500 ml en 15 s antes de limpiar (**120 L/h**, 2 veces/h sobre 60 L de display) y 850 ml en 10 s después (**306 L/h**, 5,1 veces/h). Son mediciones manuales comunicadas por el propietario. El [registro de la incidencia](../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva método, cálculos y límites.
 

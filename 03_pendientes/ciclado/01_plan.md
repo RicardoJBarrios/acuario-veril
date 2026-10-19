@@ -14,7 +14,7 @@ registran en [operaciones](../../04_operaciones/README.md).
 | --- | --- |
 | Volumen para las dosis | **75 L nominales de sistema**; los 60 L de display son otra referencia, no la base de dosificación |
 | Superficies | Roca, AF Bio Sand y las 40 Mantis Bio-Filter Spheres en C1 |
-| Inoculante y fuente de amonio | FritzZyme 9 y Fritz Fishless Fuel, según la [receta](decisiones/seleccion-inoculante-y-receta.md) |
+| Inoculante y fuente de amonio | FritzZyme 9 y Fritz Fishless Fuel, según la [receta](decisiones/01_seleccion-inoculante-y-receta.md) |
 | Agua de partida | Agua de mar filtrada con UV de Elite Reef Kanarias, con el ajuste de salinidad registrado el [3 de octubre](../../04_operaciones/2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md) |
 | Reposición de evaporación | Agua RO/DI sin sal |
 | Condiciones de referencia | Salinidad `S_P = 35`; temperatura operativa normal **24,5–26,5 °C** |
@@ -75,7 +75,7 @@ con pH, alcalinidad, salinidad, temperatura y circulación que permitan
 interpretar el resultado. El plazo por sí solo no demuestra capacidad.
 
 Tras el cierre quedan previstos la muestra **ICP-01** del
-[plan de medición](../operacion-recurrente/medicion-y-tests.md#análisis-icp-de-laboratorio)
-y el paso a [maduración](../maduracion/plan.md). El ICP construye una línea
+[plan de medición](../operacion-recurrente/02_medicion-y-tests.md#análisis-icp-de-laboratorio)
+y el paso a [maduración](../maduracion/01_plan.md). El ICP construye una línea
 base elemental; no sustituye la prueba nitrificante. La incorporación de fauna
 se decide en esa fase posterior.

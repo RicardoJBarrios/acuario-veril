@@ -10,7 +10,7 @@ presenta como una tarea pendiente.
 Realizar una ronda diaria, aproximadamente a la misma hora:
 
 1. Medir **amonio total y nitrito con Salifert**, conservando las categorías literales de los tests.
-2. Registrar temperatura y pH; seguir salinidad y alcalinidad conforme al [plan de medición](../operacion-recurrente/medicion-y-tests.md).
+2. Registrar temperatura y pH; seguir salinidad y alcalinidad conforme al [plan de medición](../operacion-recurrente/02_medicion-y-tests.md).
 3. Comprobar retorno, circulación, agitación superficial y nivel. Registrar las intervenciones realizadas.
 4. Añadir los datos al documento de operaciones de esa fecha. Si ya existe, ampliar ese mismo documento.
 
@@ -34,7 +34,7 @@ parámetros hasta su retorno al límite de aceptación, dentro de los **cinco
 días** previstos para esa carga. No añadir una nueva dosis por calendario ni
 para compensar una lectura inferior a la concentración teórica.
 
-El [plan](plan.md#plazo-inicial-y-seguimiento-actual) conserva el plazo de la
+El [plan](01_plan.md#plazo-inicial-y-seguimiento-actual) conserva el plazo de la
 primera carga y el tratamiento de una desviación. Este procedimiento no
 reinicia la prueba ni modifica sus criterios.
 
@@ -51,5 +51,5 @@ requiera intervenir, atenderlo y registrar lo realizado antes de continuar
 con la prueba. La evaporación se repone con RO/DI sin sal. Las limpiezas y los
 cambios de agua que alteren la carga se tienen en cuenta al comparar resultados.
 
-El cierre se documenta conforme al [plan](plan.md#criterio-de-cierre) antes del
+El cierre se documenta conforme al [plan](01_plan.md#criterio-de-cierre) antes del
 paso a maduración.

@@ -10,11 +10,11 @@ La operación es una capa transversal, no una octava dimensión ni una fase post
 
 - [Operación y mantenimiento](../../01_verilpedia/06_procesos/05_operacion.md): marco general de la operación como proceso transversal
 - [Dimensiones arquitectónicas](../../01_verilpedia/01_dimensiones/README.md): criterios que la operación debe observar y evaluar
-- [Plan de ciclado](../ciclado/plan.md): operación específica durante el establecimiento del biofiltro
-- [Plan de maduración](../maduracion/plan.md): operación específica durante la evolución inicial
+- [Plan de ciclado](../ciclado/01_plan.md): operación específica durante el establecimiento del biofiltro
+- [Plan de maduración](../maduracion/01_plan.md): operación específica durante la evolución inicial
 - [Configuración de Veril](../../02_configuracion/README.md): condiciones vigentes del sistema
-- [Cambios de agua](cambios-agua.md): preparación, comprobación, registro y contribución del agua nueva
-- [Plan transversal de medición y selección de tests](medicion-y-tests.md): métodos, instrumentos y criterios de elección aplicables a todas las fases
-- [Rellenado de resina DI](rellenado-resina-di.md): carga, enjuague, comprobación y renovación de las dos carcasas T33
+- [Cambios de agua](01_cambios-agua.md): preparación, comprobación, registro y contribución del agua nueva
+- [Plan transversal de medición y selección de tests](02_medicion-y-tests.md): métodos, instrumentos y criterios de elección aplicables a todas las fases
+- [Rellenado de resina DI](03_rellenado-resina-di.md): carga, enjuague, comprobación y renovación de las dos carcasas T33
 
 Los procedimientos recurrentes de mantenimiento, seguimiento e incidencias se añadirán aquí cuando estén definidos.

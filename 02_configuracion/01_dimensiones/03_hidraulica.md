@@ -10,7 +10,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 ## Estado de la decisión
 
-**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), definido físicamente en Infraestructura.
+**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md), definido físicamente en Infraestructura.
 
 **Previsto:** El campo de flujo deberá rodear, atravesar y pasar por debajo de la composición espacial, manteniendo renovadas las zonas funcionales sin desplazar el sustrato.
 
@@ -22,7 +22,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 El **19 de octubre de 2026** el propietario corrigió la identificación de la bomba instalada: es una **Sicce Micra**, no una Micra Plus. Encontró su filtro bastante obstruido, lo lavó y reinstaló la bomba. Las recogidas manuales en el pico de pato dieron **500 ml en 15 s antes (120 L/h)** y **850 ml en 10 s después (306 L/h)**. Sobre los 60 L nominales del display son **2 y 5,1 veces/h**; sobre los 75 L nominales del sistema completo, **1,6 y 4,08 veces/h**. Son referencias de caudal medidas en esa intervención, sin demostrar renovación uniforme ni estabilidad a largo plazo.
 
-El propietario consideró insuficiente el caudal inicial y ha pedido una **Jebao DC-650 a EliteReef Kanarias** para regular el flujo y utilizarla habitualmente a potencia media. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
+El propietario consideró insuficiente el caudal inicial y comunicó la compra de una **Jebao DC Pump Marine Aqua DC-650** el 19/10/2026. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/01_sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada según la última operación documentada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
 
 ### Disposición y ajuste vigente de la Mantis
 
@@ -109,9 +109,9 @@ La aceptación de estos niveles y del volumen de parada pertenece a la [dimensi�
 
 ## Reposición automática y consecuencias hidráulicas
 
-Veril utilizará el [D-D H2Ocean Compact ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), con un [depósito GRAF de 15 litros](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md) reservado para agua RO/DI. El sensor se instalará en la cámara de retorno, donde la evaporación modifica directamente el nivel que condiciona la bomba de retorno.
+Veril utilizará el [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md), con un [depósito GRAF de 15 litros](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/graf-barril-agroalimentario-15l.md) reservado para agua RO/DI. El sensor se instalará en la cámara de retorno, donde la evaporación modifica directamente el nivel que condiciona la bomba de retorno.
 
-Su consecuencia hidráulica principal será mantener el nivel operativo de la cámara de retorno dentro del rango del que dependen la aspiración de la bomba y la continuidad del retorno. Las protecciones, la autonomía, los riesgos de sobrellenado, el sifonado, el funcionamiento en seco y la limpieza de sensores pertenecen a la [ficha del ATO](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md) y a la [dimensión de infraestructura](../../01_verilpedia/01_dimensiones/01_infraestructura.md).
+Su consecuencia hidráulica principal será mantener el nivel operativo de la cámara de retorno dentro del rango del que dependen la aspiración de la bomba y la continuidad del retorno. Las funciones y especificaciones de la unidad DDATO2 se documentan en su [ficha Gen 2](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md); la ficha del Compact ATO anterior conserva los datos de esa generación. La aplicación en Veril y la [dimensión de infraestructura](../../01_verilpedia/01_dimensiones/01_infraestructura.md) describen la ubicación prevista del sensor y el equipo.
 
 El ATO no aumenta la circulación, no sustituye la prueba de parada ni corrige por sí mismo la salinidad. La autonomía real del depósito y la respuesta del nivel durante el funcionamiento y los cortes quedan pendientes de validación en la instalación final.
 

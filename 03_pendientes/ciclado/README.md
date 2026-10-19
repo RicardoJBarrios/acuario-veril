@@ -17,11 +17,11 @@ Las mediciones completas y las intervenciones permanecen en el diario.
 
 ## Qué consultar
 
-- [Plan](plan.md): condiciones y criterios de la prueba que sigue pendiente de cerrar.
-- [Procedimiento de seguimiento](runbook.md): mediciones y pasos restantes.
-- [Receta adoptada](decisiones/seleccion-inoculante-y-receta.md): componentes y cálculo de dosis.
-- [Antecedente de Elite Reef](decisiones/referencia-elite-reef-e-inoculacion-previa.md): consejo del 9 de octubre y evolución posterior.
-- [Proyección microbiológica](proyeccion-microbiologica.md): alcance funcional esperado de los medios utilizados.
+- [Plan](01_plan.md): condiciones y criterios de la prueba que sigue pendiente de cerrar.
+- [Procedimiento de seguimiento](02_runbook.md): mediciones y pasos restantes.
+- [Receta adoptada](decisiones/01_seleccion-inoculante-y-receta.md): componentes y cálculo de dosis.
+- [Antecedente de Elite Reef](decisiones/02_referencia-elite-reef-e-inoculacion-previa.md): consejo del 9 de octubre y evolución posterior.
+- [Proyección microbiológica](03_proyeccion-microbiologica.md): alcance funcional esperado de los medios utilizados.
 
 La explicación general está en [ciclado sin peces](../../01_verilpedia/06_procesos/02_ciclado-sin-peces.md).
-La fase posterior tiene su propio [plan de maduración](../maduracion/plan.md).
+La fase posterior tiene su propio [plan de maduración](../maduracion/01_plan.md).

@@ -1,13 +1,13 @@
 # Candidatos de peces
 
+Antes de elegir un ejemplar, la decisión se contrasta con **Elite Reef Kanarias**. Los requisitos particulares se indican como «Comprobación específica» en cada apartado; el estado de candidato no cierra una compra ni acredita una incorporación.
+
 > Este documento agrupa la aplicación específica a Veril de las fichas biológicas del mismo tipo. El estado es una decisión de proyecto; la incorporación real debe registrarse en una operación y, cuando corresponda, en un plan.
 
 <a id="peces--columna-cueva--assessor"></a>
 ## *Assessor* / peces de cueva
 
 **Ficha enciclopédica:** [*Assessor* / peces de cueva](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/assessor.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Talla, dieta preparada y conducta de cueva compatibles con el display
@@ -19,8 +19,6 @@ Puede valorarse como pez único de cueva en una comunidad corta. No se acumular�
 
 **Ficha enciclopédica:** [*Trimma cf. caesiura* / microgobio blanco moteado](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/trimma-caesiura.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Su talla, conducta de roca y origen de cría encajan, siempre que acepte alimento preparado y se protejan tapa y pasos hidráulicos
 
@@ -30,8 +28,6 @@ Tiene mejor proporción física que muchos peces vendidos como «nano». No debe
 ## Ecsenius pequeños / blénidos de roca
 
 **Ficha enciclopédica:** [Ecsenius pequeños / blénidos de roca](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/ecsenius.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Blénido pequeño, visible y compatible con roca madura, siempre que no se use como herramienta contra algas
@@ -45,21 +41,17 @@ Elegiría un solo *Ecsenius* pequeño. No lo mezclaría con *Ecsenius bicolor* n
 
 **Ficha enciclopédica:** [Elacatinus](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/elacatinus.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Pez pequeño y conducta compatible con el volumen si acepta comida preparada
 
 En Veril puede funcionar como pez inicial o como acompañante de una selección tranquila. Lo preferiría frente a especies más activas si se busca un pez observable sin aumentar mucho la carga biológica.
 
-La decisión debe validarse con **Elite Reef Kanarias** según especie exacta, tamaño, salud y alimentación.
+**Comprobación específica:** especie exacta, tamaño, salud y alimentación.
 
 <a id="peces--columna-cueva--serranus-tortugarum"></a>
 ## Serranus tortugarum
 
 **Ficha enciclopédica:** [Serranus tortugarum](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/serranus-tortugarum.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Puede encajar por tamaño y conducta si la población total, la alimentación y el ejemplar real son compatibles
@@ -71,8 +63,6 @@ En Veril lo consideraría solo si se descarta una pareja de payasos y se busca u
 
 **Ficha enciclopédica:** [*Pseudochromis* pequeños](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/pseudochromis-springeri.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: La talla encaja, pero exige tratarlo como pez territorial protagonista y limitar los competidores de roca y cueva
 
@@ -83,8 +73,6 @@ No lo añadiría a una combinación ya formada por varios gobios, blénidos o ba
 
 **Ficha enciclopédica:** [Acanthemblemaria / Barnacle blenny](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/acanthemblemaria.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere un refugio específico, alimentación accesible y compañeros tranquilos
 
@@ -94,8 +82,6 @@ En Veril puede encajar si se quiere reforzar la lectura de microfauna visible en
 ## Amblyeleotris / gobios de madriguera
 
 **Ficha enciclopédica:** [Amblyeleotris / gobios de madriguera](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/amblyeleotris.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere diseñar una zona de arena y madriguera, asegurar la roca y reservar el sustrato necesario; la cama regular adoptada de 3 cm no se considera suficiente por defecto
@@ -109,8 +95,6 @@ Si se eligiera esta línea, sería una alternativa a *Stonogobiops*, no una acum
 
 **Ficha enciclopédica:** [Amphiprion / peces payaso](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/amphiprion.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Pueden funcionar como pareja protagonista de cría, pero condicionan la carga biológica y la selección del resto de peces
 
@@ -123,8 +107,6 @@ Si se quiere una comunidad más variada y tranquila, *Elacatinus*, *Gobiodon* o 
 
 **Ficha enciclopédica:** [Basslets](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/basslets.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requieren refugios adecuados y compañeros compatibles con su territorialidad
 
@@ -134,8 +116,6 @@ En Veril un royal gramma podría estudiarse si se quiere un pez de color y cueva
 ## Cardenales
 
 **Ficha enciclopédica:** [Cardenales](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/cardenales.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requieren decidir especie y número; dos ejemplares solo son prudentes si forman una pareja compatible
@@ -149,8 +129,6 @@ En el caso de *P. kauderni*, solo se valorará un ejemplar de cría en cautivida
 
 **Ficha enciclopédica:** [Ecsenius bicolor](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/ecsenius-bicolor.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere valorar su talla adulta, territorialidad y posible picoteo de corales en un display corto
 
@@ -161,8 +139,6 @@ En Veril solo lo consideraría si no se puede conseguir un tailspot sano o si se
 
 **Ficha enciclopédica:** [Gobio enmascarado (*Coryphopterus personatus*)](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/coryphopterus-personatus.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Encaja por talla, pero exige grupo, refugio sombreado, alimentación frecuente y procedencia responsable
 
@@ -172,8 +148,6 @@ Solo se consideraría como una de las líneas principales de fauna. No se añadi
 ## Gobiodon / gobios de percha
 
 **Ficha enciclopédica:** [Gobiodon / gobios de percha](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/gobiodon.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere aceptar su relación con los corales hospedadores y confirmar que la especie y la talla adulta dejan margen suficiente
@@ -187,8 +161,6 @@ No elegiría un *Gobiodon* si la selección de corales acaba centrada en piezas 
 
 **Ficha enciclopédica:** [Gobios canarios](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/gobios-canarios.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere confirmar especie, dieta y conducta antes de elegir el ejemplar y sus compañeros
 
@@ -198,8 +170,6 @@ En Veril tendría más sentido un solo gobio canario pequeño y bien identificad
 ## Nemateleotris / firefish
 
 **Ficha enciclopédica:** [Nemateleotris / firefish](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/nemateleotris.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere tapa fiable, refugio y compañeros tranquilos
@@ -213,8 +183,6 @@ Si se elige un firefish, elegiría uno de este grupo y construiría el resto de 
 
 **Ficha enciclopédica:** [Parablennius canarios](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/parablennius-canarios.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere confirmar especie y talla y reservarle el nicho principal de blénido de roca
 
@@ -224,8 +192,6 @@ En Veril solo valoraría un *Parablennius* si se convierte en el pez de roca pri
 ## Plectranthias inermis
 
 **Ficha enciclopédica:** [Plectranthias inermis](../../../01_verilpedia/02_biologia/04_peces/02_columna-cueva/plectranthias-inermis.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere refugios visibles, alimentación fina accesible y compañeros que no lo intimiden ni le quiten la comida
@@ -237,8 +203,6 @@ Puede ser una alternativa de pez de carácter si se descartan payasos y se busca
 
 **Ficha enciclopédica:** [Priolepis](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/priolepis.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere refugios suficientes, alimentación accesible y aceptar una visibilidad limitada
 
@@ -248,8 +212,6 @@ Lo consideraría solo si se quiere una fauna de comportamiento sutil, no si se b
 ## Stonogobiops
 
 **Ficha enciclopédica:** [Stonogobiops](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/stonogobiops.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Muy interesante por conducta, pero depende de una zona de arena suficiente para la especie, tapa, estabilidad de roca y elección de gamba; la cama regular adoptada es de 3 cm
@@ -261,8 +223,6 @@ En Veril lo consideraría solo si se decide reservar una zona baja para madrigue
 
 **Ficha enciclopédica:** [*Discordipinna griessingeri* / gobio llama](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/discordipinna-griessingeri.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: La escala física encaja, pero necesita madurez, alimento microscópico accesible, compañeros muy tranquilos y observación individual de la ingesta
 
@@ -272,8 +232,6 @@ Puede vivir en Veril si se diseña una comunidad serena y se acepta que sea poco
 ## *Koumansetta* / gobios de Rainford y Hector
 
 **Ficha enciclopédica:** [*Koumansetta* / gobios de Rainford y Hector](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/koumansetta.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: La escala puede encajar, pero necesita madurez, poca competencia y alimentación preparada comprobada
@@ -285,8 +243,6 @@ En Veril se consideraría un solo ejemplar y solo como alternativa a otro pastad
 
 **Ficha enciclopédica:** [Chupasangres canarios](../../../01_verilpedia/02_biologia/04_peces/03_especialistas/chupasangres-canarios.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Compatibles por escala, pero requieren un montaje tranquilo, alimentación fina y expectativas realistas de visibilidad
 
@@ -296,8 +252,6 @@ Podrían ser muy interesantes si Veril evolucionara hacia un biotopo canario de 
 ## Pseudocheilinops ataenia
 
 **Ficha enciclopédica:** [Pseudocheilinops ataenia](../../../01_verilpedia/02_biologia/04_peces/04_labridos-pequenos/pseudocheilinops-ataenia.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Interesante para fase madura, pero exige tapa, roca con refugios y alimentación fina
@@ -309,8 +263,6 @@ En Veril podría estudiarse si se descarta una pareja protagonista de payasos y 
 
 **Ficha enciclopédica:** [Rudarius ercodes](../../../01_verilpedia/02_biologia/04_peces/03_especialistas/rudarius-ercodes.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Tamaño y conducta son interesantes, pero la incertidumbre con corales y alimentación aconseja reservarlo para fase posterior
 
@@ -320,8 +272,6 @@ En Veril podría estudiarse si aparece un ejemplar de cría, comiendo bien y si 
 ## Tripterygion delaisi
 
 **Ficha enciclopédica:** [Tripterygion delaisi](../../../01_verilpedia/02_biologia/04_peces/01_gobios-blenios/tripterygion-delaisi.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Compatible por escala, pero mejor en fase madura y con alimentación observada
@@ -333,14 +283,12 @@ En Veril podría ser una pieza de biotopo muy interesante, pero no debería comp
 
 **Ficha enciclopédica:** [Wetmorella](../../../01_verilpedia/02_biologia/04_peces/04_labridos-pequenos/wetmorella.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Compatible en escala, pero exige madurez, tapa y una comunidad muy tranquila
 
 En Veril lo dejaría como posibilidad posterior. Si se busca un pez visible desde el despacho, puede decepcionar porque es más críptico que un gobio o un blénido. Lo consideraría solo si el aquascape ofrece cuevas reales y la población de peces se mantiene muy tranquila.
 
-La decisión debe validarse con **Elite Reef Kanarias** según especie, tamaño, alimentación y comportamiento.
+**Comprobación específica:** especie, tamaño, alimentación y comportamiento.
 
 Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias rojas, esa conducta es oportunista y variable. No se comprará como tratamiento ni se dejará sin resolver la causa de una proliferación.
 
@@ -349,8 +297,6 @@ Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias roja
 
 **Ficha enciclopédica:** [Damiselas territoriales](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/damiselas-territoriales.md)
 
-### Estado y encaje
-
 - **Estado**: No propuesto
 - **Motivo**: Territorialidad excesiva para el objetivo de comunidad tranquila
 
@@ -358,8 +304,6 @@ Aunque uno de los vídeos recomienda *Wetmorella* para ayudar con planarias roja
 ## *Chromis viridis*
 
 **Ficha enciclopédica:** [*Chromis viridis*](../../../01_verilpedia/02_biologia/04_peces/05_payasos-damiselas/chromis-viridis.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: Es una damisela de columna y agregaciones, pero la talla adulta publicada, la actividad de nado y el carácter social no dejan margen demostrado para un grupo en el display nominal de **60 L**. El volumen de referencia y el cálculo que lo respalda están documentados en la [ficha espacial](../../01_dimensiones/02_espacial.md#volumen-de-agua-del-display).
@@ -382,8 +326,6 @@ valoración profesional del grupo concreto.
 ## Synchiropus
 
 **Ficha enciclopédica:** [Synchiropus](../../../01_verilpedia/02_biologia/04_peces/03_especialistas/synchiropus.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: Dependencia de microfauna continua incompatible con el margen actual de Veril

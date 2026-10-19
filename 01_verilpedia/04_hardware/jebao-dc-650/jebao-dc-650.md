@@ -28,7 +28,7 @@ Antes de instalar, quedan por comprobar dimensiones reales, bocas y adaptadores,
 
 ## Uso en Veril
 
-La compra, el estado y los objetivos locales pertenecen al [plan de sustitución del retorno](../../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md). La [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md) identifica la bomba realmente instalada. Esta ficha no acredita recepción, instalación ni capacidad para trabajar a potencia media con el caudal deseado.
+La compra, el estado y los objetivos locales pertenecen al [plan de sustitución del retorno](../../../03_pendientes/01_sustitucion-bomba-retorno-jebao-dc-650.md). La [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md) identifica la bomba realmente instalada. Esta ficha no acredita recepción, instalación ni capacidad para trabajar a potencia media con el caudal deseado.
 
 ## Fuentes y estado
 

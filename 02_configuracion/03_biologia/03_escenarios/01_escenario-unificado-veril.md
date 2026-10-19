@@ -130,23 +130,23 @@ La línea de fauna unificada parte de:
 
 - Pareja de *Amphiprion ocellaris* negros, preferiblemente Black Storm o Darwin Black, incorporada cuando el sistema y los primeros habitantes estén estables
 - Un *Ecsenius stigmatura* como pez secundario de roca, incorporado solo cuando exista biofilm, refugios y aporte vegetal suficiente
-- Grupo pequeño de 2–3 *Thor amboinensis*, incorporado cuando existan refugios y coralimorfarios adecuados, con alimentación fina accesible
+- Una *Lysmata amboinensis* como gamba protagonista de la composición no coralina recuperada por el propietario, con refugios y alimentación propia
 
-La pareja de payasos, *Ecsenius stigmatura* y *Thor amboinensis* forman la combinación visible principal, pero no se consideran una combinación garantizada. La decisión dependerá del tamaño, conducta, alimentación, territorialidad, refugios y respuesta de los ejemplares reales.
+La pareja de payasos, *Ecsenius stigmatura* y *Lysmata amboinensis* forman la combinación visible de referencia, pero no se consideran una combinación garantizada. La decisión dependerá del tamaño, conducta, alimentación, territorialidad, refugios y respuesta de los ejemplares reales.
 
-Los *Thor* forman parte del equipo de trabajo entendido como comunidad visible asociada a los corales, no como equipo de limpieza. No sustituyen a los caracoles, el sifonado ni la retirada manual de detrito.
+La *Lysmata* aporta conducta de limpiadora y consumo de comida accesible, pero no sustituye a los pastadores, el sifonado ni la retirada manual de detrito. Su limpieza de peces no garantiza alimentación suficiente ni tratamiento de parásitos.
 
 ### Equipo de limpieza
 
-El equipo de limpieza principal estará formado por pocos caracoles elegidos por función y alimento disponible, no por una cantidad fija:
+Para los 60 L nominales de display / 75 L de sistema, el conjunto de referencia incluye *Lysmata amboinensis*, *Trochus*, *Cerithium*, *Nassarius vibex*, *Clibanarius tricolor*, *Stomatella*, *Ophiactis* y una colonia de *Tisbe*. Dentro del grupo de caracoles, primero *Trochus* cuando exista biofilm y después *Nassarius* cuando haya alimentación animal accesible. El [plan del equipo de limpieza](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#composición-y-orden-previstos-para-veril) recoge las cantidades orientativas de los ocho grupos, la selección de especies y sus motivos, las condiciones de entrada y el seguimiento. Los estrombidos quedan como alternativa por evaluar. Las funciones y alternativas son:
 
-- **Pastadores de roca y cristal**: Elegir una combinación pequeña de *Trochus*, *Astraea* o *Tectus*, sin introducir los tres grupos automáticamente
-- **Arena, roca baja y detrito fino**: Añadir pocos *Cerithium* cuando la arena y la roca madura ofrezcan ese nicho
+- **Pastadores de roca y cristal**: *Trochus* como referencia inicial; *Astraea* o *Tectus* como alternativas según recurso, talla y capacidad conjunta
+- **Arena, roca baja y detrito fino**: Valorar *Cerithium* cuando la arena y la roca madura ofrezcan ese nicho
 - **Restos carnosos en arena**: Valorar *Nassarius* solo si la alimentación y la superficie de arena justifican su presencia; no elimina algas
-- **Biodiversidad de roca**: Conservar *Stomatella* o microofiuras si aparecen de forma natural y encuentran alimento
-- **Ermitaño oportunista**: Valorar un único ermitaño arcoíris, preferiblemente *Calcinus elegans*, cuando haya alimento, conchas vacías y roca estable
+- **Biodiversidad de roca y refugios**: Conservar *Stomatella* espontáneas y evaluar 2–3 *Ophiactis*, preferiblemente *O. savignyi*, y una colonia reproductora de *Tisbe* conforme a los módulos de maduración
+- **Ermitaño oportunista**: Un *Clibanarius tricolor* como referencia, con alimento, conchas vacías y roca estable; *Calcinus elegans* queda como alternativa que requiere elección propia
 
-La primera incorporación será pequeña y se ampliará solo si hay alimento visible, actividad normal y una función que el mantenimiento manual no esté cubriendo. *Turbo*, *Mespilia*, mitrácidos, ermitaños grandes y otras opciones quedan fuera del equipo básico salvo una necesidad concreta y un plan de alimentación posterior. El *Calcinus elegans* no se considerará inocuo: puede competir con caracoles, mover piezas pequeñas y necesitar conchas vacías.
+La entrada será escalonada y su número se revisará por consumo y proliferación del recurso, actividad y sostenimiento posterior, según el módulo. La necesidad de alimentar detritívoros al faltar restos forma parte de esa previsión. *Turbo*, *Mespilia*, mitrácidos, ermitaños grandes y otras opciones quedan fuera del equipo básico salvo una necesidad concreta y un plan de alimentación posterior. El ermitaño no se considerará inocuo: puede competir con caracoles, mover piezas pequeñas y necesitar conchas vacías.
 
 ### Alternativas excluyentes
 
@@ -154,17 +154,17 @@ Las siguientes opciones son excluyentes entre sí dentro de la configuración pr
 
 - *Elacatinus oceanops* sustituiría a *Ecsenius stigmatura* y exigiría posaderos, alimento fino accesible y compatibilidad territorial
 - *Nemateleotris magnifica* quedaría como alternativa al pez secundario y exigiría tapa fiable, refugio propio y compañeros tranquilos
-- *Lysmata amboinensis* sustituiría al grupo de *Thor* como gamba ornamental de mayor tamaño y quedaría condicionada a alimentación y aclimatación
+- Un grupo de 2–3 *Thor amboinensis* conserva su papel de alternativa ornamental a la *Lysmata* de referencia, con refugios y coralimorfarios adecuados y alimentación fina accesible; no se suma automáticamente a ella
 
 Los peces mostrados en acuarios comerciales de mayor volumen no aumentan la población de Veril. La coloración no sustituye la inspección: se pedirá historial, alimentación, respiración, postura, integridad de aletas y tiempo de adaptación del ejemplar real.
 
 ## Limpieza y mantenimiento
 
-El equipo de limpieza se incorporará por alimento disponible, no por una lista fija. Se empezará con pocos caracoles adecuados y se ampliará solo si el sistema produce recursos y la observación lo justifica.
+El número y la alimentación se revisan conforme al [módulo de limpieza](../../../03_pendientes/maduracion/02_plan-equipo-limpieza.md#dimensionamiento-y-alimento-posterior), junto con los resultados del mantenimiento físico.
 
 La rutina incluirá:
 
-- Cambios de agua semanales orientados inicialmente a unos 7–8 L, ajustados al volumen neto, consumo y mediciones
+- Cambios de agua según el [procedimiento vigente](../../../03_pendientes/operacion-recurrente/01_cambios-agua.md), que adopta **10 L** sobre los **75 L nominales**; la propuesta inicial de este escenario era de **7–8 L semanales**, ajustados al volumen neto, consumo y mediciones
 - Sifonado por sectores sin desmontar el paisaje
 - Limpieza de cristales y equipos antes de que la alga coralina, el GSP o la *Clavularia* bloqueen el acceso
 - Poda del GSP y la *Clavularia* antes de que formen viseras o alcancen superficies no previstas; en la isla, la poda se realizará retirando la pieza cuando sea necesario
@@ -254,7 +254,7 @@ El escenario debe revisarse si ocurre cualquiera de estas situaciones:
 - [Procesamiento de Veril](../../01_dimensiones/07_procesamiento.md)
 - [Criterios de corales](../01_criterios/01_corales.md)
 - [Criterios de fauna](../01_criterios/02_fauna.md)
-- [Plan de maduración](../../../03_pendientes/maduracion/plan.md)
+- [Plan de maduración](../../../03_pendientes/maduracion/01_plan.md)
 - [Plan de operación recurrente](../../../03_pendientes/operacion-recurrente/README.md)
 - [Prácticas de cuarentena y hospital](../../../01_verilpedia/08_practicas/02_cuarentena-y-hospital.md)
 - [Fichas de GSP, Clavularia y Cyphastrea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/README.md)

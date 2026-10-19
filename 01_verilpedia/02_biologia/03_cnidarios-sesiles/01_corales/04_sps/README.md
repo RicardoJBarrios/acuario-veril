@@ -21,6 +21,6 @@ Los cambios de color vinculados a I, K, Fe u otros trazas no son una base
 suficiente para dosificar. Las correlaciones visuales deben tratarse como
 hipótesis y contrastarse con mediciones independientes.
 
-El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/plan-indicadores-visuales-corales.md)
+El [plan de observación biológica de corales](../../../../../03_pendientes/maduracion/04_plan-indicadores-visuales-corales.md)
 describe cómo usar estos cambios como avisos de medición en Veril, sin
 considerar los SPS como centinelas iniciales.

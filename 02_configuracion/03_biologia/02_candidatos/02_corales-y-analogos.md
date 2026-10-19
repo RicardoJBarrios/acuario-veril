@@ -1,13 +1,13 @@
 # Candidatos de corales y análogos coraliformes
 
+Antes de elegir un ejemplar, la decisión se contrasta con **Elite Reef Kanarias**. Los requisitos particulares se indican como «Comprobación específica» en cada apartado; el estado de candidato no cierra una compra ni acredita una incorporación.
+
 > Este documento agrupa la aplicación específica a Veril de las fichas biológicas del mismo tipo. El estado es una decisión de proyecto; la incorporación real debe registrarse en una operación y, cuando corresponda, en un plan.
 
 <a id="cnidarios-sesiles--corales--lps--acanthastrea"></a>
 ## Acanthastrea / Micromussa
 
 **Ficha enciclopédica:** [Acanthastrea / Micromussa](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/acanthastrea.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: LPS relativamente manejable si la pieza es pequeña, se deja distancia de seguridad y no se fuerza la alimentación
@@ -16,14 +16,12 @@ En Veril puede funcionar como primer LPS carnoso si se elige un frag pequeño, d
 
 Es uno de los LPS de color más aprovechables en nano. La lectura práctica para Veril es mantenerlo como pieza compacta de zona baja o media-baja y no convertir la alimentación dirigida en rutina.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, tamaño real, número de bocas, salud del tejido, agresividad y ubicación posible.
+**Comprobación específica:** identificación, tamaño real, número de bocas, salud del tejido, agresividad y ubicación posible.
 
 <a id="cnidarios-sesiles--corales--lps--blastomussa"></a>
 ## Blastomussa
 
 **Ficha enciclopédica:** [Blastomussa](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/blastomussa.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: LPS prudente para un nano si se elige una pieza proporcionada, con flujo suave y margen frente a vecinos
@@ -32,14 +30,12 @@ En Veril es uno de los LPS más razonables si se compra una colonia pequeña, sa
 
 Funciona como LPS de color para zonas más tranquilas del nano. Para Veril eso encaja con una lectura conservadora: pieza pequeña, baja, con flujo suave y sin vecinos que puedan rozar el tejido.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según especie, número de cabezas, tamaño real, salud del tejido y ubicación.
+**Comprobación específica:** especie, número de cabezas, tamaño real, salud del tejido y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--caulastrea"></a>
 ## Caulastrea
 
 **Ficha enciclopédica:** [Caulastrea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/caulastrea.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Encaja como LPS ramificado moderado si la pieza es pequeña, estable y queda lejos de contacto directo
@@ -48,28 +44,24 @@ En Veril tendría sentido como pieza de pocas cabezas, con base estable y margen
 
 Esta lectura encaja con su uso en nanos: candy cane aparece como LPS manejable, colorido y fácil de ubicar si se mantiene en luz y flujo moderados.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según número de cabezas, salud del tejido, color, tamaño abierto y ubicación posible.
+**Comprobación específica:** número de cabezas, salud del tejido, color, tamaño abierto y ubicación posible.
 
 <a id="cnidarios-sesiles--corales--blandos--clavularia"></a>
 ## Clavularia
 
 **Ficha enciclopédica:** [Clavularia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/clavularia.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Puede encajar como blando de primera selección solo si se mantiene en isla o soporte separable, sin ocupar la roca principal
 
 En Veril la usaría como pieza de movimiento controlado, no como tapiz de fondo. La colocación ideal sería una roca pequeña aislada en zona baja-media, con flujo suave y separación física de la estructura principal.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación real, soporte, ritmo de crecimiento, salud de la base y ubicación posible dentro del aquascaping.
+**Comprobación específica:** identificación real, soporte, ritmo de crecimiento, salud de la base y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--discosoma"></a>
 ## Discosoma
 
 **Ficha enciclopédica:** [Discosoma](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/discosoma.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Coralimorfario resistente y adecuado para zonas bajas si se mantiene en una roca controlable
@@ -80,14 +72,12 @@ Los mushrooms son piezas muy útiles para nanos, pero hay que seleccionarlos bie
 
 La condición es clara: debe entrar como pieza delimitada, preferiblemente en isla o roca satélite. No debe usarse para tapizar la roca principal ni para rellenar huecos que luego puedan necesitarse para LPS, Zoanthus u otros candidatos.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--lps--duncanopsammia"></a>
 ## Duncanopsammia
 
 **Ficha enciclopédica:** [Duncanopsammia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/duncanopsammia.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: LPS razonable para Veril si la colonia es pequeña, tiene flujo indirecto y no se sobrealimenta
@@ -96,14 +86,12 @@ En Veril preferiría una colonia pequeña, no una pieza de muchas cabezas grande
 
 Es un LPS útil para nanos por movimiento, resistencia relativa y lectura visual: si los pólipos cierran, suele estar avisando de flujo, manipulación o cambio de condiciones.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según número de cabezas, tamaño abierto, salud, soporte y ubicación posible.
+**Comprobación específica:** número de cabezas, tamaño abierto, salud, soporte y ubicación posible.
 
 <a id="cnidarios-sesiles--corales--blandos--gsp"></a>
 ## GSP / Green Star Polyps
 
 **Ficha enciclopédica:** [GSP / Green Star Polyps](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/gsp.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Puede servir para la pared viva del escenario unificado, pero solo si se diseña como superficie controlada y separada de la roca principal
@@ -119,8 +107,6 @@ Si la prioridad es la contención y la reversibilidad, una superficie lisa o un 
 
 **Ficha enciclopédica:** [Rhodactis](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/rhodactis.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Puede encajar como coralimorfario resistente si se evita que domine la roca principal
 
@@ -130,28 +116,24 @@ Los mushrooms de alto impacto visual incluyen nombres comerciales tipo Godzilla 
 
 La selección adecuada para Veril sería un Rhodactis pequeño o medio, bien adherido, con boca cerrada, tejido firme y soporte separable. No elegiría formas gigantes tipo Elephant Ear ni rocas grandes colonizadas. Debe entrar como pieza delimitada, no como centro expansivo de la roca principal.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--ricordea-florida"></a>
 ## Ricordea florida
 
 **Ficha enciclopédica:** [Ricordea florida](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/ricordea-florida.md)
 
-### Estado y encaje
-
 - **Estado**: Candidato
 - **Motivo**: Es la *Ricordea* más resistente y proporcionada para Veril; aporta color intenso con crecimiento controlable y mantenimiento sencillo
 
 En Veril debe entrar como acento bajo o medio-bajo, preferiblemente en una isla o soporte separable. Es una candidata clara si la pieza está bien adherida, expandida, con boca cerrada y sin tejido dañado.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--zoanthus"></a>
 ## Zoanthus
 
 **Ficha enciclopédica:** [Zoanthus](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/zoanthus.md)
-
-### Estado y encaje
 
 - **Estado**: Candidato
 - **Motivo**: Puede encajar bien si se mantiene en isla o roca separable y se manipula con prudencia
@@ -162,14 +144,12 @@ Morfos como Rastas, Froot Loops, Utter Chaos, Blue Hornets, Scrambled Eggs y Pun
 
 La condición es que entre con una estrategia clara de contención. La mejor opción es una roca satélite o isla de Zoanthus con 1-3 morfos bien diferenciados, dejando espacio para que crezcan sin tocar LPS, mushrooms u otros candidatos. No lo usaría para tapizar la estructura principal ni para rellenar huecos que luego puedan necesitarse para corales más lentos.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño de pólipo, número de pólipos, salud, presencia de plagas, soporte, ritmo de crecimiento esperado y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño de pólipo, número de pólipos, salud, presencia de plagas, soporte, ritmo de crecimiento esperado y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--lps--physogyra"></a>
 ## *Physogyra lichtensteini*
 
 **Ficha enciclopédica:** [*Physogyra lichtensteini*](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/physogyra.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Solo encaja como fragmento pequeño si se reserva una zona exclusiva con flujo suave y distancia para los barredores
@@ -181,8 +161,6 @@ No debe tratarse como sustituto automáticamente seguro de *Plerogyra*. La pieza
 
 **Ficha enciclopédica:** [Actinia y Telmatactis canarias](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/actinia-telmatactis-canarias.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Físicamente posibles si se reserva una zona urticante, estable y separada de otros habitantes
 
@@ -193,49 +171,41 @@ Solo las valoraría en una fase madura, con una isla o roca dedicada y sin coral
 
 **Ficha enciclopédica:** [Barabattoia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/barabattoia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere identificar la pieza, confirmar su talla y reservar margen suficiente para su agresividad nocturna
 
 En Veril puede encajar con una pieza pequeña, margen claro y comportamiento nocturno observado.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, tamaño, agresividad nocturna, salud y ubicación.
+**Comprobación específica:** identificación, tamaño, agresividad nocturna, salud y ubicación.
 
 <a id="cnidarios-sesiles--corales--blandos--capnella"></a>
 ## Capnella
 
 **Ficha enciclopédica:** [Capnella](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/capnella.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere espacio para crecimiento y sombreo, además de aceptar poda y posibles fragmentos desprendidos
 
 En Veril es condicional a reservar su zona desde el diseño, elegir deliberadamente una pieza arborescente y usar un fragmento sobre soporte fácil de retirar.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, soporte, tendencia a fragmentar y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, soporte, tendencia a fragmentar y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--blandos--cladiella"></a>
 ## Cladiella
 
 **Ficha enciclopédica:** [Cladiella](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/cladiella.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere reservar volumen para su crecimiento y aceptar mucus, poda y posible competencia química
 
 En Veril puede encajar si se busca deliberadamente un coral de cuero pequeño y de crecimiento moderado, se reserva volumen para su expansión y se acepta su posible competencia química.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, firmeza del tejido, soporte, producción de mucus y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, firmeza del tejido, soporte, producción de mucus y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--lps--cyphastrea"></a>
 ## Cyphastrea
 
 **Ficha enciclopédica:** [Cyphastrea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/cyphastrea.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere soporte controlable o roca satélite para limitar su expansión incrustante
@@ -244,56 +214,48 @@ En Veril la usaría solo sobre soporte controlable o roca satélite. Puede ser b
 
 Su uso como incrustante de zonas con luz contenida encaja bien en nanos, incluso con rangos bajos de PAR y formas ramificadas. La cautela para Veril no cambia: controlar soporte y borde de avance.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, tamaño del frag, salud del borde, luz disponible y ubicación.
+**Comprobación específica:** identificación, tamaño del frag, salud del borde, luz disponible y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--euphyllia"></a>
 ## Euphyllia
 
 **Ficha enciclopédica:** [Euphyllia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/euphyllia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere reservar mucha distancia de seguridad y controlar el crecimiento y los tentáculos barredores
 
 En Veril puede encajar con una cabeza pequeña y una ubicación muy clara. Si es torch, exige todavía más distancia y prudencia.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según tipo, número de cabezas, extensión real, salud del tejido y ubicación.
+**Comprobación específica:** tipo, número de cabezas, extensión real, salud del tejido y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--favia"></a>
 ## Favia
 
 **Ficha enciclopédica:** [Favia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/favia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere un frag compacto y margen suficiente para su agresividad nocturna
 
 En Veril solo la consideraría como frag pequeño y bien identificado en la práctica, con margen nocturno observado. Si la pieza tiene barredores largos o es una colonia grande, quedaría descartada para este montaje o reservada para otro sistema con más espacio.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, identificación, tentáculos nocturnos, tamaño y ubicación.
+**Comprobación específica:** pieza real, identificación, tentáculos nocturnos, tamaño y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--favites"></a>
 ## Favites
 
 **Ficha enciclopédica:** [Favites](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/favites.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere pieza pequeña y margen de seguridad frente al contacto y los tentáculos nocturnos
 
 En Veril solo lo valoraría cuando el layout esté cerrado y se pueda observar o estimar la distancia nocturna. Frente a *Favia* comercial, suele requerir más prudencia.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, tamaño, barredores y ubicación.
+**Comprobación específica:** identificación, tamaño, barredores y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--fungia"></a>
 ## Fungia / corales plato
 
 **Ficha enciclopédica:** [Fungia / corales plato](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/fungia.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere reservar una zona funcional de sustrato sin roces ni competencia con otros habitantes de arena
@@ -305,21 +267,17 @@ Puede funcionar si el diseño reserva arena estable y libre de roces para el cor
 
 **Ficha enciclopédica:** [Goniastraea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/goniastraea.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere confirmar talla y agresividad de la pieza y reservar distancia de seguridad suficiente
 
 En Veril puede encajar con un frag pequeño, distancia clara y observación de su alcance nocturno.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, tamaño, tentáculos nocturnos y ubicación.
+**Comprobación específica:** identificación, tamaño, tentáculos nocturnos y ubicación.
 
 <a id="cnidarios-sesiles--corales--blandos--gorgonia-ventalina"></a>
 ## Gorgonia ventalina
 
 **Ficha enciclopédica:** [Gorgonia ventalina](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/gorgonia-ventalina.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere una pieza pequeña, identificación fiable y una ubicación vertical con luz y flujo por ambas caras; la talla adulta puede superar el espacio disponible
@@ -333,21 +291,17 @@ No queda condicionada por una selección hipotética de corales. Puede formar pa
 
 **Ficha enciclopédica:** [Leptastrea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/leptastrea.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere soporte controlable para limitar su crecimiento incrustante sobre la roca
 
 En Veril puede funcionar como incrustante de apoyo si se mantiene sobre soporte controlable. No debe usarse para cubrir roca principal sin plan, porque luego competirá por espacio con LPS y coraliformes.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según tamaño, soporte, salud del borde y ubicación.
+**Comprobación específica:** tamaño, soporte, salud del borde y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--lobophyllia-symphyllia"></a>
 ## Lobophyllia / Symphyllia
 
 **Ficha enciclopédica:** [Lobophyllia / Symphyllia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/lobophyllia-symphyllia.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere una pieza de talla proporcionada y una zona amplia con margen territorial
@@ -359,21 +313,17 @@ Puede encajar si se reserva una zona amplia para una pieza de talla proporcionad
 
 **Ficha enciclopédica:** [Lobophytum](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/lobophytum.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere espacio para crecer y sombrear, además de manejo de la posible competencia química
 
 En Veril puede encajar si se reserva espacio suficiente para su talla adulta, sombreo y competencia química.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, soporte, salud, patrón de muda y ubicación posible.
+**Comprobación específica:** pieza real, tamaño, soporte, salud, patrón de muda y ubicación posible.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--stichodactyla-tapetum"></a>
 ## Mini carpet anemone (*Stichodactyla tapetum*)
 
 **Ficha enciclopédica:** [Mini carpet anemone (*Stichodactyla tapetum*)](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/stichodactyla-tapetum.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: La talla puede encajar, pero exige una isla dedicada, protección de bombas y aceptación del riesgo para fauna pequeña
@@ -385,21 +335,17 @@ La rock flower anemone continúa siendo la anémona prioritaria por menor adhesi
 
 **Ficha enciclopédica:** [Mycedium](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/mycedium.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere un frag pequeño, soporte controlable y margen para su crecimiento laminar y posible agresividad
 
 En Veril puede encajar como frag pequeño si se conoce el mapa de luz y se reserva una roca controlable con margen suficiente.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según tamaño, agresividad, salud del borde y ubicación.
+**Comprobación específica:** tamaño, agresividad, salud del borde y ubicación.
 
 <a id="cnidarios-sesiles--corales--blandos--nephthea"></a>
 ## Nephthea
 
 **Ficha enciclopédica:** [Nephthea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/nephthea.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere identificación fiable, espacio suficiente y seguimiento de su crecimiento
@@ -411,21 +357,17 @@ En Veril tendría sentido solo si la pieza real es pequeña, fotosintética, est
 
 **Ficha enciclopédica:** [Oxypora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/oxypora.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere un frag pequeño, soporte controlable y margen frente a vecinos
 
 En Veril puede encajar como frag pequeño sobre roca controlable, con borde bien cicatrizado y margen suficiente frente a vecinos.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, borde, agresividad y ubicación.
+**Comprobación específica:** identificación, borde, agresividad y ubicación.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--palythoa"></a>
 ## Palythoa
 
 **Ficha enciclopédica:** [Palythoa](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/palythoa.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere aceptar el riesgo de palitoxina, aplicar un protocolo estricto de manipulación y contener su expansión
@@ -439,8 +381,6 @@ Solo reconsideraría *Palythoa* si apareciera una pieza concreta, pequeña, iden
 
 **Ficha enciclopédica:** [Pectinia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/pectinia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere una zona dedicada con suficiente distancia de seguridad
 
@@ -451,21 +391,17 @@ Puede formar parte de la selección si es una pieza pequeña, con ubicación cla
 
 **Ficha enciclopédica:** [Platygyra](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/platygyra.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere una pieza pequeña y distancia suficiente para su posible agresividad nocturna
 
 En Veril solo la valoraría cuando el layout esté cerrado y exista una roca o zona con margen nocturno. No debería entrar antes que LPS candidatos más previsibles.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según tamaño, tentáculos nocturnos, salud y ubicación.
+**Comprobación específica:** tamaño, tentáculos nocturnos, salud y ubicación.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--ricordea"></a>
 ## Ricordea
 
 **Ficha enciclopédica:** [Ricordea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/ricordea.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: La ficha común solo encaja si la pieza concreta se identifica antes; *Ricordea florida* es candidata y *Ricordea yuma* queda como no inicial
@@ -474,14 +410,12 @@ En Veril, el género es interesante por color, tamaño contenido y bajo consumo 
 
 Los mushrooms funcionan como una familia práctica de coralimorfarios de nano. Esta ficha mantiene la separación porque *Ricordea florida* y *R. yuma* no tienen el mismo margen de seguridad.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según especie, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** especie, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--rock-flower-anemone"></a>
 ## Rock flower anemone
 
 **Ficha enciclopédica:** [Rock flower anemone](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/rock-flower-anemone.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere una zona dedicada y margen de seguridad frente a otros organismos
@@ -493,21 +427,17 @@ En Veril solo tendría sentido si se reserva un punto claro de roca y se acepta 
 
 **Ficha enciclopédica:** [Sarcophyton](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/sarcophyton.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere una pieza de talla proporcionada, espacio de crecimiento y manejo de la competencia química
 
 En Veril puede encajar si se decide que una pieza de cuero forme parte del diseño, se elige una talla proporcionada y se reserva margen para crecimiento, sombreo y poda.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, soporte, patrón de muda y ubicación posible.
+**Comprobación específica:** pieza real, tamaño, salud, soporte, patrón de muda y ubicación posible.
 
 <a id="cnidarios-sesiles--corales--blandos--sinularia"></a>
 ## Sinularia
 
 **Ficha enciclopédica:** [Sinularia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/sinularia.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere controlar la talla adulta, reservar espacio y aceptar su presencia química en un volumen pequeño
@@ -519,8 +449,6 @@ En Veril lo consideraría solo si se decide una línea clara de blandos tipo cue
 
 **Ficha enciclopédica:** [Trachyphyllia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/trachyphyllia.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere reservar una zona amplia y estable de arena para una pieza carnosa de tamaño considerable
 
@@ -531,21 +459,17 @@ Podría ser viable en un nano diseñado alrededor de una arena coralina amplia. 
 
 **Ficha enciclopédica:** [Turbinaria](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/turbinaria.md)
 
-### Estado y encaje
-
 - **Estado**: Condicional
 - **Motivo**: Requiere una pieza de forma y talla compatibles y espacio para su crecimiento sin alterar en exceso sombra y flujo
 
 En Veril solo tendría sentido con frag pequeño, orientación clara y previsión de crecimiento. No la introduciría antes de saber dónde irán LPS, coraliformes y zonas de sombra, porque una copa mal orientada puede obligar a rediseñar el flujo.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según especie, forma, soporte, tamaño y ubicación.
+**Comprobación específica:** especie, forma, soporte, tamaño y ubicación.
 
 <a id="cnidarios-sesiles--corales--blandos--xenia-anthelia"></a>
 ## Xenia / Anthelia
 
 **Ficha enciclopédica:** [Xenia / Anthelia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/xenia-anthelia.md)
-
-### Estado y encaje
 
 - **Estado**: Condicional
 - **Motivo**: Requiere contención física estricta, soporte separable y aceptación de poda frecuente
@@ -565,8 +489,6 @@ No la colocaría:
 
 **Ficha enciclopédica:** [*Anacropora*](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/anacropora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Es viable como fragmento propagado, pero requiere estabilidad mineral demostrada, luz medida y un plan de poda
 
@@ -576,8 +498,6 @@ Solo tendría sentido después de mantener con crecimiento estable un SPS más c
 ## *Tubipora musica*
 
 **Ficha enciclopédica:** [*Tubipora musica*](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/tubipora-musica.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Es físicamente viable como fragmento pequeño, pero requiere madurez, estabilidad mineral y una pieza sin recesión ni algas
@@ -591,8 +511,6 @@ Su especialidad es aportar textura y movimiento de pólipos sin propagarse como 
 
 **Ficha enciclopédica:** [Acropora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/acropora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Requiere PAR medido, flujo adecuado, madurez y estabilidad mineral demostrada
 
@@ -603,21 +521,17 @@ Un 20 galones puede mantener *Acropora* si está diseñado y mantenido como sist
 
 **Ficha enciclopédica:** [Alveopora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/alveopora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Puede ser sensible a estabilidad, flujo y madurez; conviene valorarla solo cuando el sistema demuestre rutina estable
 
 En Veril podría considerarse en una fase posterior, si el acuario ya mantiene LPS más sencillos sin oscilaciones y hay una zona de flujo suave pero vivo. No la usaría para comprobar si el sistema está listo, ni la colocaría cerca de corales que puedan rozar sus pólipos largos.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según especie, tamaño, apertura en tienda, salud de la base y ubicación posible.
+**Comprobación específica:** especie, tamaño, apertura en tienda, salud de la base y ubicación posible.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--corynactis-viridis"></a>
 ## Anémona joya (*Corynactis viridis*)
 
 **Ficha enciclopédica:** [Anémona joya (*Corynactis viridis*)](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/corynactis-viridis.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: La escala es compatible, pero exige madurez, alimentación fina, control colonial y validación térmica de la procedencia
@@ -629,49 +543,41 @@ Solo se valoraría como colonia pequeña de biotopo sobre soporte retirado. No m
 
 **Ficha enciclopédica:** [Cespitularia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/cespitularia.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Su identificación, expansión y respuesta a nutrientes aconsejan esperar a que el sistema demuestre estabilidad
 
 En Veril la reservaría para fase posterior y solo con pieza pequeña, sana y aislable. No debe competir con la primera selección de corales más predecibles.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación, soporte, color real, salud, ritmo de crecimiento y ubicación posible dentro del aquascaping.
+**Comprobación específica:** identificación, soporte, color real, salud, ritmo de crecimiento y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--lps--chalice"></a>
 ## Chalice
 
 **Ficha enciclopédica:** [Chalice](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/chalice.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: LPS incrustante con agresividad variable; requiere distancia, identificación y ubicación más definidas que otros candidatos
 
 En Veril no sería primera elección. Puede tener sentido más adelante como frag pequeño en roca controlable, cuando ya se conozcan luces, flujos y espacios reales. Si la pieza concreta muestra barredores largos, debe quedar fuera o reservarse para otro montaje.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según género probable, tamaño, tentáculos nocturnos, salud del borde y ubicación.
+**Comprobación específica:** género probable, tamaño, tentáculos nocturnos, salud del borde y ubicación.
 
 <a id="cnidarios-sesiles--corales--lps--goniopora"></a>
 ## Goniopora
 
 **Ficha enciclopédica:** [Goniopora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/goniopora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Necesita estabilidad, flujo fino y madurez; no debería ser una de las primeras pruebas del sistema
 
 En Veril podría valorarse más adelante, cuando el sistema mantenga LPS sencillos sin oscilaciones y exista una zona con flujo adecuado. No la introduciría antes de tener rutina de medición y cambios bien establecida.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según especie, apertura, base, tiempo en tienda y ubicación.
+**Comprobación específica:** especie, apertura, base, tiempo en tienda y ubicación.
 
 <a id="cnidarios-sesiles--corales--blandos--gorgonias"></a>
 ## Gorgonias
 
 **Ficha enciclopédica:** [Gorgonias](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/01_blandos/gorgonias.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Depende mucho de si la pieza es fotosintética o no; sin identificación clara puede implicar flujo y alimentación difíciles
@@ -680,14 +586,12 @@ En Veril solo consideraría una gorgonia fotosintética, pequeña, bien aclimata
 
 Conviene insistir en la diferencia que importa: una gorgonia fotosintética puede ser una pieza vertical útil, mientras que una NPS desplaza el problema hacia alimentación frecuente y exportación de nutrientes.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según identificación real, fotosíntesis, apertura de pólipos, dieta, tamaño, salud y ubicación posible.
+**Comprobación específica:** identificación real, fotosíntesis, apertura de pólipos, dieta, tamaño, salud y ubicación posible.
 
 <a id="cnidarios-sesiles--corales--nps--gorgonias-nps-diodogorgia-menella"></a>
 ## Gorgonias NPS ramificadas: Diodogorgia y Menella
 
 **Ficha enciclopédica:** [Gorgonias NPS ramificadas: Diodogorgia y Menella](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/03_nps/gorgonias-nps-diodogorgia-menella.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: La alimentación NPS frecuente y su exportación dejan poco margen operativo en el volumen de Veril
@@ -701,35 +605,29 @@ Podrían estudiarse más adelante si el acuario se orienta deliberadamente a NPS
 
 **Ficha enciclopédica:** [Leptoseris](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/leptoseris.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Puede requerir una lectura fina de luz y ubicación; mejor reservarlo hasta medir la respuesta real de la pantalla
 
 En Veril podría tener sentido como pieza de baja luz en una fase posterior. Primero conviene conocer cómo responden corales más previsibles a la pantalla y al flujo.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según morfo, soporte, color real y ubicación.
+**Comprobación específica:** morfo, soporte, color real y ubicación.
 
 <a id="cnidarios-sesiles--corales--sps--montipora"></a>
 ## Montipora
 
 **Ficha enciclopédica:** [Montipora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/montipora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: SPS más tolerante que *Acropora*, pero sigue pidiendo estabilidad, consumo mineral y PAR no confirmado en Veril
 
 En Veril queda como opción posterior. Tendría más sentido cuando haya rutina estable de medición de **KH**, **Ca**, **Mg**, **NO3** y **PO4**, y cuando el mapa de luz y flujo de la urna esté claro.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, forma de crecimiento, presencia de plagas y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, forma de crecimiento, presencia de plagas y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--sps--pavona"></a>
 ## Pavona
 
 **Ficha enciclopédica:** [Pavona](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/pavona.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Coral duro relativamente resistente, pero exige luz, flujo y estabilidad que conviene confirmar antes
@@ -738,14 +636,12 @@ En Veril podría evaluarse más adelante como SPS de transición, siempre que se
 
 Es un coral duro resistente y visualmente interesante para nanos, pero apunta a una colocación con más luz y flujo. En Veril eso la mantiene como no inicial hasta confirmar PAR y estabilidad mineral.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--nps--peinetas-nps"></a>
 ## Peinetas NPS: Annella, Melithaea y Subergorgia
 
 **Ficha enciclopédica:** [Peinetas NPS: Annella, Melithaea y Subergorgia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/03_nps/peinetas-nps.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Exige alimentación suspensívora especializada y una exportación asociada que deben demostrarse con el sistema maduro
@@ -759,8 +655,6 @@ No quedan descartadas por una combinación hipotética. Podrían evaluarse en un
 
 **Ficha enciclopédica:** [Pocillopora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/pocillopora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: SPS relativamente accesible, pero solo razonable cuando Veril demuestre estabilidad de luz, flujo y química mineral
 
@@ -771,49 +665,41 @@ No lo usaría para comprobar si el sistema está listo. Lo usaría solo cuando e
 
 **Ficha enciclopédica:** [Porites](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/porites.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: SPS de exigencia mineral y lumínica apreciable; requiere estabilidad y una lectura de luz y flujo más segura
 
 Podría reconsiderarse cuando Veril tenga parámetros estables, mapa de PAR, flujo probado y consumo mineral conocido.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--sps--psammocora"></a>
 ## Psammocora
 
 **Ficha enciclopédica:** [Psammocora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/psammocora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Coral duro relativamente resistente, pero mejor esperar a comprobar PAR, flujo real y consumo mineral
 
 En Veril podría ser una de las SPS más razonables tras la fase de madurez, siempre que se confirme que el fragmento es pequeño, estable y no obliga a cambiar la rutina de mantenimiento.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--analogos-coraliformes--ricordea-yuma"></a>
 ## Ricordea yuma
 
 **Ficha enciclopédica:** [Ricordea yuma](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/02_analogos-coraliformes/ricordea-yuma.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Es más delicada que *Ricordea florida* y puede deteriorarse tras transporte, cambios de luz o inestabilidad; conviene reservarla para una fase madura
 
 En Veril puede ser una pieza singular más adelante, pero no debería ser la primera *Ricordea*. Antes tendría que haber estabilidad sostenida, experiencia con *R. florida* o mushrooms similares, y una ubicación clara con luz media y flujo suave.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--lps--scolymia"></a>
 ## Scolymia / Homophyllia
 
 **Ficha enciclopédica:** [Scolymia / Homophyllia](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/02_lps/scolymia.md)
-
-### Estado y encaje
 
 - **Estado**: No inicial
 - **Motivo**: Su tejido carnoso es sensible al roce y al deterioro; requiere una zona estable y un sistema con madurez demostrada
@@ -825,8 +711,6 @@ Solo la consideraría si se decide reservar un punto bajo para una pieza carnosa
 
 **Ficha enciclopédica:** [Seriatopora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/seriatopora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Buen SPS de prueba posterior, pero solo con estabilidad mineral demostrada y flujo/luz verificados
 
@@ -837,8 +721,6 @@ En Veril lo consideraría después de meses de estabilidad, con consumo mineral 
 
 **Ficha enciclopédica:** [Stylocoeniella](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/stylocoeniella.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: Incrustante con necesidades a validar; conviene esperar a tener claro el mapa de luz y su ritmo de crecimiento
 
@@ -846,28 +728,24 @@ En Veril podría encajar más adelante si se confirma una zona de luz moderada, 
 
 Es una opción relativamente resistente dentro de corales duros incrustantes. Aun así, para Veril sigue siendo una pieza de fase posterior hasta medir respuesta real de luz, flujo y consumo mineral.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--sps--stylophora"></a>
 ## Stylophora
 
 **Ficha enciclopédica:** [Stylophora](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/04_sps/stylophora.md)
 
-### Estado y encaje
-
 - **Estado**: No inicial
 - **Motivo**: SPS más accesible que *Acropora*, pero sigue sin ser prudente hasta confirmar estabilidad, luz y flujo
 
 En Veril tendría sentido solo después de comprobar que otros corales calcificadores se mantienen estables y que el sistema no exige correcciones frecuentes.
 
-La decisión no queda cerrada por esta ficha. Debe validarse con **Elite Reef Kanarias** según pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
+**Comprobación específica:** pieza real, tamaño, salud, agresividad y ubicación posible dentro del aquascaping.
 
 <a id="cnidarios-sesiles--corales--nps--tubastraea"></a>
 ## Tubastraea
 
 **Ficha enciclopédica:** [Tubastraea](../../../01_verilpedia/02_biologia/03_cnidarios-sesiles/01_corales/03_nps/tubastraea.md)
-
-### Estado y encaje
 
 - **Estado**: No propuesto
 - **Motivo**: La alimentación regular de toda la colonia y la exportación asociada exceden el margen operativo previsto para este nano
