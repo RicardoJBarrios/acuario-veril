@@ -28,7 +28,7 @@ Aquaforest indica que debe mezclarse una pequeña cantidad con agua hasta obtene
 
 ## Uso en Veril
 
-Se ha utilizado para fijar las uniones de las rocas del hardscape durante la operación del 5 de septiembre de 2026. La aplicación queda registrada en la [operación de montaje, fijación y primer llenado](../../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md).
+Se ha utilizado para fijar las uniones de las rocas del hardscape durante la operación del 5 de septiembre de 2026. La aplicación queda registrada en la [operación de montaje, fijación y primer llenado](../../../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado).
 
 ## Preparación y uso
 

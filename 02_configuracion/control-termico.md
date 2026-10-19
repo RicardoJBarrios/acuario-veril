@@ -59,7 +59,7 @@ Para una calefacción futura, el principio de diseño es no esperar a <23 °C: e
 
 El piloto se instaló el 27 de septiembre de 2026 y la comprobación de configuración de Home Assistant no devolvió errores. En el último estado de HA registrado en la operación, a las 17:28 WEST, el agua estaba en 28,8 °C, el controlador en `protection` y la alarma en `warning`; el último valor numérico de agua se había actualizado a las 17:11 WEST. Después, el propietario confirmó que el Rowenta estaba en frío, a 24 °C y con ventilador alto. La integración no proporciona confirmación física de retorno.
 
-La automatización está en servicio como piloto, no validada como control eficaz. La transición automática a 25 °C y el apagado a ≤26,5 °C durante 15 min todavía no se han observado. El descenso aislado de 28,9 a 28,8 °C no demuestra un efecto causal del Rowenta. Las series anteriores y los límites de interpretación están en el [registro de puesta en servicio y mediciones](../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md).
+La automatización está en servicio como piloto, no validada como control eficaz. La transición automática a 25 °C y el apagado a ≤26,5 °C durante 15 min todavía no se han observado. El descenso aislado de 28,9 a 28,8 °C no demuestra un efecto causal del Rowenta. Las series anteriores y los límites de interpretación están en el [registro de puesta en servicio y mediciones](../04_operaciones/2026/09/2026-09-27.md#puesta-en-servicio-del-control-térmico-inicial).
 
 ## Seguimiento necesario
 

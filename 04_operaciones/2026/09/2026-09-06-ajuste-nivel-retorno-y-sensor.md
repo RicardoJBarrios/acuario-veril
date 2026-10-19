@@ -1,6 +1,6 @@
 # 6 de septiembre de 2026 — Ajuste de nivel, retorno y sensor
 
-> **Corrección posterior (19/10/2026):** la bomba de retorno se identificó físicamente como **Sicce Micra**, no Micra Plus. Se conserva la denominación anterior como parte del registro histórico. Véase la [incidencia y corrección de identidad](../10/2026-10-19-limpieza-y-medicion-caudal-retorno.md).
+> **Corrección posterior (19/10/2026):** la bomba de retorno se identificó físicamente como **Sicce Micra**, no Micra Plus. Se conserva la denominación anterior como parte del registro histórico. Véase la [incidencia y corrección de identidad](../10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno).
 
 ## Ejecución
 

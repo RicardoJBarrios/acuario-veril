@@ -10,5 +10,5 @@ registros de operación.
 
 El origen y el método de creación de esta imagen no están documentados. Debe
 tratarse como referencia visual, no como prueba independiente de dimensiones,
-estabilidad o estado físico de Veril. Las fotografías del hardscape instalado y
-su descripción están en la [operación de montaje](../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md).
+estabilidad o estado físico de Veril. La descripción del hardscape instalado
+está en la [operación de montaje](../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado).

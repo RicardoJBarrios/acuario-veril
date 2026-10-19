@@ -32,7 +32,7 @@ La tira Tetra Test 7 en 1 dio las siguientes lecturas comunicadas:
 
 ## Referencias
 
-- [Comprobación de salinidad del 13 de septiembre](2026-09-13-comprobacion-salinidad-refractometro.md)
+- [Comprobación de salinidad del 13 de septiembre](2026-09-13.md#comprobación-de-salinidad-con-refractómetro)
 - [Tetra Test 7 en 1](../../../01_verilpedia/05_productos/14_tetra-test-7-en-1/tetra-test-7-en-1.md)
 - [Refractómetro D-D AQPR001](../../../01_verilpedia/05_productos/06_dd-aquarium-solution-aqpr001/dd-aquarium-solution-aqpr001.md)
 - [Plan de ciclado](../../../03_pendientes/ciclado/plan.md)

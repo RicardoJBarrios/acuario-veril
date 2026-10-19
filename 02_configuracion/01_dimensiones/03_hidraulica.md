@@ -14,7 +14,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 **Previsto:** El campo de flujo deberá rodear, atravesar y pasar por debajo de la composición espacial, manteniendo renovadas las zonas funcionales sin desplazar el sustrato.
 
-**Observado:** La [prueba dinámica del 17 de septiembre](../../04_operaciones/2026/09/2026-09-17-observaciones-flujo-temperatura-y-sustrato.md#prueba-dinámica-de-circulación), con la Tourbon entonces al 40 %, mostró partículas finas en superficie recorriendo un circuito circular alrededor de la roca.
+**Observado:** La [prueba dinámica del 17 de septiembre](../../04_operaciones/2026/09/2026-09-17.md#prueba-dinámica-de-circulación), con la Tourbon entonces al 40 %, mostró partículas finas en superficie recorriendo un circuito circular alrededor de la roca.
 
 **Pendiente:** La distribución real en huecos, corredor trasero y zonas inferiores, el tiempo de renovación, la respuesta del sustrato, el volumen de retrosifonado y el reinicio tras una parada deben validarse con la composición instalada.
 
@@ -22,7 +22,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 El **19 de octubre de 2026** el propietario corrigió la identificación de la bomba instalada: es una **Sicce Micra**, no una Micra Plus. Encontró su filtro bastante obstruido, lo lavó y reinstaló la bomba. Las recogidas manuales en el pico de pato dieron **500 ml en 15 s antes (120 L/h)** y **850 ml en 10 s después (306 L/h)**. Sobre los 60 L nominales del display son **2 y 5,1 veces/h**; sobre los 75 L nominales del sistema completo, **1,6 y 4,08 veces/h**. Son referencias de caudal medidas en esa intervención, sin demostrar renovación uniforme ni estabilidad a largo plazo.
 
-El propietario consideró insuficiente el caudal inicial y ha pedido una **Jebao DC-650 a EliteReef Kanarias** para regular el flujo y utilizarla habitualmente a potencia media. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19-limpieza-y-medicion-caudal-retorno.md) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
+El propietario consideró insuficiente el caudal inicial y ha pedido una **Jebao DC-650 a EliteReef Kanarias** para regular el flujo y utilizarla habitualmente a potencia media. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
 
 ### Disposición y ajuste vigente de la Mantis
 
@@ -37,7 +37,7 @@ El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiemb
 
 La salida de la **Sicce Micra** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
-Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 59,86 L bajo la hipótesis de 3 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 59,86 L bajo la hipótesis de 3 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23.md#pesaje-y-medición-del-desplazamiento-del-hardscape).
 
 Con la composición instalada, la trayectoria esperada será:
 
@@ -99,7 +99,7 @@ La Sicce Micra está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-
 
 Estos máximos son guardarraíles iniciales elegidos a partir del histórico de esta bomba en Veril, no especificaciones del fabricante ni umbrales universalmente seguros: se observaron 6,50 W de potencia mediana, 7,27 W de máximo y 0,05–0,06 A en las muestras positivas de corriente. No se ha probado deliberadamente el disparo de la protección. La protección eléctrica tampoco confirma caudal, nivel, cebado o funcionamiento hidráulico.
 
-La configuración fue aplicada y leída de vuelta en Zigbee2MQTT el 29/09/2026; en esa lectura el enchufe aparecía `OFF`, 0 W y 0 A. El registro describe el momento, la telemetría y sus límites: [ajuste de protección del enchufe del retorno](../../04_operaciones/2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md). La correspondencia física de la etiqueta sigue pendiente, según el inventario de `off-act-02`.
+La configuración fue aplicada y leída de vuelta en Zigbee2MQTT el 29/09/2026; en esa lectura el enchufe aparecía `OFF`, 0 W y 0 A. El registro describe el momento, la telemetría y sus límites: [ajuste de protección del enchufe del retorno](../../04_operaciones/2026/09/2026-09-29.md#ajuste-de-la-protección-del-enchufe-del-retorno). La correspondencia física de la etiqueta sigue pendiente, según el inventario de `off-act-02`.
 
 El display tendrá un margen libre suficiente para admitir el movimiento del agua sin salpicaduras ni desbordamientos. La evaporación se compensará en la cámara de retorno mediante el ATO.
 

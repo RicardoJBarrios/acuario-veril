@@ -41,7 +41,7 @@ Como mínimo se habilitarán:
 - Disponibilidad Zigbee
 - Comportamiento tras recuperar la alimentación
 
-El consumo se caracterizó con el histórico disponible de la bomba conectada: la potencia observada tuvo una mediana de 6,50 W y un máximo de 7,27 W; las muestras positivas de corriente estuvieron entre 0,05 y 0,06 A. Como guardarraíles iniciales locales, el 29/09/2026 se activaron en `off-act-02` los máximos de 20 W y 0,3 A. No son valores nominales del fabricante ni una protección hidráulica, y su disparo no se ha probado deliberadamente. La [configuración hidráulica vigente de Veril](../../../02_configuracion/01_dimensiones/03_hidraulica.md#alimentación-y-protección-eléctrica-del-retorno) y la [operación fechada](../../../04_operaciones/2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md) mantienen la configuración y su evidencia local.
+El consumo se caracterizó con el histórico disponible de la bomba conectada: la potencia observada tuvo una mediana de 6,50 W y un máximo de 7,27 W; las muestras positivas de corriente estuvieron entre 0,05 y 0,06 A. Como guardarraíles iniciales locales, el 29/09/2026 se activaron en `off-act-02` los máximos de 20 W y 0,3 A. No son valores nominales del fabricante ni una protección hidráulica, y su disparo no se ha probado deliberadamente. La [configuración hidráulica vigente de Veril](../../../02_configuracion/01_dimensiones/03_hidraulica.md#alimentación-y-protección-eléctrica-del-retorno) y la [operación fechada](../../../04_operaciones/2026/09/2026-09-29.md#ajuste-de-la-protección-del-enchufe-del-retorno) mantienen la configuración y su evidencia local.
 
 ## Funcionamiento normal y alarmas
 

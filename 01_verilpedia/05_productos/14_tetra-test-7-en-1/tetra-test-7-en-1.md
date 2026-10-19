@@ -54,4 +54,4 @@ Se utilizará para la caracterización inicial del agua y como referencia auxili
 
 - Instrucciones y escala del envase adquirido
 - [Tetra: Test 7in1](https://www.tetra.net/es-es/productos/tetra-test-7in1) y [manual oficial TH54269_9074](https://www.tetra.net/fileadmin/pictures/TH54269_9074.pdf) — procedimiento, unidades y referencias del fabricante; la categoría cromática se lee en la escala del envase.
-- [Operación de primer llenado](../../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md)
+- [Operación de primer llenado](../../../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado)

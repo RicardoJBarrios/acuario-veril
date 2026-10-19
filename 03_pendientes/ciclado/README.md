@@ -39,4 +39,4 @@ Ninguna lectura aislada, fecha o apariencia visual sustituye la separación entr
 
 ## Estado de la fase inicial
 
-La incorporación de AF Bio Sand y el inicio de la inoculación se realizaron el 12 de octubre de 2026. Las cantidades, lecturas y desviación del orden previsto están registradas en la [operación del 12 de octubre](../../04_operaciones/2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md). El seguimiento continúa conforme al runbook.
+La incorporación de AF Bio Sand y el inicio de la inoculación se realizaron el 12 de octubre de 2026. Las cantidades, lecturas y desviación del orden previsto están registradas en la [operación del 12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand). El seguimiento continúa conforme al runbook.

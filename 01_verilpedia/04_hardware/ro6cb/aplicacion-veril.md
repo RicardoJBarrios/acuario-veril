@@ -2,7 +2,7 @@
 
 ## Estado documental
 
-El usuario ha comunicado que adquirió la variante RO6CB con bomba de refuerzo para el sistema RO/DI de Veril y que el paquete llegó el 24 de septiembre de 2026. La etiqueta exterior fotografiada declara el modelo RO6CB; todavía no se ha comprobado que la unidad y sus componentes correspondan a ella ni se ha inventariado el paquete. La recepción comunicada consta en el [registro de operación](../../../04_operaciones/2026/09/2026-09-24-recepcion-equipo-ro6cb/README.md).
+El usuario ha comunicado que adquirió la variante RO6CB con bomba de refuerzo para el sistema RO/DI de Veril y que el paquete llegó el 24 de septiembre de 2026. La etiqueta exterior fotografiada declara el modelo RO6CB; todavía no se ha comprobado que la unidad y sus componentes correspondan a ella ni se ha inventariado el paquete. La recepción comunicada consta en el [registro de operación](../../../04_operaciones/2026/09/2026-09-24.md#recepción-del-equipo-ro6cb).
 
 Los componentes comunicados del sistema DI y sus accesorios se documentan por separado en la [ficha del sistema DI](../di-ro/sistema-di.md). La resina, el montaje final y la aceptación mediante mediciones siguen pendientes. Esta ficha no afirma que el conjunto RO/DI esté completo ni operativo.
 

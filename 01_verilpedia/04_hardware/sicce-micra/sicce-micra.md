@@ -30,7 +30,7 @@ La regulación es local. Un enchufe externo puede conmutar alimentación, pero n
 
 - [Manual oficial conservado](sicce-micra-instruction.pdf)
 - [Configuración hidráulica de Veril](../../../02_configuracion/01_dimensiones/03_hidraulica.md): identidad de la bomba instalada y medición manual del retorno
-- [Incidencia y limpieza del 19/10/2026](../../../04_operaciones/2026/10/2026-10-19-limpieza-y-medicion-caudal-retorno.md): evidencia de la unidad, separada de las prestaciones nominales
+- [Incidencia y limpieza del 19/10/2026](../../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno): evidencia de la unidad, separada de las prestaciones nominales
 - [Micra Plus 600](../sicce-micra-plus-600/sicce-micra-plus-600.md): modelo distinto
 
 ## Fuentes y estado

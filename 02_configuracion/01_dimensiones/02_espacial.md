@@ -8,7 +8,7 @@ La composición combinará estructura rocosa, espacio negativo y sustrato libre 
 
 ## Estado de la decisión
 
-**Adoptado:** La aplicación espacial de Veril utiliza la composición instalada en la [operación del 5 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/README.md), con masa principal posterior derecha, terraza, paso central, islas, futura playa y espacio negativo funcional.
+**Adoptado:** La aplicación espacial de Veril utiliza la composición instalada en la [operación del 5 de septiembre de 2026](../../04_operaciones/2026/09/2026-09-05.md#montaje-y-primer-llenado), con masa principal posterior derecha, terraza, paso central, islas, futura playa y espacio negativo funcional.
 
 **Adoptado:** Cama regular de AF Bio Sand con una profundidad objetivo aproximada de 3 cm, sin utilizar la arena como apoyo estructural.
 
@@ -30,7 +30,7 @@ La composición no deberá convertirse en una montaña compacta ni en un conjunt
 
 ### Registro visual de la composición instalada
 
-Las fotografías de la [operación de montaje](../../04_operaciones/2026/09/2026-09-05-montaje-y-primer-llenado/hardscape.md) muestran la estructura colocada dentro de la urna y con agua. Se interpretan como registro visual del estado instalado, no como una medición fotogramétrica ni como una prueba completa de estabilidad o circulación.
+Las fotografías de la [operación de montaje](../../04_operaciones/2026/09/2026-09-05.md#registro-detallado-del-hardscape-instalado) muestran la estructura colocada dentro de la urna y con agua. Se interpretan como registro visual del estado instalado, no como una medición fotogramétrica ni como una prueba completa de estabilidad o circulación.
 
 En el estado documentado se distinguen:
 
@@ -132,7 +132,7 @@ Altura de agua = 390 − 30 − 20 = 340 mm
 Volumen bruto de agua del display = 594 × 308 × 340 / 1.000.000 = 62,20 L
 ```
 
-El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026**, al retirar la roca, bajó 12 mm el nivel del display y el propietario confirmó después el mismo descenso en Entrada; Skimmer no bajó. Con áreas interiores de 594 × 308 mm y 139 × 86 mm, el desplazamiento inferido es **2,339 L**. El cálculo excluye la cámara Skimmer, que no cambió de nivel, y omite el orificio circular Display–Entrada por no tener una medida volumétrica exacta. El resultado sustituye la estimación anterior de 4–5 L basada en el peso. Sigue condicionado a que durante la comparación no hubiera reposición ni transferencia neta de agua con Retorno. Véase el [registro de la operación](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md).
+El peso de la roca no permite deducir por sí solo el volumen exterior desplazado. En la operación del **23 de septiembre de 2026**, al retirar la roca, bajó 12 mm el nivel del display y el propietario confirmó después el mismo descenso en Entrada; Skimmer no bajó. Con áreas interiores de 594 × 308 mm y 139 × 86 mm, el desplazamiento inferido es **2,339 L**. El cálculo excluye la cámara Skimmer, que no cambió de nivel, y omite el orificio circular Display–Entrada por no tener una medida volumétrica exacta. El resultado sustituye la estimación anterior de 4–5 L basada en el peso. Sigue condicionado a que durante la comparación no hubiera reposición ni transferencia neta de agua con Retorno. Véase el [registro de la operación](../../04_operaciones/2026/09/2026-09-23.md#pesaje-y-medición-del-desplazamiento-del-hardscape).
 
 Con el desplazamiento medido como aproximación, resulta:
 
@@ -140,7 +140,7 @@ Con el desplazamiento medido como aproximación, resulta:
 Volumen calculado del display = 62,20 − 2,339 = aproximadamente 59,86 L
 ```
 
-El valor detallado de 59,86 L es una estimación geométrica para un escenario de diseño con 30 mm de arena y 20 mm de margen superior, no una medición de litros incorporados. La convención simplificada de Veril redondea el display con arena a **60 L** y el sistema completo, incluidas las cámaras técnicas, a **75 L**. El cálculo del sistema consta en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23-pesaje-y-desplazamiento-del-hardscape.md); sus límites —incluido el nivel objetivo de Retorno aún no comprobado con ATO y el desplazamiento pendiente de tubo y otros elementos— se conservan como contexto, sin alterar los valores nominales adoptados. No deben confundirse con los **96 L geométricos brutos** ni con el volumen realmente introducido durante el llenado, que no se midió.
+El valor detallado de 59,86 L es una estimación geométrica para un escenario de diseño con 30 mm de arena y 20 mm de margen superior, no una medición de litros incorporados. La convención simplificada de Veril redondea el display con arena a **60 L** y el sistema completo, incluidas las cámaras técnicas, a **75 L**. El cálculo del sistema consta en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23.md#pesaje-y-medición-del-desplazamiento-del-hardscape); sus límites —incluido el nivel objetivo de Retorno aún no comprobado con ATO y el desplazamiento pendiente de tubo y otros elementos— se conservan como contexto, sin alterar los valores nominales adoptados. No deben confundirse con los **96 L geométricos brutos** ni con el volumen realmente introducido durante el llenado, que no se midió.
 
 **Convención nominal vigente:** a todos los efectos prácticos y para simplificar los cálculos de Veril, se hablará de **75 L para el sistema completo** y **60 L para el display**. Se usarán como valores por defecto en referencias, comparaciones y dosificaciones, hasta que el propietario indique expresamente otra base. Son volúmenes aproximados adoptados, no una medición exacta. Los cálculos detallados y sus incertidumbres quedan como respaldo y no sustituyen esta convención. El volumen del display no debe confundirse con el volumen total del sistema.
 
@@ -168,7 +168,7 @@ Estas medidas de referencia sitúan el punto más alto ligeramente por debajo de
 
 ## Sustrato integrado en la composición
 
-El sustrato instalado es **Aquaforest AF Bio Sand**, con aproximadamente **8 kg** incorporados el 12 de octubre y granulometría de referencia de **1–2 mm**. La cantidad no se pesó. La ejecución y la profundidad observada aproximada se registran en la [operación de incorporación](../../04_operaciones/2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md).
+El sustrato instalado es **Aquaforest AF Bio Sand**, con aproximadamente **8 kg** incorporados el 12 de octubre y granulometría de referencia de **1–2 mm**. La cantidad no se pesó. La ejecución y la profundidad observada aproximada se registran en la [operación de incorporación](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand).
 
 **Profundidad adoptada:** aproximadamente **3 cm** como cama regular. Aquaforest recomienda esa profundidad en su [guía general de acuariofilia marina](https://aquaforest.eu/wp-content/uploads/2024/09/AF_Products-Guide_EN_WEB_241120.pdf). Bulk Reef Supply recomienda **1–2 pulgadas** para la mayoría de los arrecifes, intervalo que incluye 3 cm, y advierte que algunas especies requieren más; véase su [guía de profundidad de cama](https://www.bulkreefsupply.com/reef-calculator/aquarium-sand-bed-calculator). La decisión combina esas referencias con la preferencia del propietario y la intención de ofrecer sustrato para fauna que se entierra. Las fuentes no convierten 3 cm en requisito universal para todas las especies.
 

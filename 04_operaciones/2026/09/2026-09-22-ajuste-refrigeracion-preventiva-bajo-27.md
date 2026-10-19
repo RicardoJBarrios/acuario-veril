@@ -36,4 +36,4 @@ consecuencia de la modificación: el dato de agua disponible tenía más de
 
 ## Referencia
 
-- [Automatización preventiva del 17 de septiembre](2026-09-17-automatizacion-refrigeracion-preventiva.md).
+- [Automatización preventiva del 17 de septiembre](2026-09-17.md#automatización-de-la-refrigeración-preventiva-del-despacho).

@@ -1,6 +1,6 @@
 # Runbook de ciclado sin peces de Veril
 
-> **Actualización del 11 de octubre de 2026:** El propietario comunica que las **40 Mantis Bio-Filter Spheres** (aproximadamente **1 kg**) están temporalmente en C1, contenidas en las bolsas D-D hasta que los soportes estén operativos. Incluirlas como medio biológico de la configuración ensayada. Comprobar inmersión y circulación sin bloquear el paso; la colonización y el flujo efectivo a través de las bolsas no se han verificado. Véase la [situación comunicada](../../04_operaciones/2026/10/2026-10-11-activacion-af-bio-sand.md#estado-comunicado-del-medio-biológico-adicional).
+> **Actualización del 11 de octubre de 2026:** El propietario comunica que las **40 Mantis Bio-Filter Spheres** (aproximadamente **1 kg**) están temporalmente en C1, contenidas en las bolsas D-D hasta que los soportes estén operativos. Incluirlas como medio biológico de la configuración ensayada. Comprobar inmersión y circulación sin bloquear el paso; la colonización y el flujo efectivo a través de las bolsas no se han verificado. Véase la [situación comunicada](../../04_operaciones/2026/10/2026-10-11.md#estado-comunicado-del-medio-biológico-adicional).
 
 ## Propósito
 
@@ -93,7 +93,7 @@ Esta fase no cuenta como inicio del ciclado y no se dosificará amonio ni bacter
 1. Comprobar la temperatura frente al régimen de Veril: preferida **25–26 °C** y objetivo operativo normal **24,5–26,5 °C**. Interpretar cualquier valor inferior con las bandas frías y sin perseguir exactamente 25,0 °C
 2. Reponer la evaporación exclusivamente con agua RO/DI, sin añadir sal ni agua de mar, hasta aproximar la salinidad a `S_P = 35`, sin superar el nivel de trabajo del sistema
 3. Repetir las lecturas de salinidad con el refractómetro según el método del plan
-4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier reposición. El piloto térmico de Home Assistant está activo; no modificarlo como parte de este paso. Consultar el [régimen térmico vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27-puesta-en-servicio-control-termico.md)
+4. Mantener una línea base de 24–48 horas y registrar temperatura, salinidad, nivel y cualquier reposición. El piloto térmico de Home Assistant está activo; no modificarlo como parte de este paso. Consultar el [régimen térmico vigente](../../02_configuracion/README.md#régimen-térmico-adoptado) y el [registro de puesta en servicio del 27 de septiembre](../../04_operaciones/2026/09/2026-09-27.md#puesta-en-servicio-del-control-térmico-inicial)
 5. Continuar únicamente cuando ambas variables permanezcan estables y dentro de objetivo
 
 Esta fase no activa el AF Bio Sand ni inicia el ciclado. Si no se alcanza la salinidad objetivo mediante reposición de evaporación sin superar el nivel de trabajo, se pausará y se definirá una corrección de agua registrada antes de continuar.

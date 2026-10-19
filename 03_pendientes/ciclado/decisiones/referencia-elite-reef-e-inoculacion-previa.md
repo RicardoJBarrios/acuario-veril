@@ -37,7 +37,7 @@ El [plan de ciclado](../plan.md) reserva FritzZyme 9 para después de añadir AF
 | Dosis y frecuencia | Consultadas al referente por el propietario; respuesta pendiente |
 | Fuente de amonio | No concretada en la comunicación |
 | Medio biológico | Las 40 Mantis Bio-Filter Spheres están comunicadas en C1 dentro de bolsas D-D; la disposición en los soportes diseñados sigue pendiente |
-| Arena | AF Bio Sand activado con 3 L de agua salada desde las 18:00 del 11 de octubre; incorporación al acuario pendiente al completar 24 horas, según el [registro de activación](../../../04_operaciones/2026/10/2026-10-11-activacion-af-bio-sand.md) |
+| Arena | AF Bio Sand activado con 3 L de agua salada desde las 18:00 del 11 de octubre; incorporación al acuario pendiente al completar 24 horas, según el [registro de activación](../../../04_operaciones/2026/10/2026-10-11.md#activación-del-af-bio-sand) |
 | Ejecución | El 11 de octubre el propietario comunica las 40 Mantis en bolsas D-D en C1; no se ha comunicado aquí una dosis de FritzZyme 9 ni de Fishless Fuel |
 
 Hasta concretar la variante, las dosis y pruebas anteriores siguen siendo la descripción de la receta completa previa, no la traducción automática del nuevo consejo. No se mezclan pequeñas adiciones, una dosis inicial completa posterior y nuevas cargas de amonio sin registrar su relación.
