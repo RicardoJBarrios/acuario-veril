@@ -61,6 +61,13 @@ salvo petición expresa del propietario. Las decisiones corresponden al
 propietario. Esta instrucción prevalece sobre las indicaciones de las skills
 que pidan añadir interpretaciones o dejar constancia de telemetría ausente.
 
+## Investigaciones y trabajo local
+
+Las investigaciones de fuentes y sus procesos intermedios pertenecen al espacio
+privado externo `../acuario-veril-local/`, por decisión del propietario del
+19 de octubre de 2026. Aplica la regla «Investigación privada y procesos
+intermedios» de `veril-documentacion` antes de recuperar o generar ese material.
+
 ## Privacidad de proyectos 3D
 
 Por instrucción del propietario del 16 de octubre de 2026, y hasta nuevo aviso,
