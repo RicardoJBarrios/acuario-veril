@@ -1,10 +1,8 @@
-# 17 de septiembre de 2026: automatización de la refrigeración preventiva del despacho
+# 17 de septiembre de 2026 — Automatización de la refrigeración preventiva del despacho
 
-## Alcance y evidencia
-
-El 17 de septiembre de 2026 se añadió la automatización `automation.veril_iniciar_refrigeracion_preventiva_del_despacho` para usar el aire acondicionado del despacho como medida de refrigeración ambiental de Veril. Esta entrada registra la configuración declarada y sus condiciones de seguridad; no acredita todavía cuánto baja la temperatura del agua durante una sesión real.
-
-La integración técnica del climatizador y su configuración viven en la documentación local de Home Assistant, fuera de este repositorio público. Este registro conserva la instantánea de los criterios que se documentaron para la automatización; no sustituye esa configuración ni acredita el estado físico del equipo. El régimen térmico aplicable está en [Régimen térmico adoptado](../../../02_configuracion/README.md#régimen-térmico-adoptado), y las revisiones posteriores constan en los [registros del 22](2026-09-22-ajuste-refrigeracion-preventiva-bajo-27.md), [23](2026-09-23-ajuste-control-termico-agua.md) y [24 de septiembre](2026-09-24-revision-observacion-control-termico.md).
+Se añadió la automatización
+`automation.veril_iniciar_refrigeracion_preventiva_del_despacho` para utilizar
+el aire acondicionado del despacho como refrigeración ambiental de Veril.
 
 ## Configuración aplicada
 
@@ -16,9 +14,9 @@ La automatización ordena una sesión de refrigeración a **24 °C** y ventilado
 
 El apagado automático se aplica incluso si el climatizador se encendió manualmente. Requiere que el agua permanezca por debajo de **27,2 °C durante 45 minutos** y que, al final de ese periodo, al menos dos de los tres sensores ambientales indiquen como máximo **27,0 °C**.
 
-La automatización no actúa con datos necesarios `unknown` o `unavailable`. Si Home Assistant o las automatizaciones se recargan durante el periodo de 45 minutos, el temporizador vuelve a empezar y se mantiene la refrigeración hasta completar de nuevo el periodo: es el comportamiento conservador configurado.
+La automatización no actúa con datos necesarios `unknown` o `unavailable`. Si Home Assistant o las automatizaciones se recargan durante el periodo de 45 minutos, el temporizador vuelve a empezar y se mantiene la refrigeración hasta completar de nuevo el periodo.
 
-## Marcas para la comprobación posterior
+## Marcas configuradas en Home Assistant
 
 Cada inicio automático deja en el Libro de registro de Home Assistant el evento:
 
@@ -28,10 +26,8 @@ Cada apagado automático deja:
 
 `Veril — Refrigeracion apagada por automatizacion: recuperacion termica estable.`
 
-Estas dos marcas se usarán para comparar el momento de cada orden con los históricos de `off-sns-05` y de los tres sensores ambientales. Permiten medir la dirección, el desfase y la magnitud de la respuesta del agua; una orden registrada no equivale por sí sola a una reducción física demostrada.
+## Referencias
 
-## Estado tras el cambio
-
-**Configuración documentada:** La automatización y sus marcadores de inicio y apagado están definidos en Home Assistant.
-
-**Pendiente de comprobar:** Primera sesión automática completa, historial asociado y efecto observable sobre la temperatura del agua. Antes de permitir una orden física, el panel del climatizador y sus *shadows* deben estar sincronizados manualmente; el aparato no aporta realimentación propia de su estado.
+- [Ajuste del 22 de septiembre](2026-09-22-ajuste-refrigeracion-preventiva-bajo-27.md).
+- [Ajuste del 23 de septiembre](2026-09-23-ajuste-control-termico-agua.md).
+- [Revisión del 24 de septiembre](2026-09-24-revision-observacion-control-termico.md).

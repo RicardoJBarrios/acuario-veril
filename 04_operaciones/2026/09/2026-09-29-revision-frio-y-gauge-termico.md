@@ -1,26 +1,29 @@
-# 2026-09-29 — Revisión del extremo frío y actualización del panel térmico
+# 29 de septiembre de 2026 — Revisión del extremo frío y actualización del panel térmico
 
-## Estado
+## Clasificación adoptada
 
-La revisión inicial documentó 24,0 °C como límite inferior y cambió el gauge y las tarjetas de `acuario-veril`. Más tarde se contrastó una propuesta adicional y se afinó la clasificación: 24–24,5 °C fresca pero razonablemente normal; 23–24 °C excursión fría tolerable, investigar si persiste; <23 °C fuera del objetivo operativo; <22 °C prioridad local de revisión. El gauge y las tarjetas de Home Assistant aún requieren reflejar estas bandas. No se instaló calentador ni se modificó la automatización térmica.
+Durante la revisión se adoptaron estas bandas locales:
 
-## Decisión y alcance
+| Temperatura | Clasificación |
+| --- | --- |
+| 24–24,5 °C | Fresca, razonablemente normal |
+| 23–24 °C | Excursión fría tolerable; investigar si persiste |
+| <23 °C | Fuera del objetivo operativo |
+| <22 °C | Prioridad local de revisión |
 
-La clasificación baja se estableció usando tanto guías de TMC como estudios experimentales con corales y peces. Las guías generales discrepan en su alcance: TMC publica 23–26 °C para corales y también aconseja 24–26 °C como óptimo marino y precaución por debajo de 24 °C para peces tropicales. El estudio de *A. millepora* a 23 °C no se generaliza a la comunidad mixta; el estudio de diez peces damisela halló reducciones subletales de rendimiento entre 29 y 23 °C, variables entre especies. La lectura de la evidencia no establece daño agudo a 23 °C ni umbral a 22 °C. Se adopta como gestión local 24–24,5 °C fresca, 23–24 °C excursión a investigar si persiste, <23 °C fuera del objetivo y <22 °C prioridad de revisión. Para calefacción futura, se adopta como principio de diseño mantener el mínimo habitual aproximadamente en 24,5–25 °C, sin fijar todavía umbrales ON/OFF ni modificar el piloto.
+Para el diseño de calefacción futura se adoptó como referencia un mínimo
+habitual aproximado de **24,5–25 °C**.
 
-Una lectura inferior a 23,0 °C queda fuera de la envolvente general y requiere comprobar la frescura de `off-sns-05` y, cuando sea posible, contrastar con un termómetro independiente, además de valorar duración, tendencia y fauna presente. Veril no tiene calentador ni alarma o acción automática de calefacción. No se fijaron niveles de emergencia fría, consigna de calentador, potencia ni histéresis; quedan ligados a la fauna seleccionada, al registro de mínimos estacionales y al equipo real.
+## Cambio realizado en Home Assistant
 
-La ficha de configuración amplía los requisitos previos a instalar calefacción: termostato integrado comprobado, límite independiente frente a sobretemperatura, coordinación con el Rowenta mediante zona muerta, y validación de ubicación/sonda. Estas tareas son requisitos de diseño futuro, no equipos o automatizaciones instalados.
+Se modificó la presentación del dashboard `acuario-veril`:
 
-## Cambio inicial en Home Assistant y rectificación pendiente
+- Se amplió la escala del gauge de `sensor.0xa4c13810b72fffff_temperature` de **22–31 °C** a **20–31 °C**.
+- Se actualizó la tarjeta «Rango térmico objetivo» con bandas de frío y calor, diferenciando 24,0–24,5 °C de valores inferiores a 24,0 °C.
+- Se añadió la tarjeta «Frío y calefacción».
 
-En la actuación inicial del 29 de septiembre, el dashboard de almacenamiento `acuario-veril` se modificó únicamente en su presentación:
-
-- Gauge de `sensor.0xa4c13810b72fffff_temperature`: escala visual ampliada de **22–31 °C** a **20–31 °C**. Los segmentos muestran frío bajo el límite aceptable, banda baja de vigilancia, zona óptima y bandas cálidas ya adoptadas. Los extremos de la escala son visuales, no nuevos umbrales biológicos.
-- Tarjeta **«Rango térmico objetivo»**: ahora incluye bandas de frío y calor y diferencia 24,0–24,5 °C de valores inferiores a 24,0 °C.
-- Nueva tarjeta **«Frío y calefacción»**: indica que no hay calentador ni alarma/control de calefacción y muestra las comprobaciones necesarias ante una lectura inferior al límite.
-
-En esa actuación inicial, la configuración completa se guardó y leyó de vuelta; se confirmaron el gauge con `min: 20`, `max: 31` y las dos tarjetas. En esta sesión no fue posible actualizar el dashboard: no hay herramienta MCP de Home Assistant expuesta ni están configuradas `HOME_ASSISTANT_URL` y `HOME_ASSISTANT_TOKEN` para la API local. Por tanto, el contenido del gauge y las tarjetas puede seguir mostrando límites anteriores; queda pendiente sincronizarlo con las bandas 24/23/22 °C. No se cambió ninguna automatización ni estado de actuador.
+La configuración se guardó y leyó de vuelta: el gauge mostró `min: 20` y
+`max: 31`, y se confirmaron ambas tarjetas.
 
 ## Telemetría asociada de Home Assistant
 
@@ -29,9 +32,7 @@ En esa actuación inicial, la configuración completa se guardó y leyó de vuel
 | Temperatura del agua | `sensor.0xa4c13810b72fffff_temperature` (`off-sns-05`) | 26,6 °C | Estado actualizado 19:14:18 UTC; consultado a las 19:30 UTC | Lectura retenida del sensor, no una nueva medición a las 19:30 |
 | Antigüedad del último mensaje Zigbee | `sensor.veril_water_sensor_age` | 5,7 min | 19:30 UTC | Confirma comunicación reciente, no que el valor numérico de temperatura se actualizara en ese momento |
 | Automatización térmica | `automation.veril_iniciar_refrigeracion_preventiva_del_despacho` | `on` | 19:30 UTC | La automatización de refrigeración continúa habilitada; no se modificó |
-| Estado del controlador | `input_select.veril_thermal_controller_state` | `normal` | Última actualización 16:54 UTC | Estado digital retenido; no representa una acción física nueva |
-
-La lectura del agua estaba dentro del intervalo aceptable en la consulta, por lo que no se observó un episodio frío. HA no ofrece aquí una confirmación independiente de temperatura ni prueba física del funcionamiento del Rowenta.
+| Estado del controlador | `input_select.veril_thermal_controller_state` | `normal` | Última actualización 16:54 UTC | Estado digital retenido |
 
 ## Referencias
 

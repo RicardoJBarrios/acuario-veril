@@ -1,0 +1,64 @@
+# 19 de octubre de 2026 — Limpieza y medición del caudal de retorno
+
+## Observación comunicada
+
+El propietario observó muy poco flujo en la bomba de retorno. Recogió agua en
+la salida del **pico de pato**: obtuvo **500 ml en 15 segundos**, equivalentes
+a **120 L/h**. Consideró ese caudal demasiado bajo para el retorno de Veril.
+
+## Actuación ejecutada
+
+Retiró la bomba y encontró su filtro bastante obstruido por suciedad. Lavó el filtro, volvió a colocar la bomba y repitió la recogida en la salida. Tras la limpieza obtuvo **850 ml en 10 segundos**, equivalentes a **306 L/h**.
+
+Durante la intervención identificó que la bomba instalada es una **Sicce Micra**, y no una Sicce Micra Plus como figuraba en la documentación anterior. Esta corrección procede de la identificación física comunicada por el propietario.
+
+## Mediciones y cálculo
+
+El caudal se calcula como `volumen recogido (L) / tiempo (s) × 3.600`.
+
+| Condición | Agua recogida | Tiempo | Caudal calculado | Relación sobre 60 L de display |
+| --- | ---: | ---: | ---: | ---: |
+| Antes de limpiar | 500 ml | 15 s | 120 L/h | 2 veces/h |
+| Después de limpiar y reinstalar | 850 ml | 10 s | 306 L/h | 5,1 veces/h |
+
+La relación de la última columna utiliza los **60 L nominales del display**.
+Sobre los **75 L nominales del sistema**, las mediciones equivalen a **1,6 y
+4,08 veces/h**. El caudal calculado aumentó **186 L/h**, hasta **2,55 veces** el
+valor inicial (**155 % de incremento**).
+
+## Pedido comunicado
+
+El propietario pidió a **EliteReef Kanarias** una **Jebao DC-650**. Indicó que
+quiere disponer de regulación del flujo y utilizarla a una potencia media la
+mayor parte del tiempo.
+
+## Telemetría asociada de Home Assistant
+
+Consulta por API autenticada el **19/10/2026 a las 02:42:42 WEST**
+(01:42:42 UTC). Los registros de entidades y dispositivos identificaron el
+enchufe SONOFF `off-act-02`, integrado por MQTT y asociado al retorno en el
+inventario. Su nombre visible conservaba la denominación «Sicce Micra Plus 600».
+
+| Variable | Entidad | Valor observado | Última actualización o cambio del valor (19/10/2026, WEST) | Alcance |
+| --- | --- | --- | --- | --- |
+| Alimentación del retorno | `switch.0xa4c1380b0c1effff` | `on` | 01:16:37 | Estado digital del enchufe |
+| Potencia | `sensor.0xa4c1380b0c1effff_power` | 7,45 W | 02:42:33 | Lectura eléctrica reciente |
+| Corriente | `sensor.0xa4c1380b0c1effff_current` | 0,05 A | 02:41:41 | Lectura eléctrica reciente |
+
+El histórico consultado entre las **00:00 y las 02:43 WEST** del 19/10/2026
+recogió estas transiciones:
+
+| Hora local WEST | Estado registrado |
+| --- | --- |
+| 00:58:08 | `off` |
+| 01:02:44 | `on` |
+| 01:04:03 | `off` |
+| 01:16:37 | `on` |
+
+En ese intervalo, el histórico de potencia contenía valores de **0 a 7,83 W**.
+Los caudales de **120 y 306 L/h** proceden de las recogidas manuales comunicadas
+por el propietario.
+
+## Referencia
+
+- [Sustitución prevista por la Jebao DC-650](../../../03_pendientes/sustitucion-bomba-retorno-jebao-dc-650.md)

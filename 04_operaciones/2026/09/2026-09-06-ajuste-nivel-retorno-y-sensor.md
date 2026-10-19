@@ -1,42 +1,17 @@
-# 2026-09-06 — Ajuste de nivel, retorno y sensor
+# 6 de septiembre de 2026 — Ajuste de nivel, retorno y sensor
 
-## Estado
-
-Operación ejecutada con resultado estable durante la observación registrada
-
-## Objetivo
-
-Corregir el nivel insuficiente detectado en el primer llenado, restablecer el retorno y comenzar la observación térmica de la cámara Skimmer.
+> **Corrección posterior (19/10/2026):** la bomba de retorno se identificó físicamente como **Sicce Micra**, no Micra Plus. Se conserva la denominación anterior como parte del registro histórico. Véase la [incidencia y corrección de identidad](../10/2026-10-19-limpieza-y-medicion-caudal-retorno.md).
 
 ## Ejecución
 
-- Se añadieron aproximadamente 7 L de agua de mar
-- Se activó de nuevo la Sicce Micra Plus 600
-- Se colocó el sensor `off-nsn-05` en la cámara Skimmer
-- Se mantuvieron fuera del sistema dos bidones de 15 L: uno lleno y otro con una pequeña cantidad
+- Se añadieron aproximadamente **7 L de agua de mar**.
+- Se activó de nuevo la bomba de retorno, identificada entonces como Sicce Micra Plus 600.
+- Se colocó el sensor en la cámara Skimmer.
+- Se mantuvieron fuera del sistema dos bidones de 15 L: uno lleno y otro con una pequeña cantidad.
 
-## Resultado
+## Resultado observado
 
-- Se añadió una cantidad estimada en aproximadamente 7 L durante esta operación; el volumen acumulado del sistema no puede calcularse porque la cantidad introducida el día anterior no se midió y seguramente fue inferior a la capacidad nominal de los recipientes
-- El display quedó aproximadamente 35 mm por debajo del borde superior
-- La cámara Skimmer quedó al nivel de su rebosadero
-- La cámara Retorno quedó aproximadamente 170 mm por debajo de su parte superior
-- Desde el mediodía, la bomba permaneció completamente sumergida y funcionó sin vórtice, aspiración de aire ni microburbujas anómalas durante la observación registrada
-- El sensor quedó colocado para comparar la temperatura de la cámara técnica con el agua y el ambiente del despacho
-
-Este resultado resuelve la incidencia inmediata del 5 de septiembre, pero no demuestra todavía el volumen operativo definitivo, el comportamiento tras una parada, la distribución completa del flujo ni la estabilidad a largo plazo.
-
-## Condiciones y límites
-
-- El ciclado biológico no había comenzado
-- No se habían añadido arena, FritzZyme 9 ni Fishless Fuel
-- La instalación de RO/DI seguía pendiente
-- El agua de mar restante no debía utilizarse para compensar evaporación, porque aumentaría progresivamente la salinidad
-- La evaluación térmica requería una serie real de Home Assistant y no podía inferirse de la colocación del sensor
-
-## Pendientes derivados
-
-- [ ] Obtener y analizar una serie térmica comparable de exterior, despacho, display y cámara Skimmer
-- [ ] Disponer de agua RO/DI antes de necesitar reposición por evaporación
-- [ ] Medir el volumen operativo definitivo
-- [ ] Completar la fase previa y aplicar las puertas de decisión del [plan de ciclado](../../../03_pendientes/ciclado/plan.md)
+- El display quedó aproximadamente **35 mm por debajo del borde superior**.
+- La cámara Skimmer quedó al nivel de su rebosadero.
+- La cámara Retorno quedó aproximadamente **170 mm por debajo de su parte superior**.
+- Desde el mediodía, la bomba permaneció completamente sumergida y funcionó sin vórtice, aspiración de aire ni microburbujas anómalas durante la observación registrada.

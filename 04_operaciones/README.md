@@ -1,6 +1,6 @@
 # Operaciones de Veril
 
-Este directorio es el diario verificable del acuario. Cada entrada registra algo que ocurrió, con su fecha, alcance, resultado, incidencias, evidencia disponible y pendientes derivados.
+Este directorio es el diario de actuaciones y observaciones de Veril. Las entradas conservan los hechos comunicados por el propietario y las lecturas obtenidas, con su fecha y procedencia.
 
 ## Diferencia respecto a las actuaciones pendientes
 
@@ -17,6 +17,7 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 
 - [4 de septiembre: Inventario, plantilla y pruebas de composición del hardscape](2026/09/2026-09-04-inventario-y-pruebas-hardscape.md)
 - [5 de septiembre: Montaje, fijación del hardscape y primer llenado](2026/09/2026-09-05-montaje-y-primer-llenado/README.md)
+- [5 de septiembre: Detalle fotográfico del hardscape instalado](2026/09/2026-09-05-montaje-y-primer-llenado/hardscape.md)
 - [6 de septiembre: Ajuste de nivel, restablecimiento del retorno y colocación del sensor](2026/09/2026-09-06-ajuste-nivel-retorno-y-sensor.md)
 - [13 de septiembre: Comprobación de salinidad con refractómetro](2026/09/2026-09-13-comprobacion-salinidad-refractometro.md)
 - [13 de septiembre: Reposición manual y observación del nivel](2026/09/2026-09-13-reposicion-manual-y-observacion-nivel.md)
@@ -33,18 +34,21 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [26 de septiembre: Reposición manual y lectura de salinidad](2026/09/2026-09-26-reposicion-manual-y-lectura-de-salinidad.md)
 - [27 de septiembre: Prueba del DanoPlus, PAR ambiental y nivel de C3](2026/09/2026-09-27-prueba-danoplus-nivel-c3-y-par.md)
 - [27 de septiembre: Puesta en servicio del control térmico inicial y mediciones disponibles](2026/09/2026-09-27-puesta-en-servicio-control-termico.md)
-- [28 de septiembre: Vaciado del remanente del barril y nivel de C3](2026/09/2026-09-28-vaciado-remanente-barril-y-nivel-c3.md)
+- [28 de septiembre: Vaciado del remanente del barril y lectura de nivel](2026/09/2026-09-28-vaciado-remanente-barril-y-nivel-c3.md)
 - [29 de septiembre: Ajuste de la protección del enchufe del retorno](2026/09/2026-09-29-ajuste-proteccion-enchufe-retorno.md)
 - [29 de septiembre: Revisión del extremo frío y actualización del panel térmico](2026/09/2026-09-29-revision-frio-y-gauge-termico.md)
 
 ### Octubre de 2026
 
+- [1 de octubre: Reposición con agua desmineralizada y observación del nivel](2026/10/2026-10-01-reposicion-agua-demineralizada-y-nivel.md)
 - [3 de octubre: Sustitución de agua y lectura manual de salinidad](2026/10/2026-10-03-cambio-agua-desionizada-y-lectura-salinidad.md)
 - [9 de octubre: Compra en EliteReef y medidas de las biobolas Mantis](2026/10/2026-10-09-compra-elitereef.md)
 - [10 de octubre: Compra de material para el acuario](2026/10/2026-10-10-compra-material-acuario.md)
 - [11 de octubre: Activación del AF Bio Sand](2026/10/2026-10-11-activacion-af-bio-sand.md)
 - [11 de octubre: Rotura de la tapa al retirar soportes](2026/10/2026-10-11-rotura-tapa-soporte-biobolas.md)
 - [12 de octubre: Incorporación de AF Bio Sand](2026/10/2026-10-12-incorporacion-arena-af-bio-sand.md)
+- [12 de octubre: Revisión fotográfica del soporte de biobolas v1](2026/10/2026-10-12-revision-fotografica-soporte-biobolas.md)
+- [13 de octubre: Confirmación de la probeta Cradle](2026/10/2026-10-13-confirmacion-probeta-cradle.md)
 - [13 de octubre: Medición diaria del ciclado](2026/10/2026-10-13-medicion-diaria-ciclado.md)
 - [14 de octubre: Medición diaria del ciclado](2026/10/2026-10-14-medicion-diaria-ciclado.md)
 - [15 de octubre: Medición diaria del ciclado](2026/10/2026-10-15-medicion-diaria-ciclado.md)
@@ -52,6 +56,5 @@ Este directorio es el diario verificable del acuario. Cada entrada registra algo
 - [16 de octubre: Medición diaria del ciclado](2026/10/2026-10-16-medicion-diaria-ciclado.md)
 - [17 de octubre: Medición diaria del ciclado](2026/10/2026-10-17-medicion-diaria-ciclado.md)
 - [17 de octubre: Colocación de la luminaria](2026/10/2026-10-17-instalacion-luminaria-ai-prime.md)
-
-> [!NOTE]
-> La cronología empieza en las actuaciones para las que el repositorio conserva una fecha y evidencia suficientes. La ausencia de una entrada anterior no demuestra que no hubiera otras actuaciones.
+- [19 de octubre: Limpieza del filtro, medición del retorno y pedido de la Jebao DC-650](2026/10/2026-10-19-limpieza-y-medicion-caudal-retorno.md)
+- [19 de octubre: Encendido del skimmer para favorecer la oxigenación](2026/10/2026-10-19-encendido-skimmer-oxigenacion.md)

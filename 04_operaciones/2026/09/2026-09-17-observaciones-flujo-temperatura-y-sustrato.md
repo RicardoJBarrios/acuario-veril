@@ -1,12 +1,6 @@
-# 2026-09-17 — Observaciones de flujo, temperatura y sustrato
+# 17 de septiembre de 2026 — Observaciones de flujo, temperatura y sustrato
 
-## Naturaleza del registro
-
-Este registro reúne observaciones comunicadas por el propietario durante la
-preparación de Veril. No incorpora fuentes externas, datos de fabricante,
-interpretaciones de vídeos ni conclusiones sobre la sostenibilidad del régimen.
-Cuando no se conoce la fecha exacta de una observación, se conserva como tal y
-no se infiere.
+Observaciones comunicadas por el propietario durante la preparación de Veril.
 
 ## Estado físico observado
 
@@ -35,7 +29,7 @@ bomba de olas:
 
 También se comunicó que existe un vídeo local en Descargas donde se aprecia el
 efecto conjunto de la bomba de salida y la Tourbon sobre la superficie del
-agua. Este registro no interpreta ese vídeo ni lo usa como fuente externa.
+agua.
 
 ## Prueba dinámica de circulación
 
@@ -49,34 +43,11 @@ superficie. El resultado observado fue:
 - El comportamiento observado coincidió con el comportamiento esperado para
   esa prueba.
 
-La prueba acredita un circuito superficial continuo alrededor de la roca bajo
-esa configuración y durante esa observación. No acredita por sí sola la
-renovación de todos los huecos, el corredor trasero o las zonas inferiores, ni
-la ausencia de depósitos en otras condiciones o tras añadir arena.
-
-## Telemetría asociada
-
-No se consultó telemetría de Home Assistant para esta prueba. La evidencia
-registrada es la observación directa comunicada por el propietario.
-
-**Resultado:** Operación documentada sin telemetría pertinente o disponible.
-
 ## Temperatura del agua
 
 El propietario indicó, tras revisar la evolución registrada por el medidor de
 temperatura de Veril, que el agua se había mantenido entre **26 y 30 °C**
-durante el tiempo observado hasta ese momento. En esta conversación no se
-establecieron aquí el periodo exacto, la entidad del sensor ni la resolución de
-la serie, por lo que no se añaden.
+durante el tiempo observado.
 
 También indicó que el despacho dispone de aire acondicionado y que el periodo
-coincidía con una ola de calor considerada inusual en Santa Cruz de Tenerife.
-Este registro conserva esa comunicación como contexto aportado por el
-propietario; no incorpora comprobaciones meteorológicas externas.
-
-## Límites de la observación
-
-Estas observaciones no determinan todavía si el rango térmico es sostenible,
-si la bomba renueva todas las zonas del acuario ni si la distribución de
-partículas se mantiene al añadir arena. Esas cuestiones quedan abiertas para
-pruebas posteriores del sistema real.
+coincidía con una ola de calor que consideraba inusual en Santa Cruz de Tenerife.

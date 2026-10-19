@@ -1,33 +1,19 @@
-# 2026-09-20 — Medición manual de salinidad y química inicial
+# 20 de septiembre de 2026 — Medición manual de salinidad y química inicial
 
-## Estado
+## Contexto comunicado
 
-Operación documentada con observación manual y telemetría contextual.
+El ciclado todavía no había comenzado. El propietario comunicó que había
+realizado varias reposiciones con agua salada hasta disponer del sistema RO/DI
+e identificó este hecho como explicación de la concentración progresiva de la
+salinidad.
 
-## Contexto
+## Mediciones manuales
 
-El ciclado de Veril todavía no ha comenzado. Hasta disponer del sistema RO/DI,
-se han realizado varias reposiciones con agua salada; el usuario identifica
-este hecho como explicación coherente de la concentración progresiva de la
-salinidad. No se registraron los volúmenes ni las fechas de cada reposición.
+Se realizaron varias lecturas con el refractómetro **D-D The Aquarium Solution
+AQPR001**. La densidad específica observada fue aproximadamente **1,031**. El
+propietario comunicó que las repeticiones eran coherentes entre sí.
 
-## Mediciones manuales observadas
-
-### Salinidad
-
-Se realizaron varias lecturas con el refractómetro D-D The Aquarium Solution
-AQPR001. La densidad específica observada fue aproximadamente **1,031**. El
-resultado se comunicó como coherente entre repeticiones y con las reposiciones
-realizadas con agua salada.
-
-No se registraron la temperatura de la muestra, la verificación del cero, una
-solución patrón ni la escala de lectura. Por ello, esta cifra describe una
-observación repetida, pero no constituye todavía una aceptación metrológica de
-la salinidad ni una equivalencia automática en ppt o salinidad práctica.
-
-### Tetra Test 7 en 1
-
-La tira Tetra 7 en 1 dio las siguientes lecturas comunicadas:
+La tira Tetra Test 7 en 1 dio las siguientes lecturas comunicadas:
 
 | Parámetro | Resultado | Unidad o escala |
 | --- | ---: | --- |
@@ -38,35 +24,13 @@ La tira Tetra 7 en 1 dio las siguientes lecturas comunicadas:
 | pH | 7,6 | escala de pH |
 | Cloro, Cl₂ | 0 | mg/L |
 
-Las tiras se conservan como caracterización orientativa. En agua marina, el GH
-no se utilizará como control operativo y las lecturas de pH y KH requerirán
-confirmación mediante métodos adecuados antes de modificar la química del
-sistema. Esta medición no incluye nitrógeno amoniacal.
-
 ## Telemetría asociada de Home Assistant
 
 | Variable | Entidad | Valor observado | Momento de la lectura | Alcance |
 | --- | --- | ---: | --- | --- |
-| Temperatura del agua | `sensor.0xa4c13810b72fffff_temperature` | 27,8 °C | 2026-09-20 18:35 WEST | Lectura del termómetro con sonda `off-sns-05` situado en la cámara Skimmer; contexto térmico, no validación de los tests manuales. |
+| Temperatura del agua | `sensor.0xa4c13810b72fffff_temperature` | 27,8 °C | 2026-09-20 18:35 WEST | Lectura del termómetro con sonda `off-sns-05` situado en la cámara Skimmer; lectura de Home Assistant. |
 
-## Interpretación limitada
-
-La densidad específica observada es alta respecto de la consigna prevista
-`S_P = 35`, pero no se corregirá con una intervención brusca ni se iniciará el
-ciclado a partir de esta medición. Antes del inicio siguen pendientes el
-montaje y la aceptación del RO/DI, la reposición exclusiva con agua RO/DI y una
-línea base con métodos adecuados para salinidad, pH, alcalinidad, nitrógeno
-amoniacal y nitrito.
-
-## Pendientes derivados
-
-- [ ] Montar y aceptar el sistema RO/DI antes de una corrección controlada de salinidad.
-- [ ] Registrar las futuras reposiciones con fecha, volumen y tipo de agua.
-- [ ] Limpiar el prisma, comprobar el cero y contrastar el refractómetro con una solución patrón marina antes de aceptar la salinidad.
-- [ ] Repetir la línea base de pH y alcalinidad con métodos adecuados antes del ciclado.
-- [ ] Medir nitrógeno amoniacal al iniciar la línea base de ciclado.
-
-## Fuentes internas
+## Referencias
 
 - [Comprobación de salinidad del 13 de septiembre](2026-09-13-comprobacion-salinidad-refractometro.md)
 - [Tetra Test 7 en 1](../../../01_verilpedia/05_productos/14_tetra-test-7-en-1/tetra-test-7-en-1.md)
