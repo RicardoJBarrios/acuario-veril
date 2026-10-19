@@ -6,25 +6,45 @@ Bomba **Jebao DC-650**, denominada también **Jecod DC-650** en la distribución
 
 ## Datos declarados y cobertura documental
 
-El folleto de fabricante «DC Pump», alojado por Watermart, contiene una fila específica DC-650. Solo se ha recuperado su representación indexada; la descarga directa devuelve HTTP 403. Los datos siguientes son una extracción parcial provisional, pendiente de cotejo con el original accesible o el manual suministrado.
+La caja fotografiada identifica el modelo como **JJ-DC650** y lleva la etiqueta **DC650 + Controller 24V**. El manual suministrado se titula «DC Pump Owner’s Manual» e incluye conjuntamente los modelos **DC-500 y DC-650**. La [transcripción del embalaje y del manual](manual-transcripcion.md) conserva su texto, tablas y figuras.
 
-| Parámetro | Valor en la fila DC-650 |
+| Parámetro | DC-650, según la tabla del manual |
 | --- | --- |
-| Tensión de bomba | 24 V CC |
+| Entrada indicada | AC 100–240 V, 50/60 Hz |
+| Salida indicada | DC 24 V, 1 A |
 | Potencia | 8 W |
-| Caudal máximo | 650 L/h |
-| Altura máxima | 1,5 m |
-| Embalaje, largo × ancho × alto | 125 × 120 × 90 mm |
+| Caudal máximo (`Qmax`) | 650 L/h |
+| Altura máxima (`Hmax`) | 1,5 m |
+| Profundidad máxima de operación | 1,5 m |
 
-Las medidas de la tabla son **del embalaje**, no de la bomba. No acreditan encaje en una cámara. Los máximos de altura y caudal son extremos de funcionamiento, no un punto de trabajo simultáneo. El consumo de la alimentación completa y el caudal real deben medirse en la instalación.
+La misma tabla indica para DC-500: entrada AC 100–240 V, 50/60 Hz; salida DC 24 V, 1 A; 5 W; `Qmax` 500 L/h y `Hmax` 1,2 m. La ficha mantiene los dos modelos separados.
 
-## Regulación e información pendiente
+El embalaje anuncia ahorro energético de hasta **65 %**. La sección «Facts» del manual dice «energy saving up to 50% than before». Ambos textos se conservan con su procedencia en la transcripción.
 
-La regulación de flujo es la característica comunicada por el propietario para elegir este modelo. Falta confirmar en documentación primaria específica el número de pasos, mínimo regulable, correspondencia entre ajuste y caudal, conservación del ajuste tras un corte y modo de alimentación. No se adopta una escala porcentual ni una curva de rendimiento por analogía con otras bombas.
+## Regulación y contenido del manual
 
-El enlace «Jecod DC pump manual» de la página del distribuidor Oene van der Meer conduce a un manual de **DC-6000, DC-9000 y DC-12000**. No es un manual válido de DC-650: sus seis ajustes y procedimientos no se trasladan aquí.
+El manual describe una función ajustable en **8 pasos** y el uso de los botones `+` y `−` del controlador para cambiar la velocidad/RPM. También describe un modo `Feed` de **10 minutos**, con reanudación automática y la posibilidad de detenerlo pulsando de nuevo el botón. No proporciona una correspondencia entre cada paso y un caudal medido.
 
-Antes de instalar, quedan por comprobar dimensiones reales, bocas y adaptadores, fuente suministrada y su entrada de red, conectores, modo de montaje permitido, compatibilidad con agua marina, límites térmicos, mantenimiento y protecciones específicas. No se utiliza la tensión nominal de la bomba como tensión de entrada de la fuente. El manual del equipo recibido debe prevalecer sobre esta ficha provisional.
+El texto del manual incluye «Used in Marine Water and Fresh Water» en «Facts» y «Use the pump only in freshwater» en «Caution». Ambas frases se reproducen en la transcripción.
+
+El enlace «Jecod DC pump manual» de la página del distribuidor Oene van der Meer conduce a un manual de **DC-6000, DC-9000 y DC-12000**; no se usa para completar esta ficha de DC-650.
+
+Las medidas de **125 × 120 × 90 mm** que aparecían en una tabla comercial anterior se refieren al embalaje, no al cuerpo de la bomba.
+
+## Dimensiones medidas por el propietario
+
+Medidas comunicadas el **19/10/2026**, recogidas en la [operación del día](../../../04_operaciones/2026/10/2026-10-19.md#medidas-de-la-jebao-dc-650). Son mediciones del propietario, separadas de las especificaciones del fabricante.
+
+| Elemento | Medida |
+| --- | ---: |
+| Ancho | 43 mm |
+| Alto, incluyendo patas y tubo | 58 mm |
+| Fondo | 63,6 mm |
+| Tubo de salida | 13 mm |
+| Tubo de entrada | 16 mm |
+| Alto del cuerpo sin patas ni salida | 43 mm |
+| Diámetro del cilindro | 38 mm |
+| Cuerpo sin la entrada | 51,7 mm |
 
 ## Uso en Veril
 
@@ -32,6 +52,7 @@ La compra, el estado y los objetivos locales pertenecen al [plan de sustitución
 
 ## Fuentes y estado
 
+- Embalaje y manual físico asociados a la unidad identificada como **JJ-DC650**, fotografías facilitadas por el propietario el **19/10/2026**; transcripción y figuras recortadas en [manual-transcripcion.md](manual-transcripcion.md)
 - Jebao, [folleto DC Pump alojado por Watermart](https://watermart.ua/index.php?attachment_id=2063&dispatch=attachments.getfile): tabla de modelos, fila DC-650; recuperación parcial indexada el **19/10/2026**, original no descargado
 
-**Estado:** ficha creada con datos primarios recuperados parcialmente; manual específico y variante suministrada pendientes de comprobación. No se presenta como validación técnica completa.
+**Estado:** identidad, valores de la tabla, regulación descrita y contenido del manual documentados a partir de la caja y del manual fotografiados; dimensiones documentadas a partir de la medición comunicada por el propietario. El rendimiento de la unidad instalada no está documentado aquí.

@@ -43,4 +43,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [15 de octubre: impresión de cuatro columnas de biobolas con X temporal; medición diaria del ciclado](2026/10/2026-10-15.md)
 - [16 de octubre: Medición diaria del ciclado](2026/10/2026-10-16-medicion-diaria-ciclado.md)
 - [17 de octubre: colocación de la luminaria; medición diaria del ciclado](2026/10/2026-10-17.md)
-- [19 de octubre: compra de material; tests de agua (día 8 del ciclado); encendido del skimmer; limpieza y medición del caudal de retorno](2026/10/2026-10-19.md)
+- [19 de octubre: compra de material; medidas de la Jebao DC-650; tests de agua (día 8 del ciclado); encendido del skimmer; limpieza y medición del caudal de retorno](2026/10/2026-10-19.md)
