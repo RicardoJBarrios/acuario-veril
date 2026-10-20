@@ -68,26 +68,21 @@ privado externo `../acuario-veril-local/`, por decisión del propietario del
 19 de octubre de 2026. Aplica la regla «Investigación privada y procesos
 intermedios» de `veril-documentacion` antes de recuperar o generar ese material.
 
-## Privacidad de proyectos 3D
+## Proyectos 3D locales
 
-Por instrucción del propietario del 16 de octubre de 2026, y hasta nuevo aviso,
-todos los proyectos 3D de Veril se crean y mantienen en el repositorio privado,
-salvo excepción explícita suya. El destino de los diseños y su fabricación es
-`privado/disenos-3d/`; la reconstrucción espacial del acuario reside en
-`privado/reconstruccion-espacial/`.
+Por instrucción expresa del propietario del **19 de octubre de 2026**, el desarrollo de
+los diseños 3D de Veril se crea y mantiene en el espacio hermano local
+`../acuario-veril-local/`: diseños y fabricación en `disenos-3d/`, y
+reconstrucción espacial en `reconstruccion-espacial/`.
 
-Esta regla incluye CAD, mallas, escenas, capturas de trabajo, scripts,
-simulaciones, perfiles, proyectos de laminado, G-code e informes propios del
-proyecto. No se crean copias ni nuevas autoridades de esos proyectos en el
-árbol público. Los índices y registros generales pueden enlazar su autoridad
-privada sin duplicar el diseño. No se presume autorización para publicarlos.
+Esta decisión sustituye los destinos anteriores de desarrollo en `privado/`.
+Incluye CAD, mallas, escenas, capturas, scripts,
+perfiles, laminados, G-code e informes. No se crean copias ni enlaces simbólicos
+desde el árbol público al espacio local. No se publican ni se indexan por
+inferencia. El traslado local no elimina versiones del historial Git ni
+autoriza commit o push.
 
-El propietario autoriza expresamente el 16 de octubre de 2026 preparar
-ediciones públicas de los proyectos que vaya indicando, empezando por el
-soporte de biobolas. Estas ediciones residen en `03_pendientes/disenos-3d/`
-y contienen únicamente el FreeCAD editable consolidado, su README y modelos
-3MF neutros para laminar. El desarrollo, los antecedentes, las pruebas y los
-perfiles o laminados específicos de impresora permanecen en privado. Las
-capturas del modelo destinadas al README pueden incluirse cuando el propietario
-las solicite expresamente, como la vista del soporte de biobolas. Esta
-excepción no autoriza incorporar otros proyectos ni hacer commit o push.
+Por aclaración expresa del propietario del **20 de octubre de 2026**, la carpeta
+pública `03_pendientes/disenos-3d/` se conserva tal cual, con sus ediciones
+seleccionadas. Esta excepción no traslada el desarrollo local al árbol público
+ni autoriza añadir nuevos proyectos, hacer commit o push.
