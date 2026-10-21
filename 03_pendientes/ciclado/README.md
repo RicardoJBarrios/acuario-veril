@@ -1,19 +1,27 @@
 # Ciclado de Veril
 
-## Situación al 19 de octubre de 2026
+## Seguimiento y resumen de mediciones
 
 El ciclado está en seguimiento desde el **12 de octubre**. La arena ya está
 incorporada y la primera carga ya se añadió. La siguiente etapa prevista es
 la segunda carga, sujeta a los criterios del plan.
 
-| Referencia del diario | Hecho relevante |
-| --- | --- |
-| [11 de octubre](../../04_operaciones/2026/10/2026-10-11.md#estado-comunicado-del-medio-biológico-adicional) | 40 Mantis Bio-Filter Spheres, aproximadamente 1 kg, en bolsas D-D en C1 |
-| [12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand) | Incorporación de arena, inoculación y primera carga de Fishless Fuel |
-| [17 de octubre](../../04_operaciones/2026/10/2026-10-17.md#medición-diaria-del-ciclado) | Última ronda del diario: amonio Salifert 0 y NO₂ Salifert >4 mg/L |
-| [19 de octubre](../../04_operaciones/2026/10/2026-10-19.md) | Limpieza del retorno y encendido del skimmer |
+La tabla reúne las lecturas desde el inicio. `—` indica que no hay lectura
+registrada.
 
-Las mediciones completas y las intervenciones permanecen en el diario.
+| Fecha y registro | Temperatura | Salinidad | Salifert: amonio total (mg/L) | Salifert: NO₂ (mg/L) | Salifert: NO₃ (mg/L) | Salifert: KH (dKH) / pH | Tetra 7in1: NO₃ / NO₂ (mg/L) | Tetra 7in1: GH / KH (°dH), pH, Cl₂ (mg/L) |
+| --- | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |
+| [12 oct.](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand) | 26,3; 26,4 (18:54) | 35,5 | <0,15; 0,25 (21:48) | 4; 4 (21:59) | — | 7,7 / — | 50 / 5 | 8 / 10 / 7,6 / 0 |
+| [13 oct., 19:42](../../04_operaciones/2026/10/2026-10-13.md#medición-diaria-del-ciclado) | 27 | 35 | <0,15 | 4 | — | 8,9 / — | 50 / 10 | 8 / 10 / 8,0 / 0 |
+| [14 oct.](../../04_operaciones/2026/10/2026-10-14-medicion-diaria-ciclado.md) | 27,1 | 35 | ≈0 | ≥4 | — | — / — | 100 / 10 | 8 / 10 / 7,2 / 0 |
+| [15 oct.](../../04_operaciones/2026/10/2026-10-15.md#medición-diaria-del-ciclado) | 26,9 | — | 0 | ≥4 | — | — / — | 100 / 10 | 8 / 6 / 7,2 / 0 |
+| [16 oct.](../../04_operaciones/2026/10/2026-10-16-medicion-diaria-ciclado.md) | 26,5 | 35 | 0 | ≥4 | — | — / — | 250 / 10 | 8 / 6 / 6,8 / 0 |
+| [17 oct.](../../04_operaciones/2026/10/2026-10-17.md#medición-diaria-del-ciclado) | 27,2 | — | 0 | ≥4 | — | 7 / — | 250 / 10 | 8 / 6 / 6,8 / 0 |
+| [19 oct., día 8](../../04_operaciones/2026/10/2026-10-19.md#tests-de-agua--día-8-del-ciclado) | 26,6 | 35 | 0 | ≥4 | ≥100 | 6,7 / 8,0–8,15 | 250 / 10 | 8 / 6 / 6,8 / 0 |
+| [21 oct., 18:30](../../04_operaciones/2026/10/2026-10-21.md#mediciones-del-ciclado--1830) | 25,9 | 35 | 0 | ≥4 | ≥100 | 6,1 / 8,15 | 200 / 10 | 8 / 6 / 6,8 / 0 |
+
+El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
+segunda carga sigue sujeta a los criterios del [plan](01_plan.md).
 
 ## Qué consultar
 
