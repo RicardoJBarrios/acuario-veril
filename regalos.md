@@ -4,6 +4,7 @@ He agrupado primero lo que todavía me vendría bien y, al final, lo que ya he c
 
 - **[Elite Reef Kanarias](https://www.elitereefkanarias.es/):** Proveedor principal. Viajan fecuentemente a Gran Canaria y hacen envíos.
 - **Menudos Bichos:** tienda en Tenerife y Gran Canaria
+- **Amazon**
 
 ## Regalos prácticos
 

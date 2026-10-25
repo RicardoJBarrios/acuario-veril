@@ -19,6 +19,10 @@ registrada.
 | [17 oct.](../../04_operaciones/2026/10/2026-10-17.md#medición-diaria-del-ciclado) | 27,2 | — | 0 | ≥4 | — | 7 / — | 250 / 10 | 8 / 6 / 6,8 / 0 |
 | [19 oct., día 8](../../04_operaciones/2026/10/2026-10-19.md#tests-de-agua--día-8-del-ciclado) | 26,6 | 35 | 0 | ≥4 | ≥100 | 6,7 / 8,0–8,15 | 250 / 10 | 8 / 6 / 6,8 / 0 |
 | [21 oct., 18:30](../../04_operaciones/2026/10/2026-10-21.md#mediciones-del-ciclado--1830) | 25,9 | 35 | 0 | ≥4 | ≥100 | 6,1 / 8,15 | 200 / 10 | 8 / 6 / 6,8 / 0 |
+| [23 oct.](../../04_operaciones/2026/10/2026-10-23.md#medición-de-no₂) | — | — | — | ≥4 | — | — / — | — | — |
+| [25 oct.](../../04_operaciones/2026/10/2026-10-25.md#repetición-del-test-de-no₂-con-dilución) | — | — | — | ≈40 | — | 6,1 / 8,15 | — | — |
+
+El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura actual con el método correcto es **6,1 dKH**.
 
 El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
 segunda carga sigue sujeta a los criterios del [plan](01_plan.md).
