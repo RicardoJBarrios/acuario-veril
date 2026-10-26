@@ -3,7 +3,6 @@
 He agrupado primero lo que todavía me vendría bien y, al final, lo que ya he comprado para evitar duplicados. Los precios son aproximados. Si no encontráis el modelo exacto o queréis comprar una alternativa, preguntadme antes para comprobar la compatibilidad. Las tiendas aue conozco son:
 
 - **[Elite Reef Kanarias](https://www.elitereefkanarias.es/):** Proveedor principal. Viajan fecuentemente a Gran Canaria y hacen envíos.
-- **Menudos Bichos:** tienda en Tenerife y Gran Canaria
 - **Amazon**
 
 ## Regalos prácticos
