@@ -47,3 +47,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [21 de octubre: mediciones del ciclado a las 18:30 y limpieza del skimmer](2026/10/2026-10-21.md)
 - [23 de octubre: medición de NO₂ con Salifert](2026/10/2026-10-23.md)
 - [25 de octubre: medición de NO₂ con dilución, corrección del método de medición de alcalinidad y lectura de pH](2026/10/2026-10-25.md)
+- [26 de octubre: repetición del test de NO₂ con dilución](2026/10/2026-10-26.md)
