@@ -48,3 +48,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [23 de octubre: medición de NO₂ con Salifert](2026/10/2026-10-23.md)
 - [25 de octubre: medición de NO₂ con dilución, corrección del método de medición de alcalinidad y lectura de pH](2026/10/2026-10-25.md)
 - [26 de octubre: repetición del test de NO₂ con dilución](2026/10/2026-10-26.md)
+- [28 de octubre: nueva medición de NO₂ con dilución](2026/10/2026-10-28.md)
