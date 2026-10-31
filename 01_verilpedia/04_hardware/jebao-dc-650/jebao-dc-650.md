@@ -48,7 +48,7 @@ Medidas comunicadas el **19/10/2026**, recogidas en la [operación del día](../
 
 ## Uso en Veril
 
-La compra, el estado y los objetivos locales pertenecen al [plan de sustitución del retorno](../../../03_pendientes/01_sustitucion-bomba-retorno-jebao-dc-650.md). La [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md) identifica la bomba realmente instalada. Esta ficha no acredita recepción, instalación ni capacidad para trabajar a potencia media con el caudal deseado.
+La DC-650 fue instalada como bomba de retorno el 31/10/2026; el propietario comunicó que comprobó y validó su funcionamiento. El [plan de sustitución del retorno](../../../03_pendientes/01_sustitucion-bomba-retorno-jebao-dc-650.md) conserva el seguimiento técnico de su caudal y ajuste. La [configuración hidráulica](../../../02_configuracion/01_dimensiones/03_hidraulica.md) documenta su aplicación en Veril. No se han atribuido a esta bomba las mediciones realizadas con la Sicce Micra.
 
 ## Fuentes y estado
 

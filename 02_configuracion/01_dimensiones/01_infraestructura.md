@@ -87,7 +87,9 @@ RO/DI completo permanecen como tareas previstas.
 
 **Adoptado:** Se mantiene como línea de Veril una urna AIO lateral de pequeño volumen, con el compartimento técnico integrado en la propia urna.
 
-**Previsto:** La zona técnica alojará la entrada, el skimmer, el calentador, el retorno, el ATO y los sensores según la distribución documentada en la ficha técnica.
+**Previsto:** La zona técnica alojará la entrada, el skimmer, el calentador, el retorno y los sensores según la distribución documentada en la ficha técnica.
+
+**Observado, 31/10/2026:** Se instaló el sistema ATO D-D Compact ATO Gen 2. Su bomba se colocó en un barril de 15 L con aproximadamente 10 L de agua RODI. El propietario comunicó que comprobó y validó el funcionamiento del sistema; véase la [operación](../../04_operaciones/2026/10/2026-10-31.md#instalación-del-ato-y-sustitución-de-la-bomba-de-retorno). La descripción no fija aquí la posición exacta del sensor ni una autonomía medida del depósito.
 
 **Pendiente:** Aún deben comprobarse en la instalación final la estabilidad del soporte, los niveles operativos, el volumen de retrosifonado, el reinicio tras una parada y el acceso real para mantenimiento.
 

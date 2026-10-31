@@ -10,7 +10,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 ## Estado de la decisión
 
-**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Sicce Micra para retorno. El nivel de la cámara de retorno se estabilizará mediante el [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md), definido físicamente en Infraestructura.
+**Adoptado:** La circulación de Veril combina la Mantis Tourbon 60 instalada para movimiento y la Jebao DC-650 instalada para retorno. El nivel de la cámara de retorno se estabiliza mediante el [D-D H2Ocean Compact ATO Gen 2 (DDATO2)](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato-gen-2/dd-h2ocean-compact-ato-gen-2.md).
 
 **Previsto:** El campo de flujo deberá rodear, atravesar y pasar por debajo de la composición espacial, manteniendo renovadas las zonas funcionales sin desplazar el sustrato.
 
@@ -22,7 +22,7 @@ La superficie deberá presentar un movimiento amplio y continuo, con ondulacione
 
 El **19 de octubre de 2026** el propietario corrigió la identificación de la bomba instalada: es una **Sicce Micra**, no una Micra Plus. Encontró su filtro bastante obstruido, lo lavó y reinstaló la bomba. Las recogidas manuales en el pico de pato dieron **500 ml en 15 s antes (120 L/h)** y **850 ml en 10 s después (306 L/h)**. Sobre los 60 L nominales del display son **2 y 5,1 veces/h**; sobre los 75 L nominales del sistema completo, **1,6 y 4,08 veces/h**. Son referencias de caudal medidas en esa intervención, sin demostrar renovación uniforme ni estabilidad a largo plazo.
 
-El propietario consideró insuficiente el caudal inicial y comunicó la compra de una **Jebao DC Pump Marine Aqua DC-650** el 19/10/2026. La recepción, instalación y ajuste siguen [pendientes](../../03_pendientes/01_sustitucion-bomba-retorno-jebao-dc-650.md). La Sicce Micra permanece instalada según la última operación documentada. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva la evidencia y los límites de la prueba. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
+El propietario consideró insuficiente el caudal inicial y comunicó la compra de una **Jebao DC Pump Marine Aqua DC-650** el 19/10/2026. El 31/10/2026 comunicó que instaló la DC-650, retiró, limpió y guardó la Sicce Micra, y comprobó y validó el funcionamiento de la nueva bomba. No se comunicaron ajustes ni mediciones de caudal de esta instalación. La [operación del 19 de octubre](../../04_operaciones/2026/10/2026-10-19.md#limpieza-y-medición-del-caudal-de-retorno) conserva la evidencia del equipo anterior; la [operación del 31 de octubre](../../04_operaciones/2026/10/2026-10-31.md#instalación-del-ato-y-sustitución-de-la-bomba-de-retorno) registra la sustitución. Las especificaciones de la Micra Plus documentada anteriormente no se atribuyen a la Micra.
 
 ### Disposición y ajuste vigente de la Mantis
 
@@ -35,7 +35,7 @@ La Mantis Tourbon 60 está instalada con esta disposición y ajuste vigente:
 
 El 17 de septiembre se documentó el ajuste anterior de 40 % y el 18 de septiembre se cambió el porcentaje al 50 %. Los demás valores de esta lista son los últimos comunicados y no se han vuelto a comprobar durante ese cambio.
 
-La salida de la **Sicce Micra** se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de ambas bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
+La salida del retorno se describe como situada en la parte superior derecha del display, en continuidad con la cámara Retorno. El efecto conjunto de las bombas se ha observado en superficie, pero la aceptación de renovación de todas las zonas sigue pendiente de pruebas específicas.
 
 Para describir la escala del display se adopta la referencia redondeada de **unos 60 L con arena** (cálculo geométrico detallado: aproximadamente 59,86 L bajo la hipótesis de 3 cm de arena y 2 cm de margen libre). El volumen nominal del sistema completo se estima en **unos 75 L**, incluidas las cámaras técnicas. Son referencias aproximadas, no mediciones exactas. Esta cifra del display sirve para interpretar la escala del movimiento interno, pero no convierte el caudal nominal en una renovación uniforme de todo el volumen. El cálculo y sus límites constan en la [operación del 23 de septiembre](../../04_operaciones/2026/09/2026-09-23.md#pesaje-y-medición-del-desplazamiento-del-hardscape).
 
@@ -71,7 +71,7 @@ La Tourbon 60 declara hasta **4.000 L/h**. Como referencia de ajuste, los porcen
 | 80 % | 3.200 L/h | 53 veces por hora |
 | 100 % | 4.000 L/h | 67 veces por hora |
 
-La Sicce Micra añade un caudal de retorno real inferior a su máximo nominal cuando se consideran altura, tubo, curvas y restricciones. La cifra final no se sumará como si todo el caudal atravesara cada punto del display: la Tourbon produce movimiento interno y la Sicce aporta renovación desde el compartimento técnico.
+La bomba de retorno aporta un caudal real inferior a su máximo nominal cuando se consideran altura, tubo, curvas y restricciones. La cifra final no se sumará como si todo el caudal atravesara cada punto del display: la Tourbon produce movimiento interno y la bomba de retorno aporta renovación desde el compartimento técnico.
 
 El ajuste inicial recomendado para la prueba será **40–50 % de la Tourbon**. Se podrá explorar el entorno de **50–60 %** si no se desplaza la arena y las zonas inferiores necesitan más renovación. No se utilizará el 80–100 % como punto de partida.
 
@@ -89,7 +89,7 @@ La aceptación hidráulica requerirá comprobar el movimiento en superficie, el 
 
 ### Alimentación y protección eléctrica del retorno
 
-La Sicce Micra está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-act-02`, integrado mediante Zigbee2MQTT. La configuración local vigente del enchufe es:
+La toma SONOFF S60ZBTPF `off-act-02`, integrada mediante Zigbee2MQTT, está asociada en Home Assistant a la bomba de retorno Jebao DC-650 desde el 31/10/2026. La toma apareció `ON` y comunicó 9,74 W ese día; esta lectura no mide el caudal. La configuración local vigente del enchufe es:
 
 - `inching_control`: `DISABLE`; `inching_mode`: `OFF`.
 - Protección de la toma (`outlet_control_protect`): activada.
@@ -97,7 +97,7 @@ La Sicce Micra está conectada provisionalmente al enchufe SONOFF S60ZBTPF `off-
 - Protección por máximo de corriente: activada, **0,3 A**.
 - Límites mínimos de potencia/corriente y límites de tensión mínimo/máximo: desactivados.
 
-Estos máximos son guardarraíles iniciales elegidos a partir del histórico de esta bomba en Veril, no especificaciones del fabricante ni umbrales universalmente seguros: se observaron 6,50 W de potencia mediana, 7,27 W de máximo y 0,05–0,06 A en las muestras positivas de corriente. No se ha probado deliberadamente el disparo de la protección. La protección eléctrica tampoco confirma caudal, nivel, cebado o funcionamiento hidráulico.
+Estos máximos se eligieron a partir del histórico de la bomba anterior en Veril, no son especificaciones del fabricante ni umbrales universalmente seguros: se observaron 6,50 W de potencia mediana, 7,27 W de máximo y 0,05–0,06 A en las muestras positivas de corriente. Tras la sustitución por la DC-650, los límites de 20 W y 0,3 A siguen configurados, pero su adecuación a la nueva bomba no se ha establecido con la lectura aislada de 9,74 W. No se ha probado deliberadamente el disparo de la protección. La protección eléctrica tampoco confirma caudal, nivel, cebado o funcionamiento hidráulico.
 
 La configuración fue aplicada y leída de vuelta en Zigbee2MQTT el 29/09/2026; en esa lectura el enchufe aparecía `OFF`, 0 W y 0 A. El registro describe el momento, la telemetría y sus límites: [ajuste de protección del enchufe del retorno](../../04_operaciones/2026/09/2026-09-29.md#ajuste-de-la-protección-del-enchufe-del-retorno). La correspondencia física de la etiqueta sigue pendiente, según el inventario de `off-act-02`.
 
@@ -123,7 +123,7 @@ La continuidad del corredor se comprobará después de colocar la roca y antes d
 
 ## Equipos y configuración
 
-La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) es la bomba principal de movimiento. La [Sicce Micra](../../01_verilpedia/04_hardware/sicce-micra/sicce-micra.md) es la bomba de retorno instalada.
+La [Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md) es la bomba principal de movimiento. La [Jebao DC-650](../../01_verilpedia/04_hardware/jebao-dc-650/jebao-dc-650.md) es la bomba de retorno instalada; el propietario informó que comprobó y validó su funcionamiento. El ATO DDATO2 está instalado y su bomba se encuentra en un barril de 15 L con unos 10 L de agua RODI, según la operación del 31/10/2026. Los niveles y la respuesta durante ciclos siguen formando parte de la aceptación hidráulica.
 
 La bomba de retorno ya dispone de su tubo instalado. El [tubo Eheim adquirido](../../01_verilpedia/05_productos/07_eheim-4005843/eheim-4005843.md), de **3 m y 16/22 mm**, referencia **4005843**, es material auxiliar para llenar el display, trasvasar agua y mover agua entre recipientes o cámaras durante el montaje y el mantenimiento. No forma parte del recorrido hidráulico permanente del retorno.
 
@@ -186,5 +186,5 @@ Durante el montaje y las pruebas se comprobará:
 - [Técnica de la urna](../../01_verilpedia/04_hardware/urna/tecnica.md)
 - [Ficha de la Mantis Tourbon 60](../../01_verilpedia/04_hardware/mantis-tourbon-60/mantis-tourbon-60.md)
 - [Ficha de la Sicce Micra](../../01_verilpedia/04_hardware/sicce-micra/sicce-micra.md)
-- [Ficha de la Jebao DC-650](../../01_verilpedia/04_hardware/jebao-dc-650/jebao-dc-650.md): sustitución pendiente
-- [Ficha de la Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md): referencia anterior; sus especificaciones no corresponden a la Micra instalada
+- [Ficha de la Jebao DC-650](../../01_verilpedia/04_hardware/jebao-dc-650/jebao-dc-650.md): instalada como bomba de retorno
+- [Ficha de la Sicce Micra Plus 600](../../01_verilpedia/04_hardware/sicce-micra-plus-600/sicce-micra-plus-600.md): referencia anterior; sus especificaciones no corresponden a la Sicce Micra retirada ni a la Jebao DC-650 instalada

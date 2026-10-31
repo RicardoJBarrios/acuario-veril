@@ -22,7 +22,7 @@ Las alturas y caudales máximos son límites publicados y no describen el rendim
 
 ## Aplicación en Veril
 
-El propietario comunicó la compra de un **D-D Compact ATO Automatic Top-Up Unit (DDATO2)** el 19/10/2026. El registro de esa fecha conserva la compra. La ficha no acredita recepción, instalación, conexión al depósito ni funcionamiento de la unidad.
+El propietario comunicó la compra de un **D-D Compact ATO Automatic Top-Up Unit (DDATO2)** el 19/10/2026. El 31/10/2026 comunicó que instaló el sistema y comprobó y validó su funcionamiento. La bomba quedó en un barril de 15 L con aproximadamente 10 L de agua RODI. La instalación y esta comprobación se registran en la [operación del 31 de octubre](../../../04_operaciones/2026/10/2026-10-31.md#instalación-del-ato-y-sustitución-de-la-bomba-de-retorno); no se atribuye a esa comprobación una autonomía medida ni una duración observada de ciclo.
 
 ## Fuentes
 
