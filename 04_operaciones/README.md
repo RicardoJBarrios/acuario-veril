@@ -50,3 +50,7 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [26 de octubre: repetición del test de NO₂ con dilución](2026/10/2026-10-26.md)
 - [28 de octubre: nueva medición de NO₂ con dilución](2026/10/2026-10-28.md)
 - [31 de octubre: NO₂, instalación del ATO y la Jebao DC-650, limpieza y revisión visual](2026/10/2026-10-31.md)
+
+### Noviembre de 2026
+
+- [1 de noviembre: medición de NO₂ con diluciones y temperatura del agua](2026/11/2026-11-01.md)
