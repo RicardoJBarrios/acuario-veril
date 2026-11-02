@@ -22,20 +22,23 @@ Retrato orientativo formado con la última información disponible para cada asp
 
 | Aspecto | Estado conocido |
 | --- | --- |
-| Sistema | Acuario marino AIO; volumen de referencia aproximado de **75 L** para el sistema y **60 L** para el display. |
-| Ciclado | Iniciado el **12 de octubre de 2026**; sigue en curso, el cierre no está acreditado y la siguiente carga depende de los criterios del [plan de ciclado](03_pendientes/ciclado/01_plan.md). |
-| Temperatura del agua | Aproximadamente **26,6 °C**; coincide con la lectura de Home Assistant. |
-| Salinidad | Aproximadamente **35,5 ppt**. |
-| Amonio (Salifert) | Última lectura conocida: **0 mg/L**. |
-| Nitrito (Salifert) | Aproximadamente **10–20 mg/L**; referencia central orientativa **≈15 mg/L**. |
-| Nitrato (Salifert) | **≥100 mg/L**, en el extremo superior de la escala. |
-| Alcalinidad (Salifert) | Aproximadamente **6,1 dKH**. |
-| pH | Salifert: **8,15**. Tetra 7 en 1: **6,8**; son lecturas de métodos distintos y no se fuerzan a una cifra común. |
-| Tetra 7 en 1 | Última tira conocida: NO₃ **200 mg/L**, NO₂ **10 mg/L**, GH **8 °dH**, KH **6 °dH** y Cl₂ **0 mg/L**. |
-| Retorno | Bomba **Jebao DC-650** instalada; el propietario comunicó que comprobó y validó su funcionamiento. Home Assistant informa la toma asociada encendida y alrededor de **9,6 W**. |
-| Reposición automática | **D-D Compact ATO Gen 2** instalado y comprobado según el propietario. La bomba está en un barril de 15 L con aproximadamente **10 L de agua RODI**. |
-| Observación visual | Indicios muy pequeños y localizados de alga verde en salientes de roca que reciben luz solar; película fina en algunos cristales interiores. No se apreciaron otros cambios. |
-| Mantenimiento reciente | Acumulación retirada del skimmer, cristales limpiados por fuera y bomba de retorno anterior limpia y guardada. |
+| Sistema | Acuario marino AIO; **75 L** para el sistema y **60 L** para el display. |
+| Skimmer | **Sice Shark Skimmer 300**. |
+| Bombas | **Jebao DC-650**. **Mantis Tourbon 60** |
+| Reposición | **D-D Compact ATO Gen 2**; Barril de 15 L con **RODI**. |
+| Luz | **AI Prime 16HD Reef**. |
+| Firtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere** |
+| Estado | **Ciclando** desde el **12/10/2026**. |
+| Temperatura del agua | **26 °C**. |
+| Salinidad | **35,5 ppt**. |
+| Amonio (Salifert) | **≈0 mg/L**. |
+| Nitrito (Salifert) | **≈5 mg/L**. |
+| Nitrato (Salifert) | **≥100 mg/L** |
+| Alcalinidad (Salifert) | **≈6,1 dKH**. |
+| pH (Salifert) | **8,15**. |
+| Tetra 7 en 1 | NO₃ **200 mg/L**, NO₂ **10 mg/L**, GH **8 °dH**, KH **6 °dH** y Cl₂ **0 mg/L**. |
+| Observación | Indicios muy pequeños y localizados de alga verde en salientes de roca que reciben luz solar; película fina en algunos cristales interiores. |
+| Mantenimiento | Acumulación retirada del skimmer, cristales limpiados por fuera y limpieza bombas. |
 
 Los valores de química y el estado de los equipos se amplían en [Operaciones](04_operaciones/README.md), [Configuración](02_configuracion/README.md) y el [seguimiento del ciclado](03_pendientes/ciclado/README.md).
 

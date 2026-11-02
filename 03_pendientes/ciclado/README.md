@@ -21,6 +21,14 @@ registrada.
 | [21 oct., 18:30](../../04_operaciones/2026/10/2026-10-21.md#mediciones-del-ciclado--1830) | 25,9 | 35 | 0 | ≥4 | ≥100 | 6,1 / 8,15 | 200 / 10 | 8 / 6 / 6,8 / 0 |
 | [23 oct.](../../04_operaciones/2026/10/2026-10-23.md#medición-de-no₂) | — | — | — | ≥4 | — | — / — | — | — |
 | [25 oct.](../../04_operaciones/2026/10/2026-10-25.md#repetición-del-test-de-no₂-con-dilución) | — | — | — | ≈40 | — | 6,1 / 8,15 | — | — |
+| [26 oct.](../../04_operaciones/2026/10/2026-10-26.md#repetición-del-test-de-no₂-con-dilución) | — | — | — | ≈30 | — | — / — | — | — |
+| [28 oct.](../../04_operaciones/2026/10/2026-10-28.md#nueva-medición-de-no₂-con-dilución) | — | — | — | ≈30 | — | — / — | — | — |
+| [31 oct.](../../04_operaciones/2026/10/2026-10-31.md#medición-de-no₂-con-salifert-y-diluciones) | 26,6 | ≈35,5 | — | ≈15 | — | — / — | — | — |
+| [1 nov.](../../04_operaciones/2026/11/2026-11-01.md#medición-de-no₂-con-diluciones) | 26,6 | — | — | ≈12,5 | — | — / — | — | — |
+| [2 nov.](../../04_operaciones/2026/11/2026-11-02.md#medición-de-no₂-con-diluciones) | 26 | — | — | ≈5 | — | — / — | — | — |
+
+Los valores de NO₂ desde el 25 de octubre son estimaciones obtenidas mediante
+diluciones; las lecturas originales y sus intervalos figuran en cada registro.
 
 El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura actual con el método correcto es **6,1 dKH**.
 
