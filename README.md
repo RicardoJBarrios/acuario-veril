@@ -29,13 +29,13 @@ Retrato orientativo formado con la última información disponible para cada asp
 | Luz | **AI Prime 16HD Reef**. |
 | Firtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere** |
 | Estado | **Ciclando** desde el **12/10/2026**. |
-| Temperatura del agua | **26 °C**. |
+| Temperatura del agua | **26,2 °C**. |
 | Salinidad | **35,5 ppt**. |
-| Amonio (Salifert) | **≈0 mg/L**. |
-| Nitrito (Salifert) | **≈5 mg/L**. |
-| Nitrato (Salifert) | **≥100 mg/L** |
-| Alcalinidad (Salifert) | **≈6,1 dKH**. |
-| pH (Salifert) | **8,15**. |
+| Amonio (Salifert) | **0 mg/L**. |
+| Nitrito (Salifert) | **0–0,1 mg/L**, sin diluir. |
+| Nitrato (Salifert) | **50 mg/L**. |
+| Alcalinidad (Salifert) | **5,4 dKH**. |
+| pH (Salifert) | **8**. |
 | Tetra 7 en 1 | NO₃ **200 mg/L**, NO₂ **10 mg/L**, GH **8 °dH**, KH **6 °dH** y Cl₂ **0 mg/L**. |
 | Observación | Indicios muy pequeños y localizados de alga verde en salientes de roca que reciben luz solar; película fina en algunos cristales interiores. |
 | Mantenimiento | Acumulación retirada del skimmer, cristales limpiados por fuera y limpieza bombas. |

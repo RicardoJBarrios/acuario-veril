@@ -26,11 +26,13 @@ registrada.
 | [31 oct.](../../04_operaciones/2026/10/2026-10-31.md#medición-de-no₂-con-salifert-y-diluciones) | 26,6 | ≈35,5 | — | ≈15 | — | — / — | — | — |
 | [1 nov.](../../04_operaciones/2026/11/2026-11-01.md#medición-de-no₂-con-diluciones) | 26,6 | — | — | ≈12,5 | — | — / — | — | — |
 | [2 nov.](../../04_operaciones/2026/11/2026-11-02.md#medición-de-no₂-con-diluciones) | 26 | — | — | ≈5 | — | — / — | — | — |
+| [3 nov.](../../04_operaciones/2026/11/2026-11-03.md#medición-de-no₂) | 26,2 | 35,5 | 0 | 0–0,1 | 50 | 5,4 / 8 | — | — |
 
-Los valores de NO₂ desde el 25 de octubre son estimaciones obtenidas mediante
-diluciones; las lecturas originales y sus intervalos figuran en cada registro.
+Los valores de NO₂ del 25 de octubre al 2 de noviembre son estimaciones obtenidas
+mediante diluciones; las lecturas originales figuran en cada registro. La
+medición del 3 de noviembre se realizó sin diluir.
 
-El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura actual con el método correcto es **6,1 dKH**.
+El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura de ese día con el método correcto fue **6,1 dKH**.
 
 El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
 segunda carga sigue sujeta a los criterios del [plan](01_plan.md).

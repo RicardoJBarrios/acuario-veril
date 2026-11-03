@@ -55,3 +55,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 
 - [1 de noviembre: medición de NO₂ con diluciones y temperatura del agua](2026/11/2026-11-01.md)
 - [2 de noviembre: medición de NO₂ con diluciones y temperatura del agua](2026/11/2026-11-02.md)
+- [3 de noviembre: mediciones de agua y temperatura](2026/11/2026-11-03.md)
