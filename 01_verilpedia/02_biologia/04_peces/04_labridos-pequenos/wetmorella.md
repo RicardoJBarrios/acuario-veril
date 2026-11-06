@@ -7,6 +7,8 @@
 
 **Wetmorella** es un género de lábridos pequeños y crípticos, conocidos como possum wrasses. Son peces de roca, discretos, que exploran grietas, cuevas y zonas sombrías más que nadar abiertamente.
 
+La ficha de grupo incluye *Wetmorella nigropinnata*, conocida como lábrido zarigüeya de bandas amarillas. [Fishes of Australia](https://fishesofaustralia.net.au/home/species/291) la distingue de otras especies del género; la identidad comercial debe comprobarse antes de extrapolar características específicas.
+
 Para Veril pueden ser compatibles en fase madura, pero no son una primera elección. Su conducta reservada, necesidad de tapa y dependencia de alimentación fina hacen que convenga evaluarlos solo cuando el sistema esté asentado.
 
 ## Lectura rápida

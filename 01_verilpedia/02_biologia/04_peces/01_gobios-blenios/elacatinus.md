@@ -9,6 +9,8 @@
 
 **Elacatinus** es un género de gobios pequeños del Atlántico occidental y el Pacífico oriental. En acuariofilia aparecen como neon goby, sharknose goby, cleaner goby, gobio cabeza de cerillo o gobios limpiadores. Son peces de roca y coral, de talla reducida y comportamiento visible, más asociados a perchas y refugios que a nado largo.
 
+El gobio nariz de tiburón, *Elacatinus evelynae*, y el gobio neón azul, *Elacatinus oceanops*, son especies distintas de este grupo de limpiadores. Sus nombres comunes pueden confundirse; [REEF](https://www.reef.org/sites/default/files/2017CleaningGobiesCheatsheet.pdf) las distingue por sus patrones y distribución.
+
 Para Veril son uno de los grupos más razonables: aportan movimiento y aceptan acuarios pequeños. La advertencia principal es elegir ejemplares sanos y que acepten comida preparada; no conviene depender de que "limpien" peces para alimentarse.
 
 El vídeo de Jufor presenta *E. oceanops* como desparasitador apto para cualquier tamaño de acuario. La conducta limpiadora está documentada, pero ninguna de esas dos afirmaciones debe interpretarse como garantía: el pez necesita espacio, refugios y alimentación propia, y no sustituye cuarentena ni tratamiento.
