@@ -38,7 +38,7 @@ Las últimas lecturas Salifert y físicas del 6 de noviembre son posteriores al 
 | Alcalinidad (Salifert) | **5,7 dKH**. |
 | pH (Salifert) | **8,15–8,3**. |
 | Tetra 7 en 1 | NO₃ **1**, NO₂ **0**, GH **8 °d**, KH **6 °d**, pH **7,6** y Cl₂ **0**. |
-| Observación | Indicios muy pequeños y localizados de alga verde en salientes de roca que reciben luz solar; película fina en algunos cristales interiores. |
+| Observación | Muchos puntos verdes de la roca prácticamente han desaparecido; los cristales comienzan a mostrar algo más de algas en zonas muy localizadas. |
 | Mantenimiento | Acumulación retirada del skimmer, cristales limpiados por fuera y limpieza bombas. |
 
 Los valores de química y el estado de los equipos se amplían en [Operaciones](04_operaciones/README.md), [Configuración](02_configuracion/README.md) y el [seguimiento del ciclado](03_pendientes/ciclado/README.md).
