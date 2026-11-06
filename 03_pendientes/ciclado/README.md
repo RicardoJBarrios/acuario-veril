@@ -27,10 +27,14 @@ registrada.
 | [1 nov.](../../04_operaciones/2026/11/2026-11-01.md#medición-de-no₂-con-diluciones) | 26,6 | — | — | ≈12,5 | — | — / — | — | — |
 | [2 nov.](../../04_operaciones/2026/11/2026-11-02.md#medición-de-no₂-con-diluciones) | 26 | — | — | ≈5 | — | — / — | — | — |
 | [3 nov.](../../04_operaciones/2026/11/2026-11-03.md#medición-de-no₂) | 26,2 | 35,5 | 0 | 0–0,1 | 50 | 5,4 / 8 | — | — |
+| [6 nov.](../../04_operaciones/2026/11/2026-11-06.md#mediciones-de-agua-antes-del-cambio) | 26,6 | 35 | 0–<0,15, más cerca de 0 | 0–0,1, más cerca de 0 | 50 | 5,7 / 8,0 | 1 / 0 | 8 / 6 / 7,6 / 0 |
 
 Los valores de NO₂ del 25 de octubre al 2 de noviembre son estimaciones obtenidas
 mediante diluciones; las lecturas originales figuran en cada registro. La
 medición del 3 de noviembre se realizó sin diluir.
+La lectura de NO₃ Tetra del 6 de noviembre se conserva como fue comunicada.
+Las lecturas del 6 de noviembre corresponden al agua antes del [cambio de
+16,5 L](../../04_operaciones/2026/11/2026-11-06.md#cambio-de-agua) de ese día.
 
 El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura de ese día con el método correcto fue **6,1 dKH**.
 
