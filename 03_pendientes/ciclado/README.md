@@ -3,8 +3,9 @@
 ## Seguimiento y resumen de mediciones
 
 El ciclado está en seguimiento desde el **12 de octubre**. La arena ya está
-incorporada y la primera carga ya se añadió. La siguiente etapa prevista es
-la segunda carga, sujeta a los criterios del plan.
+incorporada y se han añadido la primera carga y la [segunda carga de Fishless
+Fuel](../../04_operaciones/2026/11/2026-11-07.md#segunda-carga-de-fishless-fuel)
+el 7 de noviembre; sigue el seguimiento de su respuesta.
 
 La tabla reúne las lecturas desde el inicio. `—` indica que no hay lectura
 registrada.
@@ -29,6 +30,8 @@ registrada.
 | [3 nov.](../../04_operaciones/2026/11/2026-11-03.md#medición-de-no₂) | 26,2 | 35,5 | 0 | 0–0,1 | 50 | 5,4 / 8 | — | — |
 | [6 nov., antes del cambio](../../04_operaciones/2026/11/2026-11-06.md#mediciones-de-agua-antes-del-cambio) | 26,6 | 35 | 0–<0,15, más cerca de 0 | 0–0,1, más cerca de 0 | 50 | 5,7 / 8,0 | 1 / 0 | 8 / 6 / 7,6 / 0 |
 | [6 nov., después del cambio](../../04_operaciones/2026/11/2026-11-06.md#mediciones-de-agua-después-del-cambio) | 26,3 | 35 | 0 | 0 | 25–50 | 5,7 / 8,15–8,3 | — | — |
+| [7 nov., antes de la carga](../../04_operaciones/2026/11/2026-11-07.md#mediciones-de-agua-antes-de-la-carga) | 26,6 | 35 | 0–<0,15 | 0–0,1, más cerca de 0 | 25–50 | 5,7 / 8,15 | — | — |
+| [7 nov., después de la carga](../../04_operaciones/2026/11/2026-11-07.md#mediciones-después-de-la-carga) | — | — | 0–<0,15; <0,15 en repetición | 0–0,1 | — | — / — | — | — |
 
 Los valores de NO₂ del 25 de octubre al 2 de noviembre son estimaciones obtenidas
 mediante diluciones; las lecturas originales figuran en cada registro. La
@@ -40,7 +43,7 @@ Las dos rondas del 6 de noviembre se tomaron antes y después del [cambio de
 El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura de ese día con el método correcto fue **6,1 dKH**.
 
 El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
-segunda carga sigue sujeta a los criterios del [plan](01_plan.md).
+respuesta a la segunda carga se seguirá conforme al [plan](01_plan.md).
 
 ## Qué consultar
 

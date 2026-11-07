@@ -58,3 +58,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [3 de noviembre: mediciones de agua y temperatura](2026/11/2026-11-03.md)
 - [5 de noviembre: relleno del barril del ATO](2026/11/2026-11-05.md)
 - [6 de noviembre: mediciones de agua, cambio de 16,5 L y observación de roca y cristales](2026/11/2026-11-06.md)
+- [7 de noviembre: mediciones de agua y segunda carga de Fishless Fuel](2026/11/2026-11-07.md)
