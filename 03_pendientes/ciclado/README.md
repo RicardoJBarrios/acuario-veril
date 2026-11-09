@@ -47,6 +47,51 @@ El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-m�
 El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
 respuesta a la segunda carga se seguirá conforme al [plan](01_plan.md).
 
+## Gráfica aproximada del ciclado
+
+Las barras resumen las lecturas Salifert; la tabla anterior conserva los rangos,
+métodos y registros originales. Cada fecha ocupa el mismo espacio en el eje,
+aunque entre mediciones hayan transcurrido distintos números de días. No se
+rellenan los días sin medición ni se proyecta una fecha de llegada a cero.
+
+### Nitrito: acumulación y descenso
+
+```mermaid
+xychart-beta
+    title "NO2 de Veril: lecturas y estimaciones"
+    x-axis ["12 oct.", "13 oct.", "14 oct. >=4", "19 oct. >=4", "23 oct. >=4", "25 oct.", "26 oct.", "28 oct.", "31 oct.", "1 nov.", "2 nov.", "3 nov. 0-0,1", "6 nov. después", "7 nov. 0-0,1", "8 nov.", "9 nov."]
+    y-axis "NO2 (mg/L)" 0 --> 40
+    bar [4, 4, 4, 4, 4, 40, 30, 30, 15, 12.5, 5, 0.1, 0, 0.1, 0.25, 0.1]
+```
+
+Las barras de las lecturas **≥4** solo representan el límite inferior conocido:
+no demuestran que el nitrito permaneciera en 4 ni que subiera de 4 a 40 el
+25 de octubre. Los valores del 25 de octubre al 2 de noviembre son aproximaciones
+por dilución. Para las lecturas **0–0,1** se dibuja el extremo superior, 0,1,
+únicamente para visualizar el intervalo; no es una lectura exacta.
+
+### Detalle de la respuesta a la segunda carga
+
+La segunda carga fue de **2 ml de Fishless Fuel el 7 de noviembre a las
+18:04 WET**. Esta ampliación permite ver las pequeñas lecturas de nitrito
+que quedan comprimidas en la escala anterior.
+
+```mermaid
+xychart-beta
+    title "NO2 alrededor de la segunda carga"
+    x-axis ["6 nov. después del cambio", "7 nov. tras carga: 0-0,1", "8 nov.", "9 nov."]
+    y-axis "NO2 (mg/L)" 0 --> 0.3
+    bar [0, 0.1, 0.25, 0.1]
+```
+
+El **amonio total** no se dibuja como una curva continua: hay días sin medición,
+categorías **<0,15** y una lectura **>0,15** el 8 de noviembre que no permite
+asignar un valor exacto. Tras la primera carga se registró **0,25 mg/L el
+12 de octubre** y lecturas de **0** en rondas posteriores. Después de la segunda
+carga, la lectura fue **<0,15** en la repetición del 7, **>0,15** el 8 y
+**0,25 mg/L** el 9. Estos datos no permiten reconstruir un pico ni dar por
+procesada la segunda carga. El nitrato se mantiene en la tabla, con sus rangos.
+
 ## Qué consultar
 
 - [Plan](01_plan.md): condiciones y criterios de la prueba que sigue pendiente de cerrar.
