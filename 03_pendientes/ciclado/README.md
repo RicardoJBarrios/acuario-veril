@@ -32,6 +32,8 @@ registrada.
 | [6 nov., después del cambio](../../04_operaciones/2026/11/2026-11-06.md#mediciones-de-agua-después-del-cambio) | 26,3 | 35 | 0 | 0 | 25–50 | 5,7 / 8,15–8,3 | — | — |
 | [7 nov., antes de la carga](../../04_operaciones/2026/11/2026-11-07.md#mediciones-de-agua-antes-de-la-carga) | 26,6 | 35 | 0–<0,15 | 0–0,1, más cerca de 0 | 25–50 | 5,7 / 8,15 | — | — |
 | [7 nov., después de la carga](../../04_operaciones/2026/11/2026-11-07.md#mediciones-después-de-la-carga) | — | — | 0–<0,15; <0,15 en repetición | 0–0,1 | — | — / — | — | — |
+| [8 nov.](../../04_operaciones/2026/11/2026-11-08.md#mediciones-de-agua) | 26,1 | 35 | >0,15 | 0,25 | — | 5,7 / 8 | — | — |
+| [9 nov.](../../04_operaciones/2026/11/2026-11-09.md#mediciones-de-agua) | 26,6 | 35 | 0,25 | 0,1 | — | 5,4 / 8 | — | — |
 
 Los valores de NO₂ del 25 de octubre al 2 de noviembre son estimaciones obtenidas
 mediante diluciones; las lecturas originales figuran en cada registro. La
