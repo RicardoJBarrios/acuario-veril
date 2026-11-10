@@ -19,7 +19,7 @@ Para que todo quede claramente diferenciado, la documentación separa el conocim
 ## Estado
 
 Retrato orientativo formado con la última información disponible para cada aspecto. Las mediciones no son simultáneas y pueden haber cambiado.
-Las últimas lecturas Salifert y físicas son del 7 de noviembre; las de Tetra son anteriores al cambio de agua del 6 de noviembre.
+Las últimas mediciones de agua comunicadas son del 10 de noviembre; la última salinidad es del 9 y las lecturas de Tetra son anteriores al cambio de agua del 6 de noviembre.
 
 | Aspecto | Estado conocido |
 | --- | --- |
@@ -30,13 +30,13 @@ Las últimas lecturas Salifert y físicas son del 7 de noviembre; las de Tetra s
 | Luz | **AI Prime 16HD Reef**. |
 | Firtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere** |
 | Estado | **Ciclando** desde el **12/10/2026**. |
-| Temperatura del agua | **26,6 °C**. |
+| Temperatura del agua | **26,4 °C**. |
 | Salinidad | **1,026; 35 ppt**. |
-| Amonio (Salifert) | **<0,15 mg/L**, en la repetición posterior a la carga. |
-| Nitrito (Salifert) | Entre **0 y 0,1 mg/L**, después de la carga. |
-| Nitrato (Salifert) | **25–50 mg/L**. |
-| Alcalinidad (Salifert) | **5,7 dKH**. |
-| pH (Salifert) | **8,15**. |
+| NH₃ | **0**. |
+| Nitrito (NO₂) | **0,1–0**. |
+| Nitrato (NO₃) | **50**. |
+| Alcalinidad (KH) | **5,1**. |
+| pH | **8**. |
 | Tetra 7 en 1 | NO₃ **1**, NO₂ **0**, GH **8 °d**, KH **6 °d**, pH **7,6** y Cl₂ **0**. |
 | Observación | Muchos puntos verdes de la roca prácticamente han desaparecido; los cristales comienzan a mostrar algo más de algas en zonas muy localizadas. |
 | Mantenimiento | Acumulación retirada del skimmer, cristales limpiados por fuera y limpieza bombas. |
