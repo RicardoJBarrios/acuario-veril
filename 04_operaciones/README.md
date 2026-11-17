@@ -62,3 +62,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [8 de noviembre: mediciones de agua y temperatura de Home Assistant](2026/11/2026-11-08.md)
 - [9 de noviembre: mediciones de agua y temperatura de Home Assistant](2026/11/2026-11-09.md)
 - [10 de noviembre: mediciones de agua, preparación y medición de agua con sal, y temperatura de Home Assistant](2026/11/2026-11-10.md)
+- [17 de noviembre: adición de bicarbonato sódico](2026/11/2026-11-17.md)
