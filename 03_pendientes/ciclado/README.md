@@ -62,7 +62,7 @@ xychart-beta
     title "NO2 de Veril: lecturas y estimaciones"
     x-axis ["12 oct.", "13 oct.", "14 oct. >=4", "19 oct. >=4", "23 oct. >=4", "25 oct.", "26 oct.", "28 oct.", "31 oct.", "1 nov.", "2 nov.", "3 nov. 0-0,1", "6 nov. después", "7 nov. 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0"]
     y-axis "NO2 (mg/L)" 0 --> 40
-    bar [4, 4, 4, 4, 4, 40, 30, 30, 15, 12.5, 5, 0.1, 0, 0.1, 0.25, 0.1, 0.1]
+    bar [4, 4, 4, 4, 4, 40, 30, 30, 15, 12.5, 5, 0.1, 0, 0.1, 0.25, 0.1, 0.05]
 ```
 
 Las barras de las lecturas **≥4** solo representan el límite inferior conocido:
@@ -82,7 +82,7 @@ xychart-beta
     title "NO2 alrededor de la segunda carga"
     x-axis ["6 nov. después del cambio", "7 nov. tras carga: 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0"]
     y-axis "NO2 (mg/L)" 0 --> 0.3
-    bar [0, 0.1, 0.25, 0.1, 0.1]
+    bar [0, 0.1, 0.25, 0.1, 0.05]
 ```
 
 El **amonio total** no se dibuja como una curva continua: hay días sin medición,
