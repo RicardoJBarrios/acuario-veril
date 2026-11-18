@@ -29,17 +29,19 @@ Las últimas mediciones de agua comunicadas son del 10 de noviembre; la última 
 | Reposición | **D-D Compact ATO Gen 2**; Barril de 15 L con **RODI**. |
 | Luz | **AI Prime 16HD Reef**. |
 | Firtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere** |
-| Estado | **Ciclando** desde el **12/10/2026**. |
-| Temperatura del agua | **26,4 °C**. |
+| Estado | **Maduración** tras el cierre del ciclado el **18/11/2026**. |
+| Temperatura del agua | **25,7 °C**. |
 | Salinidad | **1,026; 35 ppt**. |
-| NH₃ | **0**. |
-| Nitrito (NO₂) | **0,1–0**. |
-| Nitrato (NO₃) | **50**. |
-| Alcalinidad (KH) | **5,1**. |
+| Amonio | **0**. |
+| Nitrito (NO₂) | **0**. |
+| Nitrato (NO₃) | **25**. |
+| Alcalinidad (KH) | **7,3**. |
 | pH | **8**. |
 | Tetra 7 en 1 | NO₃ **1**, NO₂ **0**, GH **8 °d**, KH **6 °d**, pH **7,6** y Cl₂ **0**. |
 | Observación | Muchos puntos verdes de la roca prácticamente han desaparecido; los cristales comienzan a mostrar algo más de algas en zonas muy localizadas. |
 | Mantenimiento | Acumulación retirada del skimmer, cristales limpiados por fuera y limpieza bombas. |
+
+Tres días después de la segunda carga, el 10 de noviembre, se registraron amonio **0** y nitrito **0,1–0**. Ambos marcaron **0** en la [ronda de cierre del 18 de noviembre](04_operaciones/2026/11/2026-11-18.md).
 
 Los valores de química y el estado de los equipos se amplían en [Operaciones](04_operaciones/README.md), [Configuración](02_configuracion/README.md) y el [seguimiento del ciclado](03_pendientes/ciclado/README.md).
 
@@ -47,6 +49,6 @@ Los valores de química y el estado de los equipos se amplían en [Operaciones](
 
 - [Verilpedia](01_verilpedia/README.md): conocimiento general y reutilizable
 - [Configuración](02_configuracion/README.md): estado vigente y decisiones de diseño de Veril
-- [Pendientes](03_pendientes/README.md): actuaciones todavía no ejecutadas, incluidos ciclado, maduración y procedimientos recurrentes
+- [Pendientes](03_pendientes/README.md): actuaciones todavía no ejecutadas, incluidos el plan de maduración y los procedimientos recurrentes, junto con el historial del ciclado
 - [Operaciones](04_operaciones/README.md): actuaciones ejecutadas, ordenadas por fecha y documentadas con sus resultados
 - [Multimedia](05_multimedia/README.md): recursos visuales con su contexto y límites de interpretación

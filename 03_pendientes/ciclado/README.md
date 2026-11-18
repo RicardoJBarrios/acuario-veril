@@ -2,13 +2,13 @@
 
 ## Seguimiento y resumen de mediciones
 
-El ciclado está en seguimiento desde el **12 de octubre**. La arena ya está
+El ciclado se siguió desde el **12 de octubre**. La arena ya está
 incorporada y se han añadido la primera carga y la [segunda carga de Fishless
 Fuel](../../04_operaciones/2026/11/2026-11-07.md#segunda-carga-de-fishless-fuel)
-el 7 de noviembre; sigue el seguimiento de su respuesta.
+el 7 de noviembre.
 
 La tabla reúne las lecturas desde el inicio. `—` indica que no hay lectura
-registrada. Las columnas químicas corresponden a Salifert hasta el 9 de noviembre; el método de las lecturas del 10 no se ha especificado.
+registrada. Las columnas químicas corresponden a Salifert hasta el 9 de noviembre; el método de las lecturas del 10 y del 18 no se ha especificado.
 
 | Fecha y registro | Temperatura | Salinidad | Amonio / NH₃ (mg/L) | NO₂ (mg/L) | NO₃ (mg/L) | KH (dKH) / pH | Tetra 7in1: NO₃ / NO₂ (mg/L) | Tetra 7in1: GH / KH (°dH), pH, Cl₂ (mg/L) |
 | --- | ---: | ---: | ---: | ---: | ---: | --- | --- | --- |
@@ -35,6 +35,7 @@ registrada. Las columnas químicas corresponden a Salifert hasta el 9 de noviemb
 | [8 nov.](../../04_operaciones/2026/11/2026-11-08.md#mediciones-de-agua) | 26,1 | 35 | >0,15 | 0,25 | — | 5,7 / 8 | — | — |
 | [9 nov.](../../04_operaciones/2026/11/2026-11-09.md#mediciones-de-agua) | 26,6 | 35 | 0,25 | 0,1 | — | 5,4 / 8 | — | — |
 | [10 nov.](../../04_operaciones/2026/11/2026-11-10.md#mediciones-de-agua) | 26,4 | — | 0 | 0,1–0 | 50 | 5,1 / 8 | — | — |
+| [18 nov.](../../04_operaciones/2026/11/2026-11-18.md) | 25,7 | — | 0 | 0 | 25 | 6,1 → 7,3 / 8 | — | — |
 
 Los valores de NO₂ del 25 de octubre al 2 de noviembre son estimaciones obtenidas
 mediante diluciones; las lecturas originales figuran en cada registro. La
@@ -45,8 +46,12 @@ Las dos rondas del 6 de noviembre se tomaron antes y después del [cambio de
 
 El [25 de octubre](../../04_operaciones/2026/10/2026-10-25.md#corrección-del-método-de-medición-de-alcalinidad), el propietario comunicó que las mediciones anteriores de alcalinidad con Salifert se habían realizado incorrectamente. Se conservan como histórico; la lectura de ese día con el método correcto fue **6,1 dKH**.
 
-El seguimiento documentado **no acredita todavía el cierre del ciclado**. La
-respuesta a la segunda carga se seguirá conforme al [plan](01_plan.md).
+**Ciclado cerrado el 18 de noviembre.** Tras la segunda carga del 7 de
+noviembre, el amonio marcó **0** al tercer día y el nitrito bajó de **0,25**
+el día 8 a **0,1** el día 9 y **0,1–0** el día 10. El día 18 ambos marcaron
+**0**. La evolución y la ronda final respaldan el paso a maduración. El
+intervalo de nitrito del día 10 no acredita un cero exacto dentro de los
+cinco días del [plan original](01_plan.md).
 
 ## Gráfica aproximada del ciclado
 
@@ -60,16 +65,17 @@ rellenan los días sin medición ni se proyecta una fecha de llegada a cero.
 ```mermaid
 xychart-beta
     title "NO2 de Veril: lecturas y estimaciones"
-    x-axis ["12 oct.", "13 oct.", "14 oct. >=4", "19 oct. >=4", "23 oct. >=4", "25 oct.", "26 oct.", "28 oct.", "31 oct.", "1 nov.", "2 nov.", "3 nov. 0-0,1", "6 nov. después", "7 nov. 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0"]
+    x-axis ["12 oct.", "13 oct.", "14 oct. >=4", "19 oct. >=4", "23 oct. >=4", "25 oct.", "26 oct.", "28 oct.", "31 oct.", "1 nov.", "2 nov.", "3 nov. 0-0,1", "6 nov. después", "7 nov. 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0", "18 nov."]
     y-axis "NO2 (mg/L)" 0 --> 40
-    bar [4, 4, 4, 4, 4, 40, 30, 30, 15, 12.5, 5, 0.1, 0, 0.1, 0.25, 0.1, 0.05]
+    bar [4, 4, 4, 4, 4, 40, 30, 30, 15, 12.5, 5, 0.1, 0, 0.1, 0.25, 0.1, 0.05, 0]
 ```
 
 Las barras de las lecturas **≥4** solo representan el límite inferior conocido:
 no demuestran que el nitrito permaneciera en 4 ni que subiera de 4 a 40 el
 25 de octubre. Los valores del 25 de octubre al 2 de noviembre son aproximaciones
-por dilución. Para las lecturas **0–0,1** y **0,1–0** se dibuja el extremo superior, 0,1,
-únicamente para visualizar el intervalo; no es una lectura exacta.
+por dilución. Las lecturas **0–0,1** se representan con el extremo superior, **0,1**.
+Para **0,1–0** del 10 de noviembre se usa el punto medio, **0,05**, solo
+como aproximación gráfica.
 
 ### Detalle de la respuesta a la segunda carga
 
@@ -80,9 +86,9 @@ que quedan comprimidas en la escala anterior.
 ```mermaid
 xychart-beta
     title "NO2 alrededor de la segunda carga"
-    x-axis ["6 nov. después del cambio", "7 nov. tras carga: 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0"]
+    x-axis ["6 nov. después del cambio", "7 nov. tras carga: 0-0,1", "8 nov.", "9 nov.", "10 nov. 0,1-0", "18 nov."]
     y-axis "NO2 (mg/L)" 0 --> 0.3
-    bar [0, 0.1, 0.25, 0.1, 0.05]
+    bar [0, 0.1, 0.25, 0.1, 0.05, 0]
 ```
 
 El **amonio total** no se dibuja como una curva continua: hay días sin medición,
@@ -90,13 +96,13 @@ categorías **<0,15** y una lectura **>0,15** el 8 de noviembre que no permite
 asignar un valor exacto. Tras la primera carga se registró **0,25 mg/L el
 12 de octubre** y lecturas de **0** en rondas posteriores. Después de la segunda
 carga, la lectura fue **<0,15** en la repetición del 7, **>0,15** el 8 y
-**0,25 mg/L** el 9 y el propietario comunicó **NH₃ 0** el 10. Estos datos no permiten reconstruir un pico ni dar por
-procesada la segunda carga. El nitrato se mantiene en la tabla, con sus rangos.
+**0,25 mg/L** el 9 y el propietario comunicó **NH₃ 0** el 10. El 18 de noviembre se comunicó amonio **0**. Las lecturas disponibles
+no permiten reconstruir el pico de amonio. El nitrato se mantiene en la tabla, con sus rangos.
 
 ## Qué consultar
 
-- [Plan](01_plan.md): condiciones y criterios de la prueba que sigue pendiente de cerrar.
-- [Procedimiento de seguimiento](02_runbook.md): mediciones y pasos restantes.
+- [Plan](01_plan.md): condiciones y criterios de la prueba original.
+- [Procedimiento de seguimiento](02_runbook.md): procedimiento utilizado durante el ciclado.
 - [Receta adoptada](decisiones/01_seleccion-inoculante-y-receta.md): componentes y cálculo de dosis.
 - [Antecedente de Elite Reef](decisiones/02_referencia-elite-reef-e-inoculacion-previa.md): consejo del 9 de octubre y evolución posterior.
 - [Proyección microbiológica](03_proyeccion-microbiologica.md): alcance funcional esperado de los medios utilizados.

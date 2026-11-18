@@ -1,10 +1,10 @@
 # Maduración de Veril
 
-## Estado al 19 de octubre de 2026
+## Estado al 18 de noviembre de 2026
 
-Esta fase está prevista después del cierre del ciclado. El
-[seguimiento actual](../ciclado/README.md) continúa en la primera carga; los
-planes de esta carpeta no describen incorporaciones ya ejecutadas.
+Veril pasa a maduración tras el [cierre del ciclado](../ciclado/README.md),
+con amonio y nitrito en **0** en la ronda del 18 de noviembre. Aquí se
+recogen las actuaciones previstas para esta fase.
 
 ## Documentos
 

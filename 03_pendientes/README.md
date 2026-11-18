@@ -6,8 +6,8 @@ Este directorio contiene decisiones y actuaciones todavía no ejecutadas. Un doc
 
 - [Sustitución de la bomba de retorno](01_sustitucion-bomba-retorno-jebao-dc-650.md): compra de la Jebao DC-650 comunicada el 19/10/2026; recepción e instalación pendientes
 
-- [Ciclado](ciclado/README.md): Fase previa, receta, prueba nitrificante y criterios de cierre
-- [Maduración](maduracion/README.md): Evolución biológica posterior al ciclado e incorporaciones graduales
+- [Ciclado](ciclado/README.md): Fase cerrada el 18 de noviembre de 2026. Historial, receta y criterios de la prueba
+- [Maduración](maduracion/README.md): Fase actual. Seguimiento e incorporaciones graduales
 - [Observación biológica de corales](maduracion/04_plan-indicadores-visuales-corales.md): propuesta pendiente para usar cambios visibles como avisos de medición, no como diagnósticos
 - [Operación recurrente](operacion-recurrente/README.md): Procedimientos previstos de mantenimiento, observación y respuesta
 - [Plan transversal de medición y tests](operacion-recurrente/02_medicion-y-tests.md): criterios de medida y alternativas aplicables a todas las fases
