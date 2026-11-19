@@ -49,8 +49,8 @@ En Veril lo valoraría después de ver cómo madura la arena. Un ejemplar peque�
 
 **Ficha enciclopédica:** [Microofiuras](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/amphipholis-squamata.md)
 
-- **Estado**: Candidato
-- **Motivo**: Encaja como biodiversidad de roca si llega en condiciones seguras y encuentra detrito y refugio
+- **Estado**: Presencia confirmada a nivel de grupo. Primer habitante confirmado de Veril, observado el [19 de noviembre de 2026](../../../04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante).
+- **Identificación**: Microofiura (Ophiuroidea), especie sin determinar. *Ophiactis savignyi* es la principal candidata por los seis brazos bandeados y el contexto de llegada con la roca viva.
 
 <a id="invertebrados--caracoles-pastadores--quitones-canarios"></a>
 ## Quitones canarios

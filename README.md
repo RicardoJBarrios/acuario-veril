@@ -27,6 +27,7 @@ Las últimas mediciones de agua comunicadas son del 10 de noviembre; la última 
 | Skimmer | **Sice Shark Skimmer 300**. |
 | Bombas | **Jebao DC-650**. **Mantis Tourbon 60** |
 | Reposición | **D-D Compact ATO Gen 2**; Barril de 15 L con **RODI**. |
+| Fauna observada | **Microofiura**, primer habitante confirmado el [19/11/2026](04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante). |
 | Luz | **AI Prime 16HD Reef**. |
 | Firtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere** |
 | Estado | **Maduración** tras el cierre del ciclado el **18/11/2026**. |

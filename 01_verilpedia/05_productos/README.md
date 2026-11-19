@@ -41,6 +41,10 @@ Las dosis, formatos y condiciones de conservación pueden cambiar. La etiqueta d
 ## Documentación técnica local
 
 Los manuales y fichas técnicas descargados se conservan dentro del directorio de cada producto, junto a su ficha correspondiente.
+- [28 — Aquaforest Life Bio Fil](28_aquaforest-life-bio-fil/aquaforest-life-bio-fil.md)
+- [29 — Lunaqua Copépodos vivos Tisbe sp.](29_lunaqua-copepodos-tisbe/lunaqua-copepodos-tisbe.md)
+- [30 — Lunaqua Copépodos vivos Tigriopus sp.](30_lunaqua-copepodos-tigriopus/lunaqua-copepodos-tigriopus.md)
+- [31 — Fitoplancton cultivado por Elite Reef Kanarias](31_fitoplancton-elite-reef-kanarias/fitoplancton-elite-reef-kanarias.md)
 
 ## Fuentes metodológicas locales
 

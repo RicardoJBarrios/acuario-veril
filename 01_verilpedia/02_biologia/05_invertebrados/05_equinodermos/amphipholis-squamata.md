@@ -8,7 +8,7 @@
 
 **Amphipholis squamata** y **Ophiactis savignyi** son ofiuras pequeñas, de escala muy distinta a las ofiuras grandes descartadas para Veril. RedPROMAR documenta la primera en Canarias; la segunda es una microofiura tropical cosmopolita que aparece con frecuencia como acompañante de roca, esponjas y material de arrecife.
 
-En Veril queda como **candidata**, compatible como aparición espontánea o biodiversidad controlada si dispone de refugio y alimento.
+«Microofiura» describe una ofiura de tamaño pequeño. El término reúne especies distintas y no identifica por sí solo un género.
 
 ## Lectura rápida
 
@@ -18,6 +18,25 @@ En Veril queda como **candidata**, compatible como aparición espontánea o biod
 - **Actividad**: Críptica, con brazos extendidos desde grietas
 - **Riesgo principal**: Baja visibilidad y sensibilidad a inestabilidad
 - **Apto para nano**: Sí
+
+## Identificación visual
+
+Los brazos largos, estrechos y articulados, que parten de un disco diferenciado,
+permiten reconocer una ofiura. Para comparar especies interesa fotografiar
+el disco desde arriba, contar los brazos que nacen de él y observar las placas
+y las espinas de los brazos. El diámetro del disco se mide por separado de la
+envergadura con los brazos extendidos.
+
+| Referencia | Rasgos útiles |
+| --- | --- |
+| *Amphipholis squamata* | Habitualmente cinco brazos. Disco adulto de alrededor de 3 mm y brazos de alrededor de 15 mm, según la referencia de tamaño citada en esta ficha. |
+| *Ophiactis savignyi* | Habitualmente seis brazos, a menudo bandeados. Los escudos radiales del disco son grandes. La fisión puede dejar brazos regenerándose de longitud desigual. |
+
+Las bandas de los brazos y la asociación con esponjas orientan la comparación.
+Para asignar una especie hacen falta rasgos del disco y de los brazos que
+permitan distinguirla de otras microofiuras. La revisión de ejemplares de
+[Smithsonian Contributions to Zoology](https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo93160/pdf/GOVPUB-SI-PURL-gpo93160.pdf)
+describe los escudos radiales grandes de *O. savignyi*.
 
 ## Biología y comportamiento
 
@@ -79,13 +98,12 @@ La selección y el estado de este organismo para Veril se documentan en [su fich
 
 Puede encajar como biodiversidad de roca en la misma categoría funcional. Es detritívora, suspensívora y capaz de dividirse asexualmente. No se propone comprar una población: se acepta o conserva cuando aparece bien identificada y no muestra efectos adversos.
 
-## Pendiente de verificación
+## Seguimiento visual
 
-- Confirmar identificación
-- Confirmar procedencia legal
-- Confirmar que no se mezcla con ofiuras grandes
-- Confirmar que la roca ofrece refugios suficientes
-- Confirmar que una población de *Ophiactis* no oculta otra especie de ofiura
+Una ofiura puede permanecer oculta y dejar visibles solo uno o varios brazos.
+Varias apariciones en la misma grieta pueden corresponder al mismo individuo.
+Para distinguir ejemplares, sirven las observaciones simultáneas en refugios
+diferentes o las imágenes que muestran discos separados.
 
 ## Fuentes
 
