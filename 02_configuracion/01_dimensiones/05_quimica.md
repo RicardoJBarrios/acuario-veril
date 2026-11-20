@@ -8,9 +8,9 @@ La química de Veril se seguirá mediante las [fichas de parámetros](../../01_v
 
 El agua tiene como zona preferida **25–26 °C** y como objetivo normal **24,5–26,5 °C**. Las bandas y respuestas operativas están en [Régimen térmico adoptado](../README.md#régimen-térmico-adoptado). Aquí la temperatura se interpreta como variable química y contexto de medición.
 
-El agua de reposición por evaporación será agua RO/DI mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), sin añadir sal: la evaporación retira agua, no sal. El llenado inicial del ciclado utilizó agua de mar filtrada con UV de Elite Reef Kanarias. El agua nueva para los cambios posteriores se preparará con RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md), según el [procedimiento operativo de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md), hasta alcanzar una salinidad objetivo de `S_P = 35`.
+El agua de reposición por evaporación será agua RO/DI mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md), sin añadir sal: la evaporación retira agua, no sal. El llenado inicial del ciclado utilizó agua de mar filtrada con UV de Elite Reef Kanarias. El agua nueva para los cambios posteriores se preparará con RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md), según el [procedimiento operativo de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md), para mantener el objetivo de **1,025 de densidad relativa** en Veril.
 
-Para los cálculos de cambios de agua de Veril se toma como base nominal **75 L para el sistema completo** y **60 L para el display**. Se adopta un cambio nominal de **10 L**, aproximadamente el 13,3 % del sistema. Para prepararlo a `S_P = 35`, se parte de **unos 415 g de Reef Salt** como referencia empírica de usuarios. No es una cantidad oficial garantizada para todos los lotes; se ajustará midiendo la salinidad del agua preparada. El [procedimiento de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md) atribuye las referencias y conserva sus límites.
+Para los cálculos de cambios de agua de Veril se toma como base nominal **75 L para el sistema completo** y **60 L para el display**. Se adopta un cambio nominal de **10 L**, aproximadamente el 13,3 % del sistema. La cantidad inicial de sal y la verificación del agua preparada se recogen en el [procedimiento de cambios de agua](../../03_pendientes/operacion-recurrente/01_cambios-agua.md).
 
 Para la salinidad se dispone de un [refractómetro D-D The Aquarium Solution AQPR001](../../01_verilpedia/05_productos/06_dd-aquarium-solution-aqpr001/dd-aquarium-solution-aqpr001.md). Su calibración y el método de medición se registrarán antes de aceptar el agua de mar.
 
@@ -22,7 +22,7 @@ También están disponibles para la caracterización y el ciclado el [Salifert A
 
 ## Agua del arranque biológico
 
-El llenado se hizo con agua de mar filtrada con UV de Elite Reef Kanarias. Los recipientes, la corrección sobre el volumen y la recepción del RO6CB se conservan en [Material y estado documentados](01_infraestructura.md#material-y-estado-documentados). La base nominal de cálculo sigue siendo **75 L**; el agua se contrasta con el objetivo `S_P = 35` mediante salinidad, temperatura, pH y alcalinidad.
+El llenado se hizo con agua de mar filtrada con UV de Elite Reef Kanarias. Los recipientes, la corrección sobre el volumen y la recepción del RO6CB se conservan en [Material y estado documentados](01_infraestructura.md#material-y-estado-documentados). La base nominal de cálculo sigue siendo **75 L**; durante el ciclado se contrastó el agua con la referencia `S_P = 35` mediante salinidad, temperatura, pH y alcalinidad.
 
 El ciclado empezó el [12 de octubre](../../04_operaciones/2026/10/2026-10-12.md#incorporación-de-af-bio-sand). La preparación previa tomaba como referencia **24,5–26,5 °C**, preferentemente **25–26 °C**; ahora las cargas, dosis y seguimiento se consultan en el [plan](../../03_pendientes/ciclado/01_plan.md) y su [procedimiento](../../03_pendientes/ciclado/02_runbook.md).
 
@@ -30,25 +30,18 @@ El agua de mar suministrada prepara la matriz salina, pero no inocula bacterias 
 
 ## Justificación de la salinidad objetivo
 
-Veril adopta una salinidad práctica objetivo de **`S_P = 35`**. Esta decisión no presenta 35 como una salinidad universalmente obligatoria, sino como el punto de consigna elegido para esta configuración.
+El propietario adopta **1,025 de densidad relativa** como objetivo operativo
+de Veril porque es el valor de referencia de sus proveedores. La medición de
+**1,025** tras el [cambio de agua del 20 de noviembre de 2026](../../04_operaciones/2026/11/2026-11-20.md#cambio-de-agua)
+queda registrada como contexto de la decisión.
 
-La decisión se fundamenta en varios criterios convergentes, documentados en la [ficha general de salinidad](../../01_verilpedia/03_parametros/salinidad.md) y en la [ficha de Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md):
-
-- `S_P = 35` se aproxima a la referencia habitual de salinidad del océano abierto y ofrece un punto de comparación claro con la química marina
-- La configuración prevista es un arrecife mixto, no un sistema fish-only ni un sistema deliberadamente hiposalino
-- Aquaforest considera aproximadamente 33–35 ppt un intervalo adecuado para acuarios marinos y recomienda alrededor de 35 ppt para acuarios de arrecife
-- Aquaforest publica expresamente la composición esperable de Reef Salt a 35 ppt, por lo que el objetivo está contemplado por el fabricante y no requiere extrapolar la formulación fuera de sus referencias publicadas
-- Trabajar con una consigna única facilita interpretar conjuntamente salinidad, calcio, magnesio, alcalinidad y otras mediciones relacionadas
-
-Los valores de 33 o 34 ppt también serían biológicamente plausibles y operativamente utilizables. No se adopta 35 porque sea un valor mágico, sino porque no existe en Veril una razón específica para trabajar deliberadamente por debajo de esa referencia y sí existe una ventaja documental y metrológica en utilizarla.
-
-La estabilidad tiene prioridad sobre la persecución de una cifra aislada. Una desviación moderada y estable no se corregirá de forma brusca, y cualquier cambio de consigna deberá tratarse como una decisión operativa explícita.
-
-La masa de sal no define por sí sola el resultado. Aquaforest publica aproximadamente 390 g por 10 L como referencia de preparación a 33 ppt, pero también caracteriza Reef Salt a 35 ppt. En Veril, la cantidad inicial se utilizará únicamente como punto de partida y la aceptación se realizará mediante medición de la salinidad preparada, no mediante una equivalencia fija entre gramos y `S_P`.
+La referencia `S_P = 35` corresponde al ciclado y se conserva en su historial.
+Las tablas del fabricante a 33 y 35 ppt siguen siendo referencias de
+composición en sus propias escalas. Véase la [ficha de salinidad](../../01_verilpedia/03_parametros/salinidad.md).
 
 ## Estado de la decisión
 
-**Adoptado:** La reposición por evaporación utilizará agua RO/DI mediante el ATO. El llenado inicial del ciclado utilizó agua de mar filtrada con UV suministrada por Elite Reef Kanarias y se comprobará hasta `S_P = 35`. Una vez finalizado el ciclado, el agua nueva para cambios posteriores se preparará con agua de ósmosis RO/DI y Aquaforest Reef Salt, salvo decisión documentada distinta.
+**Adoptado:** La reposición por evaporación utilizará agua RO/DI mediante el ATO. El llenado inicial del ciclado utilizó agua de mar filtrada con UV suministrada por Elite Reef Kanarias con `S_P = 35` como referencia de esa fase. Una vez finalizado el ciclado, el agua nueva para cambios posteriores se preparará con agua de ósmosis RO/DI y Aquaforest Reef Salt, salvo decisión documentada distinta.
 
 **Previsto:** La química se interpretará mediante parámetros individuales, relaciones entre variables y tendencias temporales, teniendo en cuenta la fase del sistema y la carga existente.
 

@@ -9,6 +9,11 @@ presentaciones de **100, 250, 500 y 1000 ml**.
 
 Presentación documentada: **250 ml**, enriquecida con fitoplancton. Según la información del envase comunicada por el propietario, por 100 g contiene **8,1 % de proteína bruta**, **2,9 % de grasa bruta** y **0,5 % de ceniza**.
 
+El **20 de noviembre de 2026**, el propietario comunicó una lectura de
+**1,025 de densidad relativa** en el agua de los copépodos adquiridos para
+Veril. Es una referencia de los envases de esa compra. Para futuras
+incorporaciones, comparar la lectura del nuevo cultivo con la del acuario.
+
 ## Comportamiento y uso declarado
 
 Lunaqua lo describe como bentopelágico, con actividad tanto cerca del sustrato como en la columna de agua. Lo presenta como presa viva visible para peces y otros animales, y advierte que puede consumirse con rapidez si hay depredadores. Describe reproducción sexual y fases de nauplio y copepodito.

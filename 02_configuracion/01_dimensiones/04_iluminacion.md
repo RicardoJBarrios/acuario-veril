@@ -4,7 +4,7 @@
 
 ## Luminaria y soporte
 
-La [AI Prime 16HD Reef](../../01_verilpedia/04_hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md) está colocada desde el **17 de octubre de 2026**, centrada geométricamente sobre el display, y se mantiene apagada según comunica el propietario. Este estima una separación de unos **30 cm respecto al nivel actual del agua** y de aproximadamente **25 cm respecto al borde del acuario**; son distancias aproximadas y no se han precisado los puntos exactos de referencia. La colocación y los límites de esta información constan en el [registro de la actuación](../../04_operaciones/2026/10/2026-10-17.md#colocación-de-la-luminaria). La orientación y la fijación finales tampoco se han documentado.
+La [AI Prime 16HD Reef](../../01_verilpedia/04_hardware/ai-prime-16hd-reef/ai-prime-16hd-reef.md) está colocada desde el **17 de octubre de 2026**, centrada geométricamente sobre el display. Este estima una separación de unos **30 cm respecto al nivel actual del agua** y de aproximadamente **25 cm respecto al borde del acuario**; son distancias aproximadas y no se han precisado los puntos exactos de referencia. La colocación y los límites de esta información constan en el [registro de la actuación](../../04_operaciones/2026/10/2026-10-17.md#colocación-de-la-luminaria). La orientación y la fijación finales tampoco se han documentado.
 
 La posición de diseño adoptada era ligeramente desplazada hacia la derecha, para ofrecer la mejor cobertura posible del hardscape, sin tomar como referencia obligatoria el centro geométrico de los **594 mm** útiles del display. La colocación física comunicada está centrada geométricamente; la cobertura se comprobará mediante el mapa de PPFD antes de decidir si conviene ajustar la posición.
 
@@ -80,7 +80,31 @@ La configuración deberá conservar:
 - Relación observable entre la cobertura y las superficies que se decidan ocupar
 - Mapa de PPFD disponible para clasificar las zonas antes de colocar corales fotosintéticos
 
-La intensidad y el tiempo de encendido no se fijan en esta ficha. Su incorporación progresiva pertenece al [plan de maduración](../../03_pendientes/maduracion/01_plan.md).
+## Perfil inicial de maduración
+
+Inicio comunicado el **20 de noviembre de 2026**. El propietario eligió una
+ventana diaria de **12:00–17:00** (hora canaria), incluidas las rampas de
+**30 minutos**. La subida va de 12:00 a 12:30,
+los máximos de 12:30 a 16:30 y la bajada de 16:30 a 17:00.
+
+| Canal myAI | Mínimo | Máximo visible |
+| --- | ---: | ---: |
+| UV | 0 % | 15 % |
+| Violet | 0 % | 15 % |
+| Royal Blue | 0 % | 25 % |
+| Blue | 0 % | 25 % |
+| Green | 0 % | 0 % |
+| Deep Red | 0 % | 0 % |
+| Moonlight | 0 % | 0 % |
+| Cool White | 0 % | 8 % |
+
+La [captura del registro de inicio](../../04_operaciones/2026/11/2026-11-20.md#inicio-de-la-iluminación)
+muestra estos canales y rampas, con *Sunrise* a las **12:00 p. m.**
+(mediodía) y *Sunset* a las **5:00 p. m.** (17:00).
+
+Es el perfil de arranque del [plan de maduración](../../03_pendientes/maduracion/01_plan.md).
+Los porcentajes son valores de canal de myAI. El mapa de PPFD se medirá
+con la luminaria en el tramo estable.
 
 ## Relaciones con otras decisiones de Veril
 

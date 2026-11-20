@@ -9,7 +9,7 @@ La composición declarada y los límites del producto pertenecen a la [ficha de 
 ## Decisiones adoptadas
 
 - Preparar el agua nueva con agua RO/DI y [Aquaforest Reef Salt](../../01_verilpedia/05_productos/02_aquaforest-reef-salt/aquaforest-reef-salt.md)
-- Tomar como referencia un cambio nominal de **10 L** y preparar el agua nueva para `S_P = 35`; la base de cálculo y la masa inicial de sal se detallan en «Base nominal para cambios y sal»
+- Tomar como referencia un cambio nominal de **10 L** y preparar el agua nueva para mantener **1,025 de densidad relativa** en Veril; la base de cálculo y la masa inicial de sal se detallan en «Base nominal para cambios y sal»
 - Utilizar exclusivamente agua RO/DI sin sal para reponer la evaporación mediante el [ATO seleccionado](../../01_verilpedia/04_hardware/dd-h2ocean-compact-ato/dd-h2ocean-compact-ato.md)
 - Registrar el lote de sal, la preparación y las mediciones asociadas a cada cambio
 - No utilizar un cambio de agua como sustituto de identificar una fuente, un consumo anómalo, una precipitación o un problema de procesamiento
@@ -20,7 +20,7 @@ La composición declarada y los límites del producto pertenecen a la [ficha de 
 - Momento y parámetros de la medición posterior en el acuario
 - Límites que obligarán a aplazar, repetir o modificar una preparación
 - Diferencia máxima admisible de temperatura y salinidad entre el agua nueva y Veril
-- Criterio de preparación del agua nueva cuando la salinidad real de Veril difiera del objetivo `S_P = 35`
+- Criterio de preparación del agua nueva cuando la salinidad real de Veril difiera del objetivo de **1,025 de densidad relativa**
 - Criterio operativo de aceptación del agua RO/DI
 
 ## Base nominal para cambios y sal
@@ -33,20 +33,22 @@ Volumen del cambio (L) = 75 L × porcentaje / 100
 
 Si el cálculo se refiere solo al display, se utilizarán sus **60 L** nominales. La frecuencia o el motivo que desencadenará el cambio sigue pendiente y no se fija aquí.
 
-Aquaforest publica **390 g por 10 L** como cantidad inicial aproximada para **33 ppt** y pide medir la salinidad resultante ([instrucciones oficiales](https://aquaforest.eu/en/products/seawater/marine-salts/reef-salt/)). La caja del envase comprado, lote **4502148**, indica **415 g por 10 L de agua RO para 35 ppt**. Para preparar 10 L según esa referencia se pesarán 415 g como cantidad inicial y se comprobará la salinidad resultante; la lectura medida prevalece sobre la cantidad nominal.
-
-El cálculo de sal corresponde únicamente a los **10 L de agua nueva**, no a todo el sistema de 75 L. Los 415 g indicados en el envase son una cantidad inicial: se medirán la salinidad y la temperatura después de disolver, y se ajustará gradualmente hasta `S_P = 35`. La lectura medida prevalece sobre las referencias publicadas. Tras preparar una primera mezcla, la masa realmente necesaria para ese lote y ese método podrá sustituir la estimación en las preparaciones posteriores.
+La caja de Aquaforest Reef Salt del lote **4502148** indica **390 g por 10 L**
+en la fila de **1,025**. Utiliza esa cantidad como referencia inicial para el
+agua nueva y comprueba la lectura tras disolver y homogeneizar. Si el acuario
+se desvía del objetivo, decide la preparación del agua nueva en función de
+la lectura del sistema y del volumen del cambio.
 
 ## Compra y conservación de la sal
 
-La previsión de compra usa como base provisional **415 g por cada 10 L**. No fija una frecuencia de cambio: la frecuencia y el volumen ejecutados se registrarán por separado.
+La previsión de compra usa como base provisional **390 g por cada 10 L**. No fija una frecuencia de cambio: la frecuencia y el volumen ejecutados se registrarán por separado.
 
 | Escenario de planificación | Consumo calculado | Duración aproximada de 10 kg |
 | --- | ---: | ---: |
-| 10 L cada dos semanas | 10,8 kg/año | 11 meses |
-| 8 L cada semana | 17,3 kg/año | 7 meses |
+| 10 L cada dos semanas | 10,1 kg/año | 12 meses |
+| 8 L cada semana | 16,2 kg/año | 7,4 meses |
 
-El cálculo futuro de 8 L semanales es una comparación de compra, no una modificación de la pauta actualmente adoptada de 10 L. A 415 g por preparación, 10 kg permiten aproximadamente 24 cambios de 10 L o 30 cambios de 8 L.
+El cálculo futuro de 8 L semanales es una comparación de compra, no una modificación de la pauta actualmente adoptada de 10 L. A 390 g por 10 L, 10 kg permiten 25 cambios completos de 10 L o 32 de 8 L.
 
 Como referencia comercial puntual, el **5 de octubre de 2026** Urban Natura mostraba Aquaforest Reef Salt de 10 kg a **32,98 € y en stock**, el formato de 22 kg a **69,48 € y bajo pedido**, y la caja de 25 kg a **65,17 € y bajo pedido**. El precio por kilogramo de esas ofertas era aproximadamente 3,30 €, 3,16 € y 2,61 €, respectivamente. No se ha confirmado el coste ni la disponibilidad de envío a Tenerife; los precios pueden cambiar. La caja de 25 kg tenía el menor coste unitario anunciado, pero su disponibilidad pendiente y el mayor tiempo de almacenamiento reducen la utilidad de esa comparación. Para el inicio se considera más proporcionado el formato de **10 kg** si se mantiene disponible a un coste de envío aceptable. Cuando se confirme el ritmo semanal, se volverá a comparar el coste total entregado de 10, 22 y 25 kg; no se dará por adoptado un proveedor por esta consulta.
 
@@ -65,7 +67,7 @@ Por la diferencia de alcalinidad, no se hará una sustitución sin medir y compa
 Cuando las mediciones justifiquen probar esta estrategia:
 
 1. Establecer una línea de referencia con mediciones repetidas de alcalinidad, calcio y magnesio del acuario y de agua nueva preparada solo con Reef Salt, junto con el intervalo entre cambios y cualquier dosis aplicada
-2. Preparar por separado agua con cada sal hasta `S_P = 35` y medir sus parámetros; mezclar volúmenes medidos de ambas aguas para obtener la proporción de prueba, evitando fijar la mezcla seca como receta antes de comprobar la homogeneidad del lote
+2. Preparar por separado agua con cada sal hasta **1,025 de densidad relativa** y medir sus parámetros; mezclar volúmenes medidos de ambas aguas para obtener la proporción de prueba, evitando fijar la mezcla seca como receta antes de comprobar la homogeneidad del lote
 3. Registrar lote, proporción por volumen, mediciones del agua resultante y fecha del cambio; usar el agua preparada dentro del plazo indicado por el fabricante
 4. Aumentar la proporción de Reef Salt+ solo en etapas que permitan medir la respuesta del sistema antes de la siguiente modificación; no se fija ahora el tamaño ni la duración de esas etapas
 5. Comparar la tendencia de alcalinidad, calcio y magnesio y el consumo/dosificación con la línea de referencia; conservar la proporción, ajustarla o volver a Reef Salt según el resultado
@@ -84,7 +86,7 @@ La preparación seguirá la [ficha del producto](../../01_verilpedia/05_producto
 4. Registrar la masa de sal añadida
 5. Añadir la masa inicial definida en «Base nominal para cambios y sal» —o la referencia validada para ese lote— y mezclar con una bomba o movimiento suficiente
 6. Mantener la mezcla durante al menos **15 minutos**, tiempo de disolución publicado por Aquaforest
-7. Comprobar la claridad y medir la salinidad con un instrumento calibrado para agua marina; ajustar gradualmente con RO/DI o con salmuera preparada por separado hasta `S_P = 35`, homogeneizando y midiendo de nuevo tras cada ajuste
+7. Comprobar la claridad y medir la salinidad con un instrumento calibrado para agua marina; ajustar gradualmente con RO/DI o con salmuera preparada por separado hasta **1,025 de densidad relativa**, homogeneizando y midiendo de nuevo tras cada ajuste
 8. Igualar la temperatura con el acuario antes del uso y medir los parámetros adicionales definidos para esa fase o tipo de cambio
 9. Registrar las mediciones y cualquier ajuste realizado
 
