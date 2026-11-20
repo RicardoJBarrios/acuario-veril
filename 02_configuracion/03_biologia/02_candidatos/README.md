@@ -127,7 +127,7 @@ Las fichas de microorganismos y microfauna de Verilpedia se mantienen como conoc
 | Invertebrados | [Bittium](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/bittium.md) | Candidato |
 | Invertebrados | [Cerithium](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/cerithium.md) | Candidato |
 | Invertebrados | [Columbella adansoni](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/columbella-adansoni.md) | Candidato |
-| Invertebrados | [Microofiuras](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/amphipholis-squamata.md) | Candidato |
+| Invertebrados | [Microofiuras](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/amphipholis-squamata.md) | Candidato para incorporaciones adicionales; [Ofelia (`liv-0004`)](../04_unidades-incorporadas/liv-0004-ofelia.md) está presente |
 | Invertebrados | [Quitones canarios](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/quitones-canarios.md) | Candidato |
 | Invertebrados | [Stomatella](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/stomatella.md) | Candidato |
 | Invertebrados | [Tectus](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/tectus.md) | Candidato |
@@ -156,7 +156,7 @@ Las fichas de microorganismos y microfauna de Verilpedia se mantienen como conoc
 | Invertebrados | [Turbo](../../../01_verilpedia/02_biologia/05_invertebrados/02_caracoles-pastadores/turbo.md) | Condicional |
 | Invertebrados | [Ascidias coloniales](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/ascidias-coloniales.md) | No inicial |
 | Invertebrados | [Cangrejos porcelana libres (Petrolisthes)](../../../01_verilpedia/02_biologia/05_invertebrados/04_cangrejos-ermitanos/petrolisthes.md) | No inicial |
-| Invertebrados | [Esponjas](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/esponjas.md) | No inicial |
+| Invertebrados | [Esponjas](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/esponjas.md) | No inicial como incorporación deliberada; grupo presente en roca viva ([liv-0008](../04_unidades-incorporadas/liv-0008-esponjas.md)) |
 | Invertebrados | [Mespilia globulus](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/mespilia-globulus.md) | No inicial |
 | Invertebrados | [Plumeros](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/plumeros.md) | No inicial |
 | Invertebrados | [Strombus luhuanus](../../../01_verilpedia/02_biologia/05_invertebrados/03_caracoles-arena-restos/strombus-luhuanus.md) | No inicial |

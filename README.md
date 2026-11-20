@@ -31,7 +31,7 @@ La última [ronda de mediciones Salifert](04_operaciones/2026/11/2026-11-20.md#m
 | Skimmer | **Sice Shark Skimmer 300**. |
 | Bombas | **Jebao DC-650**. **Mantis Tourbon 60** |
 | Reposición | **D-D Compact ATO Gen 2**; Barril de 15 L con **RODI**. |
-| Fauna observada | **Microofiura**, primer habitante confirmado el [19/11/2026](04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante). También se observó un [caracol de unos 5 mm](04_operaciones/2026/11/2026-11-19.md#observación-de-un-caracol) pastando en el cristal delantero. |
+| Fauna y microfauna | [Ofelia (`liv-0004`), microofiura; Stroll (`liv-0005`), caracol; y esponjas de la roca viva (`liv-0008`)](02_configuracion/03_biologia/04_unidades-incorporadas/README.md). Los grupos de *Tisbe* sp. (`liv-0006`) y *Tigriopus* sp. (`liv-0007`) se inocularon el 20/11/2026. |
 | Luz | **AI Prime 16HD Reef**, con [perfil inicial de maduración](02_configuracion/01_dimensiones/04_iluminacion.md#perfil-inicial-de-maduración) activo desde el **20/11/2026**. Horario **12:00–17:00** (Canarias), rampas de **30 min** y predominio azul. |
 | Filtración | Roca **D-D Marco Coraline Rock**. Arena **AF Bio Sand**. Biobolas **Mantis Bio-Filter Sphere**. |
 | Roca viva | [Incorporada el 19/11/2026](04_operaciones/2026/11/2026-11-19.md#incorporación-de-roca-viva), con esponja. |

@@ -49,7 +49,7 @@ En Veril lo valoraría después de ver cómo madura la arena. Un ejemplar peque�
 
 **Ficha enciclopédica:** [Microofiuras](../../../01_verilpedia/02_biologia/05_invertebrados/05_equinodermos/amphipholis-squamata.md)
 
-- **Estado**: Presencia confirmada a nivel de grupo. Primer habitante confirmado de Veril, observado el [19 de noviembre de 2026](../../../04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante).
+- **Estado**: Hay un ejemplar presente, registrado como [Ofelia (`liv-0004`)](../04_unidades-incorporadas/liv-0004-ofelia.md). Esta candidatura se refiere a posibles incorporaciones adicionales.
 - **Identificación**: Microofiura (Ophiuroidea), especie sin determinar. *Ophiactis savignyi* es la principal candidata por los seis brazos bandeados y el contexto de llegada con la roca viva.
 
 <a id="invertebrados--caracoles-pastadores--quitones-canarios"></a>
@@ -353,7 +353,7 @@ Puede valorarse en una fase madura como alternativa a plumeros o filtradores má
 
 **Ficha enciclopédica:** [Esponjas](../../../01_verilpedia/02_biologia/05_invertebrados/06_filtradores/esponjas.md)
 
-- **Estado**: No inicial
+- **Estado**: No inicial como incorporación deliberada. El grupo de esponjas que llegó en roca viva está registrado como [unidad `liv-0008`](../04_unidades-incorporadas/liv-0008-esponjas.md).
 - **Motivo**: Requieren madurez, alimento suspendido adecuado y manipulación sin exposición al aire
 
 <a id="invertebrados--equinodermos--mespilia-globulus"></a>
