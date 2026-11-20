@@ -11,3 +11,11 @@
 | Registro de origen | [Operación del 19 de noviembre](../../../04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante) |
 
 La identificación a nivel de especie permanece abierta en el registro de la observación.
+
+## Imagen oficial
+
+![Render macro de Ofelia en el saliente junto a la roca nueva](../../../05_multimedia/2026-11-19-ofelia-render.png)
+
+Reconstrucción fotorrealista basada en dos fotografías del 19 de noviembre
+y en la observación del propietario. Se distingue el disco central y varios
+brazos bandeados. La postura y la textura fina son aproximadas.

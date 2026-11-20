@@ -18,3 +18,13 @@ está en la [operación de montaje](../04_operaciones/2026/09/2026-09-05.md#mont
 Copia recortada de la fotografía original conservada en el repositorio privado;
 se mantuvo la proporción y el encuadre frontal de la toma. Es una referencia
 visual; no acredita por sí sola configuración, mediciones ni estado operativo.
+
+- [Reconstrucción fotorrealista de Stroll](2026-11-20-stroll-render.png)
+
+Render generado a partir de las fotografías del 20 de noviembre. Sus detalles
+reconstruidos son ilustrativos.
+
+- [Reconstrucción fotorrealista de Ofelia](2026-11-19-ofelia-render.png)
+
+Render basado en dos fotografías del 19 de noviembre. Sus detalles
+reconstruidos son ilustrativos.
