@@ -20,7 +20,7 @@ Las fichas individuales deben incluir una tabla de parámetros medibles según l
 | Magnitud | Referencia cuantitativa | Alcance |
 | --- | --- | --- |
 | Temperatura | Veril: preferida **25–26 °C**, objetivo normal **24,5–26,5 °C**; **24–24,5 °C** fresca; **23–24 °C** excursión fría, investigar si persiste; **<23 °C** fuera del objetivo; **<22 °C** revisión prioritaria. Banda cálida vigente: **26,5–27,5 °C** | Criterio local del sistema, no tolerancia declarada de cada especie; los límites publicados de cada especie pueden ser más restrictivos |
-| Salinidad | Veril: objetivo **`S_P = 35`** | Consigna del sistema, no intervalo de tolerancia de cada organismo |
+| Salinidad | Veril: objetivo **1,025 de densidad relativa** | Consigna del sistema, no intervalo de tolerancia de cada organismo |
 | pH | Referencia general de acuario de arrecife **8,0–8,4** | Orientación general; registrar escala y método si se conocen |
 | PAR de corales blandos | **50–150 µmol fotones m⁻² s⁻¹** como intervalo inicial de grupo | Referencia de cuidado acuarístico; especies y morfos pueden diferir |
 | PAR de LPS | **50–150 µmol fotones m⁻² s⁻¹** como intervalo inicial de grupo | No sustituye un rango de especie. Hay LPS con necesidades distintas |
