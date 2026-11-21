@@ -8,6 +8,8 @@ recogen las actuaciones previstas para esta fase.
 
 ## Documentos
 
+- [Iluminación por etapas](05_plan-iluminacion.md): mapa de PPFD, dosis diaria y criterios para preparar los primeros corales.
+
 - [Plan de maduración](01_plan.md): entrada en la fase, seguimiento y condiciones para avanzar.
 - [Equipo de limpieza](02_plan-equipo-limpieza.md): secuencia por recurso, capacidad de consumo, recepción y alimentación posterior.
 - [Microfauna](03_plan-microfauna.md): primera inoculación proyectada, alternativas y observación.

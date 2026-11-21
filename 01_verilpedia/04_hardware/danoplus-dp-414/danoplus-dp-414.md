@@ -79,6 +79,20 @@ El fabricante publica una repetibilidad de ±1 µmol fotones m⁻² s⁻¹, pero
 
 No se utilizará un factor genérico como 1,25×, 1,35× o 1,7× sin justificarlo con una comparación de la unidad concreta. Para Veril, la prioridad será que el mapa sea repetible; si se obtiene una referencia externa, el factor se registrará con sus condiciones y no se extrapolará automáticamente a otra unidad.
 
+### Estimación orientativa del mapa de Veril
+
+Para las dos series del 21 de noviembre de 2026 se calculó una columna
+orientativa mediante **PPFD estimado = lectura del DP-414 × 1,25**. El
+multiplicador es el punto medio del intervalo aproximado de **1,2 a 1,3**
+comunicado por usuarios que compararon sus DanoPlus con un Apogee.
+[Comparación de usuarios en Reef2Reef](https://www.reef2reef.com/threads/vbr-aqua-par-meter-for-aquarium-r-g-b-par-seperately/page-5).
+
+Por ejemplo, una lectura de 70 da **87,5 µmol fotones·m⁻²·s⁻¹**. El punto medio
+es una referencia de cálculo. La calibración de la unidad de Veril requeriría
+una comparación directa con un instrumento de referencia.
+
+El [plan de iluminación por etapas](../../../03_pendientes/maduracion/05_plan-iluminacion.md) reúne las lecturas directas y sus estimaciones, además de la comparación entre sesiones.
+
 ### Respuesta espectral limitada
 
 El intervalo declarado es 400–700 nm con una tolerancia de aproximadamente ±10 nm. Esto permite medir PPFD dentro del intervalo PAR convencional, pero no convierte el equipo en un espectrómetro ni describe la distribución espectral de la AI Prime 16HD Reef.

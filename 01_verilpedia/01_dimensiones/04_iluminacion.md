@@ -408,6 +408,8 @@ Durante las transiciones deben registrarse los cambios de:
 
 Una modificación de la iluminación debe considerarse junto con el estado de aclimatación y no como un simple cambio de programación.
 
+Como ejemplo aplicado, el [plan de iluminación por etapas](../../03_pendientes/maduracion/05_plan-iluminacion.md) de Veril compara mapas de PPFD y estima la dosis diaria de distintos horarios.
+
 ## Cómo evaluar la dimensión en funcionamiento
 
 ### Medición física

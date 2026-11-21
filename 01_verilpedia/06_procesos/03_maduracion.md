@@ -31,6 +31,8 @@ Las incorporaciones durante la maduración deben tener una finalidad definida y 
 
 Una ventana de observación sin nuevas incorporaciones permite relacionar mejor la respuesta del sistema con el cambio realizado. La secuencia concreta depende de la configuración y no constituye una receta universal.
 
+El [plan de iluminación por etapas](../../03_pendientes/maduracion/05_plan-iluminacion.md) de Veril muestra cómo usar el mapa de luz para preparar las primeras incorporaciones de corales.
+
 ## Límites de interpretación
 
 La maduración no garantiza:

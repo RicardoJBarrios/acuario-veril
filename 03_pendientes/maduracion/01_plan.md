@@ -26,6 +26,8 @@ cierre del ciclado.
 
 La [luminaria se colocó apagada el 17 de octubre](../../04_operaciones/2026/10/2026-10-17.md#colocación-de-la-luminaria).
 Su uso y programación pertenecen a [iluminación de Veril](../../02_configuracion/01_dimensiones/04_iluminacion.md).
+
+El [plan de iluminación por etapas](05_plan-iluminacion.md) reúne las mediciones y los criterios para ajustar la intensidad y el fotoperiodo durante esta fase.
 Microfauna, organismos sésiles y fauna móvil son módulos opcionales; esta tabla
 no fija una lista ni un orden obligatorio de habitantes.
 

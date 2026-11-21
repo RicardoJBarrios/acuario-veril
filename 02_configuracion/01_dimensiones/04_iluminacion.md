@@ -50,9 +50,9 @@ La distribución final dependerá de la luminaria, la altura, el agua, la orient
 
 ## Medición y clasificación de zonas por PPFD
 
-Se realizará un mapa de PPFD con el [DanoPlus DP-414](../../01_verilpedia/04_hardware/danoplus-dp-414/danoplus-dp-414.md) una vez instalada la luminaria y definida la geometría operativa del aquascape. El sensor se utilizará sumergido y unido a su varilla, manteniendo una orientación y un método de colocación constantes. La medición servirá para clasificar las diferentes zonas de luz disponibles en el display y no se sustituirá por estimaciones basadas únicamente en la posición o la altura de la luminaria.
+El mapa de PPFD de Veril se mide con el [DanoPlus DP-414](../../01_verilpedia/04_hardware/danoplus-dp-414/danoplus-dp-414.md) sobre la geometría operativa del aquascape. El sensor se utiliza sumergido y unido a su varilla, manteniendo una orientación y un método de colocación constantes. La medición sirve para clasificar las diferentes zonas de luz disponibles en el display y no se sustituirá por estimaciones basadas únicamente en la posición o la altura de la luminaria.
 
-El DP-414 se utilizará inicialmente como referencia de zonificación y comparación interna. No se aplicará un factor de corrección genérico: si se consigue comparar la unidad con un medidor subacuático de referencia, el factor obtenido se documentará en la ficha del sensor y en el registro del mapa.
+El DP-414 se utilizará inicialmente como referencia de zonificación y comparación interna. El mapa conserva las lecturas directas y puede mostrar estimaciones orientativas por separado: si se consigue comparar la unidad con un medidor subacuático de referencia, el factor obtenido se documentará en la ficha del sensor y en el registro del mapa.
 
 El registro deberá conservar, como mínimo:
 
@@ -79,6 +79,15 @@ La configuración deberá conservar:
 - Compatibilidad entre el *shade*, la ventilación y la distribución de luz
 - Relación observable entre la cobertura y las superficies que se decidan ocupar
 - Mapa de PPFD disponible para clasificar las zonas antes de colocar corales fotosintéticos
+
+### Mapa medido y revisión por etapas
+
+El [registro del 21 de noviembre](../../04_operaciones/2026/11/2026-11-21.md)
+recoge dos perfiles medidos en diez puntos. El perfil alto de prueba dio
+**40–100 µmol fotones·m⁻²·s⁻¹** en lectura directa y **50–125** como
+estimación orientativa ×1,25. El [plan de iluminación por etapas](../../03_pendientes/maduracion/05_plan-iluminacion.md)
+reúne la comparación de los cuatro perfiles, las mediciones repetidas y la
+propuesta de ajustes para los primeros corales.
 
 ## Perfil inicial de maduración
 
