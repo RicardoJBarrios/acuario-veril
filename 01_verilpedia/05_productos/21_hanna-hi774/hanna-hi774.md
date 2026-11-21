@@ -7,12 +7,12 @@
 | Fabricante / modelo | Hanna Instruments HI774 Checker HC |
 | Magnitud | Fosfato marino, PO₄ |
 | Método | Fotometría colorimétrica con reactivo en polvo HI774-0 |
-| Estado en Veril | Pendiente; el plan lo señala como primera inversión Hanna prioritaria para PO₄ |
+| Estado en Veril | Alternativa al [HI736, referencia prioritaria para PO₄ bajo](../32_hanna-hi736/hanna-hi736.md) |
 | Reactivos | El equipo nuevo incluye iniciador para 10 pruebas; recambio HI774-25 para 25 pruebas |
 
 ## Rango, resolución y exactitud declarada
 
-Hanna declara intervalo **0,00–0,90 ppm (mg/L) PO₄**, resolución **0,01 ppm** y exactitud a 25 °C de **±0,02 ppm ±5 % de la lectura**. La cifra es la especificación del fabricante bajo sus condiciones, no la incertidumbre garantizada en cada muestra de Veril. El método adapta el método de ácido ascórbico de *Standard Methods*. No confundir este modelo HI774 que informa PO₄ con HI736, que mide fósforo en ppb y requiere conversión.
+Hanna declara intervalo **0,00–0,90 ppm (mg/L) PO₄**, resolución **0,01 ppm** y exactitud a 25 °C de **±0,02 ppm ±5 % de la lectura**. La cifra es la especificación del fabricante bajo sus condiciones, no la incertidumbre garantizada en cada muestra de Veril. El método adapta el método de ácido ascórbico de *Standard Methods*. No confundir este modelo HI774 que informa PO₄ con el [HI736](../32_hanna-hi736/hanna-hi736.md), que mide fósforo en ppb y requiere conversión.
 
 ## Procedimiento resumido del fabricante
 
@@ -25,7 +25,11 @@ El manual advierte interferencias por iones antimonioso, áurico, bismuto, cloro
 
 ## Encaje previsto en Veril
 
-El plan propone usarlo durante la maduración y antes de decisiones sobre alimentación o adsorbentes si se necesita mejor discriminación en PO₄ bajo que una carta visual. Es un medidor puntual: no registra de forma continua ni elimina la preparación de muestra, la necesidad de reactivos o el juicio sobre el contexto. No implica que esté adquirido. Comparar con [Salifert Phosphate](../16_salifert-phosphate/salifert-phosphate.md) y consultar [fosfato](../../03_parametros/fosfato.md), así como el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
+La referencia prioritaria para el seguimiento de fosfato bajo en Veril
+es el [HI736](../32_hanna-hi736/hanna-hi736.md). El HI774 queda como
+alternativa por su lectura directa en ppm de PO₄ y su rango de hasta
+0,90 ppm. Es un medidor puntual que requiere preparación de muestra y
+reactivos. Véase el [plan de medición](../../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Buenas prácticas, límites y debilidades
 

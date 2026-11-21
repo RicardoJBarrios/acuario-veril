@@ -45,6 +45,7 @@ Los manuales y fichas técnicas descargados se conservan dentro del directorio d
 - [29 — Lunaqua Copépodos vivos Tisbe sp.](29_lunaqua-copepodos-tisbe/lunaqua-copepodos-tisbe.md)
 - [30 — Lunaqua Copépodos vivos Tigriopus sp.](30_lunaqua-copepodos-tigriopus/lunaqua-copepodos-tigriopus.md)
 - [31 — Fitoplancton cultivado por Elite Reef Kanarias](31_fitoplancton-elite-reef-kanarias/fitoplancton-elite-reef-kanarias.md)
+- [32 — Hanna HI736 Marine Phosphorus ULR Checker](32_hanna-hi736/hanna-hi736.md)
 
 ## Fuentes metodológicas locales
 

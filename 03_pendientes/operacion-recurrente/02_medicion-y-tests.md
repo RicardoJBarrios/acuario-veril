@@ -17,7 +17,7 @@ método de aceptación ni como compra pendiente.
 | Nitrógeno amoniacal (NH₃/NH₄) | Salifert Ammonia NH₃ Profi Test; caducidad registrada **10/2027**. | Nada para la línea base actual. | Durante el ciclado y ante incidencias de biofiltración. |
 | Nitrito (NO₂) | Salifert NO₂ Profi Test; caducidad registrada **06/2029**. | Nada para la línea base actual. | Durante el ciclado; después, para diagnóstico puntual. |
 | Nitrato (NO₃) | Salifert Nitrate Profi Test; caducidad indicada **09/2028**. | — | Al cierre del ciclado y durante la maduración, cuando aporte contexto útil. |
-| Fosfato (PO₄) | — | Hanna HI774, aprox. **71 €** | Durante la maduración y antes de decidir cambios de alimentación o adsorbentes. |
+| Fosfato (PO₄) | — | [Hanna HI736](../../01_verilpedia/05_productos/32_hanna-hi736/hanna-hi736.md) como referencia prioritaria | Durante la maduración y antes de decidir cambios de alimentación o adsorbentes. |
 | Alcalinidad (KH) | Salifert KH/Alk Profi Test; caducidad **02/2031**. | Hanna HI772, aprox. **71 €** | **Antes de iniciar el ciclado**; después, según fase y consumo. |
 | pH | Salifert pH Profi Test; caducidad indicada **12/2028**. | — | **Antes de iniciar el ciclado** y para investigar oscilaciones. |
 | Calcio (Ca) | — | Salifert Calcium Profi Test, aprox. **15 €**. | Antes de introducir carga calcificadora o iniciar dosificación. |
@@ -46,7 +46,7 @@ variar y no equivalen a una compra ni a disponibilidad confirmada con ICA.
 La comparación de costes anterior a las compras del 19/10/2026 estimaba unos
 **128 €** para KH, pH, NO₃, HI774, Ca y Mg. KH, pH y NO₃ ya figuran como
 comprados; las tres opciones restantes (HI774, Ca y Mg) sumaban unos **101 €**
-con los precios históricos orientativos. La comparación anterior con Reef
+con los precios históricos orientativos. El presupuesto histórico usaba el HI774 como referencia y no incluye un precio del HI736. La comparación anterior con Reef
 (57,40–67,70 € frente a cuatro análisis) ya no representa las compras restantes,
 porque el KH está adquirido. Estas cifras no equiparan número de pruebas,
 resolución, consumibles posteriores ni desempeño analítico.
@@ -113,8 +113,9 @@ de los ejemplares.
 | Alternativa | Tipo | Cuándo | Estado / caducidad | Precio aprox. | Mejora real frente a la opción anterior |
 | --- | --- | --- | --- | --- | --- |
 | [Salifert Phosphate Profi Test](../../01_verilpedia/05_productos/16_salifert-phosphate/salifert-phosphate.md) | Gotas colorimétricas | Orientación inicial y comprobaciones poco frecuentes | Pendiente | ~13 € | Referencia económica, pero la lectura visual es limitada en concentraciones bajas. |
-| [Hanna HI774](../../01_verilpedia/05_productos/21_hanna-hi774/hanna-hi774.md) | Fotómetro marino ULR, 0,00–0,90 ppm | Maduración y control de nutrientes antes de modificar alimentación o adsorbentes | Pendiente | ~71 € | **La mejora Hanna prioritaria:** resuelve con más repetibilidad el rango bajo de PO4 donde la carta de color aporta poca discriminación. |
-| Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade los demás análisis; para PO4 no ofrece una razón clara para sustituir al HI774 aislado. |
+| [Hanna HI736](../../01_verilpedia/05_productos/32_hanna-hi736/hanna-hi736.md) | Fotómetro marino ULR, 0–200 ppb P (≈0–0,613 ppm PO₄) | Seguimiento de fosfato bajo durante la maduración | Prioritario | — | Lectura en ppb de P. Convertir a ppm de PO₄ multiplicando por 3,066 y dividiendo por 1000. |
+| [Hanna HI774](../../01_verilpedia/05_productos/21_hanna-hi774/hanna-hi774.md) | Fotómetro marino ULR, 0,00–0,90 ppm | Maduración y control de nutrientes antes de modificar alimentación o adsorbentes | Pendiente | ~71 € | Alternativa con lectura directa en ppm de PO₄ y rango más amplio. |
+| Hanna HI97115 Marine Master | Fotómetro multiparámetro con reactivos | Programa amplio de análisis | Pendiente | ~485 € sin IVA | Añade los demás análisis; para PO4 no ofrece una razón clara para sustituir a un Checker dedicado. |
 
 ### [Alcalinidad / KH](../../01_verilpedia/03_parametros/alcalinidad.md)
 
@@ -453,7 +454,7 @@ invalida una muestra, pero limita su comparación directa.
 1. **KH/Alk Salifert:** disponible; debe medirse en la línea base antes del ciclado.
 2. **pH Salifert:** compra comunicada el 19/10/2026; el plan contempla una lectura de línea base antes del ciclado.
 3. **NO3 Salifert:** siguiente compra útil al cerrar el ciclado y durante la maduración.
-4. **Hanna HI774 PO4:** primera inversión Hanna con retorno claro para el control de nutrientes.
+4. **Hanna HI736:** referencia prioritaria para fosfato bajo. El HI774 queda como alternativa de lectura directa.
 5. **Ca y Mg Salifert:** antes de introducir carga calcificadora o dosificar.
 6. Los demás Hanna solo se reconsiderarán si aumenta la frecuencia de medida o aparece una necesidad de diagnóstico concreta.
 

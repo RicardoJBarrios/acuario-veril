@@ -74,6 +74,14 @@ Concentraciones elevadas de fosfato pueden modificar procesos de calcificación 
 
 Registrar si el instrumento informa fósforo como P o fosfato como PO₄, además de la unidad, el rango, el límite de detección y el tiempo de reacción.
 
+Por ejemplo, el [Hanna HI736](../05_productos/32_hanna-hi736/hanna-hi736.md)
+expresa el resultado del ensayo como **ppb de P**, mientras que el
+[Hanna HI774](../05_productos/21_hanna-hi774/hanna-hi774.md) lo expresa
+directamente como **ppm de PO₄**. Para comparar las lecturas en la misma
+unidad, se usa **ppm de PO₄ = ppb de P × 3,066 ÷ 1000**. Así, **10 ppb de P**
+equivalen a **0,031 ppm de PO₄** aproximadamente. La conversión cambia
+la unidad y la forma de expresar el resultado del ensayo.
+
 ## Limitaciones de la medición
 
 Los métodos colorimétricos dependen del reactivo, el tiempo de reacción, la limpieza del material y la resolución del instrumento. Un resultado de ortofosfato reactivo no representa necesariamente el fósforo total ni toda la fracción disponible para los organismos.
