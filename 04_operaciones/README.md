@@ -67,3 +67,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [19 de noviembre: compra de productos, incorporación de roca viva y observación de una microofiura y un caracol](2026/11/2026-11-19.md)
 - [20 de noviembre: inicio de la iluminación, cambio de 12 L de agua y mediciones posteriores](2026/11/2026-11-20.md)
 - [21 de noviembre: medición de PAR en diez zonas con el DanoPlus, relleno del barril del ATO y adición de fitoplancton](2026/11/2026-11-21.md)
+- [22 de noviembre: organismos de 1–2 mm en el cristal y actividad pelágica](2026/11/2026-11-22.md)

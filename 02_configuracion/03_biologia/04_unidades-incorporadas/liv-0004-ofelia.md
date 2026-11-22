@@ -5,12 +5,14 @@
 | Identificador | `liv-0004` |
 | Tipo de unidad | Ejemplar |
 | Nombre | Ofelia |
-| Identificación | Microofiura (Ophiuroidea); especie sin determinar |
+| Identificación | Microofiura (Ophiuroidea); *Ophiactis savignyi* muy probable según el propietario |
 | Ubicación | Veril; llegó asociada a una roca viva |
 | Estado registrado | Presencia observada el 19 de noviembre de 2026 |
 | Registro de origen | [Operación del 19 de noviembre](../../../04_operaciones/2026/11/2026-11-19.md#primera-observación-confirmada-de-un-habitante) |
 
-La identificación a nivel de especie permanece abierta en el registro de la observación.
+El 22 de noviembre de 2026, el propietario indicó que, con casi toda
+seguridad, Ofelia es *Ophiactis savignyi*. La identificación se conserva
+como muy probable.
 
 ## Imagen oficial
 
