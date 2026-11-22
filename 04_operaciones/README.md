@@ -66,4 +66,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [18 de noviembre: mediciones de agua, adición de bicarbonato sódico y cierre del ciclado](2026/11/2026-11-18.md)
 - [19 de noviembre: compra de productos, incorporación de roca viva y observación de una microofiura y un caracol](2026/11/2026-11-19.md)
 - [20 de noviembre: inicio de la iluminación, cambio de 12 L de agua y mediciones posteriores](2026/11/2026-11-20.md)
-- [21 de noviembre: medición de PAR en diez zonas con el DanoPlus y relleno del barril del ATO](2026/11/2026-11-21.md)
+- [21 de noviembre: medición de PAR en diez zonas con el DanoPlus, relleno del barril del ATO y adición de fitoplancton](2026/11/2026-11-21.md)

@@ -85,9 +85,13 @@ La configuración deberá conservar:
 El [registro del 21 de noviembre](../../04_operaciones/2026/11/2026-11-21.md)
 recoge dos perfiles medidos en diez puntos. El perfil alto de prueba dio
 **40–100 µmol fotones·m⁻²·s⁻¹** en lectura directa y **50–125** como
-estimación orientativa ×1,25. El [plan de iluminación por etapas](../../03_pendientes/maduracion/05_plan-iluminacion.md)
+PPFD de referencia para planificar (×1,25 y redondeo a múltiplos de 5). El [plan de iluminación por etapas](../../03_pendientes/maduracion/05_plan-iluminacion.md)
 reúne la comparación de los cuatro perfiles, las mediciones repetidas y la
-propuesta de ajustes para los primeros corales.
+propuesta de ajustes para los primeros corales. El
+[modelo de PPFD por zona](../../03_pendientes/maduracion/05_plan-iluminacion.md#modelo-de-ppfd-por-zona)
+permite estimar intensidades intermedias y calcular dosis diarias teóricas. El
+[perfil B es el objetivo final propuesto](../../03_pendientes/maduracion/05_plan-iluminacion.md#perfil-b-como-objetivo-final-propuesto)
+y su mapa se usa para planificar ubicaciones.
 
 ## Perfil inicial de maduración
 
