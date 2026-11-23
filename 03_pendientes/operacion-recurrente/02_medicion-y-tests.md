@@ -1,5 +1,7 @@
 # Plan transversal de medición y selección de tests
 
+Para interpretar las lecturas, consulta las [referencias químicas para la maduración de Veril](../../02_configuracion/01_dimensiones/05_quimica.md#referencias-químicas-para-la-maduración), con los valores y el motivo de cada uno.
+
 ## Resumen de disponibilidad y compras pendientes
 
 Esta tabla resume los métodos contemplados en el plan. «Disponible» refleja el

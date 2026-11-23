@@ -68,3 +68,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [20 de noviembre: inicio de la iluminación, cambio de 12 L de agua y mediciones posteriores](2026/11/2026-11-20.md)
 - [21 de noviembre: medición de PAR en diez zonas con el DanoPlus, relleno del barril del ATO y adición de fitoplancton](2026/11/2026-11-21.md)
 - [22 de noviembre: organismos de 1–2 mm en el cristal, actividad pelágica y adición de fitoplancton](2026/11/2026-11-22.md)
+- [23 de noviembre: adición de 70 ml de fitoplancton y temperatura del agua](2026/11/2026-11-23.md)

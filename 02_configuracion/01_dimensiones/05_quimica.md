@@ -14,7 +14,34 @@ Para los cálculos de cambios de agua de Veril se toma como base nominal **75 L 
 
 Para la salinidad se dispone de un [refractómetro D-D The Aquarium Solution AQPR001](../../01_verilpedia/05_productos/06_dd-aquarium-solution-aqpr001/dd-aquarium-solution-aqpr001.md). Su calibración y el método de medición se registrarán antes de aceptar el agua de mar.
 
-No se fija en esta ficha una tabla independiente de valores objetivo. Los rangos, métodos, unidades, frecuencia y límites de interpretación pertenecen a las fichas de parámetros y a los planes operativos que los utilicen.
+## Referencias químicas para la maduración
+
+Estas referencias sirven para comparar las mediciones de Veril durante la
+maduración y preparar las primeras incorporaciones. La ficha distingue
+los objetivos adoptados, el criterio práctico del escenario y las bandas
+orientativas acordadas como herramienta de comparación. La decisión de
+actuar se apoya en la calidad de la medida, su tendencia y la carga presente.
+
+| Parámetro | Valor o rango | Estado | Por qué se usa en Veril |
+| --- | --- | --- | --- |
+| [Salinidad](../../01_verilpedia/03_parametros/salinidad.md) | **1,025 de densidad relativa** | Objetivo adoptado | Coincide con la referencia de los proveedores del propietario y da un punto común para comparar agua preparada y agua del acuario. Mantener la misma escala y un método calibrado. |
+| [Temperatura](../../01_verilpedia/03_parametros/temperatura.md) | Preferida **25–26 °C**. Banda normal **24,5–26,5 °C** | Régimen adoptado | Conserva margen para las oscilaciones habituales y separa la zona preferida de los umbrales de actuación del control térmico. |
+| [Alcalinidad (KH)](../../01_verilpedia/03_parametros/alcalinidad.md) | Nominal **≈7 dKH**. Comparación **7–8 dKH** | Nominal del escenario y banda orientativa | El escenario ya toma 7 dKH como referencia. La banda se sitúa en el extremo bajo de los rangos habituales de arrecife y permite seguir el tampón y el consumo sin perseguir una alcalinidad alta. |
+| [pH](../../01_verilpedia/03_parametros/ph.md) | **7,8–8,4** | Banda orientativa | Da contexto al equilibrio entre alcalinidad y CO₂. Es suficientemente amplia para interpretar la oscilación diaria. Para comparar tendencias, medir a una hora similar y contrastar con KH. |
+| [Amoníaco / TAN](../../01_verilpedia/03_parametros/amonio.md) y [nitrito](../../01_verilpedia/03_parametros/nitrito.md) | **No detectables** con los tests habituales | Referencia de seguimiento tras el ciclado | Tras incorporar roca o aumentar la carga, su aparición puede indicar que la producción de compuestos nitrogenados supera temporalmente su procesamiento. Interpretar según el método y su sensibilidad. El TAN del Salifert de amonio y el NH₃ libre son magnitudes distintas. |
+| [Nitrato (NO₃)](../../01_verilpedia/03_parametros/nitrato.md) | **5–25 mg/L** | Banda orientativa local | El extremo bajo deja margen para seguir un nutriente detectable. El alto permite contextualizar lecturas de maduración como los 25 mg/L del 20 de noviembre. Leer la tendencia junto al fosfato y la carga antes de plantear cambios. |
+| [Fosfato (PO₄)](../../01_verilpedia/03_parametros/fosfato.md) | **0,03–0,10 mg/L** | Banda orientativa local | Ofrece una ventana de comparación para fosfato bajo y detectable, coherente con el criterio de evitar que ambos nutrientes se mantengan en cero. El [HI736](../../01_verilpedia/05_productos/32_hanna-hi736/hanna-hi736.md) informa ppb de P. Convertir a ppm de PO₄ antes de comparar y confirmar los valores cercanos al extremo bajo con atención a la exactitud del test. |
+| [Calcio (Ca)](../../01_verilpedia/03_parametros/calcio.md) | **380–450 mg/L**. Nominal **≈420 mg/L** | Banda y nominal orientativos | Es un intervalo habitual de arrecife. El nominal queda cerca del centro y sirve para comparar el agua y seguir la demanda de los calcificadores junto con KH. |
+| [Magnesio (Mg)](../../01_verilpedia/03_parametros/magnesio.md) | **1.250–1.400 mg/L**. Nominal **≈1.300 mg/L** | Banda y nominal orientativos | La referencia próxima a 1.300 permite seguir el equilibrio con Ca y KH, porque el magnesio influye en la precipitación de carbonato cálcico. Comparar también la salinidad antes de interpretar una desviación. |
+
+Los nominales de Ca y Mg sirven como referencias de lectura. El criterio
+del [escenario unificado](../03_biologia/03_escenarios/01_escenario-unificado-veril.md#parámetros-y-criterios-de-diseño)
+es plantear dosificación de Ca, Mg y K cuando haya consumo medido. Las
+bandas de nutrientes son propuestas locales de comparación, sin umbrales
+automáticos de corrección. Como referencia general se emplean las
+[recomendaciones de química de arrecife de Randy Holmes-Farley](https://www.reef2reef.com/ams/optimal-parameters-for-a-coral-reef-aquarium-by-randy-holmes-farley.79/).
+Los métodos, la frecuencia y la interpretación de los tests se detallan
+en el [plan de mediciones](../../03_pendientes/operacion-recurrente/02_medicion-y-tests.md).
 
 ## Métodos disponibles
 
