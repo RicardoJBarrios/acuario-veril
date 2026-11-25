@@ -70,3 +70,4 @@ Este directorio es el diario de actuaciones y observaciones de Veril. Cada día 
 - [22 de noviembre: organismos de 1–2 mm en el cristal, actividad pelágica y adición de fitoplancton](2026/11/2026-11-22.md)
 - [23 de noviembre: adición de 70 ml de fitoplancton y temperatura del agua](2026/11/2026-11-23.md)
 - [24 de noviembre: adición de 70 ml de fitoplancton](2026/11/2026-11-24.md)
+- [25 de noviembre: adición de 70 ml de fitoplancton y temperatura del agua](2026/11/2026-11-25.md)
